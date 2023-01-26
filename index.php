@@ -57,7 +57,7 @@
           <ul>
               <li class="dropdown"><a href="#"><span>Tentang Kami</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
                 <ul>
-                  <li><a href="#">profil</a></li>
+                  <li><a href="#">Profil</a></li>
                   <li><a href="#">Visi dan Misi</a></li>
                   <li><a href="#">Struktur Organisasi</a></li>
                   <li><a href="#">Data Guru</a></li>
@@ -69,7 +69,7 @@
               <li><a href="#">SAMSUNG(TECH INSTITUTE)</a></li>
               <li><a href="#">ASKEP(ASISTEN KEPERAWATAN)</a></li>
               <li><a href="#">TBO(TEKNIK BODI OTOTMOTIF)</a></li>
-              <li><a href="#">TABUS(TATA BUSANSA)</a></li>
+              <li><a href="#">TABUS(TATA BUSANA)</a></li>
             </ul>
             <li class="dropdown"><a href="#"><span>Program</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
             <ul>
