@@ -57,25 +57,24 @@
           <ul>
               <li class="dropdown"><a href="#"><span>Tentang Kami</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
                 <ul>
-                  <li><a href="#">Deep Drop Down 1</a></li>
-                  <li><a href="#">Deep Drop Down 2</a></li>
-                  <li><a href="#">Deep Drop Down 3</a></li>
-                  <li><a href="#">Deep Drop Down 4</a></li>
-                  <li><a href="#">Deep Drop Down 5</a></li>
+                  <li><a href="#">profil</a></li>
+                  <li><a href="#">Visi dan Misi</a></li>
+                  <li><a href="#">Struktur Organisasi</a></li>
+                  <li><a href="#">Data Guru</a></li>
+                  <li><a href="#">Sarana</a></li>
                 </ul>
           <li class="dropdown"><a href="#"><span>Jurusan</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
             <ul>
-              <li><a href="#">Deep Drop Down 1</a></li>
-              <li><a href="#">Drop Down 2</a></li>
-              <li><a href="#">Drop Down 3</a></li>
-              <li><a href="#">Drop Down 4</a></li>
-              <li><a href="#">Deep Drop Down 5</a></li>
+              <li><a href="#">RPL(REKAYASA PERANGKAT LUNAK))</a></li>
+              <li><a href="#">SAMSUNG(TECH INSTITUTE)</a></li>
+              <li><a href="#">ASKEP(ASISTEN KEPERAWATAN)</a></li>
+              <li><a href="#">TBO(TEKNIK BODI OTOTMOTIF)</a></li>
+              <li><a href="#">TABUS(TATA BUSANSA)</a></li>
             </ul>
             <li class="dropdown"><a href="#"><span>Program</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
             <ul>
-              <li><a href="#">Deep Drop Down 1</a></li>
-              <li><a href="#">Drop Down 2</a></li>
-              <li><a href="#">Drop Down 3</a></li>
+              <li><a href="#">Kegiatan</a></li>
+              <li><a href="#">Unggulan</a></li>
               </ul>
               <li class="dropdown"><a href="#"><span>PPDB</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
             <ul>
@@ -661,7 +660,9 @@
           <a href="index.html" class="logo d-flex align-items-center">
             <span>ALAMAT</span>
           </a>
-          <p>Jl. KH Wahid HasyimDesa. Mertapada Wetan Kecanatan. Astanajapura Kabupaten. Cirebon Jawa Barat 45181</p>
+          <p>Jl. KH Wahid HasyimDesa. Mertapada Wetan Kecanatan. Astanajapura Kabupaten. Cirebon Jawa Barat 45181
+         <br> Phone: 085287222111 <br>Email: mtsbinacendekia@gmail.com
+          </p>
           <div class="social-links d-flex mt-4">
             <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
             <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
