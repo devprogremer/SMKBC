@@ -66,11 +66,6 @@
                   <li class="dropdown"><a href="#"><span>Sarana</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
                 <ul>
                   <li><a href="#">Kelas</a></li>
-                  <li><a href="profil.php">Profil</a></li>
-                  <li><a href="visi.php">Visi dan Misi</a></li>
-                  <li><a href="organisasi.php">Struktur Organisasi</a></li>
-                  <li><a href="data.php">Data Guru</a></li>
-                  <li><a href="sarana.php">Sarana</a></li>
                 </ul>
                 </li>
                 </ul>
