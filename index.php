@@ -56,52 +56,52 @@
           <ul>
               <li class="dropdown"><a href="#"><span>Tentang Kami</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
                 <ul>
-                  <li><a href="#">Profil Sekolah</a></li>
-                  <li><a href="#">Visi dan Misi</a></li>
-                  <li><a href="#">Struktur Organisasi</a></li>
-                  <li><a href="#">Data Guru</a></li>
-                  <li><a href="#">Akreditasi</a></li>
-                  <li><a href="#">Hubungan Industri</a></li>    
-                  <li><a href="#">Prestasi</a></li>           
+                  <li><a href="Profil.php">Profil Sekolah</a></li>
+                  <li><a href="visi.php">Visi dan Misi</a></li>
+                  <li><a href="Organisasi.php">Struktur Organisasi</a></li>
+                  <li><a href="Data.php">Data Guru</a></li>
+                  <li><a href="Akreditasi.php">Akreditasi</a></li>
+                  <li><a href="industri.php">Hubungan Industri</a></li>    
+                  <li><a href="prestasi.php">Prestasi</a></li>           
                   <li class="dropdown"><a href="#"><span>Sarana</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
                 <ul>
-                  <li><a href="#">Kelas</a></li>
+                  <li><a href="kelas.php">Kelas</a></li>
                 </ul>
                 </li>
                 </ul>
                 </li>
             <li class="dropdown"><a href="#"><span>Program</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
             <ul>
-            <li class="dropdown"><a href="#"><span>Program Studi</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
+            <li class="dropdown"><a href="program.php"><span>Program Studi</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
                 <ul>
-                  <li><a href="#">RPL (Rekayasa Perangkat Lunak)</a></li>
-                  <li><a href="#">STI (Samsung Tech Institute)</a></li>
-                  <li><a href="#">ASSKEP (Asisten Keperawatan)</a></li>
-                  <li><a href="#">TBO(Teknik Bodi Otomotif)</a></li>
-                  <li><a href="#">TABUS(Tata Busana)</a></li>
+                  <li><a href="RPL.php">RPL (Rekayasa Perangkat Lunak)</a></li>
+                  <li><a href="STI.php">STI (Samsung Tech Institute)</a></li>
+                  <li><a href="ASKEP.php">ASKEP (Asisten Keperawatan)</a></li>
+                  <li><a href="TBO.php">TBO(Teknik Bodi Otomotif)</a></li>
+                  <li><a href="TABUS.php">TABUS(Tata Busana)</a></li>
                   </ul>
               </li>
               <li class="dropdown"><a href="#"><span>Kegiatan</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
                 <ul>
-                  <li><a href="#">Ekstrakurikuler</a></li>
-                  <li><a href="#">Hari Bahasa</a></li>
-                  <li><a href="#">Maulid Nabi Muhammad</a></li>
-                  <li><a href="#">Porak</a></li>
-                  <li><a href="#">HUT RI 17 Agustus</a></li>
-                  <li><a href="#">Hari Santri</a></li>
+                  <li><a href="Ekstrakurikuler.php">Ekstrakurikuler</a></li>
+                  <li><a href="bahasa.php">Bulan Bahasa</a></li>
+                  <li><a href="Maulid.php">Maulid Nabi Muhammad</a></li>
+                  <li><a href="Porak.php">Porak</a></li>
+                  <li><a href="agustus.php">HUT RI 17 Agustus</a></li>
+                  <li><a href="Santri.php">Hari Santri</a></li>
                 </ul>
                 </li>
-                <li><a href="#">PKL 2023</a></li>
+                <li><a href="PKL.php">PKL 2023</a></li>
                 </ul>
               </li>
             </ul>
           </li>
               <li class="dropdown"><a href="#"><span>PPDB</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
             <ul>
-              <li><a href="#">Informasi Pendaftaran</a></li>
+              <li><a href="Informasi.php">Informasi Pendaftaran</a></li>
               </ul>
-          <li><a href="contact.html">Contact</a></li>
-          <li><a class="get-a-quote" href="get-a-quote.html">Login</a></li>
+          <li><a href="contact.php">Contact</a></li>
+          <li><a class="get-a-quote" href="get-a-quote.php">Login</a></li>
         </ul>
       </nav><!-- .navbar -->
 
