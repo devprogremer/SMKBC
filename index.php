@@ -36,7 +36,6 @@
   * License: https://bootstrapmade.com/license/
   ======================================================== -->
 </head>
-
 <body>
 
   <!-- ======= Header ======= -->
@@ -57,9 +56,9 @@
           <ul>
               <li class="dropdown"><a href="#"><span>Tentang Kami</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
                 <ul>
-                  <li><a href="#">Profil</a></li>
-                  <li><a href="#">Visi dan Misi</a></li>
-                  <li><a href="#">Struktur Organisasi</a></li>
+                  <li><a href="profil.php">Profil</a></li>
+                  <li><a href="visi.php">Visi dan Misi</a></li>
+                  <li><a href="organisasi.php">Struktur Organisasi</a></li>
                   <li><a href="#">Data Guru</a></li>
                   <li><a href="#">Sarana</a></li>
                 </ul>
