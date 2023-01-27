@@ -253,7 +253,8 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-header">
-          <h2>Kenapa Harus SMK Bina Cendekia CIrebon?</h2>
+          <span>Our Services</span>
+          <h2>Our Services</h2>
 
         </div>
 
