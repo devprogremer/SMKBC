@@ -210,7 +210,7 @@
 
         <div class="row gy-4">
           <div class="col-lg-6 position-relative align-self-start order-lg-last order-first">
-            <img src="assets/img/about.jpg" class="img-fluid" alt="">
+            <img src="assets/img/abouttt.jpeg" class="img-fluid" alt="">
             <a href="https://youtu.be/RU14KbxDDfU" class="glightbox play-btn"></a>
           </div>
           <div class="col-lg-6 content order-last  order-lg-first">
@@ -221,24 +221,24 @@
             </p>
             <ul>
               <li data-aos="fade-up" data-aos-delay="100">
-                <i class="bi bi-diagram-3"></i>
+                <i class="bi bi-pin-angle-fill"></i>
                 <div>
-                  <h5>Ullamco laboris nisi ut aliquip consequat</h5>
-                  <p>Magni facilis facilis repellendus cum excepturi quaerat praesentium libre trade</p>
+                  <h5> SMK Bina Cendekia Cirebon</h5>
+                  <p> Adalah Sekolah Berbasis Pesantren</p>
                 </div>
               </li>
               <li data-aos="fade-up" data-aos-delay="200">
-                <i class="bi bi-fullscreen-exit"></i>
+                <i class="bi bi-bank2"></i>
                 <div>
-                  <h5>Magnam soluta odio exercitationem reprehenderi</h5>
-                  <p>Quo totam dolorum at pariatur aut distinctio dolorum laudantium illo direna pasata redi</p>
+                  <h5>SMK Bina Cendekia Cirebon</h5>
+                  <p> Adalah Sekolah Pusat Keunggulan</p>
                 </div>
               </li>
               <li data-aos="fade-up" data-aos-delay="300">
                 <i class="bi bi-broadcast"></i>
                 <div>
-                  <h5>Voluptatem et qui exercitationem</h5>
-                  <p>Et velit et eos maiores est tempora et quos dolorem autem tempora incidunt maxime veniam</p>
+                  <h5>DI SMK Bina Cendekia Cirebon</h5>
+                  <p>Lulusan SMK Bina Cendekia Cirebon Di Jamin Langsung Kerja karena Sudah Bekerja Sama Dengan Banyak Perusahaan</p>
                 </div>
               </li>
             </ul>
@@ -679,7 +679,7 @@
             <span>ALAMAT</span>
           </a>
           <p>Jl. KH Wahid HasyimDesa. Mertapada Wetan Kecanatan. Astanajapura Kabupaten. Cirebon Jawa Barat 45181
-         <br> Phone: 085287222111 <br>Email: mtsbinacendekia@gmail.com
+         <br> Phone: 0231 8845465<br>Email: smkbinacendekiacirebona@gmail.com
           </p>
           <div class="social-links d-flex mt-4">
             <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
@@ -728,7 +728,7 @@
 
     <div class="container mt-4">
       <div class="copyright">
-        &copy; Copyright <strong><span>Logis</span></strong>. All Rights Reserved
+        &copy; Copyright <strong><span>SMK BINA CENDEKIA CIREBON</span></strong>
       </div>
       <div class="credits">
         <!-- All the links in the footer should remain intact. -->
