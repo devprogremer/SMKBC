@@ -53,32 +53,53 @@
       <i class="mobile-nav-toggle mobile-nav-hide d-none bi bi-x"></i>
       <nav id="navbar" class="navbar">
         <ul>
-          <li><a href="index.php" class="active">Home</a></li>
+          <li><a href="index.php" class="active">Beranda</a></li>
           <ul>
               <li class="dropdown"><a href="#"><span>Tentang Kami</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
                 <ul>
-                  <li><a href="#">Profil</a></li>
+                  <li><a href="#">Profil Sekolah</a></li>
                   <li><a href="#">Visi dan Misi</a></li>
                   <li><a href="#">Struktur Organisasi</a></li>
                   <li><a href="#">Data Guru</a></li>
-                  <li><a href="#">Sarana</a></li>
+                  <li><a href="#">Akreditasi</a></li>
+                  <li><a href="#">Hubungan Industri</a></li>    
+                  <li><a href="#">Prestasi</a></li>           
+                  <li class="dropdown"><a href="#"><span>Sarana</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
+                <ul>
+                  <li><a href="#">Kelas</a></li>
                 </ul>
-          <li class="dropdown"><a href="#"><span>Jurusan</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
-            <ul>
-              <li><a href="#">RPL(REKAYASA PERANGKAT LUNAK))</a></li>
-              <li><a href="#">SAMSUNG(TECH INSTITUTE)</a></li>
-              <li><a href="#">ASKEP(ASISTEN KEPERAWATAN)</a></li>
-              <li><a href="#">TBO(TEKNIK BODI OTOTMOTIF)</a></li>
-              <li><a href="#">TABUS(TATA BUSANA)</a></li>
-            </ul>
+                </li>
+                </ul>
+                </li>
             <li class="dropdown"><a href="#"><span>Program</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
             <ul>
-              <li><a href="#">Kegiatan</a></li>
-              <li><a href="#">Unggulan</a></li>
-              </ul>
+            <li class="dropdown"><a href="#"><span>Program Studi</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
+                <ul>
+                  <li><a href="#">RPL (Rekayasa Perangkat Lunak)</a></li>
+                  <li><a href="#">STI (Samsung Tech Institute)</a></li>
+                  <li><a href="#">ASSKEP (Asisten Keperawatan)</a></li>
+                  <li><a href="#">TBO(Teknik Bodi Otomotif)</a></li>
+                  <li><a href="#">TABUS(Tata Busana)</a></li>
+                  </ul>
+              </li>
+              <li class="dropdown"><a href="#"><span>Kegiatan</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
+                <ul>
+                  <li><a href="#">Ekstrakurikuler</a></li>
+                  <li><a href="#">Hari Bahasa</a></li>
+                  <li><a href="#">Maulid Nabi Muhammad</a></li>
+                  <li><a href="#">Porak</a></li>
+                  <li><a href="#">HUT RI 17 Agustus</a></li>
+                  <li><a href="#">Hari Santri</a></li>
+                </ul>
+                </li>
+                <li><a href="#">PKL 2023</a></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
               <li class="dropdown"><a href="#"><span>PPDB</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
             <ul>
-              <li><a href="#">Deep Drop Down 1</a></li>
+              <li><a href="#">Informasi Pendaftaran</a></li>
               </ul>
           <li><a href="contact.html">Contact</a></li>
           <li><a class="get-a-quote" href="get-a-quote.html">Login</a></li>
@@ -98,7 +119,7 @@
           <h3 data-aos="fade-up" data-aos-delay="100">Sekolah Kita Berbasis Pesantren</h3>
 
           <form action="#" class="form-search d-flex align-items-stretch mb-3" data-aos="fade-up" data-aos-delay="200">
-            <input type="text" class="form-control" placeholder="ZIP code or CitY">
+            <input type="text" class="form-control" placeholder="Search">
             <button type="submit" class="btn btn-primary">Search</button>
           </form>
 
