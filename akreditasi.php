@@ -96,7 +96,7 @@
               </li>
             </ul>
           </li>
-              <li class="dropdown"><a href="#"><span>PPDB</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
+              <li class="dropdown"><a href="ppdb.php"><span>PPDB</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
             <ul>
               <li><a href="Informasi.php">Informasi Pendaftaran</a></li>
               </ul>
