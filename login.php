@@ -5,12 +5,12 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Logis Bootstrap Template - Get a Quote</title>
+  <title>SMK BINA CENDEKIA CIREBON - Contact</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/img/okkkkkk.png" rel="icon">
   <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
@@ -43,39 +43,66 @@
   <header id="header" class="header d-flex align-items-center fixed-top">
     <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
 
-      <a href="index.html" class="logo d-flex align-items-center">
+      <a href="index.php" class="logo d-flex align-items-center">
         <!-- Uncomment the line below if you also wish to use an image logo -->
-        <!-- <img src="assets/img/logo.png" alt=""> -->
-        <h1>Logis</h1>
+        <img src="assets/img/okkkkkk.png" alt="">
+        <h1>SMK BINA CENDEKIA CIREBON</h1>
       </a>
 
       <i class="mobile-nav-toggle mobile-nav-show bi bi-list"></i>
       <i class="mobile-nav-toggle mobile-nav-hide d-none bi bi-x"></i>
       <nav id="navbar" class="navbar">
-        <ul>
-          <li><a href="index.html">Home</a></li>
-          <li><a href="about.html">About</a></li>
-          <li><a href="services.html">Services</a></li>
-          <li><a href="pricing.html">Pricing</a></li>
-          <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
-            <ul>
-              <li><a href="#">Drop Down 1</a></li>
-              <li class="dropdown"><a href="#"><span>Deep Drop Down</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
+         <ul>
+          <li><a href="index.php" class="active">Beranda</a></li>
+          <ul>
+              <li class="dropdown"><a href="#"><span>Tentang Kami</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
                 <ul>
-                  <li><a href="#">Deep Drop Down 1</a></li>
-                  <li><a href="#">Deep Drop Down 2</a></li>
-                  <li><a href="#">Deep Drop Down 3</a></li>
-                  <li><a href="#">Deep Drop Down 4</a></li>
-                  <li><a href="#">Deep Drop Down 5</a></li>
+                  <li><a href="Profil.php">Profil Sekolah</a></li>
+                  <li><a href="visi.php">Visi dan Misi</a></li>
+                  <li><a href="Organisasi.php">Struktur Organisasi</a></li>
+                  <li><a href="Data.php">Data Guru</a></li>
+                  <li><a href="Akreditasi.php">Akreditasi</a></li>
+                  <li><a href="industri.php">Hubungan Industri</a></li>    
+                  <li><a href="prestasi.php">Prestasi</a></li>           
+                  <li class="dropdown"><a href="#"><span>Sarana</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
+                <ul>
+                  <li><a href="kelas.php">Kelas</a></li>
+                </ul>
+                </li>
+                </ul>
+                </li>
+            <li class="dropdown"><a href="#"><span>Program</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
+            <ul>
+            <li class="dropdown"><a href="program.php"><span>Program Studi</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
+                <ul>
+                  <li><a href="RPL.php">RPL (Rekayasa Perangkat Lunak)</a></li>
+                  <li><a href="STI.php">STI (Samsung Tech Institute)</a></li>
+                  <li><a href="ASKEP.php">ASKEP (Asisten Keperawatan)</a></li>
+                  <li><a href="TBO.php">TBO(Teknik Bodi Otomotif)</a></li>
+                  <li><a href="TABUS.php">TABUS(Tata Busana)</a></li>
+                  </ul>
+              </li>
+              <li class="dropdown"><a href="#"><span>Kegiatan</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
+                <ul>
+                  <li><a href="Ekstrakurikuler.php">Ekstrakurikuler</a></li>
+                  <li><a href="bahasa.php">Bulan Bahasa</a></li>
+                  <li><a href="Maulid.php">Maulid Nabi Muhammad</a></li>
+                  <li><a href="Porak.php">Porak</a></li>
+                  <li><a href="agustus.php">HUT RI 17 Agustus</a></li>
+                  <li><a href="Santri.php">Hari Santri</a></li>
+                </ul>
+                </li>
+                <li><a href="PKL.php">PKL 2023</a></li>
                 </ul>
               </li>
-              <li><a href="#">Drop Down 2</a></li>
-              <li><a href="#">Drop Down 3</a></li>
-              <li><a href="#">Drop Down 4</a></li>
             </ul>
           </li>
-          <li><a href="contact.html">Contact</a></li>
-          <li><a class="get-a-quote" href="get-a-quote.html">Get a Quote</a></li>
+              <li class="dropdown"><a href="#"><span>PPDB</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
+            <ul>
+              <li><a href="Informasi.php">Informasi Pendaftaran</a></li>
+              </ul>
+          <li><a href="contact.php">Contact</a></li>
+          <li><a class="get-a-quote" href="login.php">Login</a></li>
         </ul>
       </nav><!-- .navbar -->
 
@@ -87,12 +114,12 @@
 
     <!-- ======= Breadcrumbs ======= -->
     <div class="breadcrumbs">
-      <div class="page-header d-flex align-items-center" style="background-image: url('assets/img/page-header.jpg');">
+      <div class="page-header d-flex align-items-center" style="background-image: url('assets/img/page-header.jpeg');">
         <div class="container position-relative">
           <div class="row d-flex justify-content-center">
             <div class="col-lg-6 text-center">
-              <h2>Get a Quote</h2>
-              <p>Odio et unde deleniti. Deserunt numquam exercitationem. Officiis quo odio sint voluptas consequatur ut a odio voluptatem. Sit dolorum debitis veritatis natus dolores. Quasi ratione sint. Sit quaerat ipsum dolorem.</p>
+              <h2>Contact</h2>
+              <p>Halo Teman-Teman Masih Bingung Mau Lanjut Kemana?? SMK Bina Cendekia Solusinya Segera Contact Kami Kuota Terbatas</p>
             </div>
           </div>
         </div>
@@ -100,15 +127,15 @@
       <nav>
         <div class="container">
           <ol>
-            <li><a href="index.html">Home</a></li>
-            <li>Get a Quote</li>
+            <li><a href="index.php">Home</a></li>
+            <li><a href="login.php">login</a></li>
           </ol>
         </div>
       </nav>
     </div><!-- End Breadcrumbs -->
 
-    <!-- ======= Get a Quote Section ======= -->
-    <section id="get-a-quote" class="get-a-quote">
+  <!-- ======= Get a Quote Section ======= -->
+  <section id="get-a-quote" class="get-a-quote">
       <div class="container" data-aos="fade-up">
 
         <div class="row g-0">
@@ -162,17 +189,18 @@
                   <div class="error-message"></div>
                   <div class="sent-message">Your quote request has been sent successfully. Thank you!</div>
 
-                  <button type="submit">Get a quote</button>
+                  <button type="submit">submit</button>
                 </div>
 
               </div>
             </form>
           </div><!-- End Quote Form -->
 
+       
         </div>
 
       </div>
-    </section><!-- End Get a Quote Section -->
+    </section><!-- End Contact Section -->
 
   </main><!-- End #main -->
 
@@ -218,15 +246,6 @@
           </ul>
         </div>
 
-        <div class="col-lg-3 col-md-12 footer-contact text-center text-md-start">
-          <h4>Contact Us</h4>
-          <p>
-            A108 Adam Street <br>
-            New York, NY 535022<br>
-            United States <br><br>
-            <strong>Phone:</strong> +1 5589 55488 55<br>
-            <strong>Email:</strong> info@example.com<br>
-          </p>
 
         </div>
 

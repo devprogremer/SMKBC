@@ -45,7 +45,7 @@
 
       <a href="index.php" class="logo d-flex align-items-center">
         <!-- Uncomment the line below if you also wish to use an image logo -->
-        <!-- <img src="assets/img/logo.png" alt=""> -->
+        <img src="assets/img/okkkkkk.png" alt="">
         <h1>SMK BINA CENDEKIA CIREBON</h1>
       </a>
 
@@ -102,7 +102,7 @@
               <li><a href="Informasi.php">Informasi Pendaftaran</a></li>
               </ul>
           <li><a href="contact.php">Contact</a></li>
-          <li><a class="get-a-quote" href="get-a-quote.php">Login</a></li>
+          <li><a class="get-a-quote" href="login.php">Login</a></li>
         </ul>
       </nav><!-- .navbar -->
 
@@ -114,12 +114,12 @@
 
     <!-- ======= Breadcrumbs ======= -->
     <div class="breadcrumbs">
-      <div class="page-header d-flex align-items-center" style="background-image: url('assets/img/page-header.jpg');">
+      <div class="page-header d-flex align-items-center" style="background-image: url('assets/img/page-header.jpeg');">
         <div class="container position-relative">
           <div class="row d-flex justify-content-center">
             <div class="col-lg-6 text-center">
               <h2>Contact</h2>
-              <p>Odio et unde deleniti. Deserunt numquam exercitationem. Officiis quo odio sint voluptas consequatur ut a odio voluptatem. Sit dolorum debitis veritatis natus dolores. Quasi ratione sint. Sit quaerat ipsum dolorem.</p>
+              <p>Halo Teman-Teman Masih Bingung Mau Lanjut Kemana?? SMK Bina Cendekia Solusinya Segera Contact Kami Kuota Terbatas</p>
             </div>
           </div>
         </div>
@@ -139,7 +139,7 @@
       <div class="container" data-aos="fade-up">
 
         <div>
-          <iframe style="border:0; width: 100%; height: 340px;" src="https://maps.app.goo.gl/5S9vFdyqoUdD2jZs7" frameborder="0" allowfullscreen></iframe>
+          <iframe style="border:0; width: 100%; height: 340px;" src="https://www.google.com/maps/place/SMK+Bina+Cendekia+Cirebon/@-6.8142049,108.6165476,17z/data=!4m15!1m8!3m7!1s0x2e6f04acde0ee93d:0x570909eb0cf5286!2sSMK+Bina+Cendekia+Cirebon!8m2!3d-6.8142102!4d108.6187363!10e1!16s%2Fg%2F11dz5lvk8z!3m5!1s0x2e6f04acde0ee93d:0x570909eb0cf5286!8m2!3d-6.8142102!4d108.6187363!16s%2Fg%2F11dz5lvk8z?hl=en-US#:~:text=%3Ciframe%20src%3D%22https,when%2Ddowngrade%22%3E%3C/iframe%3E" frameborder="0" allowfullscreen></iframe>
         </div><!-- End Google Maps -->
 
         <div class="row gy-4 mt-4">
@@ -183,10 +183,10 @@
                 </div>
               </div>
               <div class="form-group mt-3">
-                <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" required>
+                <input type="text" class="form-control" name="subject" id="subject" placeholder="Phone" required>
               </div>
               <div class="form-group mt-3">
-                <textarea class="form-control" name="message" rows="5" placeholder="Message" required></textarea>
+                <textarea class="form-control" name="message" rows="5" placeholder="Asal SMP Kamu" required></textarea>
               </div>
               <div class="my-3">
                 <div class="loading">Loading</div>
@@ -246,15 +246,6 @@
           </ul>
         </div>
 
-        <div class="col-lg-3 col-md-12 footer-contact text-center text-md-start">
-          <h4>Contact Us</h4>
-          <p>
-            A108 Adam Street <br>
-            New York, NY 535022<br>
-            United States <br><br>
-            <strong>Phone:</strong> +1 5589 55488 55<br>
-            <strong>Email:</strong> info@example.com<br>
-          </p>
 
         </div>
 
