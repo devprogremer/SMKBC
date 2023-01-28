@@ -98,7 +98,7 @@
           </li>
               <li class="dropdown"><a href="#"><span>PPDB</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
             <ul>
-              <li><a href="Informasi.php">Informasi Pendaftaran</a></li>
+              <li><a href="info.php">Informasi Pendaftaran</a></li>
               </ul>
           <li><a href="contact.php">Contact</a></li>
           <li><a class="get-a-quote" href="login.php">Login</a></li>
@@ -292,7 +292,7 @@
               <div class="card-img">
                 <img src="assets/img/trucking-service.jpg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">Alumn Berkualitas</a></h3>
+              <h3><a href="service-details.html" class="stretched-link">Alumni Berkualitas</a></h3>
               <p>Dicta quam similique quia architecto eos nisi aut ratione aut ipsum reiciendis sit doloremque oluptatem aut et molestiae ut et nihil</p>
             </div>
           </div><!-- End Card Item -->
