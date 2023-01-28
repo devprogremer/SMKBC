@@ -5,12 +5,12 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Logis Bootstrap Template - Contact</title>
+  <title>SMK BINA CENDEKIA CIREBON - Contact</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/img/okkkkkk.png" rel="icon">
   <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
@@ -52,58 +52,57 @@
       <i class="mobile-nav-toggle mobile-nav-show bi bi-list"></i>
       <i class="mobile-nav-toggle mobile-nav-hide d-none bi bi-x"></i>
       <nav id="navbar" class="navbar">
-        <ul>
-          <li><a href="index.php">Home</a></li>
-          <li class="dropdown"><a href="#"><span>Tentang Kami</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
+         <ul>
+          <li><a href="index.php" class="active">Beranda</a></li>
+          <ul>
+              <li class="dropdown"><a href="#"><span>Tentang Kami</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
                 <ul>
-                  <li><a href="profil.php">Profil</a></li>
+                  <li><a href="Profil.php">Profil Sekolah</a></li>
                   <li><a href="visi.php">Visi dan Misi</a></li>
-                  <li><a href="organisasi.php">Struktur Organisasi</a></li>
-                  <li><a href="data.php">Data Guru</a></li>
-                  <li><a href="sarana.php">Sarana</a></li>
+                  <li><a href="Organisasi.php">Struktur Organisasi</a></li>
+                  <li><a href="Data.php">Data Guru</a></li>
+                  <li><a href="Akreditasi.php">Akreditasi</a></li>
+                  <li><a href="industri.php">Hubungan Industri</a></li>    
+                  <li><a href="prestasi.php">Prestasi</a></li>           
+                  <li class="dropdown"><a href="#"><span>Sarana</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
+                <ul>
+                  <li><a href="kelas.php">Kelas</a></li>
                 </ul>
-          <li class="dropdown"><a href="#"><span>Jurusan</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
-            <ul>
-              <li><a href="#">RPL(REKAYASA PERANGKAT LUNAK))</a></li>
-              <li><a href="#">SAMSUNG(TECH INSTITUTE)</a></li>
-              <li><a href="#">ASKEP(ASISTEN KEPERAWATAN)</a></li>
-              <li><a href="#">TBO(TEKNIK BODI OTOTMOTIF)</a></li>
-              <li><a href="#">TABUS(TATA BUSANA)</a></li>
-            </ul>
+                </li>
+                </ul>
+                </li>
             <li class="dropdown"><a href="#"><span>Program</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
             <ul>
-              <li><a href="#">Kegiatan</a></li>
-              <li><a href="#">Unggulan</a></li>
-              </ul>
-              <li class="dropdown"><a href="#"><span>PPDB</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
-            <ul>
-              <li><a href="#">Deep Drop Down 1</a></li>
-              </ul>
-          <li><a href="contact.html">Contact</a></li>
-          <li><a class="get-a-quote" href="get-a-quote.html">Login</a></li>
-        </ul>
-      </nav><!-- .navbar -->
-
-    </div>
-          <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
-            <ul>
-              <li><a href="#">Drop Down 1</a></li>
-              <li class="dropdown"><a href="#"><span>Deep Drop Down</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
+            <li class="dropdown"><a href="program.php"><span>Program Studi</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
                 <ul>
-                  <li><a href="#">Deep Drop Down 1</a></li>
-                  <li><a href="#">Deep Drop Down 2</a></li>
-                  <li><a href="#">Deep Drop Down 3</a></li>
-                  <li><a href="#">Deep Drop Down 4</a></li>
-                  <li><a href="#">Deep Drop Down 5</a></li>
+                  <li><a href="RPL.php">RPL (Rekayasa Perangkat Lunak)</a></li>
+                  <li><a href="STI.php">STI (Samsung Tech Institute)</a></li>
+                  <li><a href="ASKEP.php">ASKEP (Asisten Keperawatan)</a></li>
+                  <li><a href="TBO.php">TBO(Teknik Bodi Otomotif)</a></li>
+                  <li><a href="TABUS.php">TABUS(Tata Busana)</a></li>
+                  </ul>
+              </li>
+              <li class="dropdown"><a href="#"><span>Kegiatan</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
+                <ul>
+                  <li><a href="Ekstrakurikuler.php">Ekstrakurikuler</a></li>
+                  <li><a href="bahasa.php">Bulan Bahasa</a></li>
+                  <li><a href="Maulid.php">Maulid Nabi Muhammad</a></li>
+                  <li><a href="Porak.php">Porak</a></li>
+                  <li><a href="agustus.php">HUT RI 17 Agustus</a></li>
+                  <li><a href="Santri.php">Hari Santri</a></li>
+                </ul>
+                </li>
+                <li><a href="PKL.php">PKL 2023</a></li>
                 </ul>
               </li>
-              <li><a href="#">Drop Down 2</a></li>
-              <li><a href="#">Drop Down 3</a></li>
-              <li><a href="#">Drop Down 4</a></li>
             </ul>
           </li>
-          <li><a href="contact.php" class="active">Contact</a></li>
-          <li><a class="get-a-quote" href="get-a-quote.html">Get a Quote</a></li>
+              <li class="dropdown"><a href="#"><span>PPDB</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
+            <ul>
+              <li><a href="Informasi.php">Informasi Pendaftaran</a></li>
+              </ul>
+          <li><a href="contact.php">Contact</a></li>
+          <li><a class="get-a-quote" href="get-a-quote.php">Login</a></li>
         </ul>
       </nav><!-- .navbar -->
 
@@ -140,7 +139,7 @@
       <div class="container" data-aos="fade-up">
 
         <div>
-          <iframe style="border:0; width: 100%; height: 340px;" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12097.433213460943!2d-74.0062269!3d40.7101282!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb89d1fe6bc499443!2sDowntown+Conference+Center!5e0!3m2!1smk!2sbg!4v1539943755621" frameborder="0" allowfullscreen></iframe>
+          <iframe style="border:0; width: 100%; height: 340px;" src="https://maps.google.com/?cid=391972178826842758&entry=gps" frameborder="0" allowfullscreen></iframe>
         </div><!-- End Google Maps -->
 
         <div class="row gy-4 mt-4">
@@ -150,8 +149,8 @@
             <div class="info-item d-flex">
               <i class="bi bi-geo-alt flex-shrink-0"></i>
               <div>
-                <h4>Location:</h4>
-                <p>A108 Adam Street, New York, NY 535022</p>
+                <h4>Alamat:</h4>
+                <p>Jl. KH Wahid HasyimDesa. Mertapada Wetan Kecanatan. Astanajapura Kabupaten. Cirebon Jawa Barat 45181</p>
               </div>
             </div><!-- End Info Item -->
 
@@ -159,7 +158,7 @@
               <i class="bi bi-envelope flex-shrink-0"></i>
               <div>
                 <h4>Email:</h4>
-                <p>info@example.com</p>
+                <p> smkbinacendekiacirebona@gmail.com</p>
               </div>
             </div><!-- End Info Item -->
 
@@ -167,7 +166,7 @@
               <i class="bi bi-phone flex-shrink-0"></i>
               <div>
                 <h4>Call:</h4>
-                <p>+1 5589 55488 55</p>
+                <p>0231 8845465</p>
               </div>
             </div><!-- End Info Item -->
 
@@ -212,9 +211,11 @@
       <div class="row gy-4">
         <div class="col-lg-5 col-md-12 footer-info">
           <a href="index.html" class="logo d-flex align-items-center">
-            <span>Logis</span>
+            <span>Alamat</span>
           </a>
-          <p>Cras fermentum odio eu feugiat lide par naso tierra. Justo eget nada terra videa magna derita valies darta donna mare fermentum iaculis eu non diam phasellus.</p>
+          <p>Jl. KH Wahid HasyimDesa. Mertapada Wetan Kecanatan. Astanajapura Kabupaten. Cirebon Jawa Barat 45181<br>
+           Phone: 0231 8845465<br>
+           Email: smkbinacendekiacirebona@gmail.com</p>
           <div class="social-links d-flex mt-4">
             <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
             <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
