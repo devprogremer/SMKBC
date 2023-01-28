@@ -227,23 +227,23 @@
             </div>
           </div><!-- End Card Item -->
 
-          <div class="col-lg-6 col-md-8" data-aos="fade-up" data-aos-delay="400">
+          <div class="col-lg-6 col-md-8" data-aos="fade-up" data-aos-delay="600">
             <div class="card">
               <div class="card-img">
                 <img src="assets/img/tabus4.jpeg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">Trucking</a></h3>
-              <p>Dicta quam similique quia architecto eos nisi aut ratione aut ipsum reiciendis sit doloremque oluptatem aut et molestiae ut et nihil</p>
+              <h3><a href="service-details.html" class="stretched-link">Warehousing</a></h3>
+              <p></p>
             </div>
           </div><!-- End Card Item -->
 
-          <div class="col-lg-6 col-md-8" data-aos="fade-up" data-aos-delay="500">
+          <div class="col-lg-6 col-md-8" data-aos="fade-up" data-aos-delay="600">
             <div class="card">
               <div class="card-img">
                 <img src="assets/img/tabus5.jpeg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">Packaging</a></h3>
-              <p>Illo consequuntur quisquam delectus praesentium modi dignissimos facere vel cum onsequuntur maiores beatae consequatur magni voluptates</p>
+              <h3><a href="service-details.html" class="stretched-link">03 agustus 2022</a></h3>
+              <p>lomba LKS tingkat provinsi jawa barat.cirebon dalam live dengan mata lomba "Health social and care"</p>
             </div>
           </div><!-- End Card Item -->
 
