@@ -227,7 +227,7 @@
             </div>
           </div><!-- End Card Item -->
 
-          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="400">
+          <div class="col-lg-6 col-md-8" data-aos="fade-up" data-aos-delay="400">
             <div class="card">
               <div class="card-img">
                 <img src="assets/img/tabus4.jpeg" alt="" class="img-fluid">
@@ -237,7 +237,7 @@
             </div>
           </div><!-- End Card Item -->
 
-          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="500">
+          <div class="col-lg-6 col-md-8" data-aos="fade-up" data-aos-delay="500">
             <div class="card">
               <div class="card-img">
                 <img src="assets/img/tabus5.jpeg" alt="" class="img-fluid">
@@ -252,8 +252,28 @@
               <div class="card-img">
                 <img src="assets/img/tabus6.jpeg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link"></a></h3>
-              <p></p>
+              <h3><a href="service-details.html" class="stretched-link">saya</a></h3>
+              <p>taya</p>
+            </div>
+          </div><!-- End Card Item -->
+
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="600">
+            <div class="card">
+              <div class="card-img">
+                <img src="assets/img/tabus7.jpeg" alt="" class="img-fluid">
+              </div>
+              <h3><a href="service-details.html" class="stretched-link">saya</a></h3>
+              <p>taya </p>
+            </div>
+          </div><!-- End Card Item -->
+
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="600">
+            <div class="card">
+              <div class="card-img">
+                <img src="assets/img/tabus8.jpeg" alt="" class="img-fluid">
+              </div>
+              <h3><a href="service-details.html" class="stretched-link">saya</a></h3>
+              <p>taya</p>
             </div>
           </div><!-- End Card Item -->
 

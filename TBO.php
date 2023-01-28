@@ -187,6 +187,94 @@
       </div>
     </section><!-- End About Section -->
 
+            <!-- ======= Services Section ======= -->
+            <section id="service" class="services pt-0">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-header">
+          <h2>Kegiatan Asisten Keperawatan</h2>
+
+        </div>
+
+        <div class="row gy-4">
+
+          <div class="col-lg-6 col-md-8" data-aos="fade-up" data-aos-delay="100">
+            <div class="card">
+              <div class="card-img">
+                <img src="assets/img/tbo1.jpeg" alt="" class="img-fluid">
+              </div>
+              <h3><a href="service-details.html" class="stretched-link">Storage</a></h3>
+              <p>Cumque eos in qui numquam. Aut aspernatur perferendis sed atque quia voluptas quisquam repellendus temporibus itaqueofficiis odit</p>
+            </div>
+          </div><!-- End Card Item -->
+
+          <div class="col-lg-6 col-md-8" data-aos="fade-up" data-aos-delay="200">
+            <div class="card">
+              <div class="card-img">
+                <img src="assets/img/tbo2.jpeg" alt="" class="img-fluid">
+              </div>
+              <h3><a href="service-details.html" class="stretched-link">Logistics</a></h3>
+              <p>Asperiores provident dolor accusamus pariatur dolore nam id audantium ut et iure incidunt molestiae dolor ipsam ducimus occaecati nisi</p>
+            </div>
+          </div><!-- End Card Item -->
+
+          <div class="row gy-4">
+
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
+            <div class="card">
+              <div class="card-img">
+                <img src="assets/img/tbo3.jpeg" alt="" class="img-fluid">
+              </div>
+              <h3><a href="service-details.html" class="stretched-link">Cargo</a></h3>
+              <p>Dicta quam similique quia architecto eos nisi aut ratione aut ipsum reiciendis sit doloremque oluptatem aut et molestiae ut et nihil</p>
+            </div>
+          </div><!-- End Card Item -->
+
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="400">
+            <div class="card">
+              <div class="card-img">
+                <img src="assets/img/tbo4.jpeg" alt="" class="img-fluid">
+              </div>
+              <h3><a href="service-details.html" class="stretched-link">Trucking</a></h3>
+              <p>Dicta quam similique quia architecto eos nisi aut ratione aut ipsum reiciendis sit doloremque oluptatem aut et molestiae ut et nihil</p>
+            </div>
+          </div><!-- End Card Item -->
+
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="500">
+            <div class="card">
+              <div class="card-img">
+                <img src="assets/img/tbo5.jpeg" alt="" class="img-fluid">
+              </div>
+              <h3><a href="service-details.html" class="stretched-link">Packaging</a></h3>
+              <p>Illo consequuntur quisquam delectus praesentium modi dignissimos facere vel cum onsequuntur maiores beatae consequatur magni voluptates</p>
+            </div>
+          </div><!-- End Card Item -->
+
+          <div class="col-lg-6 col-md-8" data-aos="fade-up" data-aos-delay="600">
+            <div class="card">
+              <div class="card-img">
+                <img src="assets/img/tbo6.jpeg" alt="" class="img-fluid">
+              </div>
+              <h3><a href="service-details.html" class="stretched-link">Warehousing</a></h3>
+              <p></p>
+            </div>
+          </div><!-- End Card Item -->
+
+          <div class="col-lg-6 col-md-8" data-aos="fade-up" data-aos-delay="600">
+            <div class="card">
+              <div class="card-img">
+                <img src="assets/img/tbo7.jpeg" alt="" class="img-fluid">
+              </div>
+              <h3><a href="service-details.html" class="stretched-link">03 agustus 2022</a></h3>
+              <p>lomba LKS tingkat provinsi jawa barat.cirebon dalam live dengan mata lomba "Health social and care"</p>
+            </div>
+          </div><!-- End Card Item -->
+
+        </div>
+
+      </div>
+    </section><!-- End Services Section -->
+
   <!-- ======= Footer ======= -->
   <footer id="footer" class="footer">
 
