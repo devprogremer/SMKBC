@@ -202,8 +202,8 @@
               <div class="card-img">
                 <img src="assets/img/tabus1.jpeg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">Storage</a></h3>
-              <p>Cumque eos in qui numquam. Aut aspernatur perferendis sed atque quia voluptas quisquam repellendus temporibus itaqueofficiis odit</p>
+              <h3><a href="service-details.html" class="stretched-link">06-maret-2022</a></h3>
+              <p>membuat gamis sendiri anak-anak tabus</p>
             </div>
           </div><!-- End Card Item -->
 
@@ -212,8 +212,8 @@
               <div class="card-img">
                 <img src="assets/img/tabus2.jpeg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">Logistics</a></h3>
-              <p>Asperiores provident dolor accusamus pariatur dolore nam id audantium ut et iure incidunt molestiae dolor ipsam ducimus occaecati nisi</p>
+              <h3><a href="service-details.html" class="stretched-link">23-maret-2022</a></h3>
+            <p> Acara Fashion show, uji kompetensi kejuruan tata busana kelas 12 angkatan ke7</p>
             </div>
           </div><!-- End Card Item -->
 
@@ -252,8 +252,8 @@
               <div class="card-img">
                 <img src="assets/img/tabus6.jpeg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">Warehousing</a></h3>
-              <p>Quas assumenda non occaecati molestiae. In aut earum sed natus eatae in vero. Ab modi quisquam aut nostrum unde et qui est non quo nulla</p>
+              <h3><a href="service-details.html" class="stretched-link"></a></h3>
+              <p></p>
             </div>
           </div><!-- End Card Item -->
 

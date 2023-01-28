@@ -255,7 +255,7 @@
                 <img src="assets/img/askep6.jpeg" alt="" class="img-fluid">
               </div>
               <h3><a href="service-details.html" class="stretched-link">Warehousing</a></h3>
-              <p>Quas assumenda non occaecati molestiae. In aut earum sed natus eatae in vero. Ab modi quisquam aut nostrum unde et qui est non quo nulla</p>
+              <p></p>
             </div>
           </div><!-- End Card Item -->
 
@@ -264,8 +264,8 @@
               <div class="card-img">
                 <img src="assets/img/askep7.jpeg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">Warehousing</a></h3>
-              <p>Quas assumenda non occaecati molestiae. In aut earum sed natus eatae in vero. Ab modi quisquam aut nostrum unde et qui est non quo nulla</p>
+              <h3><a href="service-details.html" class="stretched-link">03 agustus 2022</a></h3>
+              <p>lomba LKS tingkat provinsi jawa barat.cirebon dalam live dengan mata lomba "Health social and care"</p>
             </div>
           </div><!-- End Card Item -->
 
