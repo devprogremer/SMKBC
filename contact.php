@@ -5,12 +5,12 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Logis Bootstrap Template - Contact</title>
+  <title>SMK BINA CENDEKIA CIREBON - Contact</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/img/okkkkkk.png" rel="icon">
   <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
@@ -45,65 +45,64 @@
 
       <a href="index.php" class="logo d-flex align-items-center">
         <!-- Uncomment the line below if you also wish to use an image logo -->
-        <!-- <img src="assets/img/logo.png" alt=""> -->
+        <img src="assets/img/okkkkkk.png" alt="">
         <h1>SMK BINA CENDEKIA CIREBON</h1>
       </a>
 
       <i class="mobile-nav-toggle mobile-nav-show bi bi-list"></i>
       <i class="mobile-nav-toggle mobile-nav-hide d-none bi bi-x"></i>
       <nav id="navbar" class="navbar">
-        <ul>
-          <li><a href="index.php">Home</a></li>
-          <li class="dropdown"><a href="#"><span>Tentang Kami</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
+         <ul>
+          <li><a href="index.php" class="active">Beranda</a></li>
+          <ul>
+              <li class="dropdown"><a href="#"><span>Tentang Kami</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
                 <ul>
-                  <li><a href="profil.php">Profil</a></li>
+                  <li><a href="Profil.php">Profil Sekolah</a></li>
                   <li><a href="visi.php">Visi dan Misi</a></li>
-                  <li><a href="organisasi.php">Struktur Organisasi</a></li>
-                  <li><a href="data.php">Data Guru</a></li>
-                  <li><a href="sarana.php">Sarana</a></li>
+                  <li><a href="Organisasi.php">Struktur Organisasi</a></li>
+                  <li><a href="Data.php">Data Guru</a></li>
+                  <li><a href="Akreditasi.php">Akreditasi</a></li>
+                  <li><a href="industri.php">Hubungan Industri</a></li>    
+                  <li><a href="prestasi.php">Prestasi</a></li>           
+                  <li class="dropdown"><a href="#"><span>Sarana</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
+                <ul>
+                  <li><a href="kelas.php">Kelas</a></li>
                 </ul>
-          <li class="dropdown"><a href="#"><span>Jurusan</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
-            <ul>
-              <li><a href="#">RPL(REKAYASA PERANGKAT LUNAK))</a></li>
-              <li><a href="#">SAMSUNG(TECH INSTITUTE)</a></li>
-              <li><a href="#">ASKEP(ASISTEN KEPERAWATAN)</a></li>
-              <li><a href="#">TBO(TEKNIK BODI OTOTMOTIF)</a></li>
-              <li><a href="#">TABUS(TATA BUSANA)</a></li>
-            </ul>
+                </li>
+                </ul>
+                </li>
             <li class="dropdown"><a href="#"><span>Program</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
             <ul>
-              <li><a href="#">Kegiatan</a></li>
-              <li><a href="#">Unggulan</a></li>
-              </ul>
-              <li class="dropdown"><a href="#"><span>PPDB</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
-            <ul>
-              <li><a href="#">Deep Drop Down 1</a></li>
-              </ul>
-          <li><a href="contact.html">Contact</a></li>
-          <li><a class="get-a-quote" href="get-a-quote.html">Login</a></li>
-        </ul>
-      </nav><!-- .navbar -->
-
-    </div>
-          <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
-            <ul>
-              <li><a href="#">Drop Down 1</a></li>
-              <li class="dropdown"><a href="#"><span>Deep Drop Down</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
+            <li class="dropdown"><a href="program.php"><span>Program Studi</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
                 <ul>
-                  <li><a href="#">Deep Drop Down 1</a></li>
-                  <li><a href="#">Deep Drop Down 2</a></li>
-                  <li><a href="#">Deep Drop Down 3</a></li>
-                  <li><a href="#">Deep Drop Down 4</a></li>
-                  <li><a href="#">Deep Drop Down 5</a></li>
+                  <li><a href="RPL.php">RPL (Rekayasa Perangkat Lunak)</a></li>
+                  <li><a href="STI.php">STI (Samsung Tech Institute)</a></li>
+                  <li><a href="ASKEP.php">ASKEP (Asisten Keperawatan)</a></li>
+                  <li><a href="TBO.php">TBO(Teknik Bodi Otomotif)</a></li>
+                  <li><a href="TABUS.php">TABUS(Tata Busana)</a></li>
+                  </ul>
+              </li>
+              <li class="dropdown"><a href="#"><span>Kegiatan</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
+                <ul>
+                  <li><a href="Ekstrakurikuler.php">Ekstrakurikuler</a></li>
+                  <li><a href="bahasa.php">Bulan Bahasa</a></li>
+                  <li><a href="Maulid.php">Maulid Nabi Muhammad</a></li>
+                  <li><a href="Porak.php">Porak</a></li>
+                  <li><a href="agustus.php">HUT RI 17 Agustus</a></li>
+                  <li><a href="Santri.php">Hari Santri</a></li>
+                </ul>
+                </li>
+                <li><a href="PKL.php">PKL 2023</a></li>
                 </ul>
               </li>
-              <li><a href="#">Drop Down 2</a></li>
-              <li><a href="#">Drop Down 3</a></li>
-              <li><a href="#">Drop Down 4</a></li>
             </ul>
           </li>
-          <li><a href="contact.php" class="active">Contact</a></li>
-          <li><a class="get-a-quote" href="get-a-quote.html">Get a Quote</a></li>
+              <li class="dropdown"><a href="#"><span>PPDB</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
+            <ul>
+              <li><a href="Informasi.php">Informasi Pendaftaran</a></li>
+              </ul>
+          <li><a href="contact.php">Contact</a></li>
+          <li><a class="get-a-quote" href="login.php">Login</a></li>
         </ul>
       </nav><!-- .navbar -->
 
@@ -115,12 +114,12 @@
 
     <!-- ======= Breadcrumbs ======= -->
     <div class="breadcrumbs">
-      <div class="page-header d-flex align-items-center" style="background-image: url('assets/img/page-header.jpg');">
+      <div class="page-header d-flex align-items-center" style="background-image: url('assets/img/page-header.jpeg');">
         <div class="container position-relative">
           <div class="row d-flex justify-content-center">
             <div class="col-lg-6 text-center">
               <h2>Contact</h2>
-              <p>Odio et unde deleniti. Deserunt numquam exercitationem. Officiis quo odio sint voluptas consequatur ut a odio voluptatem. Sit dolorum debitis veritatis natus dolores. Quasi ratione sint. Sit quaerat ipsum dolorem.</p>
+              <p>Halo Teman-Teman Masih Bingung Mau Lanjut Kemana?? SMK Bina Cendekia Solusinya Segera Contact Kami Kuota Terbatas</p>
             </div>
           </div>
         </div>
@@ -128,8 +127,8 @@
       <nav>
         <div class="container">
           <ol>
-            <li><a href="index.html">Home</a></li>
-            <li>Contact</li>
+            <li><a href="index.php">Home</a></li>
+            <li><a href="contact.php">Contact</a></li>
           </ol>
         </div>
       </nav>
@@ -140,7 +139,7 @@
       <div class="container" data-aos="fade-up">
 
         <div>
-          <iframe style="border:0; width: 100%; height: 340px;" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12097.433213460943!2d-74.0062269!3d40.7101282!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb89d1fe6bc499443!2sDowntown+Conference+Center!5e0!3m2!1smk!2sbg!4v1539943755621" frameborder="0" allowfullscreen></iframe>
+          <iframe style="border:0; width: 100%; height: 340px;" src="https://www.google.com/maps/place/SMK+Bina+Cendekia+Cirebon/@-6.8142049,108.6165476,17z/data=!4m15!1m8!3m7!1s0x2e6f04acde0ee93d:0x570909eb0cf5286!2sSMK+Bina+Cendekia+Cirebon!8m2!3d-6.8142102!4d108.6187363!10e1!16s%2Fg%2F11dz5lvk8z!3m5!1s0x2e6f04acde0ee93d:0x570909eb0cf5286!8m2!3d-6.8142102!4d108.6187363!16s%2Fg%2F11dz5lvk8z?hl=en-US#:~:text=%3Ciframe%20src%3D%22https,when%2Ddowngrade%22%3E%3C/iframe%3E" frameborder="0" allowfullscreen></iframe>
         </div><!-- End Google Maps -->
 
         <div class="row gy-4 mt-4">
@@ -150,8 +149,8 @@
             <div class="info-item d-flex">
               <i class="bi bi-geo-alt flex-shrink-0"></i>
               <div>
-                <h4>Location:</h4>
-                <p>A108 Adam Street, New York, NY 535022</p>
+                <h4>Alamat:</h4>
+                <p>Jl. KH Wahid HasyimDesa. Mertapada Wetan Kecanatan. Astanajapura Kabupaten. Cirebon Jawa Barat 45181</p>
               </div>
             </div><!-- End Info Item -->
 
@@ -159,7 +158,7 @@
               <i class="bi bi-envelope flex-shrink-0"></i>
               <div>
                 <h4>Email:</h4>
-                <p>info@example.com</p>
+                <p> smkbinacendekiacirebona@gmail.com</p>
               </div>
             </div><!-- End Info Item -->
 
@@ -167,7 +166,7 @@
               <i class="bi bi-phone flex-shrink-0"></i>
               <div>
                 <h4>Call:</h4>
-                <p>+1 5589 55488 55</p>
+                <p>0231 8845465</p>
               </div>
             </div><!-- End Info Item -->
 
@@ -184,10 +183,10 @@
                 </div>
               </div>
               <div class="form-group mt-3">
-                <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" required>
+                <input type="text" class="form-control" name="subject" id="subject" placeholder="Phone" required>
               </div>
               <div class="form-group mt-3">
-                <textarea class="form-control" name="message" rows="5" placeholder="Message" required></textarea>
+                <textarea class="form-control" name="message" rows="5" placeholder="Asal SMP Kamu" required></textarea>
               </div>
               <div class="my-3">
                 <div class="loading">Loading</div>
@@ -212,14 +211,16 @@
       <div class="row gy-4">
         <div class="col-lg-5 col-md-12 footer-info">
           <a href="index.html" class="logo d-flex align-items-center">
-            <span>Logis</span>
+            <span>ALAMAT</span>
           </a>
-          <p>Cras fermentum odio eu feugiat lide par naso tierra. Justo eget nada terra videa magna derita valies darta donna mare fermentum iaculis eu non diam phasellus.</p>
+          <p>Jl. KH Wahid HasyimDesa. Mertapada Wetan Kecanatan. Astanajapura Kabupaten. Cirebon Jawa Barat 45181
+         <br> Phone: 0231 8845465<br>Email: smkbinacendekiacirebona@gmail.com
+          </p>
           <div class="social-links d-flex mt-4">
-            <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
-            <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
-            <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
-            <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></a>
+            <a href="https://youtube.com/@smkbinacendekiacirebonoffi3039" class="Youtube"><i class="bi bi-play-btn-fill"></i></a>
+            <a href="https://www.facebook.com/profile.php?id=100009648338366" class="facebook"><i class="bi bi-facebook"></i></a>
+            <a href="https://instagram.com/smkbinacendekia?igshid=OGQ2MjdiOTE=" class="instagram"><i class="bi bi-instagram"></i></a>
+            <a href="https://www.tiktok.com/@smkbinacendekiacirebon?_r=1&_d=dkgebdh40m7l26&language=id&sec_uid=MS4wLjABAAAAYRFN2ZlU0y_HKAnDd33Qg3ZBMFmqtm7-Py0AkhltELueBlrfbxgyAwwWwajHbl7f&share_author_id=6933598016310592513&source=h5_t&timestamp=1674875179&utm_source=copy&utm_campaign=client_share&utm_medium=android&share_iid=7188303969302906650&share_link_id=648d57dd-9a99-4dda-bcc8-6f59b17706c7&share_app_id=1180&ugbiz_name=Account&ug_btm=b6880%2Cb2878" class="TikTok"><i class="bi bi-tiktok"></i></a>
           </div>
         </div>
 
@@ -245,15 +246,6 @@
           </ul>
         </div>
 
-        <div class="col-lg-3 col-md-12 footer-contact text-center text-md-start">
-          <h4>Contact Us</h4>
-          <p>
-            A108 Adam Street <br>
-            New York, NY 535022<br>
-            United States <br><br>
-            <strong>Phone:</strong> +1 5589 55488 55<br>
-            <strong>Email:</strong> info@example.com<br>
-          </p>
 
         </div>
 
@@ -262,7 +254,7 @@
 
     <div class="container mt-4">
       <div class="copyright">
-        &copy; Copyright <strong><span>Logis</span></strong>. All Rights Reserved
+        &copy; Copyright <strong><span>SMK BINA CENDEKIA CIREBON</span></strong>
       </div>
       <div class="credits">
         <!-- All the links in the footer should remain intact. -->

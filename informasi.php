@@ -102,7 +102,7 @@
               <li><a href="Informasi.php">Informasi Pendaftaran</a></li>
               </ul>
           <li><a href="contact.php">Contact</a></li>
-          <li><a class="get-a-quote" href="login.php">Login</a></li>
+          <li><a class="get-a-quote" href="informasi.php">daftar</a></li>
         </ul>
       </nav><!-- .navbar -->
 
@@ -189,7 +189,7 @@
                   <div class="error-message"></div>
                   <div class="sent-message">Your quote request has been sent successfully. Thank you!</div>
 
-                  <button type="submit">submit</button>
+                  <button type="submit">Kirim Data</button>
                 </div>
 
               </div>
