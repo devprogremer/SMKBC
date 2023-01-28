@@ -101,7 +101,7 @@
               <li><a href="Informasi.php">Informasi Pendaftaran</a></li>
               </ul>
           <li><a href="contact.php">Contact</a></li>
-          <li><a class="get-a-quote" href="get-a-quote.php">Login</a></li>
+          <li><a class="get-a-quote" href="login.php">Login</a></li>
         </ul>
       </nav><!-- .navbar -->
 
