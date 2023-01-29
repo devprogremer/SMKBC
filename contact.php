@@ -139,7 +139,7 @@
       <div class="container" data-aos="fade-up">
 
         <div>
-          <iframe style="border:0; width: 100%; height: 340px;" src="https://www.google.com/maps/place/SMK+Bina+Cendekia+Cirebon/@-6.8142049,108.6165476,17z/data=!4m15!1m8!3m7!1s0x2e6f04acde0ee93d:0x570909eb0cf5286!2sSMK+Bina+Cendekia+Cirebon!8m2!3d-6.8142102!4d108.6187363!10e1!16s%2Fg%2F11dz5lvk8z!3m5!1s0x2e6f04acde0ee93d:0x570909eb0cf5286!8m2!3d-6.8142102!4d108.6187363!16s%2Fg%2F11dz5lvk8z?hl=en-US#:~:text=%3Ciframe%20src%3D%22https,when%2Ddowngrade%22%3E%3C/iframe%3E" frameborder="0" allowfullscreen></iframe>
+          <iframe style="border:0; width: 100%; height: 340px;" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d63384.46777856386!2d108.60656949990842!3d-6.826961529703611!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e6f04acde0ee93d%3A0x570909eb0cf5286!2sSMK%20Bina%20Cendekia%20Cirebon!5e0!3m2!1sid!2sid!4v1674962821715!5m2!1sid!2sid" " frameborder="0" allowfullscreen></iframe>
         </div><!-- End Google Maps -->
 
         <div class="row gy-4 mt-4">
