@@ -202,8 +202,8 @@
               <div class="card-img">
                 <img src="assets/img/askep1.jpeg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">Storage</a></h3>
-              <p>Cumque eos in qui numquam. Aut aspernatur perferendis sed atque quia voluptas quisquam repellendus temporibus itaqueofficiis odit</p>
+              <h3><a href="service-details.html" class="stretched-link">12 maret 2022</a></h3>
+              <p>uji kompetensi keahlian (UKK) kelas 12 jurusan di SMK Bina Cendekia langsung di RS PERMATA</p>
             </div>
           </div><!-- End Card Item -->
 
@@ -212,8 +212,8 @@
               <div class="card-img">
                 <img src="assets/img/askep2.jpeg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">Logistics</a></h3>
-              <p>Asperiores provident dolor accusamus pariatur dolore nam id audantium ut et iure incidunt molestiae dolor ipsam ducimus occaecati nisi</p>
+              <h3><a href="service-details.html" class="stretched-link">12 maret 2022</a></h3>
+              <p>uji kompetensi keahlian (UKK) kelas 12 jurusan di SMK Bina Cendekia langsung di RS PERMATA</p>
             </div>
           </div><!-- End Card Item -->
 
@@ -224,8 +224,8 @@
               <div class="card-img">
                 <img src="assets/img/askep3.jpeg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">Cargo</a></h3>
-              <p>Dicta quam similique quia architecto eos nisi aut ratione aut ipsum reiciendis sit doloremque oluptatem aut et molestiae ut et nihil</p>
+              <h3><a href="service-details.html" class="stretched-link">12 maret 2022</a></h3>
+              <p>uji kompetensi keahlian (UKK) kelas 12 jurusan di SMK Bina Cendekia langsung di RS PERMATA</p>
             </div>
           </div><!-- End Card Item -->
 
@@ -234,8 +234,8 @@
               <div class="card-img">
                 <img src="assets/img/askep4.jpeg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">Trucking</a></h3>
-              <p>Dicta quam similique quia architecto eos nisi aut ratione aut ipsum reiciendis sit doloremque oluptatem aut et molestiae ut et nihil</p>
+              <h3><a href="service-details.html" class="stretched-link">18 januari 2022</a></h3>
+              <p>alumni SMK Bina Cendeki Cirebon lulus sekolah langsung kerja di rumah sakit permata cirebon</p>
             </div>
           </div><!-- End Card Item -->
 
@@ -244,8 +244,8 @@
               <div class="card-img">
                 <img src="assets/img/askep5.jpeg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">Packaging</a></h3>
-              <p>Illo consequuntur quisquam delectus praesentium modi dignissimos facere vel cum onsequuntur maiores beatae consequatur magni voluptates</p>
+              <h3><a href="service-details.html" class="stretched-link">12 maret 2022</a></h3>
+              <p>praktek Asisten Keperawatan</p>
             </div>
           </div><!-- End Card Item -->
 
@@ -254,8 +254,8 @@
               <div class="card-img">
                 <img src="assets/img/askep6.jpeg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">Warehousing</a></h3>
-              <p></p>
+              <h3><a href="service-details.html" class="stretched-link">23 juli 2022</a></h3>
+              <p>juara 2 lomba kompetensi siswa (LKS) Bidang Health Dan Social Care Tingkat Provinsi Jawa Barat </p>
             </div>
           </div><!-- End Card Item -->
 

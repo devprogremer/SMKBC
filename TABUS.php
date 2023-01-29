@@ -252,8 +252,8 @@
               <div class="card-img">
                 <img src="assets/img/tabus6.jpeg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">18 November 2022</a></h3>
-              <p>taya</p>
+              <h3><a href="service-details.html" class="stretched-link">28 oktober 2022</a></h3>
+              <p>prakerin tata busana di RABANI</p>
             </div>
           </div><!-- End Card Item -->
 
@@ -263,7 +263,7 @@
                 <img src="assets/img/tabus7.jpeg" alt="" class="img-fluid">
               </div>
               <h3><a href="service-details.html" class="stretched-link">12 desemeber 2021</a></h3>
-              <p>taya </p>
+              <p>kunjungan industri di toko rabani  </p>
             </div>
           </div><!-- End Card Item -->
 
@@ -273,7 +273,7 @@
                 <img src="assets/img/tabus8.jpeg" alt="" class="img-fluid">
               </div>
               <h3><a href="service-details.html" class="stretched-link">28 oktober 2022</a></h3>
-              <p>taya</p>
+              <p>prakerin tata busana di RABANI  </p>
             </div>
           </div><!-- End Card Item -->
 
