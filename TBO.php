@@ -171,8 +171,8 @@
       <div class="container" data-aos="fade-up">
 
         <div class="row">
-          <div class="col-lg-6 order-1 order-lg-2" data-aos="fade-left" data-aos-delay="100">
-            <img src="assets/img/Home.jpeg" class="img-fluid" alt="">
+          <div class="col-lg-4 order-1 order-lg-2" data-aos="fade-left" data-aos-delay="100">
+            <img src="assets/img/tbo.jpeg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right" data-aos-delay="100">
           <div class="section-title">
@@ -180,7 +180,7 @@
           <p>SMK Bina Cendekia Cirebon </p>
         </div>
             <ul>
-          <p> </p>
+          <br>TBO adalah merupakan salah satu kompetensi untuk menjadi seorang teknis dalam hal perbaikan bodi otomotif atau menjadi spesialis dalam hal bagian keindahan mobil tersebut yang dapat terdiri dari intirior maupun exterior. </br>
           </div>
         </div>
 
@@ -192,32 +192,31 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-header">
-          <h2>Kegiatan Asisten Keperawatan</h2>
+          <h2>Kegiatan Teknik Bodi Otomotif</h2>
 
         </div>
 
         <div class="row gy-4">
 
-          <div class="col-lg-6 col-md-8" data-aos="fade-up" data-aos-delay="100">
+        <div class="col-lg-6 col-md-8" data-aos="fade-up" data-aos-delay="600">
             <div class="card">
               <div class="card-img">
                 <img src="assets/img/tbo1.jpeg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">Storage</a></h3>
-              <p>Cumque eos in qui numquam. Aut aspernatur perferendis sed atque quia voluptas quisquam repellendus temporibus itaqueofficiis odit</p>
+              <h3><a href="service-details.html" class="stretched-link">12 Oktober 2022</a></h3>
+              <p>Praktek pengecettan mobil</p>
             </div>
           </div><!-- End Card Item -->
 
-          <div class="col-lg-6 col-md-8" data-aos="fade-up" data-aos-delay="200">
+          <div class="col-lg-6 col-md-8" data-aos="fade-up" data-aos-delay="600">
             <div class="card">
               <div class="card-img">
                 <img src="assets/img/tbo2.jpeg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">Logistics</a></h3>
-              <p>Asperiores provident dolor accusamus pariatur dolore nam id audantium ut et iure incidunt molestiae dolor ipsam ducimus occaecati nisi</p>
+              <h3><a href="service-details.html" class="stretched-link">18 agustus 2022</a></h3>
+              <p>praktek pengecettan mobil</p>
             </div>
           </div><!-- End Card Item -->
-
           <div class="row gy-4">
 
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
@@ -225,8 +224,8 @@
               <div class="card-img">
                 <img src="assets/img/tbo3.jpeg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">Cargo</a></h3>
-              <p>Dicta quam similique quia architecto eos nisi aut ratione aut ipsum reiciendis sit doloremque oluptatem aut et molestiae ut et nihil</p>
+              <h3><a href="service-details.html" class="stretched-link">26 Juni 2022</a></h3>
+              <p>Anak-anak Teknik Bodi Otomotif </p>
             </div>
           </div><!-- End Card Item -->
 
@@ -235,8 +234,8 @@
               <div class="card-img">
                 <img src="assets/img/tbo4.jpeg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">Trucking</a></h3>
-              <p>Dicta quam similique quia architecto eos nisi aut ratione aut ipsum reiciendis sit doloremque oluptatem aut et molestiae ut et nihil</p>
+              <h3><a href="service-details.html" class="stretched-link">19 Maret 2021</a></h3>
+              <p>hasil pengecattan helem kelas 12 TBO </p>
             </div>
           </div><!-- End Card Item -->
 
@@ -245,8 +244,8 @@
               <div class="card-img">
                 <img src="assets/img/tbo5.jpeg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">Packaging</a></h3>
-              <p>Illo consequuntur quisquam delectus praesentium modi dignissimos facere vel cum onsequuntur maiores beatae consequatur magni voluptates</p>
+              <h3><a href="service-details.html" class="stretched-link">23 Februari 2022</a></h3>
+              <p>Anak-anak Teknik Bodi Otomotif </p>
             </div>
           </div><!-- End Card Item -->
 
@@ -255,8 +254,8 @@
               <div class="card-img">
                 <img src="assets/img/tbo6.jpeg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">Warehousing</a></h3>
-              <p></p>
+              <h3><a href="service-details.html" class="stretched-link">18 agustus 2022 </a></h3>
+              <p>praktek pengecattan bodi mobil SMK Bina Cendekia </p>
             </div>
           </div><!-- End Card Item -->
 
@@ -266,7 +265,7 @@
                 <img src="assets/img/tbo7.jpeg" alt="" class="img-fluid">
               </div>
               <h3><a href="service-details.html" class="stretched-link">03 agustus 2022</a></h3>
-              <p>lomba LKS tingkat provinsi jawa barat.cirebon dalam live dengan mata lomba "Health social and care"</p>
+              <p>Praktek mengeacat hellem</p>
             </div>
           </div><!-- End Card Item -->
 

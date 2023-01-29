@@ -202,8 +202,8 @@
               <div class="card-img">
                 <img src="assets/img/rpl1.jpeg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">Storage</a></h3>
-              <p>Cumque eos in qui numquam. Aut aspernatur perferendis sed atque quia voluptas quisquam repellendus temporibus itaqueofficiis odit</p>
+              <h3><a href="service-details.html" class="stretched-link">23 Juli 2021</a></h3>
+              <p>belajar denangan tenang dengan alat-alat yang sudah di tersediakan</p>
             </div>
           </div><!-- End Card Item -->
 
@@ -212,8 +212,8 @@
               <div class="card-img">
                 <img src="assets/img/rpl2.jpeg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">Logistics</a></h3>
-              <p>Asperiores provident dolor accusamus pariatur dolore nam id audantium ut et iure incidunt molestiae dolor ipsam ducimus occaecati nisi</p>
+              <h3><a href="service-details.html" class="stretched-link">15 Maret 2022</a></h3>
+              <p>Uji Kometensi Kejuruan Rekayasa Perangkat Lunak kelas XII</p>
             </div>
           </div><!-- End Card Item -->
 
@@ -222,8 +222,8 @@
               <div class="card-img">
                 <img src="assets/img/rpl3.jpeg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">Cargo</a></h3>
-              <p>Dicta quam similique quia architecto eos nisi aut ratione aut ipsum reiciendis sit doloremque oluptatem aut et molestiae ut et nihil</p>
+              <h3><a href="service-details.html" class="stretched-link">17 Maret 2022</a></h3>
+              <p>Uji Kometensi Kejuruan Rekayasa Perangkat Lunak kelas XII</p>
             </div>
           </div><!-- End Card Item -->
 
@@ -232,8 +232,8 @@
               <div class="card-img">
                 <img src="assets/img/rpl4.jpeg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">Trucking</a></h3>
-              <p>Dicta quam similique quia architecto eos nisi aut ratione aut ipsum reiciendis sit doloremque oluptatem aut et molestiae ut et nihil</p>
+              <h3><a href="service-details.html" class="stretched-link">09 November 2022</a></h3>
+          <p>kegiatan belajar di Sekolah SMK Bina Cendekia</p>
             </div>
           </div><!-- End Card Item -->
 
@@ -242,8 +242,8 @@
               <div class="card-img">
                 <img src="assets/img/rpl5.jpeg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">Packaging</a></h3>
-              <p>Illo consequuntur quisquam delectus praesentium modi dignissimos facere vel cum onsequuntur maiores beatae consequatur magni voluptates</p>
+              <h3><a href="service-details.html" class="stretched-link">20 Oktober 2022</a></h3>
+              <p>jurusan Rpl di SMK Bina Cendekia. </p>
             </div>
           </div><!-- End Card Item -->
 
@@ -252,8 +252,8 @@
               <div class="card-img">
                 <img src="assets/img/rpl6.jpeg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">Warehousing</a></h3>
-              <p>Quas assumenda non occaecati molestiae. In aut earum sed natus eatae in vero. Ab modi quisquam aut nostrum unde et qui est non quo nulla</p>
+              <h3><a href="service-details.html" class="stretched-link">24 Agustus 2022</a></h3>
+              <p>kegiatan anak Rpl di laboratium SMK Bina Cendekia Cirebon.</p>
             </div>
           </div><!-- End Card Item -->
 
@@ -262,8 +262,8 @@
               <div class="card-img">
                 <img src="assets/img/rpl7.jpeg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">Warehousing</a></h3>
-              <p>Quas assumenda non occaecati molestiae. In aut earum sed natus eatae in vero. Ab modi quisquam aut nostrum unde et qui est non quo nulla</p>
+              <h3><a href="service-details.html" class="stretched-link">15 Desember 2021</a></h3>
+              <p>Sekolah SMK Bina Cendekia Cirebon kerja sama dengan PT Selim Elektro. </p>
             </div>
           </div><!-- End Card Item -->
 
@@ -272,8 +272,8 @@
               <div class="card-img">
                 <img src="assets/img/rpl8.jpeg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">Warehousing</a></h3>
-              <p>Quas assumenda non occaecati molestiae. In aut earum sed natus eatae in vero. Ab modi quisquam aut nostrum unde et qui est non quo nulla</p>
+              <h3><a href="service-details.html" class="stretched-link">19 November 2022</a></h3>
+              <p>Warkosp, penjelasan kurikulum  dan bahan ajar, SMK Bina Cendekia Cirebon.</p>
             </div>
           </div><!-- End Card Item -->
         </div>

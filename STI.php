@@ -170,7 +170,7 @@
 
         <div class="row">
           <div class="col-lg-6 order-1 order-lg-2" data-aos="fade-left" data-aos-delay="100">
-            <img src="assets/img/Home.jpeg" class="img-fluid" alt="">
+            <img src="assets/img/samsung.jpeg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right" data-aos-delay="100">
           <div class="section-title">
@@ -178,7 +178,7 @@
           <p>SMK Bina Cendekia Cirebon </p>
         </div>
             <ul>
-          <p>STI di adakan kejuruan di Sekolah SMk Bina Cendekia Cirebon Pada Tahun 2018 </p>
+          <br>Samsung Tech Institute adalah sebuah fasilitas dengan program pelatihan dasar elektronika untuk para siswa, yang akan memperkaya kurikulum pendidikan SMK Bina Cendekia Cirebon </br>
           </div>
         </div>
 
@@ -201,8 +201,8 @@
               <div class="card-img">
                 <img src="assets/img/sti1.jpeg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">06-maret-2022</a></h3>
-              <p>membuat gamis sendiri anak-anak tabus</p>
+              <h3><a href="service-details.html" class="stretched-link">29 sepetember 2019</a></h3>
+              <p>kegiatan praktek program studi Samsung Tech Institute SMK Bina Cendekia Cirebon</p>
             </div>
           </div><!-- End Card Item -->
 
@@ -211,8 +211,8 @@
               <div class="card-img">
                 <img src="assets/img/sti2.jpeg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">23-maret-2022</a></h3>
-            <p> Acara Fashion show, uji kompetensi kejuruan tata busana kelas 12 angkatan ke7</p>
+              <h3><a href="service-details.html" class="stretched-link">29 sepetember 2019</a></h3>
+            <p>kegiatan praktek program studi Samsung Tech Institute SMK Bina Cendekia Cirebon</p>
             </div>
           </div><!-- End Card Item -->
 
@@ -221,8 +221,8 @@
               <div class="card-img">
                 <img src="assets/img/sti3.jpeg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">Cargo</a></h3>
-              <p>Dicta quam similique quia architecto eos nisi aut ratione aut ipsum reiciendis sit doloremque oluptatem aut et molestiae ut et nihil</p>
+              <h3><a href="service-details.html" class="stretched-link">29 sepetember 2019</a></h3>
+              <p>kegiatan praktek program studi Samsung Tech Institute SMK Bina Cendekia Cirebon</p>
             </div>
           </div><!-- End Card Item -->
 
@@ -231,8 +231,8 @@
               <div class="card-img">
                 <img src="assets/img/sti4.jpeg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">Trucking</a></h3>
-              <p>Dicta quam similique quia architecto eos nisi aut ratione aut ipsum reiciendis sit doloremque oluptatem aut et molestiae ut et nihil</p>
+              <h3><a href="service-details.html" class="stretched-link">23 januari 2019</a></h3>
+              <p>praktek anak-anak SAMSUNG</p>
             </div>
           </div><!-- End Card Item -->
 
@@ -241,8 +241,8 @@
               <div class="card-img">
                 <img src="assets/img/sti5.jpeg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">Packaging</a></h3>
-              <p>Illo consequuntur quisquam delectus praesentium modi dignissimos facere vel cum onsequuntur maiores beatae consequatur magni voluptates</p>
+              <h3><a href="service-details.html" class="stretched-link">23 januari 2019</a></h3>
+              <p>praktek anak-anak SAMSUNG</p>
             </div>
           </div><!-- End Card Item -->
 
@@ -251,8 +251,8 @@
               <div class="card-img">
                 <img src="assets/img/sti6.jpeg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">saya</a></h3>
-              <p>taya</p>
+              <h3><a href="service-details.html" class="stretched-link">04 Januari 2022</a></h3>
+              <p></p>kelas SAMSUNG SMK Bina Cendekia Cirebon masa Training DI SAMSUNG CENTER CIREBON
             </div>
           </div><!-- End Card Item -->
 
@@ -261,8 +261,8 @@
               <div class="card-img">
                 <img src="assets/img/sti7.jpeg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">saya</a></h3>
-              <p>taya </p>
+              <h3><a href="service-details.html" class="stretched-link">23 februari 2022</a></h3>
+              <p>anak-anak SAMSUNG SMK Bina Cendekia Cirebon</p>
             </div>
           </div><!-- End Card Item -->
 
@@ -271,8 +271,8 @@
               <div class="card-img">
                 <img src="assets/img/sti8.jpeg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">saya</a></h3>
-              <p>taya</p>
+              <h3><a href="service-details.html" class="stretched-link">04 Januari 2022</a></h3>
+              <p>kelas SAMSUNG SMK Bina Cendekia Cirebon masa Training DI SAMSUNG CENTER CIREBON</p>
             </div>
           </div><!-- End Card Item -->
 

@@ -292,6 +292,10 @@
                 <img src="assets/img/lulusan-service.jpg" alt="" class="img-fluid">
               </div>
               <h3><a href="service-details.html" class="stretched-link">Alumni Berkualitas</a></h3>
+<<<<<<< HEAD
+=======
+              <p>Dicta quam similique quia architecto eos nisi aut ratione aut ipsum reiciendis sit doloremque oluptatem aut et molestiae ut et nihil</p>
+>>>>>>> b4e193569b87518284e9ad359cb07e6592e2c6eb
               <p>Alumni siap kerja, siap kuliah dan siap berwirausaha. Alumni tersebar di berbagai negara Seperti Jepang, Taiwan, Malaysia, dan lain-lain</p>
             </div>
           </div><!-- End Card Item -->

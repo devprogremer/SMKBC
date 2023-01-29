@@ -203,7 +203,7 @@
                 <img src="assets/img/tabus1.jpeg" alt="" class="img-fluid">
               </div>
               <h3><a href="service-details.html" class="stretched-link">06-maret-2022</a></h3>
-              <p>membuat gamis sendiri anak-anak tabus</p>
+              <p>membuat gamis sendiri anak-anak tatabus.</p>
             </div>
           </div><!-- End Card Item -->
 
@@ -213,7 +213,7 @@
                 <img src="assets/img/tabus2.jpeg" alt="" class="img-fluid">
               </div>
               <h3><a href="service-details.html" class="stretched-link">23-maret-2022</a></h3>
-            <p> Acara Fashion show, uji kompetensi kejuruan tata busana kelas 12 angkatan ke7</p>
+            <p> Acara Fashion show, uji kompetensi kejuruan tata busana kelas 12 angkatan ke7.</p>
             </div>
           </div><!-- End Card Item -->
 
@@ -222,28 +222,28 @@
               <div class="card-img">
                 <img src="assets/img/tabus3.jpeg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">Cargo</a></h3>
-              <p>Dicta quam similique quia architecto eos nisi aut ratione aut ipsum reiciendis sit doloremque oluptatem aut et molestiae ut et nihil</p>
+              <h3><a href="service-details.html" class="stretched-link">23 januari 2022</a></h3>
+              <p>jurusan tata busana di sekolah SMK Bina Cendekia cirebon. </p>
             </div>
           </div><!-- End Card Item -->
 
-          <div class="col-lg-6 col-md-8" data-aos="fade-up" data-aos-delay="400">
+          <div class="col-lg-6 col-md-8" data-aos="fade-up" data-aos-delay="600">
             <div class="card">
               <div class="card-img">
                 <img src="assets/img/tabus4.jpeg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">Trucking</a></h3>
-              <p>Dicta quam similique quia architecto eos nisi aut ratione aut ipsum reiciendis sit doloremque oluptatem aut et molestiae ut et nihil</p>
+              <h3><a href="service-details.html" class="stretched-link">12 Noveber 2022</a></h3>
+              <p>kegiatan jait kelas xi tata busana.</p>
             </div>
           </div><!-- End Card Item -->
 
-          <div class="col-lg-6 col-md-8" data-aos="fade-up" data-aos-delay="500">
+          <div class="col-lg-6 col-md-8" data-aos="fade-up" data-aos-delay="600">
             <div class="card">
               <div class="card-img">
                 <img src="assets/img/tabus5.jpeg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">Packaging</a></h3>
-              <p>Illo consequuntur quisquam delectus praesentium modi dignissimos facere vel cum onsequuntur maiores beatae consequatur magni voluptates</p>
+              <h3><a href="service-details.html" class="stretched-link">22 November 2022</a></h3>
+              <p>praktek jait kelas tabus.</p>
             </div>
           </div><!-- End Card Item -->
 
@@ -252,8 +252,8 @@
               <div class="card-img">
                 <img src="assets/img/tabus6.jpeg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">saya</a></h3>
-              <p>taya</p>
+              <h3><a href="service-details.html" class="stretched-link">28 oktober 2022</a></h3>
+              <p>prakerin tata busana di RABANI</p>
             </div>
           </div><!-- End Card Item -->
 
@@ -262,8 +262,8 @@
               <div class="card-img">
                 <img src="assets/img/tabus7.jpeg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">saya</a></h3>
-              <p>taya </p>
+              <h3><a href="service-details.html" class="stretched-link">12 desemeber 2021</a></h3>
+              <p>kunjungan industri di toko rabani  </p>
             </div>
           </div><!-- End Card Item -->
 
@@ -272,8 +272,8 @@
               <div class="card-img">
                 <img src="assets/img/tabus8.jpeg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">saya</a></h3>
-              <p>taya</p>
+              <h3><a href="service-details.html" class="stretched-link">28 oktober 2022</a></h3>
+              <p>prakerin tata busana di RABANI  </p>
             </div>
           </div><!-- End Card Item -->
 
