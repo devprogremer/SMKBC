@@ -179,8 +179,7 @@
                 <img src="assets/img/maulid1.jpeg" class="img-fluid" alt="">
               </div>
               <div class="member-info">
-                <h4>Muhammad Qushoy</h4>
-                <span>KEPALA MADRASAH</span>
+                <h4>maulid nabi</h4>
               </div>
             </div>
           </div>
@@ -191,8 +190,7 @@
                 <img src="assets/img/maulid2.jpeg" class="img-fluid" alt="">
               </div>
               <div class="member-info">
-                <h4>Alwi Baihaqi</h4>
-                <span>KEPALA URUSAN TATA USAHA</span>
+                <h4>maulid nabi</h4>
               </div>
             </div>
           </div>
@@ -203,8 +201,7 @@
                 <img src="assets/img/maulid3.jpeg" class="img-fluid" alt="">
               </div>
               <div class="member-info">
-                <h4>Titim Siti Fatimah, S.Pd,I</h4>
-                <span>BENDAHARA</span>
+                <h4>maulid nabi</h4>
               </div>
             </div>
           </div>
@@ -217,8 +214,7 @@
                 <img src="assets/img/maulid4.jpeg" class="img-fluid" alt="">
               </div>
               <div class="member-info">
-                <h4>Muhammad Qushoy</h4>
-                <span>KEPALA MADRASAH</span>
+                <h4>maulid nabi</h4>
               </div>
             </div>
           </div>
@@ -229,8 +225,7 @@
                 <img src="assets/img/maulid5.jpeg" class="img-fluid" alt="">
               </div>
               <div class="member-info">
-                <h4>Alwi Baihaqi</h4>
-                <span>KEPALA URUSAN TATA USAHA</span>
+                <h4>maulid nabi</h4>
               </div>
             </div>
           </div>
@@ -243,8 +238,7 @@
                 <img src="assets/img/maulid6.jpeg" class="img-fluid" alt="">
                 </div>
               <div class="member-info">
-                <h4>Ahmad Kinani,S.Kom.I</h4>
-                <span>BIDANG KURIKULUM</span>
+                <h4>maulid nabi</h4>
               </div>
             </div>
           </div>
@@ -255,8 +249,7 @@
                 <img src="assets/img/maulid7.jpeg" class="img-fluid" alt="">
               </div>
               <div class="member-info">
-                <h4>Dian Siti Oliyana,S.Pd</h4>
-                <span>BIDANG KESISWAAN</span>
+                <h4>maulid nabi</h4>
               </div>
             </div>
             </div>
@@ -267,8 +260,7 @@
                 <img src="assets/img/maulid8.jpeg" class="img-fluid" alt="">
               </div>
               <div class="member-info">
-                <h4></h4>
-                <span>BIDANG SARPAS</span>
+                <h4>maulid nabi</h4>
               </div>
             </div>
           </div>

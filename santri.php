@@ -179,8 +179,8 @@
                 <img src="assets/img/santri1.jpeg" class="img-fluid" alt="">
               </div>
               <div class="member-info">
-                <h4>Muhammad Qushoy</h4>
-                <span>KEPALA MADRASAH</span>
+                <h4>23 oktober 2022</h4>
+                <span>kegiatan hari santri nasional</span>
               </div>
             </div>
           </div>
@@ -191,8 +191,8 @@
                 <img src="assets/img/santri2.jpeg" class="img-fluid" alt="">
               </div>
               <div class="member-info">
-                <h4>Alwi Baihaqi</h4>
-                <span>KEPALA URUSAN TATA USAHA</span>
+                <h4>23 oktober 2022</h4>
+                <span>lomba karauke islami</span>
               </div>
             </div>
           </div>
@@ -203,8 +203,8 @@
                 <img src="assets/img/santri3.jpeg" class="img-fluid" alt="">
               </div>
               <div class="member-info">
-                <h4>Titim Siti Fatimah, S.Pd,I</h4>
-                <span>BENDAHARA</span>
+                <h4>23 oktober 2022</h4>
+                <span>kegiatan lomba kaligrafi</span>
               </div>
             </div>
           </div>
@@ -217,8 +217,8 @@
                 <img src="assets/img/santri4.jpeg" class="img-fluid" alt="">
               </div>
               <div class="member-info">
-                <h4>Muhammad Qushoy</h4>
-                <span>KEPALA MADRASAH</span>
+                <h4>23 oktober 2022</h4>
+                <span>lomba kaligrafi di SMK Bina Cendekia Cirebon</span>
               </div>
             </div>
           </div>
@@ -229,8 +229,8 @@
                 <img src="assets/img/santri5.jpeg" class="img-fluid" alt="">
               </div>
               <div class="member-info">
-                <h4>Alwi Baihaqi</h4>
-                <span>KEPALA URUSAN TATA USAHA</span>
+                <h4>23 oktober 2022</h4>
+                <span>lomba tahafiz jus 30</span>
               </div>
             </div>
           </div>
@@ -243,8 +243,8 @@
                 <img src="assets/img/santri6.jpeg" class="img-fluid" alt="">
                 </div>
               <div class="member-info">
-                <h4>Ahmad Kinani,S.Kom.I</h4>
-                <span>BIDANG KURIKULUM</span>
+                <h4>23 oktober 2022</h4>
+                <span>lomba hafalan jus 30</span>
               </div>
             </div>
           </div>
@@ -255,8 +255,8 @@
                 <img src="assets/img/santri7.jpeg" class="img-fluid" alt="">
               </div>
               <div class="member-info">
-                <h4>Dian Siti Oliyana,S.Pd</h4>
-                <span>BIDANG KESISWAAN</span>
+                <h4>23 oktober 2022</h4>
+                <span>kegiatan lomba di hari santri</span>
               </div>
             </div>
             </div>
@@ -267,8 +267,8 @@
                 <img src="assets/img/santri8.jpeg" class="img-fluid" alt="">
               </div>
               <div class="member-info">
-                <h4></h4>
-                <span>BIDANG SARPAS</span>
+                <h4>23 oktober 2022</h4>
+                <span>lomba kaligrafi di SMK Bina Cendekia Cirebon</span>
               </div>
             </div>
           </div>
