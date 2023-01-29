@@ -164,97 +164,24 @@
   </section><!-- End Hero Section -->
 
   <main id="main">
+<
+   
+</div>
+   </div>
 
-    <!-- ======= Featured Services Section ======= -->
-    <section id="featured-services" class="featured-services">
-      <div class="container">
-
-        <div class="row gy-4">
-
-          <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up">
-            <div class="icon flex-shrink-0"><i class="bi bi-person-check-fill"></i></div>
-            <div>
-              <h4 class="title">Sambutan Kepala Sekolah</h4>
-              <a href="service-details.html" class="readmore stretched-link"><span>check here</span><i class="bi bi-arrow-right"></i></a>
-            </div>
-          </div>
-          <!-- End Service Item -->
-
-          <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up" data-aos-delay="100">
-            <div class="icon flex-shrink-0"><i class="bi bi-buildings-fill"></i></div>
-            <div>
-              <h4 class="title">Fasilitas</h4>
-              <a href="service-details.html" class="readmore stretched-link"><span>check here</span><i class="bi bi-arrow-right"></i></a>
-            </div>
-          </div><!-- End Service Item -->
-
-          <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up" data-aos-delay="200">
-            <div class="icon flex-shrink-0"><i class="bi bi-people-fill"></i></div>
-            <div>
-              <h4 class="title">Alumni</h4>
-              <a href="service-details.html" class="readmore stretched-link"><span>check here</span><i class="bi bi-arrow-right"></i></a>
-            </div>
-          </div>
-          
-          <!-- End Service Item -->
-
+        </div>
         </div>
 
       </div>
     </section>
     <!-- End Featured Services Section -->
 
-    <!-- ======= About Us Section ======= -->
-    <section id="about" class="about pt-0">
-      <div class="container" data-aos="fade-up">
-
-        <div class="row gy-4">
-          <div class="col-lg-6 position-relative align-self-start order-lg-last order-first">
-            <img src="assets/img/abouttt.jpeg" class="img-fluid" alt="">
-            <a href="https://youtu.be/RU14KbxDDfU" class="glightbox play-btn"></a>
-          </div>
-          <div class="col-lg-6 content order-last  order-lg-first">
-          <h5>Informasi Umum</h5>
-            <h3>SMK BINA CENDEKIA CIREBON</h3>
-            <p>
-            Sekolah Menengah Kejuruan (SMK) Bina Cendekia adalah sekolah kejuruan pada jenjang pendidikan menengah yang berada dalam jurisdiksi Kementerian Pendidikan dan Kebudayaan (Kemdikbud). Satuan pendidikan ini dapat menjadi alternatif bagi lulusan SMP dan MTs, terutama bagi mereka yang memilih program kejuruan, dalam mengikuti pendidikan menengah, sebagai persiapan untuk melanjutkan pendidikan ke perguruan tinggi atau untuk memasuki kehidupan di masyarakat melalui bekerja atau berwirausaha. Kurikulum yang dilaksanakan di SMK Bina Cendekia adalah kurikulum SMK yang dikeluarkan oleh Kemdikbud. Pelaksanaan PAI bersifat komplementer dengan program pesantren, terutama terkait kemampuan membaca Al Qur’an, sehingga diharapkan lulusannya mampu membaca Al Qur’an secara fasih dan lancar, serta memahami aturan-aturan Islam terkait ibadah dan mu’amalah.
-            </p>
-            <ul>
-              <li data-aos="fade-up" data-aos-delay="100">
-                <i class="bi bi-pin-angle-fill"></i>
-                <div>
-                  <h5> SMK Bina Cendekia Cirebon</h5>
-                  <p> Adalah Sekolah Berbasis Pesantren</p>
-                </div>
-              </li>
-              <li data-aos="fade-up" data-aos-delay="200">
-                <i class="bi bi-bank2"></i>
-                <div>
-                  <h5>SMK Bina Cendekia Cirebon</h5>
-                  <p> Adalah Sekolah Pusat Keunggulan</p>
-                </div>
-              </li>
-              <li data-aos="fade-up" data-aos-delay="300">
-                <i class="bi bi-broadcast"></i>
-                <div>
-                  <h5>DI SMK Bina Cendekia Cirebon</h5>
-                  <p>Lulusan SMK Bina Cendekia Cirebon Di Jamin Langsung Kerja karena Sudah Bekerja Sama Dengan Banyak Perusahaan</p>
-                </div>
-              </li>
-            </ul>
-          </div>
-        </div>
-
-      </div>
-    </section><!-- End About Us Section -->
-
     <!-- ======= Services Section ======= -->
     <section id="service" class="services pt-0">
       <div class="container" data-aos="fade-up">
 
         <div class="section-header">
-          <span>Our Services</span>
-          <h2>Our Services</h2>
+          <h2>PRESTASI YANG DI RAIH</h2>
 
         </div>
 
@@ -263,10 +190,10 @@
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
             <div class="card">
               <div class="card-img">
-                <img src="assets/img/storage-service.jpg" alt="" class="img-fluid">
+                <img src="assets/img/prestasi-sevice.jpeg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">Storage</a></h3>
-              <p>Cumque eos in qui numquam. Aut aspernatur perferendis sed atque quia voluptas quisquam repellendus temporibus itaqueofficiis odit</p>
+              <h3><a href="service-details.html" class="stretched-link">Juara II</a></h3>
+              <p>Dalam Rangka (LOMBA KETERAMPILAN SISWA) SMK Tingkat Provinsi Jawa Barat,Tahun 2022</p>
             </div>
           </div><!-- End Card Item -->
 
