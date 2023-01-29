@@ -200,7 +200,7 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="member" data-aos="fade-up" data-aos-delay="300">
               <div class="member-img">
-                <img src="assets/img/santri4.jpeg" class="img-fluid" alt="">
+                <img src="assets/img/santri3.jpeg" class="img-fluid" alt="">
               </div>
               <div class="member-info">
                 <h4>Titim Siti Fatimah, S.Pd,I</h4>
