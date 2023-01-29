@@ -164,15 +164,13 @@
     </div>
   </section><!-- End Hero Section -->
 
-  <main id="main">
-    
 <!-- ======= About Section ======= -->
     <section id="about" class="about">
       <div class="container" data-aos="fade-up">
 
         <div class="row">
           <div class="col-lg-6 order-1 order-lg-2" data-aos="fade-left" data-aos-delay="100">
-            <img src="assets/img/Home.jpeg" class="img-fluid" alt="">
+            <img src="assets/img/samsung.jpeg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right" data-aos-delay="100">
           <div class="section-title">
@@ -186,6 +184,102 @@
 
       </div>
     </section><!-- End About Section -->
+
+     <!-- ======= Services Section ======= -->
+     <section id="service" class="services pt-0">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-header">
+          <h2>Kegiatan Samsung Tech Institute</h2>
+
+        </div>
+
+        <div class="row gy-4">
+
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
+            <div class="card">
+              <div class="card-img">
+                <img src="assets/img/sti1.jpeg" alt="" class="img-fluid">
+              </div>
+              <h3><a href="service-details.html" class="stretched-link">06-maret-2022</a></h3>
+              <p>membuat gamis sendiri anak-anak tabus</p>
+            </div>
+          </div><!-- End Card Item -->
+
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
+            <div class="card">
+              <div class="card-img">
+                <img src="assets/img/sti2.jpeg" alt="" class="img-fluid">
+              </div>
+              <h3><a href="service-details.html" class="stretched-link">23-maret-2022</a></h3>
+            <p> Acara Fashion show, uji kompetensi kejuruan tata busana kelas 12 angkatan ke7</p>
+            </div>
+          </div><!-- End Card Item -->
+
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
+            <div class="card">
+              <div class="card-img">
+                <img src="assets/img/sti3.jpeg" alt="" class="img-fluid">
+              </div>
+              <h3><a href="service-details.html" class="stretched-link">Cargo</a></h3>
+              <p>Dicta quam similique quia architecto eos nisi aut ratione aut ipsum reiciendis sit doloremque oluptatem aut et molestiae ut et nihil</p>
+            </div>
+          </div><!-- End Card Item -->
+
+          <div class="col-lg-6 col-md-8" data-aos="fade-up" data-aos-delay="400">
+            <div class="card">
+              <div class="card-img">
+                <img src="assets/img/sti4.jpeg" alt="" class="img-fluid">
+              </div>
+              <h3><a href="service-details.html" class="stretched-link">Trucking</a></h3>
+              <p>Dicta quam similique quia architecto eos nisi aut ratione aut ipsum reiciendis sit doloremque oluptatem aut et molestiae ut et nihil</p>
+            </div>
+          </div><!-- End Card Item -->
+
+          <div class="col-lg-6 col-md-8" data-aos="fade-up" data-aos-delay="500">
+            <div class="card">
+              <div class="card-img">
+                <img src="assets/img/sti5.jpeg" alt="" class="img-fluid">
+              </div>
+              <h3><a href="service-details.html" class="stretched-link">Packaging</a></h3>
+              <p>Illo consequuntur quisquam delectus praesentium modi dignissimos facere vel cum onsequuntur maiores beatae consequatur magni voluptates</p>
+            </div>
+          </div><!-- End Card Item -->
+
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="600">
+            <div class="card">
+              <div class="card-img">
+                <img src="assets/img/sti6.jpeg" alt="" class="img-fluid">
+              </div>
+              <h3><a href="service-details.html" class="stretched-link">saya</a></h3>
+              <p>taya</p>
+            </div>
+          </div><!-- End Card Item -->
+
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="600">
+            <div class="card">
+              <div class="card-img">
+                <img src="assets/img/sti7.jpeg" alt="" class="img-fluid">
+              </div>
+              <h3><a href="service-details.html" class="stretched-link">saya</a></h3>
+              <p>taya </p>
+            </div>
+          </div><!-- End Card Item -->
+
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="600">
+            <div class="card">
+              <div class="card-img">
+                <img src="assets/img/sti8.jpeg" alt="" class="img-fluid">
+              </div>
+              <h3><a href="service-details.html" class="stretched-link">saya</a></h3>
+              <p>taya</p>
+            </div>
+          </div><!-- End Card Item -->
+
+        </div>
+
+      </div>
+    </section><!-- End Services Section -->
 
   <!-- ======= Footer ======= -->
   <footer id="footer" class="footer">

@@ -257,6 +257,25 @@
             </div>
           </div><!-- End Card Item -->
 
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="600">
+            <div class="card">
+              <div class="card-img">
+                <img src="assets/img/rpl7.jpeg" alt="" class="img-fluid">
+              </div>
+              <h3><a href="service-details.html" class="stretched-link">Warehousing</a></h3>
+              <p>Quas assumenda non occaecati molestiae. In aut earum sed natus eatae in vero. Ab modi quisquam aut nostrum unde et qui est non quo nulla</p>
+            </div>
+          </div><!-- End Card Item -->
+
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="600">
+            <div class="card">
+              <div class="card-img">
+                <img src="assets/img/rpl8.jpeg" alt="" class="img-fluid">
+              </div>
+              <h3><a href="service-details.html" class="stretched-link">Warehousing</a></h3>
+              <p>Quas assumenda non occaecati molestiae. In aut earum sed natus eatae in vero. Ab modi quisquam aut nostrum unde et qui est non quo nulla</p>
+            </div>
+          </div><!-- End Card Item -->
         </div>
 
       </div>

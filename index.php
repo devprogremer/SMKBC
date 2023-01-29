@@ -252,6 +252,7 @@
 
         <div class="section-header">
           <h2>Kenapa Harus SMK Bina Cendekia CIrebon?</h2>
+            <h4>Alasan kenapa kalian semua harus bergabung dengan SMK Bina Cendekia Cirebon.</h4>
 
         </div>
         <div class="row gy-4">
