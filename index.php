@@ -83,7 +83,7 @@
               </li>
               <li class="dropdown"><a href="#"><span>Kegiatan</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
                 <ul>
-                  <li><a href="Ekstrakurikuler.php">Ekstrakurikuler</a></li>
+                  <li><a href="eskul.php">Ekstrakurikuler</a></li>
                   <li><a href="bahasa.php">Bulan Bahasa</a></li>
                   <li><a href="Maulid.php">Maulid Nabi Muhammad</a></li>
                   <li><a href="Porak.php">Porak</a></li>
@@ -101,7 +101,11 @@
               <li><a href="info.php">Informasi Pendaftaran</a></li>
               </ul>
           <li><a href="contact.php">Contact</a></li>
+<<<<<<< HEAD
           <li><a class="get-a-quote" href="login-multi-user/multi_user/index.php">Login</a></li>
+=======
+          <li><a class="get-a-quote" href="cek_login.php">Login</a></li>
+>>>>>>> c2c0e990f04ad72ebf2313ffc19303baa444c2e8
         </ul>
       </nav><!-- .navbar -->
 
