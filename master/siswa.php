@@ -51,8 +51,8 @@
           </h1>
           <ol class="breadcrumb">
             <li><a href="admin.php"><i class="fa fa-dashboard"></i> Home</a></li>
-            <li><a href="#">Data Siswa</a></li>
-            <li class="active">Daftar Siswa</li>
+            <li><a href="#">Data Guru</a></li>
+            <li class="active">Daftar Guru</li>
             
           </ol>
         </section>
@@ -63,8 +63,8 @@
             <!--edit-->
             <?php
             
-                        $id=$_GET['id_siswa'];
-                        $sql="SELECT  * FROM siswa where id_siswa='$id' ";
+                        $id=$_GET['id'];
+                        $sql="SELECT  * FROM siswa where id='$id' ";
                         
                         if (!$result=  mysqli_query($config, $sql)){
                         die('Error:'.mysqli_error($config));
@@ -74,7 +74,7 @@
                     ?>
             <div class="box">
             <div class="box-header with-border">
-                  Edit Siswa
+                  Edit Siswa 
               <div class="box-tools pull-right">
                 <button class="btn btn-box-tool" data-widget="collapse" data-toggle="tooltip" title="Collapse"><i class="fa fa-minus"></i></button>
                 <button class="btn btn-box-tool" data-widget="remove" data-toggle="tooltip" title="Remove"><i class="fa fa-times"></i></button>
@@ -85,17 +85,17 @@
                         <div class="row">
                 <div class="col-md-12 form-group">
                     <label>Nama</label>
-                    <input readonly="" type="hidden" name="id" value="<?php echo $row['id_siswa'];?>" class="form-control" placeholder="Enter..." required="">
+                    <input readonly="" type="hidden" name="id" value="<?php echo $row['id'];?>" class="form-control" placeholder="Enter..." required="">
                     <input type="text" name="nama" value="<?php echo $row['nama'];?>" class="form-control" placeholder="Enter..." required="">
                     </div>
                 <div class="col-md-12 form-group">
                     <label>Alamat</label>
-                    <input readonly="" type="hidden" name="id" value="<?php echo $row['id_siswa'];?>" class="form-control" placeholder="Enter..." required="">
+                    <input readonly="" type="hidden" name="id" value="<?php echo $row['id'];?>" class="form-control" placeholder="Enter..." required="">
                     <input type="text" name="alamat" value="<?php echo $row['alamat'];?>" class="form-control" placeholder="Enter..." required="">
                     </div>  
                 <div class="col-md-12 form-group">
-                    <label>kelas</label>
-                    <input readonly="" type="hidden" name="id" value="<?php echo $row['id_siswa'];?>" class="form-control" placeholder="Enter..." required="">
+                    <label>Kelas</label>
+                    <input readonly="" type="hidden" name="id" value="<?php echo $row['id'];?>" class="form-control" placeholder="Enter..." required="">
                     <input type="text" name="kelas" value="<?php echo $row['kelas'];?>" class="form-control" placeholder="Enter..." required="">
                     </div>
                 <div class="col-md-12 form-group">
@@ -152,8 +152,8 @@
                             <td><?php echo $row['kelas'];?></td>
                             <td><?php echo $row['jurusan'];?></td>
                             <td>
-                                <a href="<?php $_SERVER[SCRIPT_NAME] ;?>?page=siswa&id=<?php echo $row['id_siswa'];?>" class="btn btn-info"><li class="fa fa-pencil"></li> Edit</a> 
-                                <a href="aksisiswa.php?sender=hapus&id=<?php echo $row['id_siswa']; ?>" class="btn btn-danger"><li class="fa fa-trash-o"></li> Hapus</a> 
+                                <a href="<?php $_SERVER[SCRIPT_NAME] ;?>?page=siswa&id=<?php echo $row['id'];?>" class="btn btn-info"><li class="fa fa-pencil"></li> Edit</a> 
+                                <a href="aksisiswa.php?sender=hapus&id=<?php echo $row['id']; ?>" class="btn btn-danger"><li class="fa fa-trash-o"></li> Hapus</a> 
                              </td>
                         </tr> 
                             <?php    
@@ -177,7 +177,7 @@
       
       <!-- Bootstrap Modal - To Add New Record -->
 <!-- Modal -->
-<form action="aksisiswa.php?sender=siswa" method="POST" >
+<form action="aksi.php?sender=anggota" method="POST" >
 <div class="modal fade" id="my-modal1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
     <div class="modal-dialog" role="document">
        
@@ -206,8 +206,8 @@
     </div>
     
     <div class="form-group">
-      <label>Jurusan</label>
-      <textarea type="text" name="jurusan" class="form-control" placeholder="Enter ..."></textarea> 
+      <label>Email</label>
+      <textarea type="text" name="email" class="form-control" placeholder="Enter ..."></textarea> 
     </div>
  
 </div>

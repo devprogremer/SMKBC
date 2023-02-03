@@ -35,21 +35,20 @@ if($g=='siswa')
 else 
     if($g=='edit')
     {
-        mysqli_query($config,"UPDATE siswa SET id_siswa='$_POST[id]',
+        mysqli_query($config,"UPDATE siswa SET id='$_POST[id]',
             nama='$_POST[nama]',
             alamat='$_POST[alamat]',
             kelas='$_POST[kelas]',
-            jurusan='$_POST[jurusan]', WHERE id_siswa='$_POST[id]'");
+            jurusan='$_POST[jurusan]', WHERE id='$_POST[id]'");
          echo '<script LANGUAGE="JavaScript">
             alert("Siswa dengan nama :('.$_POST[nama].') Di Update")
             window.location.href="admin.php?page=siswa";
             </script>';
     } 
-
 else 
     if($g=='hapus')
     {
-        mysqli_query($config,"DELETE FROM siswa where id_siswa='$_GET[id]'");
+        mysqli_query($config,"DELETE FROM siswa where id='$_GET[id]'");
          echo '<script LANGUAGE="JavaScript">
             alert("Siswa dengan Id :('.$_GET[id].') Di Terhapus")
             window.location.href="admin.php?page=siswa";
