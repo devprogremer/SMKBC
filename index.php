@@ -59,7 +59,7 @@
                   <li><a href="Profil.php">Profil Sekolah</a></li>
                   <li><a href="visi.php">Visi dan Misi</a></li>
                   <li><a href="Organisasi.php">Struktur Organisasi</a></li>
-                  <li><a href="Data.php">Data Guru</a></li>
+                  <li><a href="data.php">Data Guru</a></li>
                   <li><a href="Akreditasi.php">Akreditasi</a></li>
                   <li><a href="industri.php">Hubungan Industri</a></li>    
                   <li><a href="prestasi.php">Prestasi</a></li>           
@@ -83,7 +83,7 @@
               </li>
               <li class="dropdown"><a href="#"><span>Kegiatan</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
                 <ul>
-                  <li><a href="Ekstrakurikuler.php">Ekstrakurikuler</a></li>
+                  <li><a href="eskul.php">Ekstrakurikuler</a></li>
                   <li><a href="bahasa.php">Bulan Bahasa</a></li>
                   <li><a href="Maulid.php">Maulid Nabi Muhammad</a></li>
                   <li><a href="Porak.php">Porak</a></li>

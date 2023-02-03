@@ -51,7 +51,7 @@
       <i class="mobile-nav-toggle mobile-nav-show bi bi-list"></i>
       <i class="mobile-nav-toggle mobile-nav-hide d-none bi bi-x"></i>
       <nav id="navbar" class="navbar">
-        <ul>
+         <ul>
           <li><a href="index.php" class="active">Beranda</a></li>
           <ul>
               <li class="dropdown"><a href="#"><span>Tentang Kami</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
@@ -101,13 +101,14 @@
               <li><a href="Informasi.php">Informasi Pendaftaran</a></li>
               </ul>
           <li><a href="contact.php">Contact</a></li>
-          <li><a class="get-a-quote" href="get-a-quote.php">Login</a></li>
+          <li><a class="get-a-quote" href="login.php">Login</a></li>
         </ul>
       </nav><!-- .navbar -->
 
     </div>
   </header><!-- End Header -->
   <!-- End Header -->
+  <main id="main">
 
   <!-- ======= Hero Section ======= -->
   <section id="hero" class="hero d-flex align-items-center">
@@ -115,7 +116,7 @@
       <div class="row gy-4 d-flex justify-content-between">
         <div class="col-lg-6 order-2 order-lg-1 d-flex flex-column justify-content-center">
           <h1 data-aos="fade-up">SMK BINA CENDEKIA CIREBON</h1>
-          <h3 data-aos="fade-up" data-aos-delay="100">Sekolah Kita Berbasis Pesantren</h3>
+          <h3 data-aos="fade-up" data-aos-delay="100">Sekolah Industri Berbasis Pesantren</h3>
 
           <form action="#" class="form- d-flex align-items-stretch mb-3" data-aos="fade-up" data-aos-delay="200">
             <input type="text" class="form-control" placeholder="Search">
@@ -165,17 +166,44 @@
 
   <main id="main">
 
-</div>
+    <!-- ======= Featured Services Section ======= -->
+    <section id="featured-services" class="featured-services">
+      <div class="container">
 
-    <!-- ======= Services Section ======= -->
-    <section id="service" class="services pt-0">
-      <div class="container" data-aos="fade-up">
+        <div class="row gy-4">
 
-        <div class="section-header">
-          <span></span>
-          <h2>HUBUNGAN INDUSTRI SMK BINA CEBDEKIA CIREBON</h2>
+          <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up">
+            <div class="icon flex-shrink-0"><i class="bi bi-person-check-fill"></i></div>
+            <div>
+              <h4 class="title">Sambutan Kepala Sekolah</h4>
+              <a href="service-details.html" class="readmore stretched-link"><span>check here</span><i class="bi bi-arrow-right"></i></a>
+            </div>
+          </div>
+          <!-- End Service Item -->
+
+          <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up" data-aos-delay="100">
+            <div class="icon flex-shrink-0"><i class="bi bi-buildings-fill"></i></div>
+            <div>
+              <h4 class="title">Fasilitas</h4>
+              <a href="service-details.html" class="readmore stretched-link"><span>check here</span><i class="bi bi-arrow-right"></i></a>
+            </div>
+          </div><!-- End Service Item -->
+
+          <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up" data-aos-delay="200">
+            <div class="icon flex-shrink-0"><i class="bi bi-people-fill"></i></div>
+            <div>
+              <h4 class="title">Alumni</h4>
+              <a href="service-details.html" class="readmore stretched-link"><span>check here</span><i class="bi bi-arrow-right"></i></a>
+            </div>
+          </div>
+          
+          <!-- End Service Item -->
 
         </div>
+
+      </div>
+    </section>
+    <!-- End Featured Services Section -->
 
     <!-- ======= Features Section ======= -->
     <section id="features" class="features">
@@ -184,13 +212,16 @@
         <div class="row gy-4 align-items-center features-item" data-aos="fade-up">
 
           <div class="col-md-5">
-            <img src="assets/img/permata.jpeg" class="img-fluid" alt="">
+            <img src="assets/img/pramuka-removebg-preview.png" width="400" height="400" class="img-fluid" alt="">
           </div>
           <div class="col-md-7">
-            <h3>Rumah Sakit Permata Cirebon</h3>
+            <h3>PRAMUKA</h3>
             <p class="fst-italic">
-             
+              Pramuka adalah nama organisasi kepanduan yang bertugas menyelenggarakan pendidikan di luar sekolah bagi anak-anak dan pemuda bangsa agar mereka memiliki ketangguhan, keberanian, memiliki kepribadian baik dan aktif dalam pembangunan di masyarakat.
             </p>
+              <p class="fst-italic">
+                <h3>Prestasi Yang Telah Kami Raih</h3>
+              </p>
             <ul>
               <li><i class="bi bi-check"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
               <li><i class="bi bi-check"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
@@ -201,255 +232,65 @@
 
         <div class="row gy-4 align-items-center features-item" data-aos="fade-up">
           <div class="col-md-5 order-1 order-md-2">
-            <img src="assets/img/rabani.jpeg" class="img-fluid" alt="">
+            <img src="assets/img/paskibra-removebg-preview.png" width="300" height="300" class="img-fluid" alt="">
           </div>
           <div class="col-md-7 order-2 order-md-1">
-            <h3>PT. Hugo Gamindo (Rabani)</h3>
+            <h3>PASKIBRA</h3>
             <p class="fst-italic">
-             
+            Paskibra atau Pasukan Pengibar Bendera merupakan pasukan yang bertugas untuk menaikkan bendera merah putih saat upacara hari Senin atau upacara peringatan nasional lain. Paskibra juga memiliki tugas untuk menaikkan dan menurunkan bendera pada peringatan hari kemerdekaan RI 17 Agustus di tingkat sekolah saja.
             </p>
-            <p>
-              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-              culpa qui officia deserunt mollit anim id est laborum
+            <p class="fst-italic">
+            Ada pemilihan khusus calon pengibar bendera di tingkat kota, propinsi dan nasional. Mereka mendapatkan sebutan Paskibraka atau Pasukan Pengibar Bendera Pusaka yang cukup elit di kalangan siswa biasa. Untuk menjadi anggota Paskibraka Nasional, Kamu harus mengikuti berbagai tes seleksi yang cukup ketat hingga dikirim mewakili provinsi.
             </p>
-          </div>
-        </div><!-- Features Item -->
-
-        <div class="row gy-4 align-items-center features-item" data-aos="fade-up">
-          <div class="col-md-5">
-            <img src="assets/img/lan.jpeg" class="img-fluid" alt="">
-          </div>
-          <div class="col-md-7">
-            <h3>PT. LAN</h3>
-            <p>
-
-            </p>
+            <p class="fst-italic">
+                <h3>Prestasi Yang Telah Kami Raih</h3>
+              </p>
             <ul>
               <li><i class="bi bi-check"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
               <li><i class="bi bi-check"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-              <li><i class="bi bi-check"></i> Facilis ut et voluptatem aperiam. Autem soluta ad fugiat.</li>
+              <li><i class="bi bi-check"></i> Ullam est qui quos consequatur eos accusamus.</li>
             </ul>
           </div>
         </div><!-- Features Item -->
 
         <div class="row gy-4 align-items-center features-item" data-aos="fade-up">
-          <div class="col-md-5 order-1 order-md-2">
-            <img src="assets/img/samsung1.jpeg" class="img-fluid" alt="">
-          </div>
-          <div class="col-md-7 order-2 order-md-1">
-            <h3>SAMSUNG</h3>
-            <p class="fst-italic">
-              
-            </p>
-            <p>
-              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-              culpa qui officia deserunt mollit anim id est laborum
-            </p>
-          </div>
-        </div><!-- Features Item -->
-
-        <div class="row gy-4 align-items-center features-item" data-aos="fade-up">
           <div class="col-md-5">
-            <img src="assets/img/ikmi.jpeg" class="img-fluid" alt="">
+            <img src="assets/img/irmas-removebg-preview.png" width="320" height="320" class="img-fluid" alt="">
           </div>
           <div class="col-md-7">
-            <h3>STMIK Cirebon</h3>
-            <p>
-
+            <h3>IRMAS</h3>
+            <p class="fst-italic">
+            Ikatan Remaja masjid atau IRMAS adalah perkumpulan pemuda masjid yang melakukan aktivitas sosial dan ibadah di lingkungan suatu masjid.
+            Pembagian tugas dan wewenang dalam remaja masjid termasuk dalam golongan organisasi yang menggunakan konsep Islam dengan menerapkan asas musyawarah, mufakat, dan amal jama'i (gotong royong) dalam segenap aktivitasnya.
             </p>
+            <p class="fst-italic">
+                <h3>Prestasi Yang Telah Kami Raih</h3>
+              </p>
             <ul>
               <li><i class="bi bi-check"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
               <li><i class="bi bi-check"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
               <li><i class="bi bi-check"></i> Facilis ut et voluptatem aperiam. Autem soluta ad fugiat.</li>
             </ul>
-          </div>
+          </div> 
         </div><!-- Features Item -->
 
         <div class="row gy-4 align-items-center features-item" data-aos="fade-up">
           <div class="col-md-5 order-1 order-md-2">
-            <img src="assets/img/amik.jpeg" class="img-fluid" alt="">
+            <img src="assets/img/logo-palang-merah-indonesia-pmi.png" class="img-fluid" alt="">
           </div>
           <div class="col-md-7 order-2 order-md-1">
-            <h3>Amik Bumi Nusantara</h3>
+            <h3>PMI</h3>
             <p class="fst-italic">
-              
+            Palang Merah Remaja adalah ekstrakurikuler dan organisasi yang bergerak di bidang kemanusiaan yang memberikan ilmu medis, kesiapsiagaan bencana dan ilmu kemanusiaan dan berbakti kepada masyarakat.
             </p>
-            <p>
-              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-              culpa qui officia deserunt mollit anim id est laborum
-            </p>
-          </div>
-        </div><!-- Features Item -->
-
-        <div class="row gy-4 align-items-center features-item" data-aos="fade-up">
-          <div class="col-md-5">
-            <img src="assets/img/stikom.jpeg" class="img-fluid" alt="">
-          </div>
-          <div class="col-md-7">
-            <h3>STIKOM</h3>
-            <p>
-
-            </p>
+            <p class="fst-italic">
+                <h3>Prestasi Yang Telah Kami Raih</h3>
+              </p>
             <ul>
               <li><i class="bi bi-check"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
               <li><i class="bi bi-check"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
               <li><i class="bi bi-check"></i> Facilis ut et voluptatem aperiam. Autem soluta ad fugiat.</li>
             </ul>
-          </div>
-        </div><!-- Features Item -->
-
-        <div class="row gy-4 align-items-center features-item" data-aos="fade-up">
-          <div class="col-md-5 order-1 order-md-2">
-            <img src="assets/img/akper.jpeg" class="img-fluid" alt="">
-          </div>
-          <div class="col-md-7 order-2 order-md-1">
-            <h3>Akper Husada Karya Jaya Jakarta </h3>
-            <p class="fst-italic">
-              
-            </p>
-            Akademi Keperawatan Husada Karya Jaya yang disingkat dengan AKPER “HKJ” merupakan suatu lembaga institusi yang berawal bernaung dibawah “Yayasan Husada Karya Jaya” dengan akte notaris no. 56 pada Selasa, 12 Juli 1994 dengan Notaris JE. Maogimon, SH.
-            <p>
-             
-            </p>
-          </div>
-        </div><!-- Features Item -->
-
-        <div class="row gy-4 align-items-center features-item" data-aos="fade-up">
-          <div class="col-md-5">
-            <img src="assets/img/darma.jpeg" class="img-fluid" alt="">
-          </div>
-          <div class="col-md-7">
-            <h3>PT. Darma Polimental</h3>
-            <p>
-
-            </p>
-            <ul>
-              <li><i class="bi bi-check"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-              <li><i class="bi bi-check"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-              <li><i class="bi bi-check"></i> Facilis ut et voluptatem aperiam. Autem soluta ad fugiat.</li>
-            </ul>
-          </div>
-        </div><!-- Features Item -->
-
-        <div class="row gy-4 align-items-center features-item" data-aos="fade-up">
-          <div class="col-md-5 order-1 order-md-2">
-            <img src="assets/img/slim.jpeg" class="img-fluid" alt="">
-          </div>
-          <div class="col-md-7 order-2 order-md-1">
-            <h3>PT. SLIM</h3>
-            <p class="fst-italic">
-              
-            </p>
-            <p>
-              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-              culpa qui officia deserunt mollit anim id est laborum
-            </p>
-          </div>
-        </div><!-- Features Item -->
-
-        <div class="row gy-4 align-items-center features-item" data-aos="fade-up">
-          <div class="col-md-5">
-            <img src="assets/img/leteex.jpeg" class="img-fluid" alt="">
-          </div>
-          <div class="col-md-7">
-            <h3>PT. Leteex</h3>
-            <p>
-
-            </p>
-            <ul>
-              <li><i class="bi bi-check"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-              <li><i class="bi bi-check"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-              <li><i class="bi bi-check"></i> Facilis ut et voluptatem aperiam. Autem soluta ad fugiat.</li>
-            </ul>
-          </div>
-        </div><!-- Features Item -->
-
-        <div class="row gy-4 align-items-center features-item" data-aos="fade-up">
-          <div class="col-md-5 order-1 order-md-2">
-            <img src="assets/img/hilek.jpeg" class="img-fluid" alt="">
-          </div>
-          <div class="col-md-7 order-2 order-md-1">
-            <h3>PT. Hilek</h3>
-            <p class="fst-italic">
-              
-            </p>
-            <p>
-              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-              culpa qui officia deserunt mollit anim id est laborum
-            </p>
-          </div>
-        </div><!-- Features Item -->
-
-        <div class="row gy-4 align-items-center features-item" data-aos="fade-up">
-          <div class="col-md-5">
-            <img src="assets/img/honda.jpeg" class="img-fluid" alt="">
-          </div>
-          <div class="col-md-7">
-            <h3>PT. Daya Motor Honda</h3>
-            <p>
-
-            </p>
-            <ul>
-              <li><i class="bi bi-check"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-              <li><i class="bi bi-check"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-              <li><i class="bi bi-check"></i> Facilis ut et voluptatem aperiam. Autem soluta ad fugiat.</li>
-            </ul>
-          </div>
-        </div><!-- Features Item -->
-
-        <div class="row gy-4 align-items-center features-item" data-aos="fade-up">
-          <div class="col-md-5 order-1 order-md-2">
-            <img src="assets/img/motor.jpeg" class="img-fluid" alt="">
-          </div>
-          <div class="col-md-7 order-2 order-md-1">
-            <h3>PT. Setia Kawan Motor</h3>
-            <p class="fst-italic">
-              
-            </p>
-            <p>
-              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-              culpa qui officia deserunt mollit anim id est laborum
-            </p>
-          </div>
-        </div><!-- Features Item -->
-
-        <div class="row gy-4 align-items-center features-item" data-aos="fade-up">
-          <div class="col-md-5">
-            <img src="assets/img/lan.jpeg" class="img-fluid" alt="">
-          </div>
-          <div class="col-md-7">
-            <h3>PT. LAN</h3>
-            <p>
-
-            </p>
-            <ul>
-              <li><i class="bi bi-check"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-              <li><i class="bi bi-check"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-              <li><i class="bi bi-check"></i> Facilis ut et voluptatem aperiam. Autem soluta ad fugiat.</li>
-            </ul>
-          </div>
-        </div><!-- Features Item -->
-
-        <div class="row gy-4 align-items-center features-item" data-aos="fade-up">
-          <div class="col-md-5 order-1 order-md-2">
-            <img src="assets/img/samsung.jpeg" class="img-fluid" alt="">
-          </div>
-          <div class="col-md-7 order-2 order-md-1">
-            <h3>SAMSUNG</h3>
-            <p class="fst-italic">
-              
-            </p>
-            <p>
-              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-              culpa qui officia deserunt mollit anim id est laborum
-            </p>
           </div>
         </div><!-- Features Item -->
 
@@ -461,100 +302,6 @@
 
       </div>
     </section><!-- End Pricing Section -->
-
-    <!-- ======= Testimonials Section ======= -->
-    <section id="testimonials" class="testimonials">
-      <div class="container">
-
-        <div class="slides-1 swiper" data-aos="fade-up">
-          <div class="swiper-wrapper">
-
-            <div class="swiper-slide">
-              <div class="testimonial-item">
-                <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
-                <h3>Saul Goodman</h3>
-                <h4>Ceo &amp; Founder</h4>
-                <div class="stars">
-                  <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
-                </div>
-                <p>
-                  <i class="bi bi-quote quote-icon-left"></i>
-                  Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
-                  <i class="bi bi-quote quote-icon-right"></i>
-                </p>
-              </div>
-            </div><!-- End testimonial item -->
-
-            <div class="swiper-slide">
-              <div class="testimonial-item">
-                <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
-                <h3>Sara Wilsson</h3>
-                <h4>Designer</h4>
-                <div class="stars">
-                  <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
-                </div>
-                <p>
-                  <i class="bi bi-quote quote-icon-left"></i>
-                  Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
-                  <i class="bi bi-quote quote-icon-right"></i>
-                </p>
-              </div>
-            </div><!-- End testimonial item -->
-
-            <div class="swiper-slide">
-              <div class="testimonial-item">
-                <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
-                <h3>Jena Karlis</h3>
-                <h4>Store Owner</h4>
-                <div class="stars">
-                  <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
-                </div>
-                <p>
-                  <i class="bi bi-quote quote-icon-left"></i>
-                  Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.
-                  <i class="bi bi-quote quote-icon-right"></i>
-                </p>
-              </div>
-            </div><!-- End testimonial item -->
-
-            <div class="swiper-slide">
-              <div class="testimonial-item">
-                <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
-                <h3>Matt Brandon</h3>
-                <h4>Freelancer</h4>
-                <div class="stars">
-                  <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
-                </div>
-                <p>
-                  <i class="bi bi-quote quote-icon-left"></i>
-                  Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
-                  <i class="bi bi-quote quote-icon-right"></i>
-                </p>
-              </div>
-            </div><!-- End testimonial item -->
-
-            <div class="swiper-slide">
-              <div class="testimonial-item">
-                <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
-                <h3>John Larson</h3>
-                <h4>Entrepreneur</h4>
-                <div class="stars">
-                  <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
-                </div>
-                <p>
-                  <i class="bi bi-quote quote-icon-left"></i>
-                  Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
-                  <i class="bi bi-quote quote-icon-right"></i>
-                </p>
-              </div>
-            </div><!-- End testimonial item -->
-
-          </div>
-          <div class="swiper-pagination"></div>
-        </div>
-
-      </div>
-    </section><!-- End Testimonials Section -->
 
     <!-- ======= Frequently Asked Questions Section ======= -->
     <section id="faq" class="faq">
@@ -665,10 +412,10 @@
          <br> Phone: 0231 8845465<br>Email: smkbinacendekiacirebona@gmail.com
           </p>
           <div class="social-links d-flex mt-4">
-            <a href="https://youtube.com/@smkbinacendekiacirebonoffi3039" class="Youtube"><i class="bi bi-play-btn-fill"></i></a>
-            <a href="https://www.facebook.com/profile.php?id=100009648338366" class="facebook"><i class="bi bi-facebook"></i></a>
-            <a href="https://instagram.com/smkbinacendekia?igshid=OGQ2MjdiOTE=" class="instagram"><i class="bi bi-instagram"></i></a>
-            <a href="https://www.tiktok.com/@smkbinacendekiacirebon?_r=1&_d=dkgebdh40m7l26&language=id&sec_uid=MS4wLjABAAAAYRFN2ZlU0y_HKAnDd33Qg3ZBMFmqtm7-Py0AkhltELueBlrfbxgyAwwWwajHbl7f&share_author_id=6933598016310592513&source=h5_t&timestamp=1674875179&utm_source=copy&utm_campaign=client_share&utm_medium=android&share_iid=7188303969302906650&share_link_id=648d57dd-9a99-4dda-bcc8-6f59b17706c7&share_app_id=1180&ugbiz_name=Account&ug_btm=b6880%2Cb2878" class="TikTok"><i class="bi bi-tiktok"></i></a>
+            <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
+            <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
+            <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
+            <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></a>
           </div>
         </div>
 
@@ -693,6 +440,16 @@
             <li><a href="#">Graphic Design</a></li>
           </ul>
         </div>
+
+        <div class="col-lg-3 col-md-12 footer-contact text-center text-md-start">
+          <h4>Contact Us</h4>
+          <p>
+            A108 Adam Street <br>
+            New York, NY 535022<br>
+            United States <br><br>
+            <strong>Phone:</strong> +1 5589 55488 55<br>
+            <strong>Email:</strong> info@example.com<br>
+          </p>
 
         </div>
 

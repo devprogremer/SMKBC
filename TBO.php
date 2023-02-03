@@ -180,7 +180,7 @@
           <p>SMK Bina Cendekia Cirebon </p>
         </div>
             <ul>
-          <p> </p>
+          <br>TBO adalah merupakan salah satu kompetensi untuk menjadi seorang teknis dalam hal perbaikan bodi otomotif atau menjadi spesialis dalam hal bagian keindahan mobil tersebut yang dapat terdiri dari intirior maupun exterior. </br>
           </div>
         </div>
 
@@ -203,8 +203,8 @@
               <div class="card-img">
                 <img src="assets/img/tbo1.jpeg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">Warehousing</a></h3>
-              <p></p>
+              <h3><a href="service-details.html" class="stretched-link">12 Oktober 2022</a></h3>
+              <p>Praktek pengecettan mobil</p>
             </div>
           </div><!-- End Card Item -->
 
@@ -213,8 +213,8 @@
               <div class="card-img">
                 <img src="assets/img/tbo2.jpeg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">03 agustus 2022</a></h3>
-              <p>lomba LKS tingkat provinsi jawa barat.cirebon dalam live dengan mata lomba "Health social and care"</p>
+              <h3><a href="service-details.html" class="stretched-link">18 agustus 2022</a></h3>
+              <p>praktek pengecettan mobil</p>
             </div>
           </div><!-- End Card Item -->
           <div class="row gy-4">
@@ -224,8 +224,8 @@
               <div class="card-img">
                 <img src="assets/img/tbo3.jpeg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">Cargo</a></h3>
-              <p>Dicta quam similique quia architecto eos nisi aut ratione aut ipsum reiciendis sit doloremque oluptatem aut et molestiae ut et nihil</p>
+              <h3><a href="service-details.html" class="stretched-link">26 Juni 2022</a></h3>
+              <p>Anak-anak Teknik Bodi Otomotif </p>
             </div>
           </div><!-- End Card Item -->
 
@@ -234,8 +234,8 @@
               <div class="card-img">
                 <img src="assets/img/tbo4.jpeg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">Trucking</a></h3>
-              <p>Dicta quam similique quia architecto eos nisi aut ratione aut ipsum reiciendis sit doloremque oluptatem aut et molestiae ut et nihil</p>
+              <h3><a href="service-details.html" class="stretched-link">19 Maret 2021</a></h3>
+              <p>hasil pengecattan helem kelas 12 TBO </p>
             </div>
           </div><!-- End Card Item -->
 
@@ -244,8 +244,8 @@
               <div class="card-img">
                 <img src="assets/img/tbo5.jpeg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">Packaging</a></h3>
-              <p>Illo consequuntur quisquam delectus praesentium modi dignissimos facere vel cum onsequuntur maiores beatae consequatur magni voluptates</p>
+              <h3><a href="service-details.html" class="stretched-link">23 Februari 2022</a></h3>
+              <p>Anak-anak Teknik Bodi Otomotif </p>
             </div>
           </div><!-- End Card Item -->
 
@@ -254,8 +254,8 @@
               <div class="card-img">
                 <img src="assets/img/tbo6.jpeg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">Warehousing</a></h3>
-              <p></p>
+              <h3><a href="service-details.html" class="stretched-link">18 agustus 2022 </a></h3>
+              <p>praktek pengecattan bodi mobil SMK Bina Cendekia </p>
             </div>
           </div><!-- End Card Item -->
 
@@ -265,7 +265,7 @@
                 <img src="assets/img/tbo7.jpeg" alt="" class="img-fluid">
               </div>
               <h3><a href="service-details.html" class="stretched-link">03 agustus 2022</a></h3>
-              <p>lomba LKS tingkat provinsi jawa barat.cirebon dalam live dengan mata lomba "Health social and care"</p>
+              <p>Praktek mengeacat hellem</p>
             </div>
           </div><!-- End Card Item -->
 
