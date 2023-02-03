@@ -218,7 +218,7 @@
 
           <div class="col-lg-3 col-md-1 d-flex">
             <div class="member">
-              <img src="assets/img/team/Teamm-1.jpeg" class="img-fluid" alt="">
+              <img src="assets/img/team/kepsek.jpeg" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Ade Rahamat Saputra,M,Pd.</h4>
             
@@ -237,7 +237,7 @@
 
           <div class="col-lg-3 col-md-1 d-flex">
             <div class="member">
-              <img src="assets/img/team/Teamm-1.jpeg" class="img-fluid" alt="">
+              <img src="assets/img/team/01.jpeg" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Maulana Jamaludin, S.Kom</h4>
                 
@@ -256,7 +256,7 @@
 
           <div class="col-lg-3 col-md-1 d-flex">
             <div class="member">
-              <img src="assets/img/team/Teamm-1.jpeg" class="img-fluid" alt="">
+              <img src="assets/img/team/3.jpeg" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Abdul Mutholib, S.Pd.I</h4>
                
@@ -275,7 +275,7 @@
 
           <div class="col-lg-3 col-md-1 d-flex">
             <div class="member">
-              <img src="assets/img/team/Teamm-1.jpeg" class="img-fluid" alt="">
+              <img src="assets/img/team/04.jpeg" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Nurhikmah, S.Pd</h4>
                
@@ -351,7 +351,7 @@
 
           <div class="col-lg-3 col-md-1 d-flex">
             <div class="member">
-              <img src="assets/img/team/Teamm-1.jpeg" class="img-fluid" alt="">
+              <img src="assets/img/team/08.jpeg" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Abdul Ghoni, S.Pd </h4>
                
@@ -521,7 +521,7 @@
 
           <div class="col-lg-3 col-md-1 d-flex">
             <div class="member">
-              <img src="assets/img/team/Teamm-1.jpeg" class="img-fluid" alt="">
+              <img src="assets/img/team/17.jpeg" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Entik Kartika, S.Pd</h4>
              
