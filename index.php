@@ -101,11 +101,7 @@
               <li><a href="info.php">Informasi Pendaftaran</a></li>
               </ul>
           <li><a href="contact.php">Contact</a></li>
-<<<<<<< HEAD
-          <li><a class="get-a-quote" href="login-multi-user/multi_user/index.php">Login</a></li>
-=======
           <li><a class="get-a-quote" href="cek_login.php">Login</a></li>
->>>>>>> c2c0e990f04ad72ebf2313ffc19303baa444c2e8
         </ul>
       </nav><!-- .navbar -->
 
