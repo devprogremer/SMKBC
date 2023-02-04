@@ -12,7 +12,7 @@
           <ul class="sidebar-menu">
             <li class="header">Halaman Admin</li>
             <li>
-              <a href="index.php">
+              <a href="admin.php">
                  <i class="fa fa-home"></i> <span>Dashboard</span>
               </a>
             </li> 
@@ -26,7 +26,7 @@
                 <i class="fa fa-users"></i> <span>Data PDB</span>  
               </a>
             </li>
-            <li  class="active">
+            <li  class="active" >
               <a href="<?php $_SERVER[SCRIPT_NAME];?>?page=siswa">
                 <i class="fa fa-users"></i> <span>Data Siswa</span>  
               </a>
@@ -51,8 +51,8 @@
           </h1>
           <ol class="breadcrumb">
             <li><a href="admin.php"><i class="fa fa-dashboard"></i> Home</a></li>
-            <li><a href="#">Data Guru</a></li>
-            <li class="active">Daftar Guru</li>
+            <li><a href="#">Data Siswa</a></li>
+            <li class="active">Daftar Siswa</li>
             
           </ol>
         </section>
@@ -74,7 +74,7 @@
                     ?>
             <div class="box">
             <div class="box-header with-border">
-                  Edit Siswa 
+                  Edit Siswa
               <div class="box-tools pull-right">
                 <button class="btn btn-box-tool" data-widget="collapse" data-toggle="tooltip" title="Collapse"><i class="fa fa-minus"></i></button>
                 <button class="btn btn-box-tool" data-widget="remove" data-toggle="tooltip" title="Remove"><i class="fa fa-times"></i></button>
@@ -177,14 +177,14 @@
       
       <!-- Bootstrap Modal - To Add New Record -->
 <!-- Modal -->
-<form action="aksi.php?sender=anggota" method="POST" >
+<form action="aksisiswa.php?sender=siswa" method="POST" >
 <div class="modal fade" id="my-modal1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
     <div class="modal-dialog" role="document">
        
 <div class="modal-content">
 <div class="modal-header">
 
-<h4 class="modal-title" id="myModalLabel">Tambah Siswa</h4>
+<h4 class="modal-title" id="myModalLabel">Tambah Guru</h4>
 </div>
    
 <div class="modal-body center"> 
@@ -204,10 +204,11 @@
       <label>Kelas</label>
       <input type="text" name="kelas" class="form-control" required="" placeholder="Enter ...">
     </div>
+ 
     
     <div class="form-group">
-      <label>Email</label>
-      <textarea type="text" name="email" class="form-control" placeholder="Enter ..."></textarea> 
+      <label>Jurusan</label>
+      <textarea type="text" name="jurusan" class="form-control" placeholder="Enter ..."></textarea> 
     </div>
  
 </div>

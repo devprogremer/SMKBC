@@ -10,7 +10,7 @@ include 'koneksi.php';
  * Alamat :Desa Kumain, Kec.Tandun, Kab.Rokan Hulu
  * and open the template in the editor.
  */ 
-//Start Aksi Anggota
+//Start Aksi Siswa
 $g=$_GET['sender'];
 if($g=='siswa')
 {
@@ -39,7 +39,7 @@ else
             nama='$_POST[nama]',
             alamat='$_POST[alamat]',
             kelas='$_POST[kelas]',
-            jurusan='$_POST[jurusan]', WHERE id='$_POST[id]'");
+            jurusan='$_POST[jurusan]' WHERE id='$_POST[id]'");
          echo '<script LANGUAGE="JavaScript">
             alert("Siswa dengan nama :('.$_POST[nama].') Di Update")
             window.location.href="admin.php?page=siswa";
@@ -54,5 +54,5 @@ else
             window.location.href="admin.php?page=siswa";
             </script>';
     }
-//End Aksi Anggota
+//End Aksi Siswa
 ?>
