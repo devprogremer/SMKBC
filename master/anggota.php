@@ -12,7 +12,7 @@
           <ul class="sidebar-menu">
             <li class="header">Halaman Admin</li>
             <li>
-              <a href="index.php">
+              <a href="admin.php">
                  <i class="fa fa-home"></i> <span>Dashboard</span>
               </a>
             </li> 
