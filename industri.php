@@ -191,11 +191,10 @@
             <p class="fst-italic">
              
             </p>
-            <ul>
-              <li><i class="bi bi-check"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-              <li><i class="bi bi-check"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-              <li><i class="bi bi-check"></i> Ullam est qui quos consequatur eos accusamus.</li>
-            </ul>
+            Pada Tahun 2011 dengan izin Allah SWT, PT. Raudhatussyfaa Sehat Bersama dapat membeli tanah di Jl.Tuparev No. 117 Pilangsari Cirebon yang akan diperuntukan untuk Rumah Sakit.
+
+Pembangunan Rumah Sakit sempat maju mundur selama beberapa tahun karena satu dan lain hal, dan pada tahun 2013 atas dasar persamaan visi dan misi PT. Raudhatussyfaa Sehat Bersama bekerjasama dengan Rumah Sakit Permata pertama di Cibubur, maka berdirilah Rumah Sakit Permata Cirebon yang diharapkan berkembang secara inovatif dan menjadi pusat pelayanan klinik dan non-klinik yang terintegrasi serta menjadi pelopor rumah sakit yang menyajikan perawatan terbaik untuk kenyamanan dan kesembuhan fisik dan psikologis pasien khususnya di Area Cirebon dan Wilayah Tiga.
+
           </div>
         </div><!-- Features Item -->
 
@@ -206,12 +205,8 @@
           <div class="col-md-7 order-2 order-md-1">
             <h3>PT. Hugo Gamindo (Rabani)</h3>
             <p class="fst-italic">
-             
-            </p>
             <p>
-              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-              culpa qui officia deserunt mollit anim id est laborum
+            Perusahaan lokal yang bergerak dibidang manufaktur pembuatan busana muslim, yang menjadi satu-satunya pembuat/pemasok produk busana muslim Brand Rabbani, berlokasi di Bandung Jawa Barat, dengan jumlah karyawan kurang lebih 2.000 Karyawan. Memiliki Value perusahaan Suho Taat, Kuat, Hebat, Bersahabat, dan Bermartabat.
             </p>
           </div>
         </div><!-- Features Item -->
@@ -223,29 +218,23 @@
           <div class="col-md-7">
             <h3>PT. LAN</h3>
             <p>
-
+            Len didirikan sejak tahun 1965 dengan nama LEN (Lembaga Elektroteknika Nasional). Kemudian bertransformasi menjadi sebuah Badan Usaha Milik Negara (BUMN) pada tahun 1991. Sejak saat itu Len bukan lagi merupakan kepanjangan dari Lembaga Elektroteknika Nasional (LEN), tetapi telah menjadi sebuah entitas bisnis profesional dengan nama PT Len Industri (Persero).
             </p>
-            <ul>
-              <li><i class="bi bi-check"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-              <li><i class="bi bi-check"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-              <li><i class="bi bi-check"></i> Facilis ut et voluptatem aperiam. Autem soluta ad fugiat.</li>
-            </ul>
           </div>
         </div><!-- Features Item -->
 
         <div class="row gy-4 align-items-center features-item" data-aos="fade-up">
           <div class="col-md-5 order-1 order-md-2">
-            <img src="assets/img/samsung1.jpeg" class="img-fluid" alt="">
+            <img src="assets/img/samsung12.jpeg" class="img-fluid" alt="">
           </div>
           <div class="col-md-7 order-2 order-md-1">
             <h3>SAMSUNG</h3>
             <p class="fst-italic">
               
             </p>
+            SΛMSUNG sadalah sebuah perusahaan elektronik multinasional yang berkantor pusat di Distrik Yeongtong, Suwon, Korea Selatan.Perusahaan ini adalah inti dari chaebol Samsung, karena menyumbang 70% dari total pendapatan grup tersebut pada tahun 2012.Samsung Electronics memainkan peran penting dalam tata kelola grup tersebut, karena adanya kepemilikan silang.Samsung Electronics memiliki pabrik perakitan dan jaringan penjualan di 74 negara, dengan jumlah pekerja sekitar 275.000 orang.Mayoritas saham perusahaan ini dipegang oleh investor dari luar Korea Selatan.Perusahaan ini adalah produsen elektronik konsumen dengan pendapatan terbesar di dunia.Hingga 2019, Samsung Electronics adalah perusahaan teknologi dengan pendapatan terbesar kedua di dunia, dan kapitalisasi pasarnya mencapai US$520,65 milyar, sehingga menjadi yang terbesar ke-12 di dunia.
             <p>
-              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-              culpa qui officia deserunt mollit anim id est laborum
+
             </p>
           </div>
         </div><!-- Features Item -->
@@ -257,13 +246,11 @@
           <div class="col-md-7">
             <h3>STMIK Cirebon</h3>
             <p>
-
+            Sekolah Tinggi Manajemen Informatika dan Komputer (STMIK) IKMI Cirebon berdiri berdasarkan SK Mendiknas RI Nomor 120/D/O/2001 yang telah diperbaharui dengan SK Menristekdikti RI Nomor 1/KPT/I/2015. Saat ini memiliki 5 (lima) Program Studi yang terdiri dari 3 (tiga) Program Studi Sarjana dan 2 (dua) Program Studi Diploma.
             </p>
-            <ul>
-              <li><i class="bi bi-check"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-              <li><i class="bi bi-check"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-              <li><i class="bi bi-check"></i> Facilis ut et voluptatem aperiam. Autem soluta ad fugiat.</li>
-            </ul>
+            <p>
+            STMIK IKMI Cirebon berkedudukan di Jl. Perjuangan No. 10 B Majasem Kota Cirebon, berdiri diatas lahan seluas 5.700 m2 , dengan memiliki 1 (satu) gedung perkuliahan 3 lantai yang terdiri 14 ruang kelas, 5 ruang lab komputer , 1 ruang server, 1 ruang front office, 1 ruang rapat dan Ruang BEM. Selain gedung perkuliahan memiliki 1 gedung untuk sekretariat yang terdiri dari Ruang Pimpinan, Ruang Senat, Ruang Dosen, Ruang Pengelola Prodi, Ruang Penjaminan Mutu, Ruang Seminar, 4 Ruang Studio, Ruang Perpustakaan
+            </p>
           </div>
         </div><!-- Features Item -->
 
@@ -277,9 +264,7 @@
               
             </p>
             <p>
-              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-              culpa qui officia deserunt mollit anim id est laborum
+            
             </p>
           </div>
         </div><!-- Features Item -->
@@ -291,13 +276,8 @@
           <div class="col-md-7">
             <h3>STIKOM</h3>
             <p>
-
+            Mewujudkan Sekolah Tinggi sebagai pusat pendidikan unggulan berbasis ICT  (Information & Communication Technology) di tingkat nasional pada tahun 2025. Mencetak Tenaga Profesional yang Mandiri dan mampu menerapkan Information & Communication Technology di dunia kerja. Melaksanakan Penelitian berkualitas sesuai kebutuhan dan budaya masyarakat lokal dan nasional. Melaksanakan pengabdian masyarakat yang berbasis pada pengembangan ilmu dan teknologi untuk peningkatan kesejahteraan masyarakat. Menjalin kerjasama yang baik dengan lembaga terkait baik dengan lembaga pemerintah ataupun swasta, dalam negeri maupun luar negeri
             </p>
-            <ul>
-              <li><i class="bi bi-check"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-              <li><i class="bi bi-check"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-              <li><i class="bi bi-check"></i> Facilis ut et voluptatem aperiam. Autem soluta ad fugiat.</li>
-            </ul>
           </div>
         </div><!-- Features Item -->
 
@@ -312,7 +292,7 @@
             </p>
             Akademi Keperawatan Husada Karya Jaya yang disingkat dengan AKPER “HKJ” merupakan suatu lembaga institusi yang berawal bernaung dibawah “Yayasan Husada Karya Jaya” dengan akte notaris no. 56 pada Selasa, 12 Juli 1994 dengan Notaris JE. Maogimon, SH.
             <p>
-             
+            Pada tanggal, 22 Maret 1995 dengan Surat Keputusan Menteri Kesehatan Republik Indonesia No. HK.00.06.1.1.826 dikeluarkannya pertama sekali tentang Izin Sementara kepada Yayasan Husada Karya Jaya Jakarta Prov. Daerah Khusus Ibukota Jakarta untuk Mendirikan Akademi Keperawatan Husada Karya Jaya di JAKARTA, dan selanjutnya Akademi Keperawatan Husada Karya Jaya ini diresmikan pada tanggal 27 September 1995 oleh Kepala Dinas Kesehatan DKI Jakarta.
             </p>
           </div>
         </div><!-- Features Item -->
@@ -324,13 +304,8 @@
           <div class="col-md-7">
             <h3>PT. Darma Polimental</h3>
             <p>
-
+            PT Dharma Polimetal Tbk sebagai holding Company Dharma Group, yang berdiri sejak tahun 1989, bergerak di bidang usaha komponen otomotif untuk sepeda motor dan mobil. Dharma Group telah menjadi bagian dari mata rantai pasokan otomotif terintegrasi dengan produk-produk suku cadang dan komponen yang inovatif dan berkualitas sesuai dengan standar pabrikan kelas dunia. Sebagai salah satu anak Perusahaan dari Triputra Group, Perusahaan mempunyai latar belakang Manajemen yang berpengalaman di industri otomotif nasional.
             </p>
-            <ul>
-              <li><i class="bi bi-check"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-              <li><i class="bi bi-check"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-              <li><i class="bi bi-check"></i> Facilis ut et voluptatem aperiam. Autem soluta ad fugiat.</li>
-            </ul>
           </div>
         </div><!-- Features Item -->
 
@@ -339,14 +314,12 @@
             <img src="assets/img/slim.jpeg" class="img-fluid" alt="">
           </div>
           <div class="col-md-7 order-2 order-md-1">
-            <h3>PT. SLIM</h3>
+            <h3>PT. SELIM</h3>
             <p class="fst-italic">
               
             </p>
             <p>
-              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-              culpa qui officia deserunt mollit anim id est laborum
+            PT. Selim Elektro adalah perusahaan PMA asal korea selatan yang bergerak dalam bidang perakitan sparepart Wire harness untuk samsung elektronik, lokasi gedung atau pabrik di desa kecipir Rt 002 Rw 002 kec Losari kab Brebes - Jawa tengah
             </p>
           </div>
         </div><!-- Features Item -->
@@ -360,17 +333,12 @@
             <p>
 
             </p>
-            <ul>
-              <li><i class="bi bi-check"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-              <li><i class="bi bi-check"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-              <li><i class="bi bi-check"></i> Facilis ut et voluptatem aperiam. Autem soluta ad fugiat.</li>
-            </ul>
           </div>
         </div><!-- Features Item -->
 
         <div class="row gy-4 align-items-center features-item" data-aos="fade-up">
           <div class="col-md-5 order-1 order-md-2">
-            <img src="assets/img/hilek.jpeg" class="img-fluid" alt="">
+            <img src="assets/img/hilex.jpeg" class="img-fluid" alt="">
           </div>
           <div class="col-md-7 order-2 order-md-1">
             <h3>PT. Hilek</h3>
@@ -392,13 +360,8 @@
           <div class="col-md-7">
             <h3>PT. Daya Motor Honda</h3>
             <p>
-
+            ADIRA MOTOR kembali mengalami perubahan Nama Branding menjadi DAYA MOTOR bersamaan dengan didirikannya Daya Group (terdiri dari 5 perusahaan otomotif, karet, hingga kesehatan). Daya Motor sendiri hingga akhir tahun 2011 telah mengoprasikan lebih dari 80 cabang yang tersebar di berbagai pelosok Indonesia.
             </p>
-            <ul>
-              <li><i class="bi bi-check"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-              <li><i class="bi bi-check"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-              <li><i class="bi bi-check"></i> Facilis ut et voluptatem aperiam. Autem soluta ad fugiat.</li>
-            </ul>
           </div>
         </div><!-- Features Item -->
 
@@ -428,11 +391,6 @@
             <p>
 
             </p>
-            <ul>
-              <li><i class="bi bi-check"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-              <li><i class="bi bi-check"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-              <li><i class="bi bi-check"></i> Facilis ut et voluptatem aperiam. Autem soluta ad fugiat.</li>
-            </ul>
           </div>
         </div><!-- Features Item -->
 
@@ -445,11 +403,7 @@
             <p class="fst-italic">
               
             </p>
-            <p>
-              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-              culpa qui officia deserunt mollit anim id est laborum
-            </p>
+
           </div>
         </div><!-- Features Item -->
 
