@@ -39,6 +39,7 @@
 
 <body>
 
+  
   <!-- ======= Header ======= -->
   <header id="header" class="header d-flex align-items-center fixed-top">
     <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
@@ -57,11 +58,11 @@
           <ul>
               <li class="dropdown"><a href="#"><span>Tentang Kami</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
                 <ul>
-                  <li><a href="Profil.php">Profil Sekolah</a></li>
+                  <li><a href="profil.php">Profil Sekolah</a></li>
                   <li><a href="visi.php">Visi dan Misi</a></li>
-                  <li><a href="Organisasi.php">Struktur Organisasi</a></li>
-                  <li><a href="Data.php">Data Guru</a></li>
-                  <li><a href="Akreditasi.php">Akreditasi</a></li>
+                  <li><a href="organisasi.php">Struktur Organisasi</a></li>
+                  <li><a href="data.php">Data Guru</a></li>
+                  <li><a href="akreditasi.php">Akreditasi</a></li>
                   <li><a href="industri.php">Hubungan Industri</a></li>    
                   <li><a href="prestasi.php">Prestasi</a></li>           
                   <li class="dropdown"><a href="#"><span>Sarana</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
@@ -73,7 +74,7 @@
                 </li>
             <li class="dropdown"><a href="#"><span>Program</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
             <ul>
-            <li class="dropdown"><a href="program.php"><span>Program Studi</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
+            <li class="dropdown"><a href="#"><span>Program Studi</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
                 <ul>
                   <li><a href="RPL.php">RPL (Rekayasa Perangkat Lunak)</a></li>
                   <li><a href="STI.php">STI (Samsung Tech Institute)</a></li>
@@ -84,12 +85,12 @@
               </li>
               <li class="dropdown"><a href="#"><span>Kegiatan</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
                 <ul>
-                  <li><a href="Ekstrakurikuler.php">Ekstrakurikuler</a></li>
+                  <li><a href="eskul.php">Ekstrakurikuler</a></li>
                   <li><a href="bahasa.php">Bulan Bahasa</a></li>
-                  <li><a href="Maulid.php">Maulid Nabi Muhammad</a></li>
+                  <li><a href="maulid.php">Maulid Nabi Muhammad</a></li>
                   <li><a href="Porak.php">Porak</a></li>
                   <li><a href="agustus.php">HUT RI 17 Agustus</a></li>
-                  <li><a href="Santri.php">Hari Santri</a></li>
+                  <li><a href="santri.php">Hari Santri</a></li>
                 </ul>
                 </li>
                 <li><a href="PKL.php">PKL 2023</a></li>
@@ -99,17 +100,16 @@
           </li>
               <li class="dropdown"><a href="#"><span>PPDB</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
             <ul>
-              <li><a href="Informasi.php">Informasi Pendaftaran</a></li>
+              <li><a href="informasi.php">Informasi Pendaftaran</a></li>
               </ul>
           <li><a href="contact.php">Contact</a></li>
-          <li><a class="get-a-quote" href="informasi.php">daftar</a></li>
+          <li><a class="get-a-quote" href="cek_login.php">Login</a></li>
         </ul>
       </nav><!-- .navbar -->
 
     </div>
   </header><!-- End Header -->
-  <!-- End Header -->
-
+  
   <main id="main">
 
     <!-- ======= Breadcrumbs ======= -->

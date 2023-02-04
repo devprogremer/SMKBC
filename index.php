@@ -56,11 +56,11 @@
           <ul>
               <li class="dropdown"><a href="#"><span>Tentang Kami</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
                 <ul>
-                  <li><a href="Profil.php">Profil Sekolah</a></li>
+                  <li><a href="profil.php">Profil Sekolah</a></li>
                   <li><a href="visi.php">Visi dan Misi</a></li>
-                  <li><a href="Organisasi.php">Struktur Organisasi</a></li>
+                  <li><a href="organisasi.php">Struktur Organisasi</a></li>
                   <li><a href="data.php">Data Guru</a></li>
-                  <li><a href="Akreditasi.php">Akreditasi</a></li>
+                  <li><a href="akreditasi.php">Akreditasi</a></li>
                   <li><a href="industri.php">Hubungan Industri</a></li>    
                   <li><a href="prestasi.php">Prestasi</a></li>           
                   <li class="dropdown"><a href="#"><span>Sarana</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
@@ -72,7 +72,7 @@
                 </li>
             <li class="dropdown"><a href="#"><span>Program</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
             <ul>
-            <li class="dropdown"><a href="program.php"><span>Program Studi</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
+            <li class="dropdown"><a href="#"><span>Program Studi</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
                 <ul>
                   <li><a href="RPL.php">RPL (Rekayasa Perangkat Lunak)</a></li>
                   <li><a href="STI.php">STI (Samsung Tech Institute)</a></li>
@@ -85,10 +85,10 @@
                 <ul>
                   <li><a href="eskul.php">Ekstrakurikuler</a></li>
                   <li><a href="bahasa.php">Bulan Bahasa</a></li>
-                  <li><a href="Maulid.php">Maulid Nabi Muhammad</a></li>
+                  <li><a href="maulid.php">Maulid Nabi Muhammad</a></li>
                   <li><a href="Porak.php">Porak</a></li>
                   <li><a href="agustus.php">HUT RI 17 Agustus</a></li>
-                  <li><a href="Santri.php">Hari Santri</a></li>
+                  <li><a href="santri.php">Hari Santri</a></li>
                 </ul>
                 </li>
                 <li><a href="PKL.php">PKL 2023</a></li>
@@ -96,18 +96,18 @@
               </li>
             </ul>
           </li>
-              <li class="dropdown"><a href="ppdb.php"><span>PPDB</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
+              <li class="dropdown"><a href="#"><span>PPDB</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
             <ul>
-              <li><a href="info.php">Informasi Pendaftaran</a></li>
+              <li><a href="informasi.php">Informasi Pendaftaran</a></li>
               </ul>
           <li><a href="contact.php">Contact</a></li>
-          <li><a class="get-a-quote" href="login.php">Login</a></li>
+          <li><a class="get-a-quote" href="cek_login.php">Login</a></li>
         </ul>
       </nav><!-- .navbar -->
 
     </div>
   </header><!-- End Header -->
-  <!-- End Header -->
+  
   <main id="main">
 
   <!-- ======= Hero Section ======= -->
@@ -127,15 +127,15 @@
 
             <div class="col-lg-3 col-6">
               <div class="stats-item text-center w-100 h-100">
-                <span data-purecounter-start="0" data-purecounter-end="400" data-purecounter-duration="1" class="purecounter"></span>
-                <p>Clients</p>
+                <span data-purecounter-start="0" data-purecounter-end="1300" data-purecounter-duration="1" class="purecounter"></span>
+                <p>Siswa</p>
               </div>
             </div><!-- End Stats Item -->
 
             <div class="col-lg-3 col-6">
               <div class="stats-item text-center w-100 h-100">
-                <span data-purecounter-start="0" data-purecounter-end="641" data-purecounter-duration="1" class="purecounter"></span>
-                <p>Pengunjung</p>
+                <span data-purecounter-start="0" data-purecounter-end="56" data-purecounter-duration="1" class="purecounter"></span>
+                <p>Guru</p>
               </div>
             </div><!-- End Stats Item -->
 
@@ -176,7 +176,7 @@
             <div class="icon flex-shrink-0"><i class="bi bi-person-check-fill"></i></div>
             <div>
               <h4 class="title">Sambutan Kepala Sekolah</h4>
-              <a href="service-details.html" class="readmore stretched-link"><span>check here</span><i class="bi bi-arrow-right"></i></a>
+              <a href="service-details.php" class="readmore stretched-link"><span>check here</span><i class="bi bi-arrow-right"></i></a>
             </div>
           </div>
           <!-- End Service Item -->
@@ -185,7 +185,7 @@
             <div class="icon flex-shrink-0"><i class="bi bi-buildings-fill"></i></div>
             <div>
               <h4 class="title">Fasilitas</h4>
-              <a href="service-details.html" class="readmore stretched-link"><span>check here</span><i class="bi bi-arrow-right"></i></a>
+              <a href="service-details.php" class="readmore stretched-link"><span>check here</span><i class="bi bi-arrow-right"></i></a>
             </div>
           </div><!-- End Service Item -->
 
@@ -193,7 +193,7 @@
             <div class="icon flex-shrink-0"><i class="bi bi-people-fill"></i></div>
             <div>
               <h4 class="title">Alumni</h4>
-              <a href="service-details.html" class="readmore stretched-link"><span>check here</span><i class="bi bi-arrow-right"></i></a>
+              <a href="service-details.php" class="readmore stretched-link"><span>check here</span><i class="bi bi-arrow-right"></i></a>
             </div>
           </div>
           
@@ -292,7 +292,6 @@
                 <img src="assets/img/lulusan-service.jpg" alt="" class="img-fluid">
               </div>
               <h3><a href="service-details.html" class="stretched-link">Alumni Berkualitas</a></h3>
-              <p>Dicta quam similique quia architecto eos nisi aut ratione aut ipsum reiciendis sit doloremque oluptatem aut et molestiae ut et nihil</p>
               <p>Alumni siap kerja, siap kuliah dan siap berwirausaha. Alumni tersebar di berbagai negara Seperti Jepang, Taiwan, Malaysia, dan lain-lain</p>
             </div>
           </div><!-- End Card Item -->
