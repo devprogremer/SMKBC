@@ -29,13 +29,13 @@ if($cek > 0){
 		// alihkan ke halaman dashboard admin
 		header("location:halaman_admin.php");
 
-	// cek jika user login sebagai pegawai
-	}else if($data['level']=="pegawai"){
+	// cek jika user login sebagai operator
+	}else if($data['level']=="operator"){
 		// buat session login dan username
 		$_SESSION['username'] = $username;
-		$_SESSION['level'] = "pegawai";
-		// alihkan ke halaman dashboard pegawai
-		header("location:halaman_pegawai.php");
+		$_SESSION['level'] = "operator";
+		// alihkan ke halaman dashboard operator
+		header("location:halaman_operator.php");
 
 	// cek jika user login sebagai pengurus
 	}else if($data['level']=="pengurus"){

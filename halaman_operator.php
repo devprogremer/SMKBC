@@ -10,20 +10,25 @@ $get=$_GET['page'];
  
 if ( empty($get))
 {
-   include ('master/dashboard.php');	
+   include ('master1/dashboard1.php');	
 }
 
 elseif ($get=='anggota')
 {
-  include ('master/anggota.php');
+  include ('master1/anggota.php');
 }
 elseif ($get=='petugas')
 {
-  include ('master/petugas.php');
+  include ('master1/petugas.php');
 }
-elseif ($get=='siswa')
+elseif ($get=='siswa1')
 {
-  include ('master/siswa.php');
+  include ('master1/siswa1.php');
 }
+elseif ($get=='pembayaranspp')
+{
+  include ('master1/pembayaran.php');
+}
+
 
 ?>
