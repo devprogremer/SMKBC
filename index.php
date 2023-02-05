@@ -351,21 +351,21 @@
           <h4>Useful Links</h4>
           <ul>
             <li><a href="#">Home</a></li>
-            <li><a href="#">About us</a></li>
-            <li><a href="#">Services</a></li>
-            <li><a href="#">Terms of service</a></li>
-            <li><a href="#">Privacy policy</a></li>
+            <li><a href="#">Tentang kami</a></li>
+            <li><a href="#">Program</a></li>
+            <li><a href="#">Ppdb</a></li>
+            <li><a href="#">Contact</a></li>
           </ul>
         </div>
 
         <div class="col-lg-2 col-6 footer-links">
-          <h4>Our Services</h4>
+          <h4>the links we visit</h4>
           <ul>
-            <li><a href="#">Web Design</a></li>
-            <li><a href="#">Web Development</a></li>
-            <li><a href="#">Product Management</a></li>
-            <li><a href="#">Marketing</a></li>
-            <li><a href="#">Graphic Design</a></li>
+            <li><a href="#">Boootstrap</a></li>
+            <li><a href="#">Font Awesome Fonts</a></li>
+            <li><a href="#">Niagahoster</a></li>
+            <li><a href="#">Malasngoding</a></li>
+            <li><a href="#">Aos</a></li>
           </ul>
         </div>
 
@@ -383,7 +383,7 @@
         <!-- You can delete the links only if you purchased the pro version. -->
         <!-- Licensing information: https://bootstrapmade.com/license/ -->
         <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/logis-bootstrap-logistics-website-template/ -->
-        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+        Designed by <a href="https://bootstrapmade.com/"> Devprogremer</a>
       </div>
     </div>
 
