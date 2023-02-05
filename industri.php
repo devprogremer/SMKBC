@@ -384,24 +384,26 @@ Pembangunan Rumah Sakit sempat maju mundur selama beberapa tahun karena satu dan
 
         <div class="row gy-4 align-items-center features-item" data-aos="fade-up">
           <div class="col-md-5">
-            <img src="assets/img/lan.jpeg" class="img-fluid" alt="">
+            <img src="assets/img/cina1.jpeg" class="img-fluid" alt="">
           </div>
           <div class="col-md-7">
-            <h3>PT. LAN</h3>
-            <p>
+            <h3>China University Technology</h3>
 
+            <p>
+            China University of Technology (CUTe) didirikan pada tahun 1965 sebagai "Institut Administrasi Kota Cina" dan diubah menjadi gelar saat ini pada tahun 1983. Universitas ini memiliki dua kampus. Kampus Taipei berukuran 5 hektar, 5 menit berjalan kaki ke Stasiun Metro Rumah Sakit Wan Fang. Kampus Hsinchu berukuran 14 hektar, 3 menit berjalan kaki ke Stasiun Kereta Taihu dengan kereta komuter 10-15 menit. Kedua kampus itu indah, memiliki fungsi kehidupan yang sangat baik dan transportasi yang nyaman. Universitas menyediakan saluran pembelajaran yang beragam, termasuk 3 kolese (Sekolah Tinggi Perencanaan & Desain, Kolese Manajemen, dan Kolese Ilmu Komputer), 15 departemen/divisi, 7 sekolah pascasarjana, dan kolese teknologi dan sekolah pascasarjana selama 4 tahun. Dalam pendidikan berkelanjutan, Institut untuk teknologi dan vokasi 4 tahun/2 tahun juga tersedia.
             </p>
           </div>
         </div><!-- Features Item -->
 
         <div class="row gy-4 align-items-center features-item" data-aos="fade-up">
           <div class="col-md-5 order-1 order-md-2">
-            <img src="assets/img/samsung.jpeg" class="img-fluid" alt="">
+            <img src="assets/img/cina2.jpeg" class="img-fluid" alt="">
           </div>
           <div class="col-md-7 order-2 order-md-1">
-            <h3>SAMSUNG</h3>
+            <h3>Chienkuo University Technology University</h3>
             <p class="fst-italic">
-              
+
+            <p>
             </p>
 
           </div>
