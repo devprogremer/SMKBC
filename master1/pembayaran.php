@@ -17,7 +17,7 @@
               </a>
             </li> 
             <li>
-              <a href="<?php $_SERVER[SCRIPT_NAME];?>?page=anggota">
+              <a href="<?php $_SERVER[SCRIPT_NAME];?>?page=anggota1">
                 <i class="fa fa-users"></i> <span>Data Guru</span>  
               </a>
             </li> 
@@ -27,13 +27,18 @@
               </a>
             </li>
             <li>
-              <a href="<?php $_SERVER[SCRIPT_NAME];?>?page=siswa">
+              <a href="<?php $_SERVER[SCRIPT_NAME];?>?page=siswa1">
                 <i class="fa fa-bar-chart"></i> <span>Data Siswa</span>  
               </a>
             </li>
             <li  class="active">
               <a href="<?php $_SERVER[SCRIPT_NAME];?>?page=pembayaranspp">
                 <i class="fa fa-book"></i> <span>Pembayaran SPP</span>  
+              </a>
+            </li>
+            <li> 
+            <a href="<?php $_SERVER[SCRIPT_NAME];?>?page=pembayaranspp">
+                <i class="fa fa-table"></i> <span>Tabel Kelas</span>  
               </a>
             </li>
             <li> 
@@ -108,7 +113,7 @@
                     <textarea class="form-control" placeholder="Enter..." name="tgl_pembayaran" type="text"><?php echo $row['tgl_pembayaran'];?></textarea>
                     </div>
                  <div class="col-md-12 form-group"> 
-                   <button type="submit" class="btn btn-primary btn-flat pull-right" href="admin.php"><span class="fa fa-send"></span> Simpan</button>
+                   <button type="submit" class="btn btn-primary btn-flat pull-right" href="halaman_operator.php"><span class="fa fa-send"></span> Simpan</button>
                  </div>
                 </div> 
                   </div></form>

@@ -13,13 +13,13 @@ if ( empty($get))
    include ('master1/dashboard1.php');	
 }
 
-elseif ($get=='anggota')
+elseif ($get=='anggota1')
 {
-  include ('master1/anggota.php');
+  include ('master1/anggota1.php');
 }
-elseif ($get=='petugas')
+elseif ($get=='pdb')
 {
-  include ('master1/petugas.php');
+  include ('master1/pdb.php');
 }
 elseif ($get=='siswa1')
 {

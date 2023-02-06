@@ -17,12 +17,12 @@
               </a>
             </li>
             <li>
-              <a href="<?php $_SERVER[SCRIPT_NAME];?>?page=anggota">
+              <a href="<?php $_SERVER[SCRIPT_NAME];?>?page=anggota1">
                 <i class="fa fa-users"></i> <span>Data Guru</span>  
               </a>
             </li>
             <li>
-              <a href="<?php $_SERVER[SCRIPT_NAME];?>?page=petugas">
+              <a href="<?php $_SERVER[SCRIPT_NAME];?>?page=pdb">
                 <i class="fa fa-users"></i> <span>Data PDB</span>  
               </a>
             </li>
@@ -37,6 +37,11 @@
               </a>
             </li>
             <li>
+            <a href="<?php $_SERVER[SCRIPT_NAME];?>?page=siswa">
+                <i class="fa fa-table"></i> <span>Tabel Kelas</span>  
+              </a>
+            </li>
+            <li> 
               <a href="<?php $_SERVER[SCRIPT_NAME];?>logout.php">
                 <i class="fa fa-sign-out"></i> <span>Logout</span>  
               </a>
@@ -447,7 +452,7 @@
                     <div class="col-sm-6">
                       <!-- Progress bars -->
                       <div class="clearfix">
-                        <span class="pull-left">Task #1</span>
+                        <span class="pull-left">Month Ke-1</span>
                         <small class="pull-right">90%</small>
                       </div>
                       <div class="progress xs">
@@ -455,7 +460,7 @@
                       </div>
 
                       <div class="clearfix">
-                        <span class="pull-left">Task #2</span>
+                        <span class="pull-left">Month  Ke-2</span>
                         <small class="pull-right">70%</small>
                       </div>
                       <div class="progress xs">
@@ -464,7 +469,7 @@
                     </div><!-- /.col -->
                     <div class="col-sm-6">
                       <div class="clearfix">
-                        <span class="pull-left">Task #3</span>
+                        <span class="pull-left">Month  Ke-3</span>
                         <small class="pull-right">60%</small>
                       </div>
                       <div class="progress xs">
@@ -472,7 +477,7 @@
                       </div>
 
                       <div class="clearfix">
-                        <span class="pull-left">Task #4</span>
+                        <span class="pull-left">Month  Ke-4</span>
                         <small class="pull-right">40%</small>
                       </div>
                       <div class="progress xs">
