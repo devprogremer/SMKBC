@@ -73,7 +73,7 @@
             <!--edit-->
             <?php
             
-                        $id=$_GET['id'];
+                        $id=$_GET['id_pendaftaran'];
                         $sql="SELECT  * FROM pdb where id_pendaftaran='$id' ";
                         
                         if (!$result=  mysqli_query($config, $sql)){
@@ -90,57 +90,57 @@
                 <button class="btn btn-box-tool" data-widget="remove" data-toggle="tooltip" title="Remove"><i class="fa fa-times"></i></button>
               </div> 
             </div> 
-                <form action="aksipetugas.php?sender=edit" method="POST">
+                <form action="aksipdb.php?sender=edit" method="POST">
                   <div class="box-body">
                         <div class="row">
                 <div class="col-md-12 form-group">
                     <label>Id pendafataran</label>
-                    <input readonly="" type="hidden" name="id_pendafatran" value="<?php echo $row['id'];?>" class="form-control" placeholder="Enter..." required="">
+                    <input readonly="" type="hidden" name="id_pendafatran" value="<?php echo $row['id_pendaftaran'];?>" class="form-control" placeholder="Enter..." required="">
                     <input type="text" name="nama_peserta" value="<?php echo $row['id_pendaftaran'];?>" class="form-control" placeholder="Enter..." required="">
                     </div>
                 <div class="col-md-12 form-group">
                     <label>No Induk</label>
-                    <input readonly="" type="hidden" name="id_pendafatran" value="<?php echo $row['id'];?>" class="form-control" placeholder="Enter..." required="">
+                    <input readonly="" type="hidden" name="id_pendafatran" value="<?php echo $row['id_pendaftaran'];?>" class="form-control" placeholder="Enter..." required="">
                     <input type="text" name="no_induk" value="<?php echo $row['no_induk'];?>" class="form-control" placeholder="Enter..." required="">
                     </div>  
                 <div class="col-md-12 form-group">
                     <label>NISN</label>
-                    <input readonly="" type="hidden" name="id_pendafatran" value="<?php echo $row['id'];?>" class="form-control" placeholder="Enter..." required="">
+                    <input readonly="" type="hidden" name="id_pendafatran" value="<?php echo $row['id_pendaftaran'];?>" class="form-control" placeholder="Enter..." required="">
                     <input type="text" name="nisn" value="<?php echo $row['nisn'];?>" class="form-control" placeholder="Enter..." required="">
                     </div>
                 <div class="col-md-12 form-group">
                     <label>Nama</label>
-                    <input readonly="" type="hidden" name="id_pendafatran" value="<?php echo $row['id'];?>" class="form-control" placeholder="Enter..." required="">
+                    <input readonly="" type="hidden" name="id_pendafatran" value="<?php echo $row['id_pendaftaran'];?>" class="form-control" placeholder="Enter..." required="">
                     <input type="text" name="nama" value="<?php echo $row['nama'];?>" class="form-control" placeholder="Enter..." required="">
                     </div>
                     <div class="col-md-12 form-group">
                     <label>Alamat</label>
-                    <input readonly="" type="hidden" name="id_pendafatran" value="<?php echo $row['id'];?>" class="form-control" placeholder="Enter..." required="">
+                    <input readonly="" type="hidden" name="id_pendafatran" value="<?php echo $row['id_pendaftaran'];?>" class="form-control" placeholder="Enter..." required="">
                     <input type="text" name="alamat" value="<?php echo $row['alamat'];?>" class="form-control" placeholder="Enter..." required="">
                     </div>
                 <div class="col-md-12 form-group">
                     <label>TTL</label>
-                    <input readonly="" type="hidden" name="id_pendafatran" value="<?php echo $row['id'];?>" class="form-control" placeholder="Enter..." required="">
+                    <input readonly="" type="hidden" name="id_pendafatran" value="<?php echo $row['id_pendaftaran'];?>" class="form-control" placeholder="Enter..." required="">
                     <input type="text" name="TTL" value="<?php echo $row['TTL'];?>" class="form-control" placeholder="Enter..." required="">
                     </div>  
                 <div class="col-md-12 form-group">
                     <label>Jenis Kelamin</label>
-                    <input readonly="" type="hidden" name="id_pendafatran" value="<?php echo $row['id'];?>" class="form-control" placeholder="Enter..." required="">
+                    <input readonly="" type="hidden" name="id_pendafatran" value="<?php echo $row['id_pendaftaran'];?>" class="form-control" placeholder="Enter..." required="">
                     <input type="text" name="jenis_kelammin" value="<?php echo $row['jenis_kelammin'];?>" class="form-control" placeholder="Enter..." required="">
                     </div>
                 <div class="col-md-12 form-group">
                     <label>Agama</label>
-                    <input readonly="" type="hidden" name="id_pendafatran" value="<?php echo $row['id'];?>" class="form-control" placeholder="Enter..." required="">
+                    <input readonly="" type="hidden" name="id_pendafatran" value="<?php echo $row['id_pendaftaran'];?>" class="form-control" placeholder="Enter..." required="">
                     <input type="text" name="agama" value="<?php echo $row['agama'];?>" class="form-control" placeholder="Enter..." required="">
                     </div>
                     <div class="col-md-12 form-group">
                     <label>Ijazah</label>
-                    <input readonly="" type="hidden" name="id_pendafatran" value="<?php echo $row['id'];?>" class="form-control" placeholder="Enter..." required="">
+                    <input readonly="" type="hidden" name="id_pendafatran" value="<?php echo $row['id_pendaftaran'];?>" class="form-control" placeholder="Enter..." required="">
                     <input type="text" name="ijazah" value="<?php echo $row['ijazah'];?>" class="form-control" placeholder="Enter..." required="">
                     </div> 
                 <div class="col-md-12 form-group">
                     <label>Kode Kelas</label>
-                    <input readonly="" type="hidden" name="id_pendafatran" value="<?php echo $row['id'];?>" class="form-control" placeholder="Enter..." required="">
+                    <input readonly="" type="hidden" name="id_pendafatran" value="<?php echo $row['id_pendaftaran'];?>" class="form-control" placeholder="Enter..." required="">
                     <input type="text" name="kode_kelas" value="<?php echo $row['kode_kelas'];?>" class="form-control" placeholder="Enter..." required="">
                     </div>
                 <div class="col-md-12 form-group">
@@ -180,7 +180,6 @@
                         <th>Jenis Kelamin</th>
                         <th>agama</th>
                         <th>Ijazah</th>
-                        <th>Nama Ortu</th>
                         <th>Kode Kelas</th>
                         <th>Asal Sekolah</th>
                         <th>Aksi</th>
@@ -209,11 +208,10 @@
                             <td><?php echo $row['jenis_kelamin'];?></td>
                             <td><?php echo $row['agama'];?></td>
                             <td><?php echo $row['ijazah'];?></td>
-                            <td><?php echo $row['email'];?></td>
                             <td><?php echo $row['kode_kelas'];?></td>
                             <td><?php echo $row['asal_sekolah'];?></td>
                             <td>
-                                <a href="<?php $_SERVER[SCRIPT_NAME] ;?>?page=pdb&id_pendaftaran=<?php echo $row['id_pendafatran'];?>" class="btn btn-info"><li class="fa fa-pencil"></li> Edit</a> 
+                                <a href="<?php $_SERVER[SCRIPT_NAME] ;?>?page=pdb&id_pendaftaran=<?php echo $row['id_pendaftaran'];?>" class="btn btn-info"><li class="fa fa-pencil"></li> Edit</a>
                                 <a href="aksipdb.php?sender=hapus&id_pendaftaran=<?php echo $row['id_pendaftaran']; ?>" class="btn btn-danger"><li class="fa fa-trash-o"></li> Hapus</a> 
                              </td>
                         </tr> 
