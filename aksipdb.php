@@ -14,9 +14,9 @@ include 'koneksi.php';
 $g=$_GET['sender'];
 if($g=='pdb')
 {
-    $sql="INSERT INTO pdb (id_pendaftaran, no_induk, nisn, nama, alamat, TTL, jenis_kelamin, agama, ijazah, kode_kelas, asal_sekolah)
+    $sql="INSERT INTO pdb (no_pendaftaran, no_induk, nisn, nama, alamat, TTL, jenis_kelamin, agama, ijazah, kode_kelas, asal_sekolah)
         VALUES
-        ('$_POST[id_pendaftaran]',
+        ('$_POST[no_pendaftaran]',
          '$_POST[no_induk]',
          '$_POST[nisn]',
          '$_POST[nama]',
@@ -42,8 +42,8 @@ if($g=='pdb')
 else 
     if($g=='edit')
     {
-        mysqli_query($config,"UPDATE pdb SET id_pendaftaran='$_POST[id_pendaftaran]',
-           id_pendaftaran='$_POST[id_pendaftaran]',
+        mysqli_query($config,"UPDATE pdb SET id='$_POST[id]',
+           no_pendaftaran='$_POST[no_pendaftaran]',
            no_induk='$_POST[no_induk]',
             nisn='$_POST[nisn]',
             nama='$_POST[nama]', 
@@ -52,7 +52,7 @@ else
             agama='$_POST[agama]',
             ijazah='$_POST[ijazah]', 
             kode_kelas='$_POST[kode_kelas]', 
-            asal_sekolah='$_POST[asal_sekolah]' WHERE id_pendaftaran='$_POST[id_pendaftaran]'");
+            asal_sekolah='$_POST[asal_sekolah]' WHERE id='$_POST[id]'");
          echo '<script LANGUAGE="JavaScript">
             alert("Daftar Peserta Didik Baru dengan nama :('.$_POST[nama].') Di Update")
             window.location.href="halaman_operator.php?page=pdb";
@@ -61,9 +61,9 @@ else
 else 
     if($g=='hapus')
     {
-        mysqli_query($config,"DELETE FROM pdb where id_pendaftaran='$_GET[id_pendaftaran]'");
+        mysqli_query($config,"DELETE FROM pdb where id='$_GET[id]'");
          echo '<script LANGUAGE="JavaScript">
-            alert("daftar peserta didik baru dengan Id_pendaftaran :('.$_GET[id].') Telah dihapus")
+            alert("daftar peserta didik baru dengan Id :('.$_GET[id].') Telah dihapus")
             window.location.href="halaman_operator.php?page=pdb";
             </script>';
     }
