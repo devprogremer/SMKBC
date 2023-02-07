@@ -14,7 +14,7 @@ include 'koneksi.php';
 $g=$_GET['sender'];
 if($g=='pdb')
 {
-    $sql="INSERT INTO pdb (no_pendaftaran, no_induk, nisn, nama, alamat, TTL, jenis_kelamin, agama, ijazah, kode_kelas, asal_sekolah)
+    $sql="INSERT INTO pdb (no_pendaftaran, no_induk, nisn, nama, alamat, TTL, jenis_kelamin, agama,  asal_sekolah)
         VALUES
         ('$_POST[no_pendaftaran]',
          '$_POST[no_induk]',
@@ -24,8 +24,6 @@ if($g=='pdb')
          '$_POST[TTL]',
          '$_POST[jenis_kelamin]',
          '$_POST[agama]',
-         '$_POST[ijazah]',
-         '$_POST[kode_kelas]',
          '$_POST[asal_sekolah]')";   
         if (mysqli_query($config, $sql)){ 
         echo '<script LANGUAGE="JavaScript">
@@ -50,8 +48,6 @@ else
             alamat='$_POST[alamat]',
             jenis_kelamin='$_POST[jenis_kelamin]',
             agama='$_POST[agama]',
-            ijazah='$_POST[ijazah]', 
-            kode_kelas='$_POST[kode_kelas]', 
             asal_sekolah='$_POST[asal_sekolah]' WHERE id='$_POST[id]'");
          echo '<script LANGUAGE="JavaScript">
             alert("Daftar Peserta Didik Baru dengan nama :('.$_POST[nama].') Di Update")

@@ -134,16 +134,6 @@
                     <input type="text" name="agama" value="<?php echo $row['agama'];?>" class="form-control" placeholder="Enter..." required="">
                     </div>  
                 <div class="col-md-12 form-group">
-                    <label>Ijazah</label>
-                    <input readonly="" type="hidden" name="id" value="<?php echo $row['id'];?>" class="form-control" placeholder="Enter..." required="">
-                    <input type="text" name="ijazah" value="<?php echo $row['ijazah'];?>" class="form-control" placeholder="Enter..." required="">
-                    </div>
-                    <div class="col-md-12 form-group">
-                    <label>Kode Kelas</label>
-                    <input readonly="" type="hidden" name="id" value="<?php echo $row['id'];?>" class="form-control" placeholder="Enter..." required="">
-                    <input type="text" name="kode_kelas" value="<?php echo $row['kode_kelas'];?>" class="form-control" placeholder="Enter..." required="">
-                    </div>
-                <div class="col-md-12 form-group">
                     <label>Asal_Sekolah</label>
                     <textarea class="form-control" placeholder="Enter..." name="asal_sekolah" type="text"><?php echo $row['asal_sekolah'];?></textarea>
                     </div>
@@ -179,8 +169,6 @@
                         <th>TTL</th>
                         <th>jenis kelamin</th>
                         <th>Agama</th>
-                        <th>Ijazah</th>
-                        <th>Kode Kelas</th>
                         <th>Asal Sekolah</th>
                         <th>Aksi</th>
                          
@@ -208,7 +196,6 @@
                             <td><?php echo $row['jenis_kelamin'];?></td>
                             <td><?php echo $row['agama'];?></td>
                             <td><?php echo $row['ijzah'];?></td>
-                            <td><?php echo $row['kode_kelas'];?></td>
                             <td><?php echo $row['asal_sekolah'];?></td>
                             <td>
                                 <a href="<?php $_SERVER[SCRIPT_NAME] ;?>?page=pdb&id=<?php echo $row['id'];?>" class="btn btn-info"><li class="fa fa-pencil"></li> Edit</a>
@@ -289,16 +276,6 @@
       <input type="text" name="agama" class="form-control" required="" placeholder="Enter ...">
     </div>
 
-    <div class="form-group">
-      <label>Ijazah</label>
-      <input type="text" name="ijazah" class="form-control" required="" placeholder="Enter ...">
-    </div>
-
-    <div class="form-group">
-      <label>Kode Kelas</label>
-      <input type="text" name="kode_kelas" class="form-control" required="" placeholder="Enter ...">
-    </div>
-    
     <div class="form-group">
       <label>Asal Sekolah</label>
       <textarea type="text" name="asal_sekolah" class="form-control" placeholder="Enter ..."></textarea> 
