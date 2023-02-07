@@ -23,7 +23,7 @@
             </li> 
             <li class="active">
               <a href="<?php $_SERVER[SCRIPT_NAME];?>?page=petugas">
-                <i class="fa fa-users"></i> <span>Data PDB</span>  
+                <i class="fa fa-id-card-o"></i> <span>Data PDB</span>  
               </a>
             </li>
             <li>

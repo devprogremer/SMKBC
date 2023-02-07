@@ -20,10 +20,10 @@
               <a href="<?php $_SERVER[SCRIPT_NAME];?>?page=anggota1">
                 <i class="fa fa-users"></i> <span>Data Guru</span>  
               </a>
-            </li> 
+            </li>
             <li class="active">
               <a href="<?php $_SERVER[SCRIPT_NAME];?>?page=pdb">
-                <i class="fa fa-users"></i> <span>Data PDB</span>  
+                <i class="fa fa-file"></i> <span>Data PDB</span>  
               </a>
             </li>
             <li>

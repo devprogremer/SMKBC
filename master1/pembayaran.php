@@ -22,8 +22,8 @@
               </a>
             </li> 
             <li>
-              <a href="<?php $_SERVER[SCRIPT_NAME];?>?page=petugas">
-                <i class="fa fa-users"></i> <span>Data PDB</span>  
+              <a href="<?php $_SERVER[SCRIPT_NAME];?>?page=pdb">
+                <i class="fa fa-file"></i> <span>Data PDB</span>  
               </a>
             </li>
             <li>
