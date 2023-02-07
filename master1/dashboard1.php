@@ -356,7 +356,7 @@
             <section class="col-lg-5 connectedSortable">
 
               <!-- Map box -->
-              <div class="box box-solid bg-light-blue-gradient">
+              <div class="box box-solid bg-blue-gradient">
                 <div class="box-header">
                   <!-- tools box -->
                   <div class="pull-right box-tools">
@@ -366,36 +366,19 @@
 
                   <i class="fa fa-map-marker"></i>
                   <h3 class="box-title">
-                    Visitors
+                    Lokasi Kami
                   </h3>
                 </div>
-                <div class="box-body">
-                  <div id="world-map" style="height: 250px; width: 100%;"></div>
-                </div><!-- /.box-body-->
+
+                <iframe style="border:0; width: 100%; height: 340px;" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d63384.46777856386!2d108.60656949990842!3d-6.826961529703611!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e6f04acde0ee93d%3A0x570909eb0cf5286!2sSMK%20Bina%20Cendekia%20Cirebon!5e0!3m2!1sid!2sid!4v1674962821715!5m2!1sid!2sid" frameborder="0" allowfullscreen></iframe>     </div><!-- /.box-body-->
                 <div class="box-footer no-border">
-                  <div class="row">
-                    <div class="col-xs-4 text-center" style="border-right: 1px solid #f4f4f4">
-                      <div id="sparkline-1"></div>
-                      <div class="knob-label">Visitors</div>
-                    </div><!-- ./col -->
-                    <div class="col-xs-4 text-center" style="border-right: 1px solid #f4f4f4">
-                      <div id="sparkline-2"></div>
-                      <div class="knob-label">Online</div>
-                    </div><!-- ./col -->
-                    <div class="col-xs-4 text-center">
-                      <div id="sparkline-3"></div>
-                      <div class="knob-label">Exists</div>
-                    </div><!-- ./col -->
-                  </div><!-- /.row -->
-                </div>
-              </div>
-              <!-- /.box -->
+                
 
               <!-- solid sales graph -->
-              <div class="box box-solid bg-teal-gradient">
+              <div class="box box-solid bg-blue-gradient">
                 <div class="box-header">
                   <i class="fa fa-th"></i>
-                  <h3 class="box-title">Sales Graph</h3>
+                  <h3 class="box-title">School Chart Improvement</h3>
                   <div class="box-tools pull-right">
                     <button class="btn bg-teal btn-sm" data-widget="collapse"><i class="fa fa-minus"></i></button>
                     <button class="btn bg-teal btn-sm" data-widget="remove"><i class="fa fa-times"></i></button>
@@ -423,7 +406,7 @@
               </div><!-- /.box -->
 
               <!-- Calendar -->
-              <div class="box box-solid bg-green-gradient">
+              <div class="box box-solid bg-blue-gradient">
                 <div class="box-header">
                   <i class="fa fa-calendar"></i>
                   <h3 class="box-title">Calendar</h3>
@@ -452,7 +435,7 @@
                     <div class="col-sm-6">
                       <!-- Progress bars -->
                       <div class="clearfix">
-                        <span class="pull-left">Month Ke-1</span>
+                        <span class="pull-left">January</span>
                         <small class="pull-right">90%</small>
                       </div>
                       <div class="progress xs">
@@ -460,7 +443,39 @@
                       </div>
 
                       <div class="clearfix">
-                        <span class="pull-left">Month  Ke-2</span>
+                        <span class="pull-left">February</span>
+                        <small class="pull-right">70%</small>
+                      </div>
+                      <div class="progress xs">
+                        <div class="progress-bar progress-bar-green" style="width: 70%;"></div>
+                      </div>
+
+                      <div class="clearfix">
+                        <span class="pull-left">March</span>
+                        <small class="pull-right">90%</small>
+                      </div>
+                      <div class="progress xs">
+                        <div class="progress-bar progress-bar-green" style="width: 90%;"></div>
+                      </div>
+
+                      <div class="clearfix">
+                        <span class="pull-left">April</span>
+                        <small class="pull-right">70%</small>
+                      </div>
+                      <div class="progress xs">
+                        <div class="progress-bar progress-bar-green" style="width: 70%;"></div>
+                      </div>
+
+                      <div class="clearfix">
+                        <span class="pull-left">Mei</span>
+                        <small class="pull-right">90%</small>
+                      </div>
+                      <div class="progress xs">
+                        <div class="progress-bar progress-bar-green" style="width: 90%;"></div>
+                      </div>
+
+                      <div class="clearfix">
+                        <span class="pull-left">Juni</span>
                         <small class="pull-right">70%</small>
                       </div>
                       <div class="progress xs">
@@ -469,7 +484,7 @@
                     </div><!-- /.col -->
                     <div class="col-sm-6">
                       <div class="clearfix">
-                        <span class="pull-left">Month  Ke-3</span>
+                        <span class="pull-left">July</span>
                         <small class="pull-right">60%</small>
                       </div>
                       <div class="progress xs">
@@ -477,11 +492,43 @@
                       </div>
 
                       <div class="clearfix">
-                        <span class="pull-left">Month  Ke-4</span>
+                        <span class="pull-left">Agustus</span>
                         <small class="pull-right">40%</small>
                       </div>
                       <div class="progress xs">
                         <div class="progress-bar progress-bar-green" style="width: 40%;"></div>
+                      </div>
+
+                      <div class="clearfix">
+                        <span class="pull-left">September</span>
+                        <small class="pull-right">90%</small>
+                      </div>
+                      <div class="progress xs">
+                        <div class="progress-bar progress-bar-green" style="width: 90%;"></div>
+                      </div>
+
+                      <div class="clearfix">
+                        <span class="pull-left">Oktober</span>
+                        <small class="pull-right">70%</small>
+                      </div>
+                      <div class="progress xs">
+                        <div class="progress-bar progress-bar-green" style="width: 70%;"></div>
+                      </div>
+
+                      <div class="clearfix">
+                        <span class="pull-left">November</span>
+                        <small class="pull-right">90%</small>
+                      </div>
+                      <div class="progress xs">
+                        <div class="progress-bar progress-bar-green" style="width: 90%;"></div>
+                      </div>
+
+                      <div class="clearfix">
+                        <span class="pull-left">Desember</span>
+                        <small class="pull-right">70%</small>
+                      </div>
+                      <div class="progress xs">
+                        <div class="progress-bar progress-bar-green" style="width: 70%;"></div>
                       </div>
                     </div><!-- /.col -->
                   </div><!-- /.row -->
