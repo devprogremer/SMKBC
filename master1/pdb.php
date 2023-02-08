@@ -37,7 +37,7 @@
               </a>
             </li>
             <li> 
-            <a href="<?php $_SERVER[SCRIPT_NAME];?>?page=pembayaranspp">
+            <a href="<?php $_SERVER[SCRIPT_NAME];?>?page=kelas">
                 <i class="fa fa-table"></i> <span>Tabel Kelas</span>  
               </a>
             </li>
@@ -195,7 +195,6 @@
                             <td><?php echo $row['TTL'];?></td>
                             <td><?php echo $row['jenis_kelamin'];?></td>
                             <td><?php echo $row['agama'];?></td>
-                            <td><?php echo $row['ijzah'];?></td>
                             <td><?php echo $row['asal_sekolah'];?></td>
                             <td>
                                 <a href="<?php $_SERVER[SCRIPT_NAME] ;?>?page=pdb&id=<?php echo $row['id'];?>" class="btn btn-info"><li class="fa fa-pencil"></li> Edit</a>

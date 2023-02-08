@@ -37,7 +37,7 @@
               </a>
             </li>
             <li> 
-            <a href="<?php $_SERVER[SCRIPT_NAME];?>?page=pembayaranspp">
+            <a href="<?php $_SERVER[SCRIPT_NAME];?>?page=kelas">
                 <i class="fa fa-table"></i> <span>Tabel Kelas</span>  
               </a>
             </li>

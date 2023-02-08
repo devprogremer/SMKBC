@@ -37,7 +37,7 @@
               </a>
             </li>
             <li>
-            <a href="<?php $_SERVER[SCRIPT_NAME];?>?page=siswa">
+            <a href="<?php $_SERVER[SCRIPT_NAME];?>?page=kelas">
                 <i class="fa fa-table"></i> <span>Tabel Kelas</span>  
               </a>
             </li>
@@ -74,7 +74,7 @@
           <div class="row">
             <div class="col-lg-3 col-xs-6">
               <!-- small box -->
-              <div class="small-box bg-aqua">
+              <div class="small-box bg-blue">
                 <div class="inner">
                   <h3>150</h3>
                   <p>New Orders</p>
@@ -87,10 +87,10 @@
             </div><!-- ./col -->
             <div class="col-lg-3 col-xs-6">
               <!-- small box -->
-              <div class="small-box bg-green">
+              <div class="small-box bg-yellow">
                 <div class="inner">
-                  <h3>53<sup style="font-size: 20px">%</sup></h3>
-                  <p>Bounce Rate</p>
+                  <h3>500<sup style="font-size: 20px"></sup></h3>
+                  <p>Student Enrollment Rate</p>
                 </div>
                 <div class="icon">
                   <i class="ion ion-stats-bars"></i>
@@ -100,7 +100,7 @@
             </div><!-- ./col -->
             <div class="col-lg-3 col-xs-6">
               <!-- small box -->
-              <div class="small-box bg-yellow">
+              <div class="small-box bg-red">
                 <div class="inner">
                   <h3>44</h3>
                   <p>User Registrations</p>
@@ -113,7 +113,7 @@
             </div><!-- ./col -->
             <div class="col-lg-3 col-xs-6">
               <!-- small box -->
-              <div class="small-box bg-red">
+              <div class="small-box bg-green">
                 <div class="inner">
                   <h3>65</h3>
                   <p>Unique Visitors</p>
@@ -385,7 +385,7 @@
                   </div>
                 </div>
                 <div class="box-body border-radius-none">
-                  <div class="chart" id="line-chart" style="height: 250px;"></div>
+                <img src="assets/img/graffiikk.jpg" alt="">
                 </div><!-- /.box-body -->
                 <div class="box-footer no-border">
                   <div class="row">

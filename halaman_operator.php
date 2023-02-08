@@ -29,6 +29,9 @@ elseif ($get=='pembayaranspp')
 {
   include ('master1/pembayaran.php');
 }
-
+elseif ($get=='kelas')
+{
+  include ('master1/kelas.php');
+}
 
 ?>
