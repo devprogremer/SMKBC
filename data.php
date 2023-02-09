@@ -806,7 +806,7 @@
 
           <div class="col-lg-3 col-md-1 d-flex">
             <div class="member">
-              <img src="assets/img/team/Teamm-1.jpeg" class="img-fluid" alt="">
+              <img src="assets/img/team/9.jpeg" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Surana, S.Kom</h4>
               

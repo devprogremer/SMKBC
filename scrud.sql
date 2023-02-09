@@ -108,7 +108,7 @@ CREATE TABLE `user` (
 
 INSERT INTO `user` (`id`, `nama`, `username`, `password`, `level`) VALUES
 (1, 'Malas Ngoding', 'malasngoding', 'malasngoding123', 'admin'),
-(2, 'Diki Alfarabi Hadi', 'diki', 'diki123', 'pegawai'),
+(2, 'operator', 'operator', 'operator123', 'operator'),
 (3, 'Jamaludin', 'jamaludin', 'jamaludin123', 'pengurus');
 
 --
