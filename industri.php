@@ -84,7 +84,7 @@
               </li>
               <li class="dropdown"><a href="#"><span>Kegiatan</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
                 <ul>
-                  <li><a href="eskul.php">Ekstrakurikuler</a></li>
+                  <li><a href="ekstrakurikuler.php">Ekstrakurikuler</a></li>
                   <li><a href="bahasa.php">Bulan Bahasa</a></li>
                   <li><a href="maulid.php">Maulid Nabi Muhammad</a></li>
                   <li><a href="Porak.php">Porak</a></li>
