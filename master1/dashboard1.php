@@ -242,7 +242,7 @@
                       <!-- checkbox -->
                       <input type="checkbox" value="" name="">
                       <!-- todo text -->
-                      <span class="text">Design a nice theme</span>
+                      <span class="text">Mengedit Daftar Data Guru </span>
                       <!-- Emphasis label -->
                       <small class="label label-danger"><i class="fa fa-clock-o"></i> 2 mins</small>
                       <!-- General tools such as edit or delete-->
@@ -257,7 +257,7 @@
                         <i class="fa fa-ellipsis-v"></i>
                       </span>
                       <input type="checkbox" value="" name="">
-                      <span class="text">Make the theme responsive</span>
+                      <span class="text">Mengedit Daftar Data Siswa Baru</span>
                       <small class="label label-info"><i class="fa fa-clock-o"></i> 4 hours</small>
                       <div class="tools">
                         <i class="fa fa-edit"></i>
@@ -270,34 +270,8 @@
                         <i class="fa fa-ellipsis-v"></i>
                       </span>
                       <input type="checkbox" value="" name="">
-                      <span class="text">Let theme shine like a star</span>
+                      <span class="text">Mencatat Pembayaran SPP</span>
                       <small class="label label-warning"><i class="fa fa-clock-o"></i> 1 day</small>
-                      <div class="tools">
-                        <i class="fa fa-edit"></i>
-                        <i class="fa fa-trash-o"></i>
-                      </div>
-                    </li>
-                    <li>
-                      <span class="handle">
-                        <i class="fa fa-ellipsis-v"></i>
-                        <i class="fa fa-ellipsis-v"></i>
-                      </span>
-                      <input type="checkbox" value="" name="">
-                      <span class="text">Let theme shine like a star</span>
-                      <small class="label label-success"><i class="fa fa-clock-o"></i> 3 days</small>
-                      <div class="tools">
-                        <i class="fa fa-edit"></i>
-                        <i class="fa fa-trash-o"></i>
-                      </div>
-                    </li>
-                    <li>
-                      <span class="handle">
-                        <i class="fa fa-ellipsis-v"></i>
-                        <i class="fa fa-ellipsis-v"></i>
-                      </span>
-                      <input type="checkbox" value="" name="">
-                      <span class="text">Check your messages and notifications</span>
-                      <small class="label label-primary"><i class="fa fa-clock-o"></i> 1 week</small>
                       <div class="tools">
                         <i class="fa fa-edit"></i>
                         <i class="fa fa-trash-o"></i>
@@ -327,7 +301,7 @@
               <div class="box box-info">
                 <div class="box-header">
                   <i class="fa fa-envelope"></i>
-                  <h3 class="box-title">Quick Email</h3>
+                  <h3 class="box-title">Mengedit Tabel Kelas</h3>
                   <!-- tools box -->
                   <div class="pull-right box-tools">
                     <button class="btn btn-info btn-sm" data-widget="remove" data-toggle="tooltip" title="Remove"><i class="fa fa-times"></i></button>
@@ -385,7 +359,7 @@
                   </div>
                 </div>
                 <div class="box-body border-radius-none">
-                <img src="assets/img/graffiikk.jpg" alt="">
+                <img src="assets/img/GRAFIK.jpg" alt="">
                 </div><!-- /.box-body -->
                 <div class="box-footer no-border">
                   <div class="row">

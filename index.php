@@ -84,10 +84,9 @@
               <li class="dropdown"><a href="#"><span>Kegiatan</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
                 <ul>
                   <li><a href="ekstrakulikuler.php">Ekstrakurikuler</a></li>
-                  <li><a href="ekstrakurikuler.php">Ekstrakurikuler</a></li>
                   <li><a href="bahasa.php">Bulan Bahasa</a></li>
                   <li><a href="maulid.php">Maulid Nabi Muhammad</a></li>
-                  <li><a href="Porak.php">Porak</a></li>
+                  <li><a href="porak.php">Porak</a></li>
                   <li><a href="agustus.php">HUT RI 17 Agustus</a></li>
                   <li><a href="santri.php">Hari Santri</a></li>
                 </ul>
@@ -174,27 +173,27 @@
         <div class="row gy-4">
 
           <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up">
-            <div class="icon flex-shrink-0"><i class="bi bi-person-check-fill"></i></div>
+            <div class="icon flex-shrink-0"><i class=""></i></div>
             <div>
-              <h4 class="title">Sambutan Kepala Sekolah</h4>
-              <a href="service-details.php" class="readmore stretched-link"><span>check here</span><i class="bi bi-arrow-right"></i></a>
+              <h4 class="title"></h4>
+              <a href="service-details.php" class="readmore stretched-link"><span></span><i class=""></i></a>
             </div>
           </div>
           <!-- End Service Item -->
 
           <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up" data-aos-delay="100">
-            <div class="icon flex-shrink-0"><i class="bi bi-buildings-fill"></i></div>
+            <div class="icon flex-shrink-0"><i class=""></i></div>
             <div>
-              <h4 class="title">Fasilitas</h4>
-              <a href="service-details.php" class="readmore stretched-link"><span>check here</span><i class="bi bi-arrow-right"></i></a>
+              <h4 class="title"></h4>
+              <a href="service-details.php" class="readmore stretched-link"><span></span><i class=""></i></a>
             </div>
           </div><!-- End Service Item -->
 
           <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up" data-aos-delay="200">
-            <div class="icon flex-shrink-0"><i class="bi bi-people-fill"></i></div>
+            <div class="icon flex-shrink-0"><i class=""></i></div>
             <div>
-              <h4 class="title">Alumni</h4>
-              <a href="service-details.php" class="readmore stretched-link"><span>check here</span><i class="bi bi-arrow-right"></i></a>
+              <h4 class="title"></h4>
+              <a href="service-details.php" class="readmore stretched-link"><span></span><i class=""></i></a>
             </div>
           </div>
           
@@ -218,29 +217,7 @@
           <div class="col-lg-6 content order-last  order-lg-first">
           <h5>Informasi Umum</h5>
             <h3>SMK BINA CENDEKIA CIREBON</h3>
-            <ul>
-              <li data-aos="fade-up" data-aos-delay="100">
-                <i class="bi bi-pin-angle-fill"></i>
-                <div>
-                  <h5> SMK Bina Cendekia Cirebon</h5>
-                  <p> Adalah Sekolah Berbasis Pesantren</p>
-                </div>
-              </li>
-              <li data-aos="fade-up" data-aos-delay="200">
-                <i class="bi bi-bank2"></i>
-                <div>
-                  <h5>SMK Bina Cendekia Cirebon</h5>
-                  <p> Adalah Sekolah Pusat Keunggulan</p>
-                </div>
-              </li>
-              <li data-aos="fade-up" data-aos-delay="300">
-                <i class="bi bi-broadcast"></i>
-                <div>
-                  <h5>DI SMK Bina Cendekia Cirebon</h5>
-                  <p>Lulusan SMK Bina Cendekia Cirebon Di Jamin Langsung Kerja karena Sudah Bekerja Sama Dengan Banyak Perusahaan</p>
-                </div>
-              </li>
-            </ul>
+            <p class="fs-6 fst-italic"> Adalah Sekolah Industri Berbasis Pesantren, Sekolah Kami Juga Termasuk Pusat Keunggulan Dan Lulusan SMK Bina Cendekia Cirebon Di Jamin Langsung Kerja Karena Sudah Bekerja Sama Dengan Banyak Perusahaan Didalam Negeri Maupun Diluar Negeri </p>
           </div>
         </div>
 
@@ -254,68 +231,101 @@
         <div class="section-header">
           <h2>Kenapa Harus SMK Bina Cendekia CIrebon?</h2>
             <h4>Alasan kenapa kalian semua harus bergabung dengan SMK Bina Cendekia Cirebon.</h4>
-
-        </div>
+            <center><img src="assets/img/pembates.png" alt="" style="width:1200px;height:300px;"><center>
+          </div>
         <div class="row gy-4">
-          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
-            <div class="card">
+          <div class="col-lg-3 col-md-3" data-aos="fade-up" data-aos-delay="100">
+            <div class="">
               <div class="card-img">
                 <img src="assets/img/toga-service.png" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">Program Beasiswa</a></h3>
+              <center><h3><a href="#" class="stretched-link">Program Beasiswa</a></h3><center>
+              <center><p>Program Beasiswa Ini Untuk Siswa Yang Berprestasi dan anak yatim/piatu</p><center>
+              <h3><a href="service-details.php" class="stretched-link">Program Beasiswa</a></h3>
               <p>Program Beasiswa Ini Untuk Siswa Yang Berprestasi dan anak yatim/piatu</p>
             </div>
           </div><!-- End Card Item -->
 
-          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
-            <div class="card">
+          <div class="col-lg-3 col-md-3" data-aos="fade-up" data-aos-delay="200">
+            <div class="">
               <div class="card-img">
                 <img src="assets/img/akreditasi-service.png" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">Akreditasi-B</a></h3>
+              <center><h3><a href="#" class="stretched-link">Akreditasi-B</a></h3><center>
+              <center><p>Terakreditasi-B</p><center>
+              <h3><a href="service-details.php" class="stretched-link">Akreditasi-B</a></h3>
               <p>Terakreditasi-B</p>
             </div>
           </div><!-- End Card Item -->
 
-          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
-            <div class="card">
+          <div class="col-lg-3 col-md-3" data-aos="fade-up" data-aos-delay="300">
+            <div class="">
               <div class="card-img">
                 <img src="assets/img/pengajar-service.jpg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">Pengajar Kompoten</a></h3>
+              <center><h3><a href="#" class="stretched-link">Pengajar Kompoten</a></h3><center>
+              <center><p>Kualifikasi pengajar S1 dan S2 dari lulusan kampus ternama dan memiliki sertifikasi keahlian</p><center>
+              <h3><a href="service-details.php" class="stretched-link">Pengajar Kompoten</a></h3>
               <p>Kualifikasi pengajar S1 dan S2 dari lulusan kampus ternama dan memiliki sertifikasi keahlian</p>
             </div>
           </div><!-- End Card Item -->
 
-          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="400">
-            <div class="card">
+          <div class="col-lg-3 col-md-3" data-aos="fade-up" data-aos-delay="400">
+            <div class="">
               <div class="card-img">
                 <img src="assets/img/lulusan-service.jpg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">Alumni Berkualitas</a></h3>
+              <center><h3><a href="#" class="stretched-link">Alumni Berkualitas</a></h3><center>
+              <center><p>Alumni siap kerja, siap kuliah dan siap berwirausaha. Alumni tersebar di berbagai negara Seperti Jepang, Taiwan, Malaysia, dan lain-lain</p><center>
+              <h3><a href="service-details.php" class="stretched-link">Alumni Berkualitas</a></h3>
               <p>Alumni siap kerja, siap kuliah dan siap berwirausaha. Alumni tersebar di berbagai negara Seperti Jepang, Taiwan, Malaysia, dan lain-lain</p>
             </div>
           </div><!-- End Card Item -->
 
-          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="500">
-            <div class="card">
+          <div class="col-lg-3 col-md-3" data-aos="fade-up" data-aos-delay="500">
+            <div class="">
               <div class="card-img">
                 <img src="assets/img/prestasii-service.png" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">Prestasi</a></h3>
+              <center><h3><a href="#" class="stretched-link">Prestasi</a></h3><center>
+              <center><p>Memiliki segudang prestasi baik tingkat lokal, regional maupun nasional.</p><center>
+              <h3><a href="service-details.php" class="stretched-link">Prestasi</a></h3>
               <p>Memiliki segudang prestasi baik tingkat lokal, regional maupun nasional.</p>
             </div>
           </div><!-- End Card Item -->
 
-          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="600">
-            <div class="card">
+          <div class="col-lg-3 col-md-3" data-aos="fade-up" data-aos-delay="600">
+            <div class="">
               <div class="card-img">
                 <img src="assets/img/kurikulum-service.jpg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">Kurikulum Merdeka</a></h3>
+              <center><h3><a href="#" class="stretched-link">Kurikulum Merdeka</a></h3><center>
+              <center><p>Merdeka Belajar Bina Cendekia School (MBBCS) dengan 4 Pilar yaitu SDM GURU, Pendidikan Karakter Siswa, KURIKULUM dan Moderenisasi Sarana Prasarana sekolah.</p><center>
+              <h3><a href="service-details.php" class="stretched-link">Kurikulum Merdeka</a></h3>
               <p>Merdeka Belajar Bina Cendekia School (MBBCS) dengan 4 Pilar yaitu SDM GURU, Pendidikan Karakter Siswa, KURIKULUM dan Moderenisasi Sarana Prasarana sekolah.</p>
             </div>
           </div><!-- End Card Item -->
+
+          <div class="col-lg-3 col-md-3" data-aos="fade-up" data-aos-delay="700">
+            <div class="">
+              <div class="card-img">
+                <img src="assets/img/gedung-service.png" alt="" class="img-fluid">
+              </div>
+              <center><h3><a href="#" class="stretched-link">Fasilitas Lengkap</a></h3><center>
+              <center><p>Belajar Dengan Kualitas Yang Ada dan Mencukupi</p><center>
+            </div>
+          </div><!-- End Card Item -->
+
+          <div class="col-lg-3 col-md-3" data-aos="fade-up" data-aos-delay="800">
+            <div class="">
+              <div class="card-img">
+                <img src="assets/img/juara-service.png" alt="" class="img-fluid">
+              </div>
+              <center><h3><a href="#" class="stretched-link">Juara LKS SMK</a></h3><center>
+              <center><p>Sekolah Kami Menjuarai Lomba Kompetensi Siswa (LKS) Bidang Health & Social Care Tingkat Provinsi Jawa Barat 2022</p><center>
+            </div>
+          </div><!-- End Card Item -->
+
 
         </div>
 
@@ -325,6 +335,26 @@
 
       </div>
     </section><!-- End Pricing Section -->
+
+    <!-- ======= About Us Section ======= -->
+    <section id="about" class="about pt-0">
+      <div class="container" data-aos="fade-up">
+
+        <div class="row gy-4">
+          <div class="col-lg-6 position-relative align-self-start order-lg-last order-first">
+            <img src="assets/img/kepsek.png" class="img-fluid" alt="">
+          </div>
+          <div class="col-lg-6 content order-last  order-lg-first">
+          <h5></h5>
+            <h3>║ SAMBUTAN KEPALA SEKOLAH</h3>
+            <p class="fs-6 fst-italic"> Adalah Sekolah Industri Berbasis Pesantren, Sekolah Kami Juga Termasuk Pusat Keunggulan Dan Lulusan SMK Bina Cendekia Cirebon Di Jamin Langsung Kerja Karena Sudah Bekerja Sama Dengan Banyak Perusahaan Didalam Negeri Maupun Diluar Negeri </p>
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End About Us Section -->
+    
+
 
   </main><!-- End #main -->
 
