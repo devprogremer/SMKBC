@@ -262,7 +262,7 @@
               <div class="card-img">
                 <img src="assets/img/toga-service.png" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">Program Beasiswa</a></h3>
+              <h3><a href="service-details.php" class="stretched-link">Program Beasiswa</a></h3>
               <p>Program Beasiswa Ini Untuk Siswa Yang Berprestasi dan anak yatim/piatu</p>
             </div>
           </div><!-- End Card Item -->
@@ -272,7 +272,7 @@
               <div class="card-img">
                 <img src="assets/img/akreditasi-service.png" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">Akreditasi-B</a></h3>
+              <h3><a href="service-details.php" class="stretched-link">Akreditasi-B</a></h3>
               <p>Terakreditasi-B</p>
             </div>
           </div><!-- End Card Item -->
@@ -282,7 +282,7 @@
               <div class="card-img">
                 <img src="assets/img/pengajar-service.jpg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">Pengajar Kompoten</a></h3>
+              <h3><a href="service-details.php" class="stretched-link">Pengajar Kompoten</a></h3>
               <p>Kualifikasi pengajar S1 dan S2 dari lulusan kampus ternama dan memiliki sertifikasi keahlian</p>
             </div>
           </div><!-- End Card Item -->
@@ -292,7 +292,7 @@
               <div class="card-img">
                 <img src="assets/img/lulusan-service.jpg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">Alumni Berkualitas</a></h3>
+              <h3><a href="service-details.php" class="stretched-link">Alumni Berkualitas</a></h3>
               <p>Alumni siap kerja, siap kuliah dan siap berwirausaha. Alumni tersebar di berbagai negara Seperti Jepang, Taiwan, Malaysia, dan lain-lain</p>
             </div>
           </div><!-- End Card Item -->
@@ -302,7 +302,7 @@
               <div class="card-img">
                 <img src="assets/img/prestasii-service.png" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">Prestasi</a></h3>
+              <h3><a href="service-details.php" class="stretched-link">Prestasi</a></h3>
               <p>Memiliki segudang prestasi baik tingkat lokal, regional maupun nasional.</p>
             </div>
           </div><!-- End Card Item -->
@@ -312,7 +312,7 @@
               <div class="card-img">
                 <img src="assets/img/kurikulum-service.jpg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">Kurikulum Merdeka</a></h3>
+              <h3><a href="service-details.php" class="stretched-link">Kurikulum Merdeka</a></h3>
               <p>Merdeka Belajar Bina Cendekia School (MBBCS) dengan 4 Pilar yaitu SDM GURU, Pendidikan Karakter Siswa, KURIKULUM dan Moderenisasi Sarana Prasarana sekolah.</p>
             </div>
           </div><!-- End Card Item -->

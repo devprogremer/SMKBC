@@ -127,7 +127,7 @@
         <div class="container">
           <ol>
             <li><a href="index.php">Home</a></li>
-            <li><a href="login.php">login</a></li>
+            <li><a href="cek_login.php">login</a></li>
           </ol>
         </div>
       </nav>

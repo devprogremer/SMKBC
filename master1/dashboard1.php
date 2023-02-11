@@ -301,7 +301,7 @@
               <div class="box box-info">
                 <div class="box-header">
                   <i class="fa fa-envelope"></i>
-                  <h3 class="box-title">Mengedit TAbel Kelas</h3>
+                  <h3 class="box-title">Mengedit Tabel Kelas</h3>
                   <!-- tools box -->
                   <div class="pull-right box-tools">
                     <button class="btn btn-info btn-sm" data-widget="remove" data-toggle="tooltip" title="Remove"><i class="fa fa-times"></i></button>
