@@ -85,10 +85,9 @@
               <li class="dropdown"><a href="#"><span>Kegiatan</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
                 <ul>
                   <li><a href="ekstrakurikuler.php">Ekstrakurikuler</a></li>
-                  <li><a href="">Ekstrakurikuler</a></li>
                   <li><a href="bahasa.php">Bulan Bahasa</a></li>
                   <li><a href="maulid.php">Maulid Nabi Muhammad</a></li>
-                  <li><a href="Porak.php">Porak</a></li>
+                  <li><a href="porak.php">Porak</a></li>
                   <li><a href="agustus.php">HUT RI 17 Agustus</a></li>
                   <li><a href="santri.php">Hari Santri</a></li>
                 </ul>
