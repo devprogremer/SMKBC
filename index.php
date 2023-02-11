@@ -83,7 +83,7 @@
               </li>
               <li class="dropdown"><a href="#"><span>Kegiatan</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
                 <ul>
-                  <li><a href="ekstrakulikuler.php">Ekstrakurikuler</a></li>
+                  <li><a href="ekstrakurikuler.php">Ekstrakurikuler</a></li>
                   <li><a href="bahasa.php">Bulan Bahasa</a></li>
                   <li><a href="maulid.php">Maulid Nabi Muhammad</a></li>
                   <li><a href="porak.php">Porak</a></li>
@@ -229,9 +229,10 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-header">
+        <center><img src="assets/img/linux.png" alt="" style="width:400px;height:350px;"><center>
           <h2>Kenapa Harus SMK Bina Cendekia CIrebon?</h2>
             <h4>Alasan kenapa kalian semua harus bergabung dengan SMK Bina Cendekia Cirebon.</h4>
-            <center><img src="assets/img/pembates.png" alt="" style="width:1200px;height:300px;"><center>
+            <center><img src="assets/img/ok.jpeg" alt="" style="width:1330px;height:140px;"><center>
           </div>
         <div class="row gy-4">
           <div class="col-lg-3 col-md-3" data-aos="fade-up" data-aos-delay="100">
@@ -241,8 +242,6 @@
               </div>
               <center><h3><a href="#" class="stretched-link">Program Beasiswa</a></h3><center>
               <center><p>Program Beasiswa Ini Untuk Siswa Yang Berprestasi dan anak yatim/piatu</p><center>
-              <h3><a href="service-details.php" class="stretched-link">Program Beasiswa</a></h3>
-              <p>Program Beasiswa Ini Untuk Siswa Yang Berprestasi dan anak yatim/piatu</p>
             </div>
           </div><!-- End Card Item -->
 
@@ -253,8 +252,6 @@
               </div>
               <center><h3><a href="#" class="stretched-link">Akreditasi-B</a></h3><center>
               <center><p>Terakreditasi-B</p><center>
-              <h3><a href="service-details.php" class="stretched-link">Akreditasi-B</a></h3>
-              <p>Terakreditasi-B</p>
             </div>
           </div><!-- End Card Item -->
 
@@ -265,8 +262,6 @@
               </div>
               <center><h3><a href="#" class="stretched-link">Pengajar Kompoten</a></h3><center>
               <center><p>Kualifikasi pengajar S1 dan S2 dari lulusan kampus ternama dan memiliki sertifikasi keahlian</p><center>
-              <h3><a href="service-details.php" class="stretched-link">Pengajar Kompoten</a></h3>
-              <p>Kualifikasi pengajar S1 dan S2 dari lulusan kampus ternama dan memiliki sertifikasi keahlian</p>
             </div>
           </div><!-- End Card Item -->
 
@@ -277,9 +272,7 @@
               </div>
               <center><h3><a href="#" class="stretched-link">Alumni Berkualitas</a></h3><center>
               <center><p>Alumni siap kerja, siap kuliah dan siap berwirausaha. Alumni tersebar di berbagai negara Seperti Jepang, Taiwan, Malaysia, dan lain-lain</p><center>
-              <h3><a href="service-details.php" class="stretched-link">Alumni Berkualitas</a></h3>
-              <p>Alumni siap kerja, siap kuliah dan siap berwirausaha. Alumni tersebar di berbagai negara Seperti Jepang, Taiwan, Malaysia, dan lain-lain</p>
-            </div>
+              </div>
           </div><!-- End Card Item -->
 
           <div class="col-lg-3 col-md-3" data-aos="fade-up" data-aos-delay="500">
@@ -289,8 +282,6 @@
               </div>
               <center><h3><a href="#" class="stretched-link">Prestasi</a></h3><center>
               <center><p>Memiliki segudang prestasi baik tingkat lokal, regional maupun nasional.</p><center>
-              <h3><a href="service-details.php" class="stretched-link">Prestasi</a></h3>
-              <p>Memiliki segudang prestasi baik tingkat lokal, regional maupun nasional.</p>
             </div>
           </div><!-- End Card Item -->
 
@@ -301,8 +292,6 @@
               </div>
               <center><h3><a href="#" class="stretched-link">Kurikulum Merdeka</a></h3><center>
               <center><p>Merdeka Belajar Bina Cendekia School (MBBCS) dengan 4 Pilar yaitu SDM GURU, Pendidikan Karakter Siswa, KURIKULUM dan Moderenisasi Sarana Prasarana sekolah.</p><center>
-              <h3><a href="service-details.php" class="stretched-link">Kurikulum Merdeka</a></h3>
-              <p>Merdeka Belajar Bina Cendekia School (MBBCS) dengan 4 Pilar yaitu SDM GURU, Pendidikan Karakter Siswa, KURIKULUM dan Moderenisasi Sarana Prasarana sekolah.</p>
             </div>
           </div><!-- End Card Item -->
 
@@ -335,18 +324,20 @@
 
       </div>
     </section><!-- End Pricing Section -->
-
+    <center><img src="assets/img/ye.png" alt="" style="width:1330px;height:240px;"><center>
+    <div class="row">
+    </div>
     <!-- ======= About Us Section ======= -->
     <section id="about" class="about pt-0">
       <div class="container" data-aos="fade-up">
 
-        <div class="row gy-4">
+        <div class="row g-5">
           <div class="col-lg-6 position-relative align-self-start order-lg-last order-first">
             <img src="assets/img/kepsek.png" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 content order-last  order-lg-first">
           <h5></h5>
-            <h3>║ SAMBUTAN KEPALA SEKOLAH</h3>
+            <h3><a class="row">║ SAMBUTAN KEPALA SEKOLAH</a></h3>
             <p class="fs-6 fst-italic"> Adalah Sekolah Industri Berbasis Pesantren, Sekolah Kami Juga Termasuk Pusat Keunggulan Dan Lulusan SMK Bina Cendekia Cirebon Di Jamin Langsung Kerja Karena Sudah Bekerja Sama Dengan Banyak Perusahaan Didalam Negeri Maupun Diluar Negeri </p>
           </div>
         </div>

@@ -1,1 +1,0 @@
-Ngotak dulu

@@ -38,6 +38,7 @@
 </head>
 <body>
   
+  
   <!-- ======= Header ======= -->
   <header id="header" class="header d-flex align-items-center fixed-top">
     <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
@@ -86,7 +87,7 @@
                   <li><a href="ekstrakurikuler.php">Ekstrakurikuler</a></li>
                   <li><a href="bahasa.php">Bulan Bahasa</a></li>
                   <li><a href="maulid.php">Maulid Nabi Muhammad</a></li>
-                  <li><a href="Porak.php">Porak</a></li>
+                  <li><a href="porak.php">Porak</a></li>
                   <li><a href="agustus.php">HUT RI 17 Agustus</a></li>
                   <li><a href="santri.php">Hari Santri</a></li>
                 </ul>
@@ -107,7 +108,6 @@
 
     </div>
   </header><!-- End Header -->
-  
   <main id="main">
     
   <!-- ======= Hero Section ======= -->
