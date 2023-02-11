@@ -385,7 +385,7 @@
                   </div>
                 </div>
                 <div class="box-body border-radius-none">
-                <img src="assets/img/graffiikk.jpg" alt="">
+                <img src="assets/img/GRAFIK.jpg" alt="">
                 </div><!-- /.box-body -->
                 <div class="box-footer no-border">
                   <div class="row">
