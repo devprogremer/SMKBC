@@ -215,13 +215,47 @@
 
       </div>
     </section><!-- End Pricing Section -->
+        <!-- ======= Features Section ======= -->
+    <section id="features" class="features">
+      <div class="container" data-aos="fade-up">
 
+        <div class="row">
+          <div class="image col-lg-5" style='background-image: url("assets/img/paskibra.png");' data-aos="fade-right"></div>
+          <div class="col-lg-6" data-aos="fade-left" data-aos-delay="100">
+            <div class="icon-box mt-5 mt-lg-0" data-aos="zoom-in" data-aos-delay="150">
+            <i class="bi bi-pin-angle"></i>
+              <h4>PASKIBRA</h4>
+              <p>TUJUAN PASKIBRA
+Menghimpun dan membina para anggota agar menjadi siswa-siswi dan warga Negara Indonesia yang beriman dan bertaqwa kepada Tuhan Yang Maha Esa, berjiwa Pancasila, setia dan patuh pada Negara Kesatuan Republik Indonesia dan menjadi Pandu Ibu Pertiwi<P>
+          </div>
+      </div>
+      <!-- ======= About Section ======= -->
+    <section id="about" class="about">
+      <div class="container" data-aos="fade-up">
+
+        <div class="row">
+          <div class="col-lg-5 order-1 order-lg-2" data-aos="fade-left" data-aos-delay="100">
+            <img src="assets/img/sinema.jpeg" class="img-fluid" alt="">
+          </div>
+          <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right" data-aos-delay="100">
+          <div class="section-title">
+        </div>
+            <ul>
+            <h4>SINEMA TOGRAFI</h4>
+          <p> TUJUAN SINEMA TOGRAFI </p>
+          <p> </p>
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End About Section -->
     <!-- ======= Features Section ======= -->
     <section id="features" class="features">
       <div class="container">
-
         <div class="row gy-4 align-items-center features-item" data-aos="fade-up">
-
+        <div class="row">
+          <div class="col-lg-4 order-1 order-lg-2" data-aos="fade-left" data-aos-delay="100">
+            <img src="assets/img/pmr.jpeg" class="img-fluid" alt="">
           <div class="col-md-5">
             <img src="assets/img/profil1.jpeg" class="img-fluid" alt="">
           </div>
