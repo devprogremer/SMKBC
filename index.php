@@ -83,11 +83,8 @@
               </li>
               <li class="dropdown"><a href="#"><span>Kegiatan</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
                 <ul>
-<<<<<<< HEAD
                   <li><a href="ekstrakulikuler.php">Ekstrakurikuler</a></li>
-=======
                   <li><a href="ekstrakurikuler.php">Ekstrakurikuler</a></li>
->>>>>>> fe77c4f2b51f15888edd1f83ff90b3f8a3ac3041
                   <li><a href="bahasa.php">Bulan Bahasa</a></li>
                   <li><a href="maulid.php">Maulid Nabi Muhammad</a></li>
                   <li><a href="Porak.php">Porak</a></li>

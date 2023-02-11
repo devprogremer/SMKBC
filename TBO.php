@@ -181,7 +181,7 @@
           <p>SMK Bina Cendekia Cirebon </p>
         </div>
             <ul>
-          <br>TBO adalah merupakan salah satu kompetensi untuk menjadi seorang teknis dalam hal perbaikan bodi otomotif atau menjadi spesialis dalam hal bagian keindahan mobil tersebut yang dapat terdiri dari intirior maupun exterior. </br>
+          <br>Membekali peserta didik dengan ketrampilan,pengetahuan dan sikap,agar kompeten bidang teknik bodi otomotif,baik pebaikan panel dan pengecatan bodi maupun pemeliharaan dan perbaikan interior otomotif </br>
           </div>
         </div>
 
