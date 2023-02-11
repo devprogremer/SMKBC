@@ -126,15 +126,15 @@
 
             <div class="col-lg-3 col-6">
               <div class="stats-item text-center w-100 h-100">
-                <span data-purecounter-start="0" data-purecounter-end="400" data-purecounter-duration="1" class="purecounter"></span>
-                <p>Clients</p>
+                <span data-purecounter-start="0" data-purecounter-end="1300" data-purecounter-duration="1" class="purecounter"></span>
+                <p>Siswa</p>
               </div>
             </div><!-- End Stats Item -->
 
             <div class="col-lg-3 col-6">
               <div class="stats-item text-center w-100 h-100">
-                <span data-purecounter-start="0" data-purecounter-end="641" data-purecounter-duration="1" class="purecounter"></span>
-                <p>Pengunjung</p>
+                <span data-purecounter-start="0" data-purecounter-end="56" data-purecounter-duration="1" class="purecounter"></span>
+                <p>guru</p>
               </div>
             </div><!-- End Stats Item -->
 
@@ -173,7 +173,7 @@
 
         <div class="section-header">
           <span></span>
-          <h2>HUBUNGAN INDUSTRI SMK BINA CEBDEKIA CIREBON</h2>
+          <h2>HUBUNGAN INDUSTRI SMK BINA CENDEKIA CIREBON</h2>
 
         </div>
 
@@ -271,7 +271,7 @@ Pembangunan Rumah Sakit sempat maju mundur selama beberapa tahun karena satu dan
 
         <div class="row gy-4 align-items-center features-item" data-aos="fade-up">
           <div class="col-md-5">
-            <img src="assets/img/stikom.jpeg" class="img-fluid" alt="">
+            <img src="assets/img/Stikom.jpeg" class="img-fluid" alt="">
           </div>
           <div class="col-md-7">
             <h3>STIKOM</h3>
@@ -283,7 +283,7 @@ Pembangunan Rumah Sakit sempat maju mundur selama beberapa tahun karena satu dan
 
         <div class="row gy-4 align-items-center features-item" data-aos="fade-up">
           <div class="col-md-5 order-1 order-md-2">
-            <img src="assets/img/akper.jpeg" class="img-fluid" alt="">
+            <img src="assets/img/akkper.jpeg" class="img-fluid" alt="">
           </div>
           <div class="col-md-7 order-2 order-md-1">
             <h3>Akper Husada Karya Jaya Jakarta </h3>
