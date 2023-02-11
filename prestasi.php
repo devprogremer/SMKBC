@@ -190,9 +190,9 @@
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
             <div class="card">
               <div class="card-img">
-                <img src="assets/img/prestasi-sevice.jpeg" alt="" class="img-fluid">
+                <img src="assets/img/prestasi1.jpeg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">Juara II</a></h3>
+              <h3><a href="service-details.html" class="stretched-link">Juara </a></h3>
               <p>Dalam Rangka (LOMBA KETERAMPILAN SISWA) SMK Tingkat Provinsi Jawa Barat,Tahun 2022</p>
             </div>
           </div><!-- End Card Item -->
@@ -200,20 +200,20 @@
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
             <div class="card">
               <div class="card-img">
-                <img src="assets/img/logistics-service.jpg" alt="" class="img-fluid">
+                <img src="assets/img/prestasi-sevice.jpeg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">Logistics</a></h3>
-              <p>Asperiores provident dolor accusamus pariatur dolore nam id audantium ut et iure incidunt molestiae dolor ipsam ducimus occaecati nisi</p>
+              <h3><a href="service-details.html" class="stretched-link">Juara II</a></h3>
+              <p>Dalam Rangka (LOMBA KETERAMPILAN SISWA) SMK Tingkat Provinsi Jawa Barat,Tahun 2022</p>
             </div>
           </div><!-- End Card Item -->
 
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
             <div class="card">
               <div class="card-img">
-                <img src="assets/img/cargo-service.jpg" alt="" class="img-fluid">
+                <img src="assets/img/prestasi2.jpeg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">Cargo</a></h3>
-              <p>Dicta quam similique quia architecto eos nisi aut ratione aut ipsum reiciendis sit doloremque oluptatem aut et molestiae ut et nihil</p>
+              <h3><a href="service-details.html" class="stretched-link">Juara I</a></h3>
+              <p>Dalam Rangka (LOMBA KOSTUM TEBAIK) SMK Tingkat Kabupaten  Cirebon,Tahun 2021</p>
             </div>
           </div><!-- End Card Item -->
 

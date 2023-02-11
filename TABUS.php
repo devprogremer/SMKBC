@@ -181,7 +181,7 @@
           <p>SMK Bina Cendekia Cirebon </p>
         </div>
             <ul>
-          <br> Tabus adalah suatu disiplin ilmu dan seni mengenai penerapan desain, estetika, dan keindahan alami untuk pakaian dan hiasan tambahannya. Penerapan tata busana dipengaruhi oleh corak budaya dan sosial, yang beragam tergantung pada waktu dan tempat.</br>
+          <br> Membekali peserta didik dengan ketrampilam,pengetahuan dan sikap agar komputen di bidang fashion drawing (menggambar busana), pembuatan busana baik pria maupun wanita dan anak-anak,pembuatan hiasan pada busan (Embruodery). </br>
           </div>
         </div>
 

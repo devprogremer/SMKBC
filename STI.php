@@ -179,7 +179,7 @@
           <p>SMK Bina Cendekia Cirebon </p>
         </div>
             <ul>
-          <br>Samsung Tech Institute adalah sebuah fasilitas dengan program pelatihan dasar elektronika untuk para siswa, yang akan memperkaya kurikulum pendidikan SMK Bina Cendekia Cirebon </br>
+          <br>kualitas sumber daya manusia merupakan faktor mendasar guna meningkatkan daya saing dan produktivitas angkatan kerja dalam menghadapi bonus demografi yang kian menantang </br>
           </div>
         </div>
 
