@@ -246,15 +246,15 @@ Menghimpun dan membina para anggota agar menjadi siswa-siswi dan warga Negara In
 
         <div class="row">
           <div class="col-lg-5 order-1 order-lg-2" data-aos="fade-left" data-aos-delay="100">
-            <img src="assets/img/pencaksilat.jpeg" class="img-fluid" alt="">
+            <img src="assets/img/sinema.jpeg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right" data-aos-delay="100">
           <div class="section-title">
         </div>
             <ul>
-            <h4>PENCAK SILAT</h4>
-          <p> TUJUAN PENCAK SILAT
-Pencak silat mengajarkan mengenai pengenalan terhadap diri sendiri sebagai seorang makhluk yang percaya terhadap adanya Tuhan Yang Maha Esa. Oleh sebab itu, pencak silat bukan hanya suatu pembinaan yang bertujuan pada aspek seni, bela diri, maupun olah raga saja, namun juga bertujuan untuk mengembangkan watak luhur, kepribadian, karakter, sikap ksatria, percaya diri, serta takwa terhadap Tuhan yang Maha Esa. <p>
+            <h4>SINEMA TOGRAFI</h4>
+          <p> TUJUAN SINEMA TOGRAFI </p>
+          <p> </p>
           </div>
         </div>
 
@@ -280,7 +280,7 @@ OSIS bertujuan memfasilitasi para siswa untuk menyalurkan aspirasinya, mengekspr
 
         <div class="row">
           <div class="col-lg-4 order-1 order-lg-2" data-aos="fade-left" data-aos-delay="100">
-            <img src="assets/img/pmrr.jpeg" class="img-fluid" alt="">
+            <img src="assets/img/pmr.jpeg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right" data-aos-delay="100">
           <div class="section-title">
