@@ -166,164 +166,156 @@
 
   <main id="main">
 
-    <!-- ======= Featured Services Section ======= -->
-    <section id="featured-services" class="featured-services">
+  <!-- ======= Features Section ======= -->
+  <section id="features" class="features">
       <div class="container">
 
-        <div class="row gy-4">
+        <div class="row gy-4 align-items-center features-item" data-aos="fade-up">
 
-          <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up">
-            <div class="icon flex-shrink-0"><i class="bi bi-person-check-fill"></i></div>
-            <div>
-              <h4 class="title">Sambutan Kepala Sekolah</h4>
-              <a href="service-details.php" class="readmore stretched-link"><span>check here</span><i class="bi bi-arrow-right"></i></a>
-            </div>
+          <div class="col-md-5">
+            <img src="assets/img/profil1.jpeg" class="img-fluid" alt="">
           </div>
-          <!-- End Service Item -->
-
-          <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up" data-aos-delay="100">
-            <div class="icon flex-shrink-0"><i class="bi bi-buildings-fill"></i></div>
-            <div>
-              <h4 class="title">Fasilitas</h4>
-              <a href="service-details.php" class="readmore stretched-link"><span>check here</span><i class="bi bi-arrow-right"></i></a>
-            </div>
-          </div><!-- End Service Item -->
-
-          <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up" data-aos-delay="200">
-            <div class="icon flex-shrink-0"><i class="bi bi-people-fill"></i></div>
-            <div>
-              <h4 class="title">Alumni</h4>
-              <a href="service-details.php" class="readmore stretched-link"><span>check here</span><i class="bi bi-arrow-right"></i></a>
-            </div>
-          </div>
-          
-          <!-- End Service Item -->
-
-        </div>
-
-      </div>
-    </section>
-    <!-- End Featured Services Section -->
-
-    <!-- ======= About Us Section ======= -->
-    <section id="about" class="about pt-0">
-      <div class="container" data-aos="fade-up">
-
-        <div class="row gy-4">
-          <div class="col-lg-6 position-relative align-self-start order-lg-last order-first">
-            <img src="assets/img/abaout.jpeg" class="img-fluid" alt="">
-            <a href="https://youtu.be/RU14KbxDDfU" class="glightbox play-btn"></a>
-          </div>
-          <div class="col-lg-6 content order-last  order-lg-first">
-          <h5>Informasi Umum</h5>
-            <h3>SMK BINA CENDEKIA CIREBON</h3>
+          <div class="col-md-7">
+            <h3>Kunjungan Tamu Dari Finlandia.</h3>
+            <p class="fst-italic">
+             Dengan Tujuan:
+            </p>
             <ul>
-              <li data-aos="fade-up" data-aos-delay="100">
-                <i class="bi bi-pin-angle-fill"></i>
-                <div>
-                  <h5> SMK Bina Cendekia Cirebon</h5>
-                  <p> Adalah Sekolah Berbasis Pesantren</p>
-                </div>
-              </li>
-              <li data-aos="fade-up" data-aos-delay="200">
-                <i class="bi bi-bank2"></i>
-                <div>
-                  <h5>SMK Bina Cendekia Cirebon</h5>
-                  <p> Adalah Sekolah Pusat Keunggulan</p>
-                </div>
-              </li>
-              <li data-aos="fade-up" data-aos-delay="300">
-                <i class="bi bi-broadcast"></i>
-                <div>
-                  <h5>DI SMK Bina Cendekia Cirebon</h5>
-                  <p>Lulusan SMK Bina Cendekia Cirebon Di Jamin Langsung Kerja karena Sudah Bekerja Sama Dengan Banyak Perusahaan</p>
-                </div>
-              </li>
+              <li><i class="bi bi-check"></i> Shering Metode Pembelajaran Di Finlandia</li>
+              <li><i class="bi bi-check"></i> UntuknMemeprerat Kerjasama</li>
             </ul>
           </div>
-        </div>
+        </div><!-- Features Item -->
+
+        <div class="row gy-4 align-items-center features-item" data-aos="fade-up">
+          <div class="col-md-5 order-1 order-md-2">
+            <img src="assets/img/profil2.jpeg" class="img-fluid" alt="">
+          </div>
+          <div class="col-md-7 order-2 order-md-1">
+            <h3>Corporis temporibus maiores provident</h3>
+            <p class="fst-italic">
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
+              magna aliqua.
+            </p>
+            <p>
+              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
+              culpa qui officia deserunt mollit anim id est laborum
+            </p>
+          </div>
+        </div><!-- Features Item -->
+          </div>
+        </div><!-- Features Item -->
 
       </div>
-    </section><!-- End About Us Section -->
+    </section><!-- End Features Section -->
 
-    <!-- ======= Services Section ======= -->
-    <section id="service" class="services pt-0">
-      <div class="container" data-aos="fade-up">
 
-        <div class="section-header">
-          <h2>Kenapa Harus SMK Bina Cendekia CIrebon?</h2>
-            <h4>Alasan kenapa kalian semua harus bergabung dengan SMK Bina Cendekia Cirebon.</h4>
-
-        </div>
-        <div class="row gy-4">
-          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
-            <div class="card">
-              <div class="card-img">
-                <img src="assets/img/toga-service.png" alt="" class="img-fluid">
-              </div>
-              <h3><a href="service-details.html" class="stretched-link">Program Beasiswa</a></h3>
-              <p>Program Beasiswa Ini Untuk Siswa Yang Berprestasi dan anak yatim/piatu</p>
-            </div>
-          </div><!-- End Card Item -->
-
-          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
-            <div class="card">
-              <div class="card-img">
-                <img src="assets/img/akreditasi-service.png" alt="" class="img-fluid">
-              </div>
-              <h3><a href="service-details.html" class="stretched-link">Akreditasi-B</a></h3>
-              <p>Terakreditasi-B</p>
-            </div>
-          </div><!-- End Card Item -->
-
-          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
-            <div class="card">
-              <div class="card-img">
-                <img src="assets/img/pengajar-service.jpg" alt="" class="img-fluid">
-              </div>
-              <h3><a href="service-details.html" class="stretched-link">Pengajar Kompoten</a></h3>
-              <p>Kualifikasi pengajar S1 dan S2 dari lulusan kampus ternama dan memiliki sertifikasi keahlian</p>
-            </div>
-          </div><!-- End Card Item -->
-
-          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="400">
-            <div class="card">
-              <div class="card-img">
-                <img src="assets/img/lulusan-service.jpg" alt="" class="img-fluid">
-              </div>
-              <h3><a href="service-details.html" class="stretched-link">Alumni Berkualitas</a></h3>
-              <p>Alumni siap kerja, siap kuliah dan siap berwirausaha. Alumni tersebar di berbagai negara Seperti Jepang, Taiwan, Malaysia, dan lain-lain</p>
-            </div>
-          </div><!-- End Card Item -->
-
-          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="500">
-            <div class="card">
-              <div class="card-img">
-                <img src="assets/img/prestasii-service.png" alt="" class="img-fluid">
-              </div>
-              <h3><a href="service-details.html" class="stretched-link">Prestasi</a></h3>
-              <p>Memiliki segudang prestasi baik tingkat lokal, regional maupun nasional.</p>
-            </div>
-          </div><!-- End Card Item -->
-
-          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="600">
-            <div class="card">
-              <div class="card-img">
-                <img src="assets/img/kurikulum-service.jpg" alt="" class="img-fluid">
-              </div>
-              <h3><a href="service-details.html" class="stretched-link">Kurikulum Merdeka</a></h3>
-              <p>Merdeka Belajar Bina Cendekia School (MBBCS) dengan 4 Pilar yaitu SDM GURU, Pendidikan Karakter Siswa, KURIKULUM dan Moderenisasi Sarana Prasarana sekolah.</p>
-            </div>
-          </div><!-- End Card Item -->
-
-        </div>
-
-      </div>
-    </section><!-- End Services Section -->
         </div>
 
       </div>
     </section><!-- End Pricing Section -->
+
+    <!-- ======= Features Section ======= -->
+    <section id="features" class="features">
+      <div class="container">
+
+        <div class="row gy-4 align-items-center features-item" data-aos="fade-up">
+
+          <div class="col-md-5">
+            <img src="assets/img/profil1.jpeg" class="img-fluid" alt="">
+          </div>
+          <div class="col-md-7">
+            <h3>Kunjungan Tamu Dari Finlandia.</h3>
+            <p class="fst-italic">
+             Dengan Tujuan:
+            </p>
+            <ul>
+              <li><i class="bi bi-check"></i> Shering Metode Pembelajaran Di Finlandia</li>
+              <li><i class="bi bi-check"></i> UntuknMemeprerat Kerjasama</li>
+            </ul>
+          </div>
+        </div><!-- Features Item -->
+
+        <div class="row gy-4 align-items-center features-item" data-aos="fade-up">
+          <div class="col-md-5 order-1 order-md-2">
+            <img src="assets/img/profil2.jpeg" class="img-fluid" alt="">
+          </div>
+          <div class="col-md-7 order-2 order-md-1">
+            <h3>Corporis temporibus maiores provident</h3>
+            <p class="fst-italic">
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
+              magna aliqua.
+            </p>
+            <p>
+              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
+              culpa qui officia deserunt mollit anim id est laborum
+            </p>
+          </div>
+        </div><!-- Features Item -->
+          </div>
+        </div><!-- Features Item -->
+
+      </div>
+    </section><!-- End Features Section -->
+
+
+        </div>
+
+      </div>
+    </section><!-- End Pricing Section -->
+
+    <!-- ======= Features Section ======= -->
+    <section id="features" class="features">
+      <div class="container">
+
+        <div class="row gy-4 align-items-center features-item" data-aos="fade-up">
+
+          <div class="col-md-5">
+            <img src="assets/img/profil1.jpeg" class="img-fluid" alt="">
+          </div>
+          <div class="col-md-7">
+            <h3>Kunjungan Tamu Dari Finlandia.</h3>
+            <p class="fst-italic">
+             Dengan Tujuan:
+            </p>
+            <ul>
+              <li><i class="bi bi-check"></i> Shering Metode Pembelajaran Di Finlandia</li>
+              <li><i class="bi bi-check"></i> UntuknMemeprerat Kerjasama</li>
+            </ul>
+          </div>
+        </div><!-- Features Item -->
+
+        <div class="row gy-4 align-items-center features-item" data-aos="fade-up">
+          <div class="col-md-5 order-1 order-md-2">
+            <img src="assets/img/profil2.jpeg" class="img-fluid" alt="">
+          </div>
+          <div class="col-md-7 order-2 order-md-1">
+            <h3>Corporis temporibus maiores provident</h3>
+            <p class="fst-italic">
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
+              magna aliqua.
+            </p>
+            <p>
+              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
+              culpa qui officia deserunt mollit anim id est laborum
+            </p>
+          </div>
+        </div><!-- Features Item -->
+          </div>
+        </div><!-- Features Item -->
+
+      </div>
+    </section><!-- End Features Section -->
+
+
+        </div>
+
+      </div>
+    </section><!-- End Pricing Section -->
+
 
   </main><!-- End #main -->
 
