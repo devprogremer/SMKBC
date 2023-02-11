@@ -241,6 +241,8 @@
               </div>
               <center><h3><a href="#" class="stretched-link">Program Beasiswa</a></h3><center>
               <center><p>Program Beasiswa Ini Untuk Siswa Yang Berprestasi dan anak yatim/piatu</p><center>
+              <h3><a href="service-details.php" class="stretched-link">Program Beasiswa</a></h3>
+              <p>Program Beasiswa Ini Untuk Siswa Yang Berprestasi dan anak yatim/piatu</p>
             </div>
           </div><!-- End Card Item -->
 
@@ -251,6 +253,8 @@
               </div>
               <center><h3><a href="#" class="stretched-link">Akreditasi-B</a></h3><center>
               <center><p>Terakreditasi-B</p><center>
+              <h3><a href="service-details.php" class="stretched-link">Akreditasi-B</a></h3>
+              <p>Terakreditasi-B</p>
             </div>
           </div><!-- End Card Item -->
 
@@ -261,6 +265,8 @@
               </div>
               <center><h3><a href="#" class="stretched-link">Pengajar Kompoten</a></h3><center>
               <center><p>Kualifikasi pengajar S1 dan S2 dari lulusan kampus ternama dan memiliki sertifikasi keahlian</p><center>
+              <h3><a href="service-details.php" class="stretched-link">Pengajar Kompoten</a></h3>
+              <p>Kualifikasi pengajar S1 dan S2 dari lulusan kampus ternama dan memiliki sertifikasi keahlian</p>
             </div>
           </div><!-- End Card Item -->
 
@@ -271,6 +277,8 @@
               </div>
               <center><h3><a href="#" class="stretched-link">Alumni Berkualitas</a></h3><center>
               <center><p>Alumni siap kerja, siap kuliah dan siap berwirausaha. Alumni tersebar di berbagai negara Seperti Jepang, Taiwan, Malaysia, dan lain-lain</p><center>
+              <h3><a href="service-details.php" class="stretched-link">Alumni Berkualitas</a></h3>
+              <p>Alumni siap kerja, siap kuliah dan siap berwirausaha. Alumni tersebar di berbagai negara Seperti Jepang, Taiwan, Malaysia, dan lain-lain</p>
             </div>
           </div><!-- End Card Item -->
 
@@ -281,6 +289,8 @@
               </div>
               <center><h3><a href="#" class="stretched-link">Prestasi</a></h3><center>
               <center><p>Memiliki segudang prestasi baik tingkat lokal, regional maupun nasional.</p><center>
+              <h3><a href="service-details.php" class="stretched-link">Prestasi</a></h3>
+              <p>Memiliki segudang prestasi baik tingkat lokal, regional maupun nasional.</p>
             </div>
           </div><!-- End Card Item -->
 
@@ -291,6 +301,8 @@
               </div>
               <center><h3><a href="#" class="stretched-link">Kurikulum Merdeka</a></h3><center>
               <center><p>Merdeka Belajar Bina Cendekia School (MBBCS) dengan 4 Pilar yaitu SDM GURU, Pendidikan Karakter Siswa, KURIKULUM dan Moderenisasi Sarana Prasarana sekolah.</p><center>
+              <h3><a href="service-details.php" class="stretched-link">Kurikulum Merdeka</a></h3>
+              <p>Merdeka Belajar Bina Cendekia School (MBBCS) dengan 4 Pilar yaitu SDM GURU, Pendidikan Karakter Siswa, KURIKULUM dan Moderenisasi Sarana Prasarana sekolah.</p>
             </div>
           </div><!-- End Card Item -->
 

@@ -118,8 +118,7 @@
         <div class="container position-relative">
           <div class="row d-flex justify-content-center">
             <div class="col-lg-6 text-center">
-              <h2>Contact</h2>
-              <p>Halo Teman-Teman Masih Bingung Mau Lanjut Kemana?? SMK Bina Cendekia Solusinya Segera Contact Kami Kuota Terbatas</p>
+              <h2>Penerimaan Peserta Didik Baru Tahun Ajaran 2023/2024</h2>
             </div>
           </div>
         </div>
@@ -128,7 +127,7 @@
         <div class="container">
           <ol>
             <li><a href="index.php">Home</a></li>
-            <li><a href="login.php">login</a></li>
+            <li><a href="cek_login.php">login</a></li>
           </ol>
         </div>
       </nav>
@@ -140,28 +139,27 @@
 
         <div class="row g-0">
 
-          <div class="col-lg-5 quote-bg" style="background-image: url(assets/img/quote-bg.jpg);"></div>
+          <div class="col-lg-5 quote-bg" style="background-image: url(assets/img/Quote-bg.jpeg);"></div>
 
           <div class="col-lg-7">
             <form action="forms/quote.php" method="post" class="php-email-form">
-              <h3>Get a quote</h3>
-              <p>Vel nobis odio laboriosam et hic voluptatem. Inventore vitae totam. Rerum repellendus enim linead sero park flows.</p>
-              <div class="row gy-4">
+              <h3>DAFTAR SEKARANG</h3>
+                <div class="row gy-4">
 
                 <div class="col-md-6">
-                  <input type="text" name="departure" class="form-control" placeholder="City of Departure" required>
+                  <input type="text" name="departure" class="form-control" placeholder="No. HP Orang Tua/Wali" required>
                 </div>
 
                 <div class="col-md-6">
-                  <input type="text" name="delivery" class="form-control" placeholder="Delivery City" required>
+                  <input type="text" name="delivery" class="form-control" placeholder="Nama Lengkap Orang Tua" required>
                 </div>
 
                 <div class="col-md-6">
-                  <input type="text" name="weight" class="form-control" placeholder="Total Weight (kg)" required>
+                  <input type="text" name="weight" class="form-control" placeholder="No. HP Wali Kelas" required>
                 </div>
 
                 <div class="col-md-6">
-                  <input type="text" name="dimensions" class="form-control" placeholder="Dimensions (cm)" required>
+                  <input type="text" name="dimensions" class="form-control" placeholder="No. HP Guru BK" required>
                 </div>
 
                 <div class="col-lg-12">
@@ -169,19 +167,19 @@
                 </div>
 
                 <div class="col-md-12">
-                  <input type="text" name="name" class="form-control" placeholder="Name" required>
+                  <input type="text" name="name" class="form-control" placeholder="Nama Lengkap" required>
                 </div>
 
                 <div class="col-md-12 ">
-                  <input type="email" class="form-control" name="email" placeholder="Email" required>
+                  <input type="email" class="form-control" name="email" placeholder="No. HP atau WA Calon Siswa" required>
                 </div>
 
                 <div class="col-md-12">
-                  <input type="text" class="form-control" name="phone" placeholder="Phone" required>
+                  <input type="text" class="form-control" name="phone" placeholder="Asal Sekolah" required>
                 </div>
 
                 <div class="col-md-12">
-                  <textarea class="form-control" name="message" rows="6" placeholder="Message" required></textarea>
+                  <textarea class="form-control" name="message" rows="6" placeholder="Info PPDB" required></textarea>
                 </div>
 
                 <div class="col-md-12 text-center">
