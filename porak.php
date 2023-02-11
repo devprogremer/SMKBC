@@ -174,34 +174,34 @@
           <p>SMK Bina Cendekia Cirebon </p>
         </div>
         <div class="row">
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="member" data-aos="fade-up" data-aos-delay="100">
               <div class="member-img">
                 <img src="assets/img/kegiatan1.jpeg" class="img-fluid" alt="">
               </div>
               <div class="member-info">
-                <p>KEPALA MADRASAH</p>
+                <p>Lomba Futsal</p>
               </div>
             </div>
           </div>
 
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="member" data-aos="fade-up" data-aos-delay="200">
               <div class="member-img">
                 <img src="assets/img/kegiatan2.jpeg" class="img-fluid" alt="">
               </div>
               <div class="member-info">
-                <p>KEPALA URUSAN TATA USAHA</p>
+                <p>Siswa Siswi SMK Bina Cendekia Cirebon</p>
               </div>
             </div>
           </div>
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="member" data-aos="fade-up" data-aos-delay="300">
               <div class="member-img">
                 <img src="assets/img/kegiatan3.jpeg" class="img-fluid" alt="">
               </div>
               <div class="member-info">
-                <p>BENDAHARA</p>
+                <p>Lomba Futsal SMK Bina Cendekia Cirebon</p>
               </div>
             </div>
           </div>
@@ -215,7 +215,6 @@
               </div>
             </div>
           </div>
-        <div class="row">
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
             <div class="member" data-aos="fade-up" data-aos-delay="100">
               <div class="member-img">
@@ -226,6 +225,7 @@
               </div>
             </div>
           </div>
+          <div class="row">
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
             <div class="member" data-aos="fade-up" data-aos-delay="200">
               <div class="member-img">

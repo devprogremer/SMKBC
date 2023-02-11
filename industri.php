@@ -331,7 +331,7 @@ Pembangunan Rumah Sakit sempat maju mundur selama beberapa tahun karena satu dan
           <div class="col-md-7">
             <h3>PT. Leteex</h3>
             <p>
-
+            PT Leetex Garment Indonesia adalah sebuah perusahaan yang bergerak dalam bidang Manufacturing Garment yang sedang berkembang. Saat ini kami sedang mencari kandidat yang profesional dan dinamis untuk bergabung bersama kami.
             </p>
           </div>
         </div><!-- Features Item -->
@@ -346,9 +346,9 @@ Pembangunan Rumah Sakit sempat maju mundur selama beberapa tahun karena satu dan
               
             </p>
             <p>
-              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-              culpa qui officia deserunt mollit anim id est laborum
+              HI-LEX adalah pemasok terkemuka perangkat elektromekanis inovatif dan berkualitas tinggi serta kabel kontrol yang disesuaikan secara ideal
+untuk kebutuhan pelanggan.
+Melalui jaringan internasional yang luas dan R&D yang canggih
             </p>
           </div>
         </div><!-- Features Item -->
@@ -375,9 +375,7 @@ Pembangunan Rumah Sakit sempat maju mundur selama beberapa tahun karena satu dan
               
             </p>
             <p>
-              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-              culpa qui officia deserunt mollit anim id est laborum
+             Setia Kawan motor merupakan dealer sepeda motor Honda yang populer di Cirebon,anda bisa mengunjungi untuk test Drive, mendapatkan penawaran terbaik membeli motor Honda, saat ini setia Kawan motor Cirebon sedang membutuhkan tenaga profesional.
             </p>
           </div>
         </div><!-- Features Item -->
@@ -404,6 +402,8 @@ Pembangunan Rumah Sakit sempat maju mundur selama beberapa tahun karena satu dan
             <p class="fst-italic">
 
             <p>
+              Didirikan pada bulan Oktober 1965 Chienkuo Commercial Junior College
+Berganti nama pada Agustus 1974 Chienkuo Industrial Junior College,Berganti nama pada November 1992 Perguruan Tinggi Industri dan Komersial Chienkuo,Direstrukturisasi sebagai institut pada Agustus 1999 Institut Teknologi Chienkuo,Berganti nama pada Agustus 2004 Universitas Teknologi Chienkuo
             </p>
 
           </div>
