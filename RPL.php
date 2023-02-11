@@ -181,7 +181,7 @@
           <p>SMK Bina Cendekia Cirebon </p>
         </div>
             <ul> 
-          <br>RPL adalah sebuah program ilmu kejuruan di bidang profesi yang mendalami cara-cara pengembangan perangkat lunak termasuk pembuatan,pemeliharaan,manajemen organisasi, serta pengembangan perangkat lunak dan manajemen kualitas.</br>
+          <br>Membekali peserta didik dengan ketrampilan,pengetahuan sikap agar kompeten menginstalasi software aplikasi,mengoperasikan software,mrawat software aplikasi dan mengelola di bidang pembuatan softaware aplikasi.</br>
           </div>
         </div>
 

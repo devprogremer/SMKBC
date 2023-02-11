@@ -180,7 +180,7 @@
           <p>SMK Bina Cendekia Cirebon </p>
         </div>
             <ul>
-          <br> Asisten Keperawatan adalah merupakan program yang bertujuan untuk menghasilkan tenaga ahli dalam asisten keperawatan yang terampil dan kompeten di bidang pelayanan dasar keperawatan khususnya memenuhi kebutuhan dasar manusia.</br>
+          <br>Membekali peserta didik dengan ketrampilan,pengetahuan dan sikap agar kompeten agar di bidang merawat baik individu/ sendiri,keluarga,dll.serat memelihara dan dapat menyembuhkan.</br>
           </div>
         </div>
 

@@ -38,7 +38,6 @@
 </head>
 <body>
 
-  
   <!-- ======= Header ======= -->
   <header id="header" class="header d-flex align-items-center fixed-top">
     <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
@@ -109,13 +108,15 @@
     </div>
   </header><!-- End Header -->
   
+  <main id="main">
+
   <!-- ======= Hero Section ======= -->
   <section id="hero" class="hero d-flex align-items-center">
     <div class="container">
       <div class="row gy-4 d-flex justify-content-between">
         <div class="col-lg-6 order-2 order-lg-1 d-flex flex-column justify-content-center">
           <h1 data-aos="fade-up">SMK BINA CENDEKIA CIREBON</h1>
-          <h3 data-aos="fade-up" data-aos-delay="100">Sekolah Kita Berbasis Pesantren</h3>
+          <h3 data-aos="fade-up" data-aos-delay="100">Sekolah Industri Berbasis Pesantren</h3>
 
           <form action="#" class="form- d-flex align-items-stretch mb-3" data-aos="fade-up" data-aos-delay="200">
             <input type="text" class="form-control" placeholder="Search">
@@ -165,143 +166,237 @@
 
   <main id="main">
 
-    <!-- ======= Featured Services Section ======= -->
-    <section id="featured-services" class="featured-services">
+  <!-- ======= Features Section ======= -->
+  <section id="features" class="features">
       <div class="container">
 
-        <div class="row gy-4">
+        <div class="row gy-4 align-items-center features-item" data-aos="fade-up">
 
-          <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up">
-            <div class="icon flex-shrink-0"><i class="bi bi-person-check-fill"></i></div>
-            <div>
-              <h4 class="title">Sambutan Kepala Sekolah</h4>
-              <a href="service-details.html" class="readmore stretched-link"><span>check here</span><i class="bi bi-arrow-right"></i></a>
-            </div>
+          <div class="col-md-5">
+            <img src="assets/img/profil1.jpeg" class="img-fluid" alt="">
           </div>
-          <!-- End Service Item -->
-
-          <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up" data-aos-delay="100">
-            <div class="icon flex-shrink-0"><i class="bi bi-buildings-fill"></i></div>
-            <div>
-              <h4 class="title">Fasilitas</h4>
-              <a href="service-details.html" class="readmore stretched-link"><span>check here</span><i class="bi bi-arrow-right"></i></a>
-            </div>
-          </div><!-- End Service Item -->
-
-          <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up" data-aos-delay="200">
-            <div class="icon flex-shrink-0"><i class="bi bi-people-fill"></i></div>
-            <div>
-              <h4 class="title">Alumni</h4>
-              <a href="service-details.html" class="readmore stretched-link"><span>check here</span><i class="bi bi-arrow-right"></i></a>
-            </div>
-          </div>
-          
-          <!-- End Service Item -->
-
-        </div>
-
-      </div>
-    </section>
-    <!-- End Featured Services Section -->
-<!-- ======= About Section ======= -->
-<section id="about" class="about">
-      <div class="container" data-aos="fade-up">
-
-        <div class="row">
-          <div class="col-lg-6 order-1 order-lg-2" data-aos="fade-left" data-aos-delay="100">
-            <img src="assets/img/pramuka.jpeg" class="img-fluid" alt="">
-          </div>
-          <div class="col-lg-5 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right" data-aos-delay="100">
-          <div class="section-title">
-          <h2>Ekstrakulikuler </h2>
-          <p>MTS Bina Cendekia Cirebon </p>
-        </div>
+          <div class="col-md-7">
+            <h3>Kunjungan Tamu Dari Finlandia.</h3>
+            <p class="fst-italic">
+             Dengan Tujuan:
+            </p>
             <ul>
-            <h4>PRAMUKA</h4>
-          <p> TUJUAN PRAMUKA
-Pramuka memiliki peranan yang penting untuk membentuk karakter generasi muda. Dalam pramuka terdapat pendidikan yang membentuk karakter seseorang menjadi disiplin, sopan, patuh terhadap aturan, kecakapan dalam berfikir, serta kreatif. <p>
+              <li><i class="bi bi-check"></i> Shering Metode Pembelajaran Di Finlandia</li>
+              <li><i class="bi bi-check"></i> UntuknMemeprerat Kerjasama</li>
+            </ul>
           </div>
+        </div><!-- Features Item -->
+
+        <div class="row gy-4 align-items-center features-item" data-aos="fade-up">
+          <div class="col-md-5 order-1 order-md-2">
+            <img src="assets/img/profil2.jpeg" class="img-fluid" alt="">
+          </div>
+          <div class="col-md-7 order-2 order-md-1">
+            <h3>Corporis temporibus maiores provident</h3>
+            <p class="fst-italic">
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
+              magna aliqua.
+            </p>
+            <p>
+              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
+              culpa qui officia deserunt mollit anim id est laborum
+            </p>
+          </div>
+        </div><!-- Features Item -->
+          </div>
+        </div><!-- Features Item -->
+
+      </div>
+    </section><!-- End Features Section -->
+
+
         </div>
 
       </div>
-    </section><!-- End About Section -->
+    </section><!-- End Pricing Section -->
 
-        <!-- ======= Features Section ======= -->
-    <section id="features" class="features">
-      <div class="container" data-aos="fade-up">
-
-        <div class="row">
-          <div class="image col-lg-5" style='background-image: url("assets/img/paskibra.png");' data-aos="fade-right"></div>
-          <div class="col-lg-6" data-aos="fade-left" data-aos-delay="100">
-            <div class="icon-box mt-5 mt-lg-0" data-aos="zoom-in" data-aos-delay="150">
-            <i class="bi bi-pin-angle"></i>
-              <h4>PASKIBRA</h4>
-              <p>TUJUAN PASKIBRA
-Menghimpun dan membina para anggota agar menjadi siswa-siswi dan warga Negara Indonesia yang beriman dan bertaqwa kepada Tuhan Yang Maha Esa, berjiwa Pancasila, setia dan patuh pada Negara Kesatuan Republik Indonesia dan menjadi Pandu Ibu Pertiwi<P>
-          </div>
-      </div>
-      <!-- ======= About Section ======= -->
-    <section id="about" class="about">
-      <div class="container" data-aos="fade-up">
-
-        <div class="row">
-          <div class="col-lg-5 order-1 order-lg-2" data-aos="fade-left" data-aos-delay="100">
-            <img src="assets/img/pencaksilat.jpeg" class="img-fluid" alt="">
-          </div>
-          <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right" data-aos-delay="100">
-          <div class="section-title">
-        </div>
-            <ul>
-            <h4>PENCAK SILAT</h4>
-          <p> TUJUAN PENCAK SILAT
-Pencak silat mengajarkan mengenai pengenalan terhadap diri sendiri sebagai seorang makhluk yang percaya terhadap adanya Tuhan Yang Maha Esa. Oleh sebab itu, pencak silat bukan hanya suatu pembinaan yang bertujuan pada aspek seni, bela diri, maupun olah raga saja, namun juga bertujuan untuk mengembangkan watak luhur, kepribadian, karakter, sikap ksatria, percaya diri, serta takwa terhadap Tuhan yang Maha Esa. <p>
-          </div>
-        </div>
-
-      </div>
-    </section><!-- End About Section -->
     <!-- ======= Features Section ======= -->
     <section id="features" class="features">
-      <div class="container" data-aos="fade-up">
+      <div class="container">
 
-        <div class="row">
-          <div class="image col-lg-5" style='background-image: url("assets/img/osis.jpeg");' data-aos="fade-right"></div>
-          <div class="col-lg-6" data-aos="fade-left" data-aos-delay="100">
-            <div class="icon-box mt-5 mt-lg-0" data-aos="zoom-in" data-aos-delay="150">
-            <i class="bi bi-pin-angle"></i>
-              <h4>OSIS</h4>
-              <p>Tujuan OSIS
-OSIS bertujuan memfasilitasi para siswa untuk menyalurkan aspirasinya, mengekspresikan kreativitasnya, dan berkontribusi untuk hal-hal yang positif. OSIS memiliki tujuan yang positif bagi seluruh siswa di sekolah yang artinya akan memberikan pengaruh positif juga bagi sekolah itu sendiri.<P>
-          </div>
-      </div>
-       <!-- ======= About Section ======= -->
-    <section id="about" class="about">
-      <div class="container" data-aos="fade-up">
+        <div class="row gy-4 align-items-center features-item" data-aos="fade-up">
 
-        <div class="row">
-          <div class="col-lg-4 order-1 order-lg-2" data-aos="fade-left" data-aos-delay="100">
-            <img src="assets/img/pmrr.jpeg" class="img-fluid" alt="">
+          <div class="col-md-5">
+            <img src="assets/img/profil1.jpeg" class="img-fluid" alt="">
           </div>
-          <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right" data-aos-delay="100">
-          <div class="section-title">
-        </div>
+          <div class="col-md-7">
+            <h3>Kunjungan Tamu Dari Finlandia.</h3>
+            <p class="fst-italic">
+             Dengan Tujuan:
+            </p>
             <ul>
-            <h4>PMR</h4>
-          <p> Palang Merah Remaja atau PMR adalah suatu organisasi binaan dari Palang Merah Indonesia yang berpusat di sekolah-sekolah ataupun kelompok-kelompok masyarakat (sanggar, kelompok belajar, dll.) yang bertujuan membangun dan mengembangkan karakter Kepalangmerahan agar siap menjadi Relawan PMI pada masa depan.<p>
+              <li><i class="bi bi-check"></i> Shering Metode Pembelajaran Di Finlandia</li>
+              <li><i class="bi bi-check"></i> UntuknMemeprerat Kerjasama</li>
+            </ul>
           </div>
+        </div><!-- Features Item -->
+
+        <div class="row gy-4 align-items-center features-item" data-aos="fade-up">
+          <div class="col-md-5 order-1 order-md-2">
+            <img src="assets/img/profil2.jpeg" class="img-fluid" alt="">
+          </div>
+          <div class="col-md-7 order-2 order-md-1">
+            <h3>Corporis temporibus maiores provident</h3>
+            <p class="fst-italic">
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
+              magna aliqua.
+            </p>
+            <p>
+              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
+              culpa qui officia deserunt mollit anim id est laborum
+            </p>
+          </div>
+        </div><!-- Features Item -->
+          </div>
+        </div><!-- Features Item -->
+
+      </div>
+    </section><!-- End Features Section -->
+
+
         </div>
 
       </div>
-       <!-- ======= Features Section ======= -->
-    <section id="features" class="features">
-      <div class="container" data-aos="fade-up">
+    </section><!-- End Pricing Section -->
 
-        <div class="row">
-          <div class="image col-lg-4" style='background-image: url("assets/img/hadro.jpeg");' data-aos="fade-right"></div>
-          <div class="col-lg-6" data-aos="fade-left" data-aos-delay="100">
-            <div class="icon-box mt-5 mt-lg-0" data-aos="zoom-in" data-aos-delay="150">
-            <i class="bi bi-pin-angle"></i>
-              <h4>HADROH</h4>
-              <p>Tujuan Hadroh adalah untuk mengembangkan dan melestarikan kesenian-budaya, khususnya kesenian budaya Islam, menambah rasa kecintaan kepada Allah SWT dan Rasulullah SAW<P>
+    <!-- ======= Features Section ======= -->
+    <section id="features" class="features">
+      <div class="container">
+
+        <div class="row gy-4 align-items-center features-item" data-aos="fade-up">
+
+          <div class="col-md-5">
+            <img src="assets/img/profil1.jpeg" class="img-fluid" alt="">
           </div>
-    
+          <div class="col-md-7">
+            <h3>Kunjungan Tamu Dari Finlandia.</h3>
+            <p class="fst-italic">
+             Dengan Tujuan:
+            </p>
+            <ul>
+              <li><i class="bi bi-check"></i> Shering Metode Pembelajaran Di Finlandia</li>
+              <li><i class="bi bi-check"></i> UntuknMemeprerat Kerjasama</li>
+            </ul>
+          </div>
+        </div><!-- Features Item -->
+
+        <div class="row gy-4 align-items-center features-item" data-aos="fade-up">
+          <div class="col-md-5 order-1 order-md-2">
+            <img src="assets/img/profil2.jpeg" class="img-fluid" alt="">
+          </div>
+          <div class="col-md-7 order-2 order-md-1">
+            <h3>Corporis temporibus maiores provident</h3>
+            <p class="fst-italic">
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
+              magna aliqua.
+            </p>
+            <p>
+              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
+              culpa qui officia deserunt mollit anim id est laborum
+            </p>
+          </div>
+        </div><!-- Features Item -->
+          </div>
+        </div><!-- Features Item -->
+
+      </div>
+    </section><!-- End Features Section -->
+
+
+        </div>
+
+      </div>
+    </section><!-- End Pricing Section -->
+
+
+  </main><!-- End #main -->
+
+  <!-- ======= Footer ======= -->
+  <footer id="footer" class="footer">
+
+    <div class="container">
+      <div class="row gy-4">
+        <div class="col-lg-5 col-md-12 footer-info">
+          <a href="index.php" class="logo d-flex align-items-center">
+            <span>ALAMAT</span>
+          </a>
+          <p>Jl. KH Wahid HasyimDesa. Mertapada Wetan Kecanatan. Astanajapura Kabupaten. Cirebon Jawa Barat 45181
+         <br> Phone: 0231 8845465<br>Email: smkbinacendekiacirebona@gmail.com
+          </p>
+          <div class="social-links d-flex mt-4">
+            <a href="https://youtube.com/@smkbinacendekiacirebonoffi3039" class="Youtube"><i class="bi bi-play-btn-fill"></i></a>
+            <a href="https://www.facebook.com/profile.php?id=100009648338366" class="facebook"><i class="bi bi-facebook"></i></a>
+            <a href="https://instagram.com/smkbinacendekia?igshid=OGQ2MjdiOTE=" class="instagram"><i class="bi bi-instagram"></i></a>
+            <a href="https://www.tiktok.com/@smkbinacendekiacirebon?_r=1&_d=dkgebdh40m7l26&language=id&sec_uid=MS4wLjABAAAAYRFN2ZlU0y_HKAnDd33Qg3ZBMFmqtm7-Py0AkhltELueBlrfbxgyAwwWwajHbl7f&share_author_id=6933598016310592513&source=h5_t&timestamp=1674875179&utm_source=copy&utm_campaign=client_share&utm_medium=android&share_iid=7188303969302906650&share_link_id=648d57dd-9a99-4dda-bcc8-6f59b17706c7&share_app_id=1180&ugbiz_name=Account&ug_btm=b6880%2Cb2878" class="TikTok"><i class="bi bi-tiktok"></i></a>
+          </div>
+        </div>
+
+        <div class="col-lg-2 col-6 footer-links">
+          <h4>Useful Links</h4>
+          <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">Tentang kami</a></li>
+            <li><a href="#">Program</a></li>
+            <li><a href="#">Ppdb</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </div>
+
+        <div class="col-lg-2 col-6 footer-links">
+          <h4>the links we visit</h4>
+          <ul>
+            <li><a href="#">Boootstrap</a></li>
+            <li><a href="#">Font Awesome Fonts</a></li>
+            <li><a href="#">Niagahoster</a></li>
+            <li><a href="#">Malasngoding</a></li>
+            <li><a href="#">Aos</a></li>
+          </ul>
+        </div>
+
+        </div>
+
+      </div>
+    </div>
+
+    <div class="container mt-4">
+      <div class="copyright">
+        &copy; Copyright <strong><span>SMK BINA CENDEKIA CIREBON</span></strong>
+      </div>
+      <div class="credits">
+        <!-- All the links in the footer should remain intact. -->
+        <!-- You can delete the links only if you purchased the pro version. -->
+        <!-- Licensing information: https://bootstrapmade.com/license/ -->
+        <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/logis-bootstrap-logistics-website-template/ -->
+        Designed by <a href="https://bootstrapmade.com/"> Devprogremer</a>
+      </div>
+    </div>
+
+  </footer><!-- End Footer -->
+  <!-- End Footer -->
+
+  <a href="#" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+  <div id="preloader"></div>
+
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
+  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="assets/vendor/aos/aos.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="assets/js/main.js"></script>
+
+</body>
+
+</html>
