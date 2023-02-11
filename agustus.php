@@ -180,8 +180,8 @@
     <div class="card-img">
       <img src="assets/img/ags1.jpeg" alt="" class="img-fluid">
     </div>
-    <h3><a href="service-details.html" class="stretched-link">17 agustus 2022</a></h3>
-    <p></p>
+    <h3><a href="service-details.html" class="stretched-link"></a></h3>
+    <p>Paduan suara SMK Bina Cendekia </p>
   </div>
 </div><!-- End Card Item -->
 
@@ -190,8 +190,8 @@
     <div class="card-img">
       <img src="assets/img/ags2.jpeg" alt="" class="img-fluid">
     </div>
-    <h3><a href="service-details.html" class="stretched-link">17 agustus 2022</a></h3>
-    <p></p>
+    <h3><a href="service-details.html" class="stretched-link"></a></h3>
+    <p>Petugas Upacara Pengibaran Bendera Merah Putih</p>
   </div>
 </div><!-- End Card Item -->
 
@@ -200,8 +200,8 @@
     <div class="card-img">
       <img src="assets/img/ags3.jpeg" alt="" class="img-fluid">
     </div>
-    <h3><a href="service-details.html" class="stretched-link">17 agustus 2022</a></h3>
-    <p></p>
+    <h3><a href="service-details.html" class="stretched-link"></a></h3>
+    <p>Petugas Upacara</p>
   </div>
 </div><!-- End Card Item -->
 
@@ -210,8 +210,8 @@
     <div class="card-img">
       <img src="assets/img/ags4.jpeg" alt="" class="img-fluid">
     </div>
-    <h3><a href="service-details.html" class="stretched-link">17 agustus 2022</a></h3>
-<p></p>
+    <h3><a href="service-details.html" class="stretched-link"></a></h3>
+<p>Petugas  Pengibaran Bendera Merah Putih </p>
   </div>
 </div><!-- End Card Item -->
 
@@ -220,8 +220,8 @@
     <div class="card-img">
       <img src="assets/img/ags5.jpeg" alt="" class="img-fluid">
     </div>
-    <h3><a href="service-details.html" class="stretched-link">17 agustus 2022</a></h3>
-    <p> </p>
+    <h3><a href="service-details.html" class="stretched-link"></a></h3>
+    <p>Siswa Siswi SMK Bina Cendekia Cirebon </p>
   </div>
 </div><!-- End Card Item -->
 
@@ -230,8 +230,8 @@
     <div class="card-img">
       <img src="assets/img/ags6.jpeg" alt="" class="img-fluid">
     </div>
-    <h3><a href="service-details.html" class="stretched-link">17 agustus 2022</a></h3>
-    <p></p>
+    <h3><a href="service-details.html" class="stretched-link"></a></h3>
+    <p>Petugas  Pengibaran Bendera Merah Putih</p>
   </div>
 </div><!-- End Card Item -->
 
@@ -240,8 +240,8 @@
     <div class="card-img">
       <img src="assets/img/ags7.jpeg" alt="" class="img-fluid">
     </div>
-    <h3><a href="service-details.html" class="stretched-link">17 agustus 2022</a></h3>
-    <p> </p>
+    <h3><a href="service-details.html" class="stretched-link"></a></h3>
+    <p>Guru-Guru SMK Bina Cendekia Cirebon </p>
   </div>
 </div><!-- End Card Item -->
 
@@ -250,8 +250,8 @@
     <div class="card-img">
       <img src="assets/img/ags8.jpeg" alt="" class="img-fluid">
     </div>
-    <h3><a href="service-details.html" class="stretched-link">17 agustus 2022</a></h3>
-    <p></p>
+    <h3><a href="service-details.html" class="stretched-link"></a></h3>
+    <p>Petugas  Pengibaran Bendera Merah Putih</p>
   </div>
 </div><!-- End Card Item -->
 </div>

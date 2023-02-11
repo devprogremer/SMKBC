@@ -170,24 +170,17 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2> Galeri Sekolah </h2>
-          <p>MTS Bina Cendekia Cirebon </p>
+          <h2>Kegiatan Porak </h2>
+          <p>SMK Bina Cendekia Cirebon </p>
         </div>
         <div class="row">
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
             <div class="member" data-aos="fade-up" data-aos-delay="100">
               <div class="member-img">
                 <img src="assets/img/kegiatan1.jpeg" class="img-fluid" alt="">
-                <div class="social">
-                  <a href=""><i class="bi bi-twitter"></i></a>
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
-                </div>
               </div>
               <div class="member-info">
-                <h4>Muhammad Qushoy</h4>
-                <span>KEPALA MADRASAH</span>
+                <p>KEPALA MADRASAH</p>
               </div>
             </div>
           </div>
@@ -196,16 +189,9 @@
             <div class="member" data-aos="fade-up" data-aos-delay="200">
               <div class="member-img">
                 <img src="assets/img/kegiatan2.jpeg" class="img-fluid" alt="">
-                <div class="social">
-                  <a href=""><i class="bi bi-twitter"></i></a>
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
-                </div>
               </div>
               <div class="member-info">
-                <h4>Alwi Baihaqi</h4>
-                <span>KEPALA URUSAN TATA USAHA</span>
+                <p>KEPALA URUSAN TATA USAHA</p>
               </div>
             </div>
           </div>
@@ -213,16 +199,9 @@
             <div class="member" data-aos="fade-up" data-aos-delay="300">
               <div class="member-img">
                 <img src="assets/img/kegiatan3.jpeg" class="img-fluid" alt="">
-                <div class="social">
-                  <a href=""><i class="bi bi-twitter"></i></a>
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
-                </div>
               </div>
               <div class="member-info">
-                <h4>Titim Siti Fatimah, S.Pd,I</h4>
-                <span>BENDAHARA</span>
+                <p>BENDAHARA</p>
               </div>
             </div>
           </div>
@@ -230,15 +209,8 @@
             <div class="member" data-aos="fade-up" data-aos-delay="400">
               <div class="member-img">
                 <img src="assets/img/kegiatan4.jpeg" class="img-fluid" alt="">
-                <div class="social">
-                  <a href=""><i class="bi bi-twitter"></i></a>
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
-                </div>
               </div>
               <div class="member-info">
-                <h4>Alwi Baihaqi</h4>
                 <span>OPERATOR MADRASAH</span>
               </div>
             </div>
@@ -248,15 +220,8 @@
             <div class="member" data-aos="fade-up" data-aos-delay="100">
               <div class="member-img">
                 <img src="assets/img/kegiatan5.jpeg" class="img-fluid" alt="">
-                <div class="social">
-                  <a href=""><i class="bi bi-twitter"></i></a>
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
-                </div>
               </div>
               <div class="member-info">
-                <h4>Baitul Izza,S.H.I</h4>
                 <span>OPERATOR MADRASAH</span>
               </div>
             </div>
@@ -265,16 +230,9 @@
             <div class="member" data-aos="fade-up" data-aos-delay="200">
               <div class="member-img">
                 <img src="assets/img/kegiatan6.jpeg" class="img-fluid" alt="">
-                <div class="social">
-                  <a href=""><i class="bi bi-twitter"></i></a>
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
-                </div>
               </div>
               <div class="member-info">
-                <h4>Ahmad Kinani,S.Kom.I</h4>
-                <span>BIDANG KURIKULUM</span>
+                <p>BIDANG KURIKULUM</p>
               </div>
             </div>
           </div>
@@ -282,15 +240,8 @@
             <div class="member" data-aos="fade-up" data-aos-delay="300">
               <div class="member-img">
                 <img src="assets/img/kegiatan7.jpeg" class="img-fluid" alt="">
-                <div class="social">
-                  <a href=""><i class="bi bi-twitter"></i></a>
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
-                </div>
               </div>
               <div class="member-info">
-                <h4>Dian Siti Oliyana,S.Pd</h4>
                 <span>BIDANG KESISWAAN</span>
               </div>
             </div>
@@ -299,32 +250,12 @@
             <div class="member" data-aos="fade-up" data-aos-delay="400">
               <div class="member-img">
                 <img src="assets/img/kegiatan8.jpeg" class="img-fluid" alt="">
-                <div class="social">
-                  <a href=""><i class="bi bi-twitter"></i></a>
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
-                </div>
               </div>
               <div class="member-info">
-                <h4>Muhammad Ma'mun,S.Pd.I</h4>
-                <span>BIDANG SARPAS</span>
+                <p>BIDANG SARPAS</p>
               </div>
             </div>
           </div>
-      <div class="row">
-       <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-          <div class="member" data-aos="fade-up" data-aos-delay="100">
-           <div class="member-img">
-             <img src="assets/img/kegiatan9.jpeg" class="img-fluid" alt="">
-              <div class="social">
-               <a href=""><i class="bi bi-twitter"></i></a>
-               <a href=""><i class="bi bi-facebook"></i></a>
-               <a href=""><i class="bi bi-instagram"></i></a>
-               <a href=""><i class="bi bi-linkedin"></i></a>
-                </div>
-                </div>
-            </div>
     </section><!-- End Features Section -->
 
     <!-- ======= Footer ======= -->
