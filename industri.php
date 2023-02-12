@@ -114,8 +114,8 @@
     <div class="container">
       <div class="row gy-4 d-flex justify-content-between">
         <div class="col-lg-6 order-2 order-lg-1 d-flex flex-column justify-content-center">
-          <h1 data-aos="fade-up">SMK BINA CENDEKIA CIREBON</h1>
-          <h3 data-aos="fade-up" data-aos-delay="100">Sekolah Kita Berbasis Pesantren</h3>
+          <h1 data-aos="fade-up">Kerjasama Industri</h1>
+          <h3 data-aos="fade-up" data-aos-delay="100">SMK Bina Cendekia Cirebon</h3>
 
           <form action="#" class="form- d-flex align-items-stretch mb-3" data-aos="fade-up" data-aos-delay="200">
             <input type="text" class="form-control" placeholder="Search">
