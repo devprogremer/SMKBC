@@ -294,7 +294,7 @@
 
           <div class="col-lg-3 col-md-1 d-flex">
             <div class="member">
-              <img src="assets/img/team/Teamm-1.jpeg" class="img-fluid" alt="">
+              <img src="assets/img/team/010.jpeg" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Dian Siti Oliyana, S.Pd.I </h4>
            
@@ -332,7 +332,7 @@
 
           <div class="col-lg-3 col-md-1 d-flex">
             <div class="member">
-              <img src="assets/img/team/Teamm-1.jpeg" class="img-fluid" alt="">
+              <img src="assets/img/team/16.jpeg" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Faisal Rohman, S.T</h4>
               
@@ -483,7 +483,7 @@
 
           <div class="col-lg-3 col-md-1 d-flex">
             <div class="member">
-              <img src="assets/img/team/Teamm-1.jpeg" class="img-fluid" alt="">
+              <img src="assets/img/team/05.jpeg" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Soleh Abdussalam, S.Pd </h4>
                
@@ -673,7 +673,7 @@
 
           <div class="col-lg-3 col-md-1 d-flex">
             <div class="member">
-              <img src="assets/img/team/Teamm-1.jpeg" class="img-fluid" alt="">
+              <img src="assets/img/team/07.jpeg" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Rizka Bayu Kembara, S.Kom</h4>
                 
@@ -692,7 +692,7 @@
 
           <div class="col-lg-3 col-md-1 d-flex">
             <div class="member">
-              <img src="assets/img/team/Teamm-1.jpeg" class="img-fluid" alt="">
+              <img src="assets/img/team/00.jpeg" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Subhi Nulchakim, S.Pd</h4>
                
