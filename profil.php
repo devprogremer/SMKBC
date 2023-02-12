@@ -244,7 +244,7 @@
             </p>
             <ul>
               <li><i class="bi bi-check"></i> Shering Metode Pembelajaran Di Finlandia</li>
-              <li><i class="bi bi-check"></i> UntuknMemeprerat Kerjasama</li>
+              <li><i class="bi bi-check"></i> Untuk Memeprerat Kerjasama</li>
             </ul>
           </div>
         </div><!-- Features Item -->
@@ -267,7 +267,7 @@
           </div>
         </div><!-- Features Item -->
           </div>
-        </div><!-- Features Item -->
+  
 
       </div>
     </section><!-- End Features Section -->

@@ -229,7 +229,7 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-header">
-        <center><img src="assets/img/linux.png" alt="" style="width:400px;height:350px;"><center>
+        <center><img src="assets/img/linux.png" alt="" style="width:300px;height:250px;"><center>
           <h2>Kenapa Harus SMK Bina Cendekia CIrebon?</h2>
             <h4>Alasan kenapa kalian semua harus bergabung dengan SMK Bina Cendekia Cirebon.</h4>
             <center><img src="assets/img/ok.jpeg" alt="" style="width:1350x;height:140px;"><center>
@@ -389,8 +389,27 @@
               <center><p>Membekali peserta didik dengan ketrampilan,pengetahuan dan sikap agar kompeten agar di bidang merawat baik individu/ sendiri,keluarga,dll.serat memelihara dan dapat menyembuhkan.</p><center>
               </div>
           </div><!-- End Card Item -->
+          <center><img src="assets/img/bcc.jpeg" alt="" style="width:1350x;height:129px;"><center>
+         
+         </div>
+             <!-- ======= About Us Section ======= --> 
+             </div>
+    <section id="about" class="about pt-0">
+      <div class="container" data-aos="fade-up">
 
+        <div class="row gy-4">
+          <div class="col-lg-6 position-relative align-self-start order-lg-last order-first">
+            <img src="assets/img/aboutt.jpeg" class="img-fluid" alt="">
+            <a href="https://youtube.com/watch?v=WeW9ZXy3YL4&feature=shares" class="glightbox play-btn"></a>
+          </div>
+          <div class="col-lg-6 content order-last  order-lg-first">
+            <div>
+          <iframe style="border:0; width: 100%; height: 300px;" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d63384.46777856386!2d108.60656949990842!3d-6.826961529703611!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e6f04acde0ee93d%3A0x570909eb0cf5286!2sSMK%20Bina%20Cendekia%20Cirebon!5e0!3m2!1sid!2sid!4v1674962821715!5m2!1sid!2sid" frameborder="0" allowfullscreen></iframe>
+          </div>
+        </div>
 
+      </div>
+    </section><!-- End About Us Section -->
 
   </main><!-- End #main -->
 
