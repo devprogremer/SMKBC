@@ -334,17 +334,62 @@
         <div class="row g-5">
           <div class="col-lg-6 position-relative align-self-start order-lg-last order-first">
             <img src="assets/img/kepsek.png" class="img-fluid" alt="">
+            <h4> Ade Rahmat Saputra, M.Pd.</h4>
           </div>
           <div class="col-lg-6 content order-last  order-lg-first">
           <h5></h5>
             <h3><a class="row">║ SAMBUTAN KEPALA SEKOLAH</a></h3>
-            <p class="fs-6 fst-italic"> Adalah Sekolah Industri Berbasis Pesantren, Sekolah Kami Juga Termasuk Pusat Keunggulan Dan Lulusan SMK Bina Cendekia Cirebon Di Jamin Langsung Kerja Karena Sudah Bekerja Sama Dengan Banyak Perusahaan Didalam Negeri Maupun Diluar Negeri </p>
+            <p class="text-start"> Adalah Sekolah Industri Berbasis Pesantren, Sekolah Kami Juga Termasuk Pusat Keunggulan Dan Lulusan SMK Bina Cendekia Cirebon Di Jamin Langsung Kerja Karena Sudah Bekerja Sama Dengan Banyak Perusahaan Didalam Negeri Maupun Diluar Negeri </p>
           </div>
         </div>
 
       </div>
     </section><!-- End About Us Section -->
-    
+
+    <section id="service" class="services pt-0">
+      <div class="container" data-aos="fade-up">
+
+          <div class="row gy-4">
+          <div class="col-lg-3 col-md-3" data-aos="fade-up" data-aos-delay="100">
+            <div class="">
+              <div class="card-img">
+                <img src="assets/img/rpll1.png" alt="" class="img-fluid">
+              </div>
+              <center><h3><a href="#" class="stretched-link"></a></h3><center>
+              <p class="text-center">Membekali Peserta Didik dengan keterampilan, Pengetahuan dan Sikap agar kompeten Menginstalasi Software Aplikasi, Mengoperasikan Software, Merawat Software Aplikasi dan Mengelola Usaha di Bidang Pembuatan Software Aplikasi.</p>
+            </div>
+          </div><!-- End Card Item -->
+
+          <div class="col-lg-3 col-md-3" data-aos="fade-up" data-aos-delay="200">
+            <div class="">
+              <div class="card-img">
+                <img src="assets/img/tabuss1.png" alt="" class="img-fluid">
+              </div>
+              <center><h3><a href="#" class="stretched-link"></a></h3><center>
+              <p text="text-center">Membekali Peserta Didik dengan Keterampilan, Pengetahuan dan Sikap agar Kompoten di Bidang Fashion Drawing (Menggambar Busana), Pembuatan Busana Baik Pria Maupun Wanita dan Anak-Anak, Pembuatan Hiasan Pada Busana (Embroidery).</p>
+            </div>
+          </div><!-- End Card Item -->
+
+          <div class="col-lg-3 col-md-3" data-aos="fade-up" data-aos-delay="300">
+            <div class="">
+              <div class="card-img">
+                <img src="assets/img/Tbo2.png" alt="" class="img-fluid">
+              </div>
+              <center><h3><a href="#" class="stretched-link"></a></h3><center>
+              <center><p>Membekali peserta didik dengan ketrampilan,pengetahuan dan sikap,agar kompeten bidang teknik bodi otomotif,baik pebaikan panel dan pengecatan bodi maupun pemeliharaan dan perbaikan interior otomotif</p><center>
+            </div>
+          </div><!-- End Card Item -->
+
+          <div class="col-lg-3 col-md-3" data-aos="fade-up" data-aos-delay="100">
+            <div class="">
+              <div class="card-img">
+                <img src="assets/img/asskepp1.png" alt="" class="img-fluid">
+              </div>
+              <center><h3><a href="#" class="stretched-link"></a></h3><center>
+              <center><p>Membekali peserta didik dengan ketrampilan,pengetahuan dan sikap agar kompeten agar di bidang merawat baik individu/ sendiri,keluarga,dll.serat memelihara dan dapat menyembuhkan.</p><center>
+              </div>
+          </div><!-- End Card Item -->
+
 
 
   </main><!-- End #main -->
