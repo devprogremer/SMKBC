@@ -232,7 +232,7 @@
         <center><img src="assets/img/linux.png" alt="" style="width:400px;height:350px;"><center>
           <h2>Kenapa Harus SMK Bina Cendekia CIrebon?</h2>
             <h4>Alasan kenapa kalian semua harus bergabung dengan SMK Bina Cendekia Cirebon.</h4>
-            <center><img src="assets/img/ok.jpeg" alt="" style="width:1330px;height:140px;"><center>
+            <center><img src="assets/img/ok.jpeg" alt="" style="width:1350x;height:140px;"><center>
           </div>
         <div class="row gy-4">
           <div class="col-lg-3 col-md-3" data-aos="fade-up" data-aos-delay="100">
@@ -324,7 +324,7 @@
 
       </div>
     </section><!-- End Pricing Section -->
-    <center><img src="assets/img/ye.png" alt="" style="width:1330px;height:240px;"><center>
+    <center><img src="assets/img/ye.png" alt="" style="width:1350px;height:240px;"><center>
     <div class="row">
     </div>
     <!-- ======= About Us Section ======= -->
