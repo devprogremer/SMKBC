@@ -275,6 +275,26 @@
 
           <div class="col-lg-3 col-md-1 d-flex">
             <div class="member">
+              <img src="assets/img/team/23.jpeg" class="img-fluid" alt="">
+              <div class="member-content">
+                <h4>Madhuri S.Pd</h4>
+                
+                <p>
+                  
+                </p>
+                <div class="social">
+                  <a href=""><i class="bi bi-twitter"></i></a>
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
+                </div>
+              </div>
+            </div>
+          </div><!-- End Team Member -->
+
+
+          <div class="col-lg-3 col-md-1 d-flex">
+            <div class="member">
               <img src="assets/img/team/04.jpeg" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Nurhikmah, S.Pd</h4>
@@ -351,7 +371,7 @@
 
           <div class="col-lg-3 col-md-1 d-flex">
             <div class="member">
-              <img src="assets/img/team/08.jpeg" class="img-fluid" alt="">
+              <img src="assets/img/team/98.jpeg" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Abdul Ghoni, S.Pd </h4>
                
@@ -445,7 +465,7 @@
 
           <div class="col-lg-3 col-md-1 d-flex">
             <div class="member">
-              <img src="assets/img/team/Teamm-1.jpeg" class="img-fluid" alt="">
+              <img src="assets/img/team/46.jpeg" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Yani Rohayani, S.Pd</h4>
                 
@@ -502,7 +522,7 @@
 
           <div class="col-lg-3 col-md-1 d-flex">
             <div class="member">
-              <img src="assets/img/team/Teamm-1.jpeg" class="img-fluid" alt="">
+              <img src="assets/img/team/88.jpeg" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Irganeila Ratu H., S.Pd </h4>
               
@@ -521,7 +541,7 @@
 
           <div class="col-lg-3 col-md-1 d-flex">
             <div class="member">
-              <img src="assets/img/team/17.jpeg" class="img-fluid" alt="">
+              <img src="assets/img/team/26.jpeg" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Entik Kartika, S.Pd</h4>
              
@@ -578,7 +598,7 @@
 
           <div class="col-lg-3 col-md-1 d-flex">
             <div class="member">
-              <img src="assets/img/team/Teamm-1.jpeg" class="img-fluid" alt="">
+              <img src="assets/img/team/15.jpeg" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Aris Sunandar, S.Pd </h4>
                 
@@ -597,7 +617,7 @@
 
           <div class="col-lg-3 col-md-1 d-flex">
             <div class="member">
-              <img src="assets/img/team/Teamm-1.jpeg" class="img-fluid" alt="">
+              <img src="assets/img/team/10.jpeg" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Lailatul Badriyah, S.Pd</h4>
                
@@ -616,7 +636,7 @@
 
           <div class="col-lg-3 col-md-1 d-flex">
             <div class="member">
-              <img src="assets/img/team/Teamm-1.jpeg" class="img-fluid" alt="">
+              <img src="assets/img/team/20.jpeg" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Rizal Perdiawan, S.Kom</h4>
               
@@ -635,9 +655,9 @@
 
           <div class="col-lg-3 col-md-1 d-flex">
             <div class="member">
-              <img src="assets/img/team/Teamm-1.jpeg" class="img-fluid" alt="">
+              <img src="assets/img/team/99.jpeg" class="img-fluid" alt="">
               <div class="member-content">
-                <h4>Rina Nuraeni, S.Pd </h4>
+                <h4>Putren Diastuti, S.pd </h4>
               
                 <p>
                   
@@ -654,7 +674,7 @@
 
           <div class="col-lg-3 col-md-1 d-flex">
             <div class="member">
-              <img src="assets/img/team/Teamm-1.jpeg" class="img-fluid" alt="">
+              <img src="assets/img/team/18.jpeg" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Fatmawati, S.Kep</h4>
                
@@ -673,7 +693,7 @@
 
           <div class="col-lg-3 col-md-1 d-flex">
             <div class="member">
-              <img src="assets/img/team/07.jpeg" class="img-fluid" alt="">
+              <img src="assets/img/team/90.jpeg" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Rizka Bayu Kembara, S.Kom</h4>
                 
@@ -749,7 +769,7 @@
 
           <div class="col-lg-3 col-md-1 d-flex">
             <div class="member">
-              <img src="assets/img/team/Teamm-1.jpeg" class="img-fluid" alt="">
+              <img src="assets/img/team/79.jpeg" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Ghoyatul Farikhah, S.Pd</h4>
                
@@ -787,9 +807,9 @@
 
           <div class="col-lg-3 col-md-1 d-flex">
             <div class="member">
-              <img src="assets/img/team/Teamm-1.jpeg" class="img-fluid" alt="">
+              <img src="assets/img/team/53.jpeg" class="img-fluid" alt="">
               <div class="member-content">
-                <h4>H. Wahuri</h4>
+                <h4>Ahmad Anas, Amd.Kom</h4>
                
                 <p>
                  
@@ -1262,9 +1282,28 @@
 
           <div class="col-lg-3 col-md-1 d-flex">
             <div class="member">
+              <img src="assets/img/team/77.jpeg" class="img-fluid" alt="">
+              <div class="member-content">
+                <h4>Herna Rosnasari</h4>
+               
+                <p>
+                  
+                </p>
+                <div class="social">
+                  <a href=""><i class="bi bi-twitter"></i></a>
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
+                </div>
+              </div>
+            </div>
+
+            </div><!-- End Team Member -->
+            <div class="col-lg-3 col-md-1 d-flex">
+            <div class="member">
               <img src="assets/img/team/Teamm-1.jpeg" class="img-fluid" alt="">
               <div class="member-content">
-                <h4>Nurul Hikmah M., S.Kom</h4>
+                <h4> Nurul Hikmah M., S.Kom</h4>
                
                 <p>
                   
