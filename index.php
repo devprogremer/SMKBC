@@ -229,7 +229,7 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-header">
-        <center><img src="assets/img/linux.png" alt="" style="width:300px;height:250px;"><center>
+        <center><img src="assets/img/robot.png" alt="" style="width:500px;height:450px;"><center>
           <h2>Kenapa Harus SMK Bina Cendekia CIrebon?</h2>
             <h4>Alasan kenapa kalian semua harus bergabung dengan SMK Bina Cendekia Cirebon.</h4>
             <center><img src="assets/img/ok.jpeg" alt="" style="width:1350x;height:140px;"><center>
