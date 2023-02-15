@@ -128,29 +128,29 @@
 
             <div class="col-lg-3 col-6">
               <div class="stats-item text-center w-100 h-100">
-                <span data-purecounter-start="0" data-purecounter-end="400" data-purecounter-duration="1" class="purecounter"></span>
-                <p>Clients</p>
+                <span data-purecounter-start="60" data-purecounter-end="0" data-purecounter-duration="100" class="purecounter"></span>
+                <p>Hari</p>
               </div>
             </div><!-- End Stats Item -->
 
             <div class="col-lg-3 col-6">
               <div class="stats-item text-center w-100 h-100">
                 <span data-purecounter-start="0" data-purecounter-end="641" data-purecounter-duration="1" class="purecounter"></span>
-                <p>Pengunjung</p>
+                <p>Jam</p>
               </div>
             </div><!-- End Stats Item -->
 
             <div class="col-lg-3 col-6">
               <div class="stats-item text-center w-100 h-100">
                 <span data-purecounter-start="0" data-purecounter-end="1453" data-purecounter-duration="1" class="purecounter"></span>
-                <p>Support</p>
+                <p>Menit</p>
               </div>
             </div><!-- End Stats Item -->
 
             <div class="col-lg-3 col-6">
               <div class="stats-item text-center w-100 h-100">
                 <span data-purecounter-start="0" data-purecounter-end="1872" data-purecounter-duration="1" class="purecounter"></span>
-                <p>Total</p>
+                <p>Detik</p>
               </div>
             </div><!-- End Stats Item -->
 
@@ -173,7 +173,7 @@
 
         <div class="row">
           <div class="col-lg-4 order-1 order-lg-2" data-aos="fade-left" data-aos-delay="100">
-            <img src="assets/img/tbo.jpeg" class="img-fluid" alt="">
+            <img src="assets/img/Tbo2.png" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right" data-aos-delay="100">
           <div class="section-title">
