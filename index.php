@@ -115,49 +115,45 @@
     <div class="container">
       <div class="row gy-4 d-flex justify-content-between">
         <div class="col-lg-6 order-2 order-lg-1 d-flex flex-column justify-content-center">
-          <h1 data-aos="fade-up">SMK BINA CENDEKIA CIREBON</h1>
+          <as data-aos-delay="fade-up">Gabung Bersama Kami </a>
+          <h1 data-aos="fade-up">Di SMK Bina Cendekia Cirebon</h1>
           <h3 data-aos="fade-up" data-aos-delay="100">Sekolah Industri Berbasis Pesantren</h3>
-
-          <form action="#" class="form- d-flex align-items-stretch mb-3" data-aos="fade-up" data-aos-delay="200">
-            <input type="text" class="form-control" placeholder="Search">
-            <button type="submit" class="btn btn-primary">Search</button>
-          </form>
 
           <div class="row gy-4" data-aos="fade-up" data-aos-delay="400">
 
             <div class="col-lg-3 col-6">
               <div class="stats-item text-center w-100 h-100">
                 <span data-purecounter-start="0" data-purecounter-end="1300" data-purecounter-duration="1" class="purecounter"></span>
-                <p>Siswa</p>
+                <p>Hari</p>
               </div>
             </div><!-- End Stats Item -->
 
             <div class="col-lg-3 col-6">
               <div class="stats-item text-center w-100 h-100">
                 <span data-purecounter-start="0" data-purecounter-end="56" data-purecounter-duration="1" class="purecounter"></span>
-                <p>Guru</p>
+                <p>Jam</p>
               </div>
             </div><!-- End Stats Item -->
 
             <div class="col-lg-3 col-6">
               <div class="stats-item text-center w-100 h-100">
-                <span data-purecounter-start="0" data-purecounter-end="1453" data-purecounter-duration="1" class="purecounter"></span>
-                <p>Support</p>
+                <span data-purecounter-start="60" data-purecounter-end="0" data-purecounter-duration="9000" class="purecounter"></span>
+                <p>Menit</p>
               </div>
             </div><!-- End Stats Item -->
 
             <div class="col-lg-3 col-6">
               <div class="stats-item text-center w-100 h-100">
-                <span data-purecounter-start="0" data-purecounter-end="1872" data-purecounter-duration="1" class="purecounter"></span>
-                <p>Total</p>
+                <span data-purecounter-start="59" data-purecounter-end="0" data-purecounter-duration="60" class="purecounter"></span>
+                <p>Detik</p>
               </div>
             </div><!-- End Stats Item -->
 
           </div>
         </div>
 
-        <div class="col-lg-5 order-1 order-lg-2 hero-img" data-aos="zoom-out">
-          <img src="assets/img/hero-img.svg" class="img-fluid mb-3 mb-lg-0" alt="">
+        <div class="col-lg-6 order-5 order-lg-5 hero-img" data-aos="zoom-out">
+          <img src="assets/img/Fotto.png" class="img-fluid mb-3 mb-lg-0" alt="">
         </div>
 
       </div>
@@ -327,25 +323,6 @@
     <center><img src="assets/img/ye.png" alt="" style="width:1350px;height:240px;"><center>
     <div class="row">
     </div>
-    <!-- ======= About Us Section ======= -->
-    <section id="about" class="about pt-0">
-      <div class="container" data-aos="fade-up">
-
-        <div class="row g-5">
-          <div class="col-lg-6 position-relative align-self-start order-lg-last order-first">
-            <img src="assets/img/kepsek.png" class="img-fluid" alt="">
-            <h4> Ade Rahmat Saputra, M.Pd.</h4>
-          </div>
-          <div class="col-lg-6 content order-last  order-lg-first">
-          <h5></h5>
-            <h3><a class="row">║ SAMBUTAN KEPALA SEKOLAH</a></h3>
-            <p class="text-start"> Adalah Sekolah Industri Berbasis Pesantren, Sekolah Kami Juga Termasuk Pusat Keunggulan Dan Lulusan SMK Bina Cendekia Cirebon Di Jamin Langsung Kerja Karena Sudah Bekerja Sama Dengan Banyak Perusahaan Didalam Negeri Maupun Diluar Negeri </p>
-          </div>
-        </div>
-
-      </div>
-    </section><!-- End About Us Section -->
-
     <section id="service" class="services pt-0">
       <div class="container" data-aos="fade-up">
 
