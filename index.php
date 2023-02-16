@@ -391,7 +391,190 @@
           </div><!-- End Card Item -->
           <center><img src="assets/img/bcc.jpeg" alt="" style="width:1350x;height:129px;"><center>
          
-         </div>
+         </div>   
+          <!-- ======= Team Section ======= -->
+          <section id="service" class="services pt-0">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-header">
+          <h2>Kegiatan SMK Bina Cendekia Cirebon</h2>
+          </div>
+        <div class="row">
+          <div class="col-lg-6 col-md-10 d-flex align-items-stretch">
+            <div class="member" data-aos="fade-up" data-aos-delay="100">
+              <div class="member-img">
+                <img src="assets/img/santri2.jpeg" class="img-fluid" alt="">
+              </div>
+              <div class="member-info">
+                <h4>13/09/2022</h4>
+                <span>mempengeringati hari kelahiran nabi kita Nabi Mukhammad saw Mts bina cendekia</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-6 col-md-10 d-flex align-items-stretch">
+            <div class="member" data-aos="fade-up" data-aos-delay="200">
+              <div class="member-img">
+                <img src="assets/img/prestasi1.jpeg" class="img-fluid" alt="">
+              </div>
+              <div class="member-info">
+                <h4>24/12/2021</h4>
+                <span>kegiatan setiap tahun platgap pelantikan gabungan dari semua organisai mts bina cendekia cirebon</span>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-8 d-flex align-items-stretch">
+            <div class="member" data-aos="fade-up" data-aos-delay="300">
+              <div class="member-img">
+                <img src="assets/img/ags3.jpeg" class="img-fluid" alt="">
+              </div>
+              <div class="member-info">
+                <h4>03/07/2022</h4>
+                <span>latihan pramuka setiap hari sabtu mts bina cendekia</span>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-8 d-flex align-items-stretch">
+            <div class="member" data-aos="fade-up" data-aos-delay="400">
+              <div class="member-img">
+                <img src="assets/img/ags5.jpeg" class="img-fluid" alt="">
+              </div>
+              <div class="member-info">
+                <h4>12/12/2022</h4>
+                <span>kegiatan pelantikan ekstrakulikuler pramuka mts bina cendekia</span>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-8 d-flex align-items-stretch">
+            <div class="member" data-aos="fade-up" data-aos-delay="100">
+              <div class="member-img">
+                <img src="assets/img/askep1.jpeg" class="img-fluid" alt="">
+              </div>
+              <div class="member-info">
+                <h4>14/03/2022</h4>
+                <span>Delegasi dari MTs Bina Cendekia ikut memeriahkan Kegiatan Dianpinru Gerakan Pramuka se Kwarran Astanajapura Tahun 2022.
+Senin, 14 Maret 2022.</span>
+              </div>
+            </div>
+          </div>
+          <div class="row">
+          <div class="col-lg-6 col-md-10 d-flex align-items-stretch">
+            <div class="member" data-aos="fade-up" data-aos-delay="200">
+              <div class="member-img">
+                <img src="assets/img/sti2.jpeg" class="img-fluid" alt="">
+              </div>
+              <div class="member-info">
+                <h4>03/11/2021</h4>
+                <span>Rutinan Latihan Pencak Silat Pagar Nusa siswa-siswi MTs Bina Cendekia. Rabu, 3 November 2021..
+
+Pac Pagar Nusa Astanajapura</span>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-6 col-md-10 d-flex align-items-stretch">
+            <div class="member" data-aos="fade-up" data-aos-delay="300">
+              <div class="member-img">
+                <img src="assets/img/sti3.jpeg" class="img-fluid" alt="">
+              </div>
+              <div class="member-info">
+                <h4>14/03/2022</h4>
+                <span>guru-guru mts bina cendekia</span>
+              </div>
+            </div>
+            </div>          
+<div class="row">
+<div class="col-lg-4 col-md-8 d-flex align-items-stretch">
+  <div class="member" data-aos="fade-up" data-aos-delay="400">
+    <div class="member-img">
+      <img src="assets/img/maulid4.jpeg" class="img-fluid" alt="">
+    </div>
+    <div class="member-info">
+      <h4>28/05/2022</h4>
+      <span>kegiatan akhir tahun pelepasan kelas 9 dengan memeriahkan arak-arakkan dramben</span>
+    </div>
+  </div>
+</div>
+<div class="col-lg-4 col-md-8 d-flex align-items-stretch">
+  <div class="member" data-aos="fade-up" data-aos-delay="100">
+    <div class="member-img">
+      <img src="assets/img/ags7.jpeg" class="img-fluid" alt="">
+    </div>
+    <div class="member-info">
+      <h4>Alwy 13/09/2022</h4>
+      <span>pemenang lomba karauke islami memeriahkan maulid nabi </span>
+    </div>
+  </div>
+</div>
+<div class="col-lg-4 col-md-8 d-flex align-items-stretch">
+  <div class="member" data-aos="fade-up" data-aos-delay="200">
+    <div class="member-img">
+      <img src="assets/img/profil4.jpeg" class="img-fluid" alt="">
+    </div>
+    <div class="member-info">
+      <h4>13/09/2022</h4>
+      <span>Pemenang lomba nasi tumpeng memperingati maulid nabi</span>
+    </div>
+  </div>
+</div>
+<div class="col-lg-6 col-md-12 d-flex align-items-stretch">
+    <div class="member" data-aos="fade-up" data-aos-delay="100">
+              <div class="member-img">
+                <img src="assets/img/tbo6.jpeg" class="img-fluid" alt="">
+              </div>
+              <div class="member-info">
+                <h4>28/09/2022</h4>
+                <span>pentas seni </span>
+              </div>
+            </div>
+            </div>
+           <div class="col-lg-6 col-md-12 d-flex align-items-stretch">
+    <div class="member" data-aos="fade-up" data-aos-delay="100">
+              <div class="member-img">
+                <img src="assets/img/tbo2.jpeg" class="img-fluid" alt="">
+              </div>
+              <div class="member-info">
+                <h4>20/09/2022</h4>
+                <span>juara 1 lomba azan memeriahkan acara maulid nabi di mts bina cendekia  </span>
+              </div>
+            </div>
+            </div> 
+<div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+            <div class="member" data-aos="fade-up" data-aos-delay="400">
+              <div class="member-img">
+                <img src="assets/img/ags1.jpeg" class="img-fluid" alt="">
+              </div>
+              <div class="member-info">
+                <h4>24/10/2022</h4>
+                <span>solat dzuhur berjamaah</span>
+              </div>
+            </div>
+          </div>
+       <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+          <div class="member" data-aos="fade-up" data-aos-delay="100">
+           <div class="member-img">
+             <img src="assets/img/rpl5.jpeg" class="img-fluid" alt="">
+                </div>
+    <div class="member-info">
+      <h4>02/03/2022</h4>
+      <span>Peringatan Isra' Mi'raj
+Mudah-mudahan kita bisa mengambil pelajaran dari adanya dan diperingatinya Isra' Mi'raj ini.. Aamiiin</span>
+    </div>
+  </div>
+</div>
+<div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+  <div class="member" data-aos="fade-up" data-aos-delay="300">
+    <div class="member-img">
+      <img src="assets/img/profil1.jpeg" class="img-fluid" alt="">
+    </div>
+    <div class="member-info">
+      <h4>05/januari/2022</h4>
+      <span>Hasil abis Rapat mts bina cendekia membicarakan kegiatan ajaran baru </span>
+    </div>
+  </div>
+</div>
+    </section><!-- End Features Section -->
+
+
              <!-- ======= About Us Section ======= --> 
              </div>
     <section id="about" class="about pt-0">
