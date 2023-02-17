@@ -407,7 +407,7 @@
               </div>
               <div class="member-info">
                 <h4>13/09/2022</h4>
-                <span>mempengeringati hari kelahiran nabi kita Nabi Mukhammad saw Mts bina cendekia</span>
+                <span>lomba karauke islami memperingati hari santri nasional</span>
               </div>
             </div>
           </div>
@@ -419,41 +419,40 @@
               </div>
               <div class="member-info">
                 <h4>24/12/2021</h4>
-                <span>kegiatan setiap tahun platgap pelantikan gabungan dari semua organisai mts bina cendekia cirebon</span>
+                <span>siswa-siswa yang berprestasi</span>
               </div>
             </div>
           </div>
           <div class="col-lg-4 col-md-8 d-flex align-items-stretch">
             <div class="member" data-aos="fade-up" data-aos-delay="300">
               <div class="member-img">
-                <img src="assets/img/ags3.jpeg" class="img-fluid" alt="">
+                <img src="assets/img/biasiswa2.jpeg" class="img-fluid" alt="">
               </div>
               <div class="member-info">
                 <h4>03/07/2022</h4>
-                <span>latihan pramuka setiap hari sabtu mts bina cendekia</span>
+                <span>penerimaan biasiswa</span>
               </div>
             </div>
           </div>
           <div class="col-lg-4 col-md-8 d-flex align-items-stretch">
             <div class="member" data-aos="fade-up" data-aos-delay="400">
               <div class="member-img">
-                <img src="assets/img/ags5.jpeg" class="img-fluid" alt="">
+                <img src="assets/img/biasiswa.jpeg" class="img-fluid" alt="">
               </div>
               <div class="member-info">
                 <h4>12/12/2022</h4>
-                <span>kegiatan pelantikan ekstrakulikuler pramuka mts bina cendekia</span>
+                <span>penerimaan biasiswa yatim atau piatu</span>
               </div>
             </div>
           </div>
           <div class="col-lg-4 col-md-8 d-flex align-items-stretch">
             <div class="member" data-aos="fade-up" data-aos-delay="100">
               <div class="member-img">
-                <img src="assets/img/askep1.jpeg" class="img-fluid" alt="">
+                <img src="assets/img/biasiswa1.jpeg" class="img-fluid" alt="">
               </div>
               <div class="member-info">
                 <h4>14/03/2022</h4>
-                <span>Delegasi dari MTs Bina Cendekia ikut memeriahkan Kegiatan Dianpinru Gerakan Pramuka se Kwarran Astanajapura Tahun 2022.
-Senin, 14 Maret 2022.</span>
+                <span>penyerahan biasiswa anak-anak berprestasi</span>
               </div>
             </div>
           </div>
@@ -461,120 +460,216 @@ Senin, 14 Maret 2022.</span>
           <div class="col-lg-6 col-md-10 d-flex align-items-stretch">
             <div class="member" data-aos="fade-up" data-aos-delay="200">
               <div class="member-img">
-                <img src="assets/img/sti2.jpeg" class="img-fluid" alt="">
+                <img src="assets/img/sv2.jpg" class="img-fluid" alt="">
               </div>
               <div class="member-info">
                 <h4>03/11/2021</h4>
-                <span>Rutinan Latihan Pencak Silat Pagar Nusa siswa-siswi MTs Bina Cendekia. Rabu, 3 November 2021..
-
-Pac Pagar Nusa Astanajapura</span>
+                <span>menanam tumbuhan di area sekolah SMK Bina Cendekia Cirebon</span>
               </div>
             </div>
           </div>
           <div class="col-lg-6 col-md-10 d-flex align-items-stretch">
             <div class="member" data-aos="fade-up" data-aos-delay="300">
               <div class="member-img">
-                <img src="assets/img/sti3.jpeg" class="img-fluid" alt="">
+                <img src="assets/img/sv5.jpg" class="img-fluid" alt="">
               </div>
               <div class="member-info">
                 <h4>14/03/2022</h4>
-                <span>guru-guru mts bina cendekia</span>
+                <span>kegiatan solat duha dan bersama ustadz saepul memperingati isro'miroj</span>
               </div>
             </div>
-            </div>          
+            </div>
+           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+            <div class="member" data-aos="fade-up" data-aos-delay="400">
+              <div class="member-img">
+                <img src="assets/img/sv3.jpg" class="img-fluid" alt="">
+              </div>
+              <div class="member-info">
+                <h4>24/10/2022</h4>
+                <span>siswa-siswi SMK Bina Cendekia Cirebon</span>
+              </div>
+            </div>
+          </div>
+       <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+          <div class="member" data-aos="fade-up" data-aos-delay="100">
+           <div class="member-img">
+             <img src="assets/img/sv.jpg" class="img-fluid" alt="">
+                </div>
+    <div class="member-info">
+      <h4>02/03/2022</h4>
+      <span>kegiatan pembuatan filem pendek eskul jingga sinema</span>
+    </div>
+  </div>
+</div>
+<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+  <div class="member" data-aos="fade-up" data-aos-delay="200">
+    <div class="member-img">
+      <img src="assets/img/sv6.jpg" class="img-fluid" alt="">
+    </div>
+    <div class="member-info">
+      <h4>08/10/2022</h4>
+      <span>Kegiatan Pertemuan magang di taiwan</span>
+    </div>
+  </div>
+</div>
+<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+  <div class="member" data-aos="fade-up" data-aos-delay="300">
+    <div class="member-img">
+      <img src="assets/img/maulid2.jpeg" class="img-fluid" alt="">
+    </div>
+    <div class="member-info">
+      <h4>05/januari/2022</h4>
+      <span>Acara Maulid Nabi Di SK Bina Cendekia Cirebon </span>
+    </div>
+  </div>
+</div>
 <div class="row">
 <div class="col-lg-4 col-md-8 d-flex align-items-stretch">
   <div class="member" data-aos="fade-up" data-aos-delay="400">
     <div class="member-img">
-      <img src="assets/img/maulid4.jpeg" class="img-fluid" alt="">
+      <img src="assets/img/ags7.jpeg" class="img-fluid" alt="">
     </div>
     <div class="member-info">
       <h4>28/05/2022</h4>
-      <span>kegiatan akhir tahun pelepasan kelas 9 dengan memeriahkan arak-arakkan dramben</span>
+      <span>Guru-guru SMK Bina Cendekia Cirebon</span>
     </div>
   </div>
 </div>
 <div class="col-lg-4 col-md-8 d-flex align-items-stretch">
   <div class="member" data-aos="fade-up" data-aos-delay="100">
     <div class="member-img">
-      <img src="assets/img/ags7.jpeg" class="img-fluid" alt="">
+      <img src="assets/img/maulid4.jpeg" class="img-fluid" alt="">
     </div>
     <div class="member-info">
       <h4>Alwy 13/09/2022</h4>
-      <span>pemenang lomba karauke islami memeriahkan maulid nabi </span>
+      <span>Guru-guru SMK Bina Cendekia Cirebon</span>
     </div>
   </div>
 </div>
 <div class="col-lg-4 col-md-8 d-flex align-items-stretch">
   <div class="member" data-aos="fade-up" data-aos-delay="200">
     <div class="member-img">
-      <img src="assets/img/profil4.jpeg" class="img-fluid" alt="">
+      <img src="assets/img/profil2.jpeg" class="img-fluid" alt="">
     </div>
     <div class="member-info">
       <h4>13/09/2022</h4>
-      <span>Pemenang lomba nasi tumpeng memperingati maulid nabi</span>
+      <span>Kedatangan Tamu Filendia SMK Bina Cemdekia Cirebon</span>
     </div>
   </div>
 </div>
-<div class="col-lg-6 col-md-12 d-flex align-items-stretch">
+<div class="row">
+<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+  <div class="member" data-aos="fade-up" data-aos-delay="300">
+    <div class="member-img">
+      <img src="assets/img/aboutt.jpeg" class="img-fluid" alt="">
+    </div>
+    <div class="member-info">
+      <h4>28/03/2022</h4>
+      <span>siswa siswi SMK Bina Cendekia Cirebon</span>
+    </div>
+  </div>
+</div>
+<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+  <div class="member" data-aos="fade-up" data-aos-delay="400">
+    <div class="member-img">
+      <img src="assets/img/ags3.jpeg" class="img-fluid" alt="">
+    </div>
+    <div class="member-info">
+      <h4>13/09/2022</h4>
+      <span>Upacara 17 Agustus SMK Bina Cendekia Cirebon</span>
+    </div>
+  </div>
+</div>
+  <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
     <div class="member" data-aos="fade-up" data-aos-delay="100">
               <div class="member-img">
-                <img src="assets/img/tbo6.jpeg" class="img-fluid" alt="">
+                <img src="assets/img/ags5.jpeg" class="img-fluid" alt="">
+              </div>
+              <div class="member-info">
+                <h4>20/09/2022</h4>
+                <span>siswa siswi SMK Bina Cendekia Cirebon</span>
+              </div>
+            </div>
+            </div>
+           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+    <div class="member" data-aos="fade-up" data-aos-delay="100">
+              <div class="member-img">
+                <img src="assets/img/ags6.jpeg" class="img-fluid" alt="">
               </div>
               <div class="member-info">
                 <h4>28/09/2022</h4>
-                <span>pentas seni </span>
+                <span>Upacara 17 Agustus SMK Bina Cendekia Cirebon</span>
               </div>
             </div>
             </div>
            <div class="col-lg-6 col-md-12 d-flex align-items-stretch">
     <div class="member" data-aos="fade-up" data-aos-delay="100">
               <div class="member-img">
-                <img src="assets/img/tbo2.jpeg" class="img-fluid" alt="">
+                <img src="assets/img/kegiatan1.jpeg" class="img-fluid" alt="">
+              </div>
+              <div class="member-info">
+                <h4>28/09/2022</h4>
+                <span>Porak SMK Bina Cendekia Cirebon</span>
+              </div>
+            </div>
+            </div>
+           <div class="col-lg-6 col-md-12 d-flex align-items-stretch">
+    <div class="member" data-aos="fade-up" data-aos-delay="100">
+              <div class="member-img">
+                <img src="assets/img/kegiatan3.jpeg" class="img-fluid" alt="">
               </div>
               <div class="member-info">
                 <h4>20/09/2022</h4>
-                <span>juara 1 lomba azan memeriahkan acara maulid nabi di mts bina cendekia  </span>
+                <span>Porak SMK Bina Cendekia Cirebon</span>
               </div>
             </div>
-            </div> 
-<div class="col-lg-4 col-md-6 d-flex align-items-stretch">
-            <div class="member" data-aos="fade-up" data-aos-delay="400">
+            </div>
+            <div class="row">
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+    <div class="member" data-aos="fade-up" data-aos-delay="100">
               <div class="member-img">
-                <img src="assets/img/ags1.jpeg" class="img-fluid" alt="">
+                <img src="assets/img/maulid1.jpeg" class="img-fluid" alt="">
               </div>
               <div class="member-info">
-                <h4>24/10/2022</h4>
-                <span>solat dzuhur berjamaah</span>
+                <h4>25/11/2022</h4>
+                <span>mulid nabi SMK Bina Cendekia Cirebon</span>
               </div>
             </div>
-          </div>
-       <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
-          <div class="member" data-aos="fade-up" data-aos-delay="100">
-           <div class="member-img">
-             <img src="assets/img/rpl5.jpeg" class="img-fluid" alt="">
-                </div>
-    <div class="member-info">
-      <h4>02/03/2022</h4>
-      <span>Peringatan Isra' Mi'raj
-Mudah-mudahan kita bisa mengambil pelajaran dari adanya dan diperingatinya Isra' Mi'raj ini.. Aamiiin</span>
-    </div>
-  </div>
-</div>
-<div class="col-lg-4 col-md-6 d-flex align-items-stretch">
-  <div class="member" data-aos="fade-up" data-aos-delay="300">
-    <div class="member-img">
-      <img src="assets/img/profil1.jpeg" class="img-fluid" alt="">
-    </div>
-    <div class="member-info">
-      <h4>05/januari/2022</h4>
-      <span>Hasil abis Rapat mts bina cendekia membicarakan kegiatan ajaran baru </span>
-    </div>
-  </div>
-</div>
+            </div>
+           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+    <div class="member" data-aos="fade-up" data-aos-delay="100">
+              <div class="member-img">
+                <img src="assets/img/tabus1.jpeg" class="img-fluid" alt="">
+              </div>
+              <div class="member-info">
+                <h4>09/09/2022</h4>
+                <span>hasil karya anak tatabusan</span>
+              </div>
+            </div>
+            </div>
+           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+    <div class="member" data-aos="fade-up" data-aos-delay="100">
+              <div class="member-img">
+                <img src="assets/img/sv7.jpg" class="img-fluid" alt="">
+              </div>
+              <div class="member-info">
+                <h4>28/05/2022 </h4>
+                <span>pertemuan program magang di taiwan</span>
+              </div>
+            </div>
+            </div>
+           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+    <div class="member" data-aos="fade-up" data-aos-delay="100">
+              <div class="member-img">
+                <img src="assets/img/rpl7.jpeg" class="img-fluid" alt="">
+              </div>
+              <div class="member-info">
+                <h4>03/11/2021</h4>
+      <span>kegiatan kerjasama PT Selim</span>
+              </div>
+            </div>
+            </div>
     </section><!-- End Features Section -->
-
-
              <!-- ======= About Us Section ======= --> 
              </div>
     <section id="about" class="about pt-0">
