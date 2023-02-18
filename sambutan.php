@@ -111,60 +111,44 @@
   
   <main id="main">
 
-  <!-- Carousel Start -->
-  <div class="container-fluid p-0">
-        <div id="header-carousel" class="carousel slide carousel-fade" data-bs-ride="carousel">
-            <div class="carousel-inner">
-                <div class="carousel-item active">
-                    <img class="w-100" src="assets/img/ppdb-7.png" alt="Image">
-                    <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
-                        <div class="p-3" style="max-width: 800px;">
-                            <h5 class="text-white text-uppercase mb-3 animated slideInDown"></h5>
-                            <h1 class="display-1 text-white mb-md-4 animated zoomIn"></h1>
-                        </div>
-                    </div>
-                </div>
-                <div class="carousel-item">
-                    <img class="w-100" src="assets/img/ppdb-3.png" alt="Image">
-                    <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
-                        <div class="p-3" style="max-width: 900px;">
-                            <h5 class="text-white text-uppercase mb-3 animated slideInDown"></h5>
-                            <h1 class="display-1 text-white mb-md-4 animated zoomIn"></h1>
-                        </div>
-                    </div>
-                </div>
-                <div class="carousel-item">
-                    <img class="w-100" src="assets/img/ppdb-5.png" alt="Image">
-                    <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
-                        <div class="p-3" style="max-width: 900px;">
-                            <h5 class="text-white text-uppercase mb-3 animated slideInDown"></h5>
-                            <h1 class="display-1 text-white mb-md-4 animated zoomIn"></h1>
-                        </div>
-                    </div>
-                </div>
-                <div class="carousel-item">
-                    <img class="w-100" src="assets/img/ppdb-8.png" alt="Image">
-                    <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
-                        <div class="p-3" style="max-width: 900px;">
-                            <h5 class="text-white text-uppercase mb-3 animated slideInDown"></h5>
-                            <h1 class="display-1 text-white mb-md-4 animated zoomIn"></h1>
-                        </div>
-                    </div>
-                </div>
+  <!-- ======= Featured Services Section ======= -->
+  <section id="featured-services" class="featured-services">
+      <div class="container">
+
+        <div class="row gy-4">
+
+          <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up">
+            <div class="icon flex-shrink-0"><i class=""></i></div>
+            <div>
+              <h4 class="title"></h4>
+              <a href="service-details.php" class="readmore stretched-link"><span></span><i class=""></i></a>
             </div>
-            <button class="carousel-control-prev" type="button" data-bs-target="#header-carousel"
-                data-bs-slide="prev">
-                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                <span class="visually-hidden">Previous</span>
-            </button>
-            <button class="carousel-control-next" type="button" data-bs-target="#header-carousel"
-                data-bs-slide="next">
-                <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                <span class="visually-hidden">Next</span>
-            </button>
+          </div>
+          <!-- End Service Item -->
+
+          <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up" data-aos-delay="100">
+            <div class="icon flex-shrink-0"><i class=""></i></div>
+            <div>
+              <h4 class="title"></h4>
+              <a href="service-details.php" class="readmore stretched-link"><span></span><i class=""></i></a>
+            </div>
+          </div><!-- End Service Item -->
+
+          <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up" data-aos-delay="200">
+            <div class="icon flex-shrink-0"><i class=""></i></div>
+            <div>
+              <h4 class="title"></h4>
+              <a href="service-details.php" class="readmore stretched-link"><span></span><i class=""></i></a>
+            </div>
+          </div>
+          
+          <!-- End Service Item -->
+
         </div>
-    </div>
-    <!-- Carousel End -->
+
+      </div>
+    </section>
+    <!-- End Featured Services Section -->
 
   <main id="main">
 
@@ -214,6 +198,7 @@
         <div class="row gy-4">
           <div class="col-lg-6 position-relative align-self-start order-lg-last order-first">
             <center><img src="assets/img/sambutan.png" class="img-fluid" alt="">
+            <center><h3 class=""> Ade Rahmat Saputra M,Pd
           </div>
           <div class="col-lg-6 content order-last  order-lg-first">
             <h3>SAMBUTAN KEPALA SEKOLAH</h3>

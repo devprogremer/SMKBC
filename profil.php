@@ -109,48 +109,6 @@
     </div>
   </header><!-- End Header -->
   
-  <!-- ======= Hero Section ======= -->
-  <section id="hero" class="hero d-flex align-items-center">
-    <div class="container">
-      <div class="row gy-4 d-flex justify-content-between">
-        <div class="col-lg-6 order-2 order-lg-1 d-flex flex-column justify-content-center">
-          <h1 data-aos="fade-up">SELAMAT DATANG DI SMK BINA CENDEKIA CIREBON</h1>
-          <h3 data-aos="fade-up" data-aos-delay="100">Sekolah Industri Berbasis Pesantren</h3>
-
-          <form action="#" class="form- d-flex align-items-stretch mb-3" data-aos="fade-up" data-aos-delay="200">
-            <input type="text" class="form-control" placeholder="Search">
-            <button type="submit" class="btn btn-primary">Search</button>
-          </form>
-
-          <div class="row gy-4" data-aos="fade-up" data-aos-delay="400">
-
-            <div class="col-lg-3 col-6">
-              <div class="stats-item text-center w-100 h-100">
-                <span data-purecounter-start="0" data-purecounter-end="512" data-purecounter-duration="1" class="purecounter"></span>
-                <p>Clients</p>
-              </div>
-            </div><!-- End Stats Item -->
-
-            <div class="col-lg-3 col-6">
-              <div class="stats-item text-center w-100 h-100">
-                <span data-purecounter-start="0" data-purecounter-end="641" data-purecounter-duration="1" class="purecounter"></span>
-                <p>Pengunjung</p>
-              </div>
-            </div><!-- End Stats Item -->
-
-            <div class="col-lg-3 col-6">
-              <div class="stats-item text-center w-100 h-100">
-                <span data-purecounter-start="0" data-purecounter-end="1453" data-purecounter-duration="1" class="purecounter"></span>
-                <p>Support</p>
-              </div>
-            </div><!-- End Stats Item -->
-
-            <div class="col-lg-3 col-6">
-              <div class="stats-item text-center w-100 h-100">
-                <span data-purecounter-start="0" data-purecounter-end="1872" data-purecounter-duration="1" class="purecounter"></span>
-                <p>Total</p>
-              </div>
-            </div><!-- End Stats Item -->
 
           </div>
         </div>

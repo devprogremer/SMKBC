@@ -143,7 +143,16 @@
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img class="w-100" src="assets/img/ppdb-8.png" alt="Image">
+                    <img class="w-100" src="assets/img/ppdb-4.png" alt="Image">
+                    <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
+                        <div class="p-3" style="max-width: 900px;">
+                            <h5 class="text-white text-uppercase mb-3 animated slideInDown"></h5>
+                            <h1 class="display-1 text-white mb-md-4 animated zoomIn"></h1>
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <img class="w-100" src="assets/img/ppdb-6.png" alt="Image">
                     <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
                         <div class="p-3" style="max-width: 900px;">
                             <h5 class="text-white text-uppercase mb-3 animated slideInDown"></h5>
@@ -389,8 +398,8 @@
                 <img src="assets/img/santri2.jpeg" class="img-fluid" alt="">
               </div>
               <div class="member-info">
-                <h4>13/09/2022</h4>
-                <span>lomba karauke islami memperingati hari santri nasional</span>
+                <h4></h4>
+                <span></span>
               </div>
             </div>
           </div>
@@ -401,8 +410,8 @@
                 <img src="assets/img/prestasi1.jpeg" class="img-fluid" alt="">
               </div>
               <div class="member-info">
-                <h4>24/12/2021</h4>
-                <span>siswa-siswa yang berprestasi</span>
+                <h4></h4>
+                <span></span>
               </div>
             </div>
           </div>
@@ -412,8 +421,8 @@
                 <img src="assets/img/biasiswa2.jpeg" class="img-fluid" alt="">
               </div>
               <div class="member-info">
-                <h4>03/07/2022</h4>
-                <span>penerimaan biasiswa</span>
+                <h4></h4>
+                <span></span>
               </div>
             </div>
           </div>
@@ -423,8 +432,8 @@
                 <img src="assets/img/biasiswa.jpeg" class="img-fluid" alt="">
               </div>
               <div class="member-info">
-                <h4>12/12/2022</h4>
-                <span>penerimaan biasiswa yatim atau piatu</span>
+                <h4></h4>
+                <span></span>
               </div>
             </div>
           </div>
@@ -434,8 +443,8 @@
                 <img src="assets/img/biasiswa1.jpeg" class="img-fluid" alt="">
               </div>
               <div class="member-info">
-                <h4>14/03/2022</h4>
-                <span>penyerahan biasiswa anak-anak berprestasi</span>
+                <h4></h4>
+                <span></span>
               </div>
             </div>
           </div>
@@ -446,8 +455,8 @@
                 <img src="assets/img/sv2.jpg" class="img-fluid" alt="">
               </div>
               <div class="member-info">
-                <h4>03/11/2021</h4>
-                <span>menanam tumbuhan di area sekolah SMK Bina Cendekia Cirebon</span>
+                <h4></h4>
+                <span></span>
               </div>
             </div>
           </div>
@@ -457,8 +466,8 @@
                 <img src="assets/img/sv5.jpg" class="img-fluid" alt="">
               </div>
               <div class="member-info">
-                <h4>14/03/2022</h4>
-                <span>kegiatan solat duha dan bersama ustadz saepul memperingati isro'miroj</span>
+                <h4></h4>
+                <span></span>
               </div>
             </div>
             </div>
@@ -468,8 +477,8 @@
                 <img src="assets/img/sv3.jpg" class="img-fluid" alt="">
               </div>
               <div class="member-info">
-                <h4>24/10/2022</h4>
-                <span>siswa-siswi SMK Bina Cendekia Cirebon</span>
+                <h4></h4>
+                <span></span>
               </div>
             </div>
           </div>
@@ -479,8 +488,8 @@
              <img src="assets/img/sv.jpg" class="img-fluid" alt="">
                 </div>
     <div class="member-info">
-      <h4>02/03/2022</h4>
-      <span>kegiatan pembuatan filem pendek eskul jingga sinema</span>
+      <h4></h4>
+      <span></span>
     </div>
   </div>
 </div>
@@ -490,8 +499,8 @@
       <img src="assets/img/sv6.jpg" class="img-fluid" alt="">
     </div>
     <div class="member-info">
-      <h4>08/10/2022</h4>
-      <span>Kegiatan Pertemuan magang di taiwan</span>
+      <h4></h4>
+      <span></span>
     </div>
   </div>
 </div>
@@ -501,8 +510,8 @@
       <img src="assets/img/maulid2.jpeg" class="img-fluid" alt="">
     </div>
     <div class="member-info">
-      <h4>05/januari/2022</h4>
-      <span>Acara Maulid Nabi Di SK Bina Cendekia Cirebon </span>
+      <h4></h4>
+      <span></span>
     </div>
   </div>
 </div>
@@ -513,8 +522,8 @@
       <img src="assets/img/ags7.jpeg" class="img-fluid" alt="">
     </div>
     <div class="member-info">
-      <h4>28/05/2022</h4>
-      <span>Guru-guru SMK Bina Cendekia Cirebon</span>
+      <h4></h4>
+      <span></span>
     </div>
   </div>
 </div>
@@ -524,8 +533,8 @@
       <img src="assets/img/maulid4.jpeg" class="img-fluid" alt="">
     </div>
     <div class="member-info">
-      <h4>Alwy 13/09/2022</h4>
-      <span>Guru-guru SMK Bina Cendekia Cirebon</span>
+      <h4></h4>
+      <span></span>
     </div>
   </div>
 </div>
@@ -535,8 +544,8 @@
       <img src="assets/img/profil2.jpeg" class="img-fluid" alt="">
     </div>
     <div class="member-info">
-      <h4>13/09/2022</h4>
-      <span>Kedatangan Tamu Filendia SMK Bina Cemdekia Cirebon</span>
+      <h4></h4>
+      <span></span>
     </div>
   </div>
 </div>
@@ -547,8 +556,8 @@
       <img src="assets/img/aboutt.jpeg" class="img-fluid" alt="">
     </div>
     <div class="member-info">
-      <h4>28/03/2022</h4>
-      <span>siswa siswi SMK Bina Cendekia Cirebon</span>
+      <h4></h4>
+      <span></span>
     </div>
   </div>
 </div>
@@ -558,8 +567,8 @@
       <img src="assets/img/ags3.jpeg" class="img-fluid" alt="">
     </div>
     <div class="member-info">
-      <h4>13/09/2022</h4>
-      <span>Upacara 17 Agustus SMK Bina Cendekia Cirebon</span>
+      <h4></h4>
+      <span></span>
     </div>
   </div>
 </div>
@@ -569,8 +578,8 @@
                 <img src="assets/img/ags5.jpeg" class="img-fluid" alt="">
               </div>
               <div class="member-info">
-                <h4>20/09/2022</h4>
-                <span>siswa siswi SMK Bina Cendekia Cirebon</span>
+                <h4></h4>
+                <span></span>
               </div>
             </div>
             </div>
@@ -580,8 +589,8 @@
                 <img src="assets/img/ags6.jpeg" class="img-fluid" alt="">
               </div>
               <div class="member-info">
-                <h4>28/09/2022</h4>
-                <span>Upacara 17 Agustus SMK Bina Cendekia Cirebon</span>
+                <h4></h4>
+                <span></span>
               </div>
             </div>
             </div>
@@ -591,8 +600,8 @@
                 <img src="assets/img/kegiatan1.jpeg" class="img-fluid" alt="">
               </div>
               <div class="member-info">
-                <h4>28/09/2022</h4>
-                <span>Porak SMK Bina Cendekia Cirebon</span>
+                <h4></h4>
+                <span></span>
               </div>
             </div>
             </div>
@@ -602,8 +611,8 @@
                 <img src="assets/img/kegiatan3.jpeg" class="img-fluid" alt="">
               </div>
               <div class="member-info">
-                <h4>20/09/2022</h4>
-                <span>Porak SMK Bina Cendekia Cirebon</span>
+                <h4></h4>
+                <span></span>
               </div>
             </div>
             </div>
@@ -614,8 +623,8 @@
                 <img src="assets/img/maulid1.jpeg" class="img-fluid" alt="">
               </div>
               <div class="member-info">
-                <h4>25/11/2022</h4>
-                <span>mulid nabi SMK Bina Cendekia Cirebon</span>
+                <h4></h4>
+                <span></span>
               </div>
             </div>
             </div>
@@ -625,8 +634,8 @@
                 <img src="assets/img/tabus1.jpeg" class="img-fluid" alt="">
               </div>
               <div class="member-info">
-                <h4>09/09/2022</h4>
-                <span>hasil karya anak tatabusan</span>
+                <h4></h4>
+                <span></span>
               </div>
             </div>
             </div>
@@ -636,8 +645,8 @@
                 <img src="assets/img/sv7.jpg" class="img-fluid" alt="">
               </div>
               <div class="member-info">
-                <h4>28/05/2022 </h4>
-                <span>pertemuan program magang di taiwan</span>
+                <h4></h4>
+                <span></span>
               </div>
             </div>
             </div>
@@ -647,12 +656,13 @@
                 <img src="assets/img/rpl7.jpeg" class="img-fluid" alt="">
               </div>
               <div class="member-info">
-                <h4>03/11/2021</h4>
-      <span>kegiatan kerjasama PT Selim</span>
+                <h4></h4>
+      <span></span>
               </div>
             </div>
             </div>
     </section><!-- End Features Section -->
+    <center><img src="assets/img/ok.jpeg" alt="" style="width:1300x;height:133px;"><center>
              <!-- ======= About Us Section ======= --> 
              </div>
     <section id="about" class="about pt-0">
