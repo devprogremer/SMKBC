@@ -57,7 +57,7 @@
               <li class="dropdown"><a href="#"><span>Tentang Kami</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
                 <ul>
                   <li><a href="profil.php">Profil Sekolah</a></li>
-                  <li><a href="prestasi.php">Sambutan Kepsek</a></li>
+                  <li><a href="sambutan.php">Sambutan Kepsek</a></li>
                   <li><a href="visi.php">Visi dan Misi</a></li>
                   <li><a href="organisasi.php">Struktur Organisasi</a></li>
                   <li><a href="data.php">Data Guru</a></li>
