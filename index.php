@@ -39,7 +39,7 @@
 <body>
 
   <!-- ======= Header ======= -->
-  <header id="header" class="header d-flex align-items-center fixed-top">
+  <header id="header" class="header d-flex align-items-center fixed-top bg-primary">
     <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
 
       <a href="index.php" class="logo d-flex align-items-center">
@@ -52,11 +52,12 @@
       <i class="mobile-nav-toggle mobile-nav-hide d-none bi bi-x"></i>
       <nav id="navbar" class="navbar">
          <ul>
-          <li><a href="index.php" class="active">Beranda</a></li>
+          <li class="bg-primary text-light"><a href="index.php" class="active">Beranda</a></li>
           <ul>
               <li class="dropdown"><a href="#"><span>Tentang Kami</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
                 <ul>
                   <li><a href="profil.php">Profil Sekolah</a></li>
+                  <li><a href="sambutan.php">Sambutan Kepsek</a></li>
                   <li><a href="visi.php">Visi dan Misi</a></li>
                   <li><a href="organisasi.php">Struktur Organisasi</a></li>
                   <li><a href="data.php">Data Guru</a></li>
@@ -88,7 +89,7 @@
                   <li><a href="maulid.php">Maulid Nabi Muhammad</a></li>
                   <li><a href="porak.php">Porak</a></li>
                   <li><a href="agustus.php">HUT RI 17 Agustus</a></li>
-                  <li><a href="santri.php">Hari Santri</a></li>
+                  <l><a href="santri.php">Hari Santri</a></li>
                 </ul>
                 </li>
                 <li><a href="PKL.php">PKL 2023</a></li>
@@ -107,67 +108,9 @@
 
     </div>
   </header><!-- End Header -->
-  
-  <main id="main">
 
-  <!-- ======= Hero Section ======= -->
-  <section id="hero" class="hero d-flex align-items-center">
-    <div class="container">
-      <div class="row gy-4 d-flex justify-content-between">
-        <div class="col-lg-6 order-2 order-lg-1 d-flex flex-column justify-content-center">
-          <h1 data-aos="fade-up">SMK BINA CENDEKIA CIREBON</h1>
-          <h3 data-aos="fade-up" data-aos-delay="100">Sekolah Industri Berbasis Pesantren</h3>
-
-          <form action="#" class="form- d-flex align-items-stretch mb-3" data-aos="fade-up" data-aos-delay="200">
-            <input type="text" class="form-control" placeholder="Search">
-            <button type="submit" class="btn btn-primary">Search</button>
-          </form>
-
-          <div class="row gy-4" data-aos="fade-up" data-aos-delay="400">
-
-            <div class="col-lg-3 col-6">
-              <div class="stats-item text-center w-100 h-100">
-                <span data-purecounter-start="0" data-purecounter-end="1300" data-purecounter-duration="1" class="purecounter"></span>
-                <p>Siswa</p>
-              </div>
-            </div><!-- End Stats Item -->
-
-            <div class="col-lg-3 col-6">
-              <div class="stats-item text-center w-100 h-100">
-                <span data-purecounter-start="0" data-purecounter-end="56" data-purecounter-duration="1" class="purecounter"></span>
-                <p>Guru</p>
-              </div>
-            </div><!-- End Stats Item -->
-
-            <div class="col-lg-3 col-6">
-              <div class="stats-item text-center w-100 h-100">
-                <span data-purecounter-start="0" data-purecounter-end="1453" data-purecounter-duration="1" class="purecounter"></span>
-                <p>Support</p>
-              </div>
-            </div><!-- End Stats Item -->
-
-            <div class="col-lg-3 col-6">
-              <div class="stats-item text-center w-100 h-100">
-                <span data-purecounter-start="0" data-purecounter-end="1872" data-purecounter-duration="1" class="purecounter"></span>
-                <p>Total</p>
-              </div>
-            </div><!-- End Stats Item -->
-
-          </div>
-        </div>
-
-        <div class="col-lg-5 order-1 order-lg-2 hero-img" data-aos="zoom-out">
-          <img src="assets/img/hero-img.svg" class="img-fluid mb-3 mb-lg-0" alt="">
-        </div>
-
-      </div>
-    </div>
-  </section><!-- End Hero Section -->
-
-  <main id="main">
-
-    <!-- ======= Featured Services Section ======= -->
-    <section id="featured-services" class="featured-services">
+      <!-- ======= Featured Services Section ======= -->
+      <section id="featured-services" class="featured-services">
       <div class="container">
 
         <div class="row gy-4">
@@ -198,13 +141,51 @@
           </div>
           
           <!-- End Service Item -->
-
-        </div>
-
-      </div>
     </section>
     <!-- End Featured Services Section -->
+    
+  
+  <main id="main">
 
+  <!-- Carousel Start -->
+  <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
+  <div class="carousel-indicators">
+    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="3" aria-label="Slide 4"></button>
+    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="4" aria-label="Slide 5"></button>
+  </div>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="assets/img/ppdb-7.png" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="assets/img/ppdb-3.png" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="assets/img/ppdb-5.png" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="assets/img/ppdb-4.png" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="assets/img/ppdb-6.png" class="d-block w-100" alt="...">
+    </div>
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
+<!-- Carousel End -->
+
+  <main id="main">
+    
     <!-- ======= About Us Section ======= -->
     <section id="about" class="about pt-0">
       <div class="container" data-aos="fade-up">
@@ -327,25 +308,6 @@
     <center><img src="assets/img/ye.png" alt="" style="width:1350px;height:240px;"><center>
     <div class="row">
     </div>
-    <!-- ======= About Us Section ======= -->
-    <section id="about" class="about pt-0">
-      <div class="container" data-aos="fade-up">
-
-        <div class="row g-5">
-          <div class="col-lg-6 position-relative align-self-start order-lg-last order-first">
-            <img src="assets/img/kepsek.png" class="img-fluid" alt="">
-            <h4> Ade Rahmat Saputra, M.Pd.</h4>
-          </div>
-          <div class="col-lg-6 content order-last  order-lg-first">
-          <h5></h5>
-            <h3><a class="row">║ SAMBUTAN KEPALA SEKOLAH</a></h3>
-            <p class="text-start"> Adalah Sekolah Industri Berbasis Pesantren, Sekolah Kami Juga Termasuk Pusat Keunggulan Dan Lulusan SMK Bina Cendekia Cirebon Di Jamin Langsung Kerja Karena Sudah Bekerja Sama Dengan Banyak Perusahaan Didalam Negeri Maupun Diluar Negeri </p>
-          </div>
-        </div>
-
-      </div>
-    </section><!-- End About Us Section -->
-
     <section id="service" class="services pt-0">
       <div class="container" data-aos="fade-up">
 
@@ -391,7 +353,286 @@
           </div><!-- End Card Item -->
           <center><img src="assets/img/bcc.jpeg" alt="" style="width:1350x;height:129px;"><center>
          
-         </div>
+         </div>   
+          <!-- ======= Team Section ======= -->
+          <section id="service" class="services pt-0">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-header">
+          <h2>Kegiatan SMK Bina Cendekia Cirebon</h2>
+          </div>
+        <div class="row">
+          <div class="col-lg-6 col-md-10 d-flex align-items-stretch">
+            <div class="member" data-aos="fade-up" data-aos-delay="100">
+              <div class="member-img">
+                <img src="assets/img/santri2.jpeg" class="img-fluid" alt="">
+              </div>
+              <div class="member-info">
+                <h4></h4>
+                <span></span>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-6 col-md-10 d-flex align-items-stretch">
+            <div class="member" data-aos="fade-up" data-aos-delay="200">
+              <div class="member-img">
+                <img src="assets/img/prestasi1.jpeg" class="img-fluid" alt="">
+              </div>
+              <div class="member-info">
+                <h4></h4>
+                <span></span>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-8 d-flex align-items-stretch">
+            <div class="member" data-aos="fade-up" data-aos-delay="300">
+              <div class="member-img">
+                <img src="assets/img/biasiswa2.jpeg" class="img-fluid" alt="">
+              </div>
+              <div class="member-info">
+                <h4></h4>
+                <span></span>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-8 d-flex align-items-stretch">
+            <div class="member" data-aos="fade-up" data-aos-delay="400">
+              <div class="member-img">
+                <img src="assets/img/biasiswa.jpeg" class="img-fluid" alt="">
+              </div>
+              <div class="member-info">
+                <h4></h4>
+                <span></span>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-8 d-flex align-items-stretch">
+            <div class="member" data-aos="fade-up" data-aos-delay="100">
+              <div class="member-img">
+                <img src="assets/img/biasiswa1.jpeg" class="img-fluid" alt="">
+              </div>
+              <div class="member-info">
+                <h4></h4>
+                <span></span>
+              </div>
+            </div>
+          </div>
+          <div class="row">
+          <div class="col-lg-6 col-md-10 d-flex align-items-stretch">
+            <div class="member" data-aos="fade-up" data-aos-delay="200">
+              <div class="member-img">
+                <img src="assets/img/sv2.jpg" class="img-fluid" alt="">
+              </div>
+              <div class="member-info">
+                <h4></h4>
+                <span></span>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-6 col-md-10 d-flex align-items-stretch">
+            <div class="member" data-aos="fade-up" data-aos-delay="300">
+              <div class="member-img">
+                <img src="assets/img/sv5.jpg" class="img-fluid" alt="">
+              </div>
+              <div class="member-info">
+                <h4></h4>
+                <span></span>
+              </div>
+            </div>
+            </div>
+           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+            <div class="member" data-aos="fade-up" data-aos-delay="400">
+              <div class="member-img">
+                <img src="assets/img/sv3.jpg" class="img-fluid" alt="">
+              </div>
+              <div class="member-info">
+                <h4></h4>
+                <span></span>
+              </div>
+            </div>
+          </div>
+       <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+          <div class="member" data-aos="fade-up" data-aos-delay="100">
+           <div class="member-img">
+             <img src="assets/img/sv.jpg" class="img-fluid" alt="">
+                </div>
+    <div class="member-info">
+      <h4></h4>
+      <span></span>
+    </div>
+  </div>
+</div>
+<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+  <div class="member" data-aos="fade-up" data-aos-delay="200">
+    <div class="member-img">
+      <img src="assets/img/sv6.jpg" class="img-fluid" alt="">
+    </div>
+    <div class="member-info">
+      <h4></h4>
+      <span></span>
+    </div>
+  </div>
+</div>
+<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+  <div class="member" data-aos="fade-up" data-aos-delay="300">
+    <div class="member-img">
+      <img src="assets/img/maulid2.jpeg" class="img-fluid" alt="">
+    </div>
+    <div class="member-info">
+      <h4></h4>
+      <span></span>
+    </div>
+  </div>
+</div>
+<div class="row">
+<div class="col-lg-4 col-md-8 d-flex align-items-stretch">
+  <div class="member" data-aos="fade-up" data-aos-delay="400">
+    <div class="member-img">
+      <img src="assets/img/ags7.jpeg" class="img-fluid" alt="">
+    </div>
+    <div class="member-info">
+      <h4></h4>
+      <span></span>
+    </div>
+  </div>
+</div>
+<div class="col-lg-4 col-md-8 d-flex align-items-stretch">
+  <div class="member" data-aos="fade-up" data-aos-delay="100">
+    <div class="member-img">
+      <img src="assets/img/maulid4.jpeg" class="img-fluid" alt="">
+    </div>
+    <div class="member-info">
+      <h4></h4>
+      <span></span>
+    </div>
+  </div>
+</div>
+<div class="col-lg-4 col-md-8 d-flex align-items-stretch">
+  <div class="member" data-aos="fade-up" data-aos-delay="200">
+    <div class="member-img">
+      <img src="assets/img/profil2.jpeg" class="img-fluid" alt="">
+    </div>
+    <div class="member-info">
+      <h4></h4>
+      <span></span>
+    </div>
+  </div>
+</div>
+<div class="row">
+<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+  <div class="member" data-aos="fade-up" data-aos-delay="300">
+    <div class="member-img">
+      <img src="assets/img/aboutt.jpeg" class="img-fluid" alt="">
+    </div>
+    <div class="member-info">
+      <h4></h4>
+      <span></span>
+    </div>
+  </div>
+</div>
+<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+  <div class="member" data-aos="fade-up" data-aos-delay="400">
+    <div class="member-img">
+      <img src="assets/img/ags3.jpeg" class="img-fluid" alt="">
+    </div>
+    <div class="member-info">
+      <h4></h4>
+      <span></span>
+    </div>
+  </div>
+</div>
+  <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+    <div class="member" data-aos="fade-up" data-aos-delay="100">
+              <div class="member-img">
+                <img src="assets/img/ags5.jpeg" class="img-fluid" alt="">
+              </div>
+              <div class="member-info">
+                <h4></h4>
+                <span></span>
+              </div>
+            </div>
+            </div>
+           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+    <div class="member" data-aos="fade-up" data-aos-delay="100">
+              <div class="member-img">
+                <img src="assets/img/ags6.jpeg" class="img-fluid" alt="">
+              </div>
+              <div class="member-info">
+                <h4></h4>
+                <span></span>
+              </div>
+            </div>
+            </div>
+           <div class="col-lg-6 col-md-12 d-flex align-items-stretch">
+    <div class="member" data-aos="fade-up" data-aos-delay="100">
+              <div class="member-img">
+                <img src="assets/img/kegiatan1.jpeg" class="img-fluid" alt="">
+              </div>
+              <div class="member-info">
+                <h4></h4>
+                <span></span>
+              </div>
+            </div>
+            </div>
+           <div class="col-lg-6 col-md-12 d-flex align-items-stretch">
+    <div class="member" data-aos="fade-up" data-aos-delay="100">
+              <div class="member-img">
+                <img src="assets/img/kegiatan3.jpeg" class="img-fluid" alt="">
+              </div>
+              <div class="member-info">
+                <h4></h4>
+                <span></span>
+              </div>
+            </div>
+            </div>
+            <div class="row">
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+    <div class="member" data-aos="fade-up" data-aos-delay="100">
+              <div class="member-img">
+                <img src="assets/img/maulid1.jpeg" class="img-fluid" alt="">
+              </div>
+              <div class="member-info">
+                <h4></h4>
+                <span></span>
+              </div>
+            </div>
+            </div>
+           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+    <div class="member" data-aos="fade-up" data-aos-delay="100">
+              <div class="member-img">
+                <img src="assets/img/tabus1.jpeg" class="img-fluid" alt="">
+              </div>
+              <div class="member-info">
+                <h4></h4>
+                <span></span>
+              </div>
+            </div>
+            </div>
+           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+    <div class="member" data-aos="fade-up" data-aos-delay="100">
+              <div class="member-img">
+                <img src="assets/img/sv7.jpg" class="img-fluid" alt="">
+              </div>
+              <div class="member-info">
+                <h4></h4>
+                <span></span>
+              </div>
+            </div>
+            </div>
+           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+    <div class="member" data-aos="fade-up" data-aos-delay="100">
+              <div class="member-img">
+                <img src="assets/img/rpl7.jpeg" class="img-fluid" alt="">
+              </div>
+              <div class="member-info">
+                <h4></h4>
+      <span></span>
+              </div>
+            </div>
+            </div>
+    </section><!-- End Features Section -->
+    <center><img src="assets/img/ok.jpeg" alt="" style="width:1300x;height:133px;"><center>
              <!-- ======= About Us Section ======= --> 
              </div>
     <section id="about" class="about pt-0">
@@ -410,6 +651,7 @@
 
       </div>
     </section><!-- End About Us Section -->
+
 
   </main><!-- End #main -->
 
