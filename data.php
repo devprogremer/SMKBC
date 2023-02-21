@@ -237,6 +237,7 @@
 
           <div class="col-lg-3 col-md-1 d-flex">
             <div class="member">
+              <a class="team" href="halaman_guru.php">
               <img src="assets/img/team/01.jpeg" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Maulana Jamaludin, S.Kom</h4>
