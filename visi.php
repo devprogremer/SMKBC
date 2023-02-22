@@ -109,94 +109,30 @@
     </div>
   </header><!-- End Header -->
   
-  <!-- ======= Hero Section ======= -->
-  <section id="hero" class="hero d-flex align-items-center">
-    <div class="container">
-      <div class="row gy-4 d-flex justify-content-between">
-        <div class="col-lg-6 order-2 order-lg-1 d-flex flex-column justify-content-center">
-          <h1 data-aos="fade-up">VISI DAN MISI</h1>
-          <h3 data-aos="fade-up" data-aos-delay="100">SMK Bina Cendekia Cirebon</h3>
-
-          <form action="#" class="form- d-flex align-items-stretch mb-3" data-aos="fade-up" data-aos-delay="200">
-            <input type="text" class="form-control" placeholder="Search">
-            <button type="submit" class="btn btn-primary">Search</button>
-          </form>
-
-          <div class="row gy-4" data-aos="fade-up" data-aos-delay="400">
-
-            <div class="col-lg-3 col-6">
-              <div class="stats-item text-center w-100 h-100">
-                <span data-purecounter-start="0" data-purecounter-end="400" data-purecounter-duration="1" class="purecounter"></span>
-                <p>Clients</p>
-              </div>
-            </div><!-- End Stats Item -->
-
-            <div class="col-lg-3 col-6">
-              <div class="stats-item text-center w-100 h-100">
-                <span data-purecounter-start="0" data-purecounter-end="641" data-purecounter-duration="1" class="purecounter"></span>
-                <p>Pengunjung</p>
-              </div>
-            </div><!-- End Stats Item -->
-
-            <div class="col-lg-3 col-6">
-              <div class="stats-item text-center w-100 h-100">
-                <span data-purecounter-start="0" data-purecounter-end="1453" data-purecounter-duration="1" class="purecounter"></span>
-                <p>Support</p>
-              </div>
-            </div><!-- End Stats Item -->
-
-            <div class="col-lg-3 col-6">
-              <div class="stats-item text-center w-100 h-100">
-                <span data-purecounter-start="0" data-purecounter-end="1872" data-purecounter-duration="1" class="purecounter"></span>
-                <p>Total</p>
-              </div>
-            </div><!-- End Stats Item -->
-
-          </div>
-        </div>
-
-        <div class="col-lg-5 order-1 order-lg-2 hero-img" data-aos="zoom-out">
-          <img src="assets/img/hero-img.svg" class="img-fluid mb-3 mb-lg-0" alt="">
-        </div>
-
-      </div>
-    </div>
-  </section><!-- End Hero Section -->
-
+  
   <main id="main">
 
-    <!-- ======= Featured Services Section ======= -->
-    <section id="featured-services" class="featured-services">
-      <div class="container">
-
-        <div class="row gy-4">
-
-          <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up">
-            <div class="icon flex-shrink-0"><i class="bi bi-person-check-fill"></i></div>
-            <div>
-              <h4 class="title">Sambutan Kepala Sekolah</h4>
-              <a href="service-details.html" class="readmore stretched-link"><span>check here</span><i class="bi bi-arrow-right"></i></a>
+  
+           <!-- ======= Breadcrumbs ======= -->
+ <div class="breadcrumbs">
+      <div class="page-header d-flex align-items-center">
+        <div class="container position-relative">
+          <div class="row d-flex justify-content-center">
+            <div class="col-lg-6 text-center">
+              
             </div>
           </div>
-          <!-- End Service Item -->
-
-          <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up" data-aos-delay="100">
-            <div class="icon flex-shrink-0"><i class="bi bi-buildings-fill"></i></div>
-            <div>
-              <h4 class="title">Fasilitas</h4>
-              <a href="service-details.html" class="readmore stretched-link"><span>check here</span><i class="bi bi-arrow-right"></i></a>
-            </div>
-          </div><!-- End Service Item -->
-
-          <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up" data-aos-delay="200">
-            <div class="icon flex-shrink-0"><i class="bi bi-people-fill"></i></div>
-            <div>
-              <h4 class="title">Alumni</h4>
-              <a href="service-details.html" class="readmore stretched-link"><span>check here</span><i class="bi bi-arrow-right"></i></a>
-            </div>
-          </div>
-          
-          <!-- End Service Item -->
+        </div>
+      </div>
+      <nav>
+        <div class="container">
+          <ol>
+            <li><a href="index.php">Beranda</a></li>
+            <li><a href="">Profil Sekolah</a></li>
+          </ol>
+        </div>
+      </nav>
+    </div><!-- End Breadcrumbs --> 
 
         </div>
 
