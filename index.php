@@ -52,7 +52,7 @@
       <i class="mobile-nav-toggle mobile-nav-hide d-none bi bi-x"></i>
       <nav id="navbar" class="navbar">
          <ul>
-          <li class="bg-primary text-light"><a href="index.php" class="active">Beranda</a></li>
+          <li class="bg-primary text-light"><a href="index.php" class="active" class="bi bi-">Beranda</a></li>
           <ul>
               <li class="dropdown"><a href="#"><span>Tentang Kami</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
                 <ul>
@@ -109,7 +109,7 @@
     </div>
   </header><!-- End Header -->
 
-      <!-- ======= Featured Services Section ======= -->
+      <!-- ======= Featured Services Section ======= 
       <section id="featured-services" class="featured-services">
       <div class="container">
 
@@ -148,41 +148,77 @@
   <main id="main">
 
   <!-- Carousel Start -->
-  <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
-  <div class="carousel-indicators">
-    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
-    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
-    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="3" aria-label="Slide 4"></button>
-    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="4" aria-label="Slide 5"></button>
-  </div>
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-      <img src="assets/img/ppdb-7.png" class="d-block w-100" alt="...">
+  <div class="row-10">
+    <div class="container-fluid px-0 mb-5">
+      <div id="header-carousel" class="carousel slide" data-bs-ride="carousel">
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <img class="w-100" src="assets/img/PPb.png" alt="Image" />
+            <div class="carousel-caption">
+              <div class="container">
+                <div class="row justify-content-center">
+                  <div class="col-lg-10 text-start">
+                    <p class="fs-5 fw-medium text-primary text-uppercase animated slideInRight"></p>
+                    <h1 class="display-1 text-white mb-5 animated slideInRight"></h1>
+                    <a href="" class=""></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="carousel-item">
+            <img class="w-100" src="assets/img/pdb-3.png" alt="Image" />
+            <div class="carousel-caption">
+              <div class="container">
+                <div class="row justify-content-center">
+                  <div class="col-lg-10 text-start">
+                    <p class="fs-5 fw-medium text-primary text-uppercase animated slideInRight"></p>
+                    <h1 class="display-1 text-white mb-5 animated slideInRight"></h1>
+                    <a href="" class=""></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="carousel-item">
+            <img class="w-100" src="assets/img/pdb-1.png" alt="Image" />
+            <div class="carousel-caption">
+              <div class="container">
+                <div class="row justify-content-center">
+                  <div class="col-lg-10 text-start">
+                    <p class="fs-5 fw-medium text-primary text-uppercase animated slideInRight"></p>
+                    <h1 class="display-1 text-white mb-5 animated slideInRight"></h1>
+                    <a href="" class=""></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="carousel-item">
+            <img class="w-100" src="assets/img/ppb-6.png" alt="Image" />
+            <div class="carousel-caption">
+              <div class="container">
+                <div class="row justify-content-center">
+                  <div class="col-lg-10 text-start">
+                    <p class="fs-5 fw-medium text-primary text-uppercase animated slideInRight"></p>
+                    <h1 class="display-1 text-white mb-5 animated slideInRight"></h1>
+                    <a href="" class=""></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#header-carousel" data-bs-slide="prev">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#header-carousel" data-bs-slide="next">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Next</span>
+        </button>
+      </div>
     </div>
-    <div class="carousel-item">
-      <img src="assets/img/ppdb-3.png" class="d-block w-100" alt="...">
-    </div>
-    <div class="carousel-item">
-      <img src="assets/img/ppdb-5.png" class="d-block w-100" alt="...">
-    </div>
-    <div class="carousel-item">
-      <img src="assets/img/ppdb-4.png" class="d-block w-100" alt="...">
-    </div>
-    <div class="carousel-item">
-      <img src="assets/img/ppdb-6.png" class="d-block w-100" alt="...">
-    </div>
-  </div>
-  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Previous</span>
-  </button>
-  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Next</span>
-  </button>
-</div>
-<!-- Carousel End -->
+    <!-- Carousel End -->
 
   <main id="main">
     
