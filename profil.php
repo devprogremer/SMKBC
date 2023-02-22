@@ -38,9 +38,8 @@
 </head>
 <body>
 
-  
-  <!-- ======= Header ======= -->
-  <header id="header" class="header d-flex align-items-center fixed-top">
+<!-- ======= Header ======= -->
+<header id="header" class="header d-flex align-items-center fixed-top bg-primary">
     <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
 
       <a href="index.php" class="logo d-flex align-items-center">
@@ -53,11 +52,12 @@
       <i class="mobile-nav-toggle mobile-nav-hide d-none bi bi-x"></i>
       <nav id="navbar" class="navbar">
          <ul>
-          <li><a href="index.php" class="active">Beranda</a></li>
+          <li class="bg-primary text-light"><a href="index.php" class="active">Beranda</a></li>
           <ul>
               <li class="dropdown"><a href="#"><span>Tentang Kami</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
                 <ul>
                   <li><a href="profil.php">Profil Sekolah</a></li>
+                  <li><a href="sambutan.php">Sambutan Kepsek</a></li>
                   <li><a href="visi.php">Visi dan Misi</a></li>
                   <li><a href="organisasi.php">Struktur Organisasi</a></li>
                   <li><a href="data.php">Data Guru</a></li>
@@ -89,7 +89,7 @@
                   <li><a href="maulid.php">Maulid Nabi Muhammad</a></li>
                   <li><a href="porak.php">Porak</a></li>
                   <li><a href="agustus.php">HUT RI 17 Agustus</a></li>
-                  <li><a href="santri.php">Hari Santri</a></li>
+                  <l><a href="santri.php">Hari Santri</a></li>
                 </ul>
                 </li>
                 <li><a href="PKL.php">PKL 2023</a></li>
@@ -108,65 +108,34 @@
 
     </div>
   </header><!-- End Header -->
+
+
+ <!-- ======= Breadcrumbs ======= -->
+ <div class="breadcrumbs">
+      <div class="page-header d-flex align-items-center">
+        <div class="container position-relative">
+          <div class="row d-flex justify-content-center">
+            <div class="col-lg-6 text-center">
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      <nav>
+        <div class="container">
+          <ol>
+            <li><a href="index.php">Beranda</a></li>
+            <li><a href="">Profil Sekolah</a></li>
+          </ol>
+        </div>
+      </nav>
+    </div><!-- End Breadcrumbs --> 
   
-
-          </div>
-        </div>
-
-        <div class="col-lg-5 order-1 order-lg-2 hero-img" data-aos="zoom-out">
-          <img src="assets/img/hero-img.svg" class="img-fluid mb-3 mb-lg-0" alt="">
-        </div>
-
-      </div>
-    </div>
-  </section><!-- End Hero Section -->
-
-  <main id="main">
-
-    <!-- ======= Featured Services Section ======= -->
-    <section id="featured-services" class="featured-services">
-      <div class="container">
-
-        <div class="row gy-4">
-
-          <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up">
-            <div class="icon flex-shrink-0"><i class="bi bi-person-check-fill"></i></div>
-            <div>
-              <h4 class="title">Sambutan Kepala Sekolah</h4>
-              <a href="service-details.html" class="readmore stretched-link"><span>check here</span><i class="bi bi-arrow-right"></i></a>
-            </div>
-          </div>
-          <!-- End Service Item -->
-
-          <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up" data-aos-delay="100">
-            <div class="icon flex-shrink-0"><i class="bi bi-buildings-fill"></i></div>
-            <div>
-              <h4 class="title">Fasilitas</h4>
-              <a href="service-details.html" class="readmore stretched-link"><span>check here</span><i class="bi bi-arrow-right"></i></a>
-            </div>
-          </div><!-- End Service Item -->
-
-          <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up" data-aos-delay="200">
-            <div class="icon flex-shrink-0"><i class="bi bi-people-fill"></i></div>
-            <div>
-              <h4 class="title">Alumni</h4>
-              <a href="service-details.html" class="readmore stretched-link"><span>check here</span><i class="bi bi-arrow-right"></i></a>
-            </div>
-          </div>
-          
-          <!-- End Service Item -->
-
-        </div>
-
-      </div>
-    </section>
-    <!-- End Featured Services Section -->
-
     <!-- ======= About Us Section ======= -->
     <section id="about" class="about pt-0">
       <div class="container" data-aos="fade-up">
 
-        <div class="row gy-4">
+        <div class="row justify-content-center" data-aos="fade-up" data-aos-delay="200">
           <div class="col-lg-6 position-relative align-self-start order-lg-last order-first">
             <img src="assets/img/profil.jpeg" class="img-fluid" alt="">
             <a href="https://youtu.be/WeW9ZXy3YL4" class="glightbox play-btn"></a>
@@ -257,11 +226,6 @@
                     Bertaqwa Kepada Tuhan Yang Maha Esa
                   </button>
                 </h3>
-                <div id="faq-content-1" class="accordion-collapse collapse" data-bs-parent="#faqlist">
-                  <div class="accordion-body">
-                    Setia Kepada Pancasila,,Undang-Undang Dasar 1945 Dan Pemerintahan Negara Kesatuan Republik Indonesia
-                  </div>
-                </div>
               </div><!-- # Faq item-->
 
               <div class="accordion-item">
@@ -271,11 +235,6 @@
                     Setia Kepada Pancasila,Undang-Undang Dasar 1945 Dan Pemerintahan Negara Kesatuan Republik Indonesia
                   </button>
                 </h3>
-                <div id="faq-content-2" class="accordion-collapse collapse" data-bs-parent="#faqlist">
-                  <div class="accordion-body">
-                    Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.
-                  </div>
-                </div>
               </div><!-- # Faq item-->
 
               <div class="accordion-item">
@@ -285,11 +244,6 @@
                     Mematuhi Segala Peraturan Dan Tata Tertib Sekolah
                   </button>
                 </h3>
-                <div id="faq-content-3" class="accordion-collapse collapse" data-bs-parent="#faqlist">
-                  <div class="accordion-body">
-                    Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci. Faucibus pulvinar elementum integer enim. Sem nulla pharetra diam sit amet nisl suscipit. Rutrum tellus pellentesque eu tincidunt. Lectus urna duis convallis convallis tellus. Urna molestie at elementum eu facilisis sed odio morbi quis
-                  </div>
-                </div>
               </div><!-- # Faq item-->
 
               <div class="accordion-item">
@@ -299,12 +253,6 @@
                    Patuh Serta Taat Pada Guru Dan Orang Tua
                   </button>
                 </h3>
-                <div id="faq-content-4" class="accordion-collapse collapse" data-bs-parent="#faqlist">
-                  <div class="accordion-body">
-                    <i class="bi bi-pin-angle-fill question-icon"></i>
-                    Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.
-                  </div>
-                </div>
               </div><!-- # Faq item-->
 
               <div class="accordion-item">
@@ -314,11 +262,6 @@
                  Saling Menghormati Dan Menghargai Seluruh Teman 
                   </button>
                 </h3>
-                <div id="faq-content-5" class="accordion-collapse collapse" data-bs-parent="#faqlist">
-                  <div class="accordion-body">
-                    Molestie a iaculis at erat pellentesque adipiscing commodo. Dignissim suspendisse in est ante in. Nunc vel risus commodo viverra maecenas accumsan. Sit amet nisl suscipit adipiscing bibendum est. Purus gravida quis blandit turpis cursus in
-                  </div>
-                </div>
               </div><!-- # Faq item-->
 
               <div class="accordion-item">
@@ -328,11 +271,6 @@
                Disiplin,Jujur,Dan Tanggung Jawab.
                   </button>
                 </h3>
-                <div id="faq-content-5" class="accordion-collapse collapse" data-bs-parent="#faqlist">
-                  <div class="accordion-body">
-                    Molestie a iaculis at erat pellentesque adipiscing commodo. Dignissim suspendisse in est ante in. Nunc vel risus commodo viverra maecenas accumsan. Sit amet nisl suscipit adipiscing bibendum est. Purus gravida quis blandit turpis cursus in
-                  </div>
-                </div>
               </div><!-- # Faq item-->
 
               <div class="accordion-item">
@@ -342,11 +280,6 @@
                 Menjaga Kerapihan Dan Kesopanan Dalam berpakaian,Serta Sopan Santun Dalam Ucapan Dan Perbuatan
                   </button>
                 </h3>
-                <div id="faq-content-5" class="accordion-collapse collapse" data-bs-parent="#faqlist">
-                  <div class="accordion-body">
-                    Molestie a iaculis at erat pellentesque adipiscing commodo. Dignissim suspendisse in est ante in. Nunc vel risus commodo viverra maecenas accumsan. Sit amet nisl suscipit adipiscing bibendum est. Purus gravida quis blandit turpis cursus in
-                  </div>
-                </div>
               </div><!-- # Faq item-->
 
               <div class="accordion-item">
@@ -357,10 +290,6 @@
                   </button>
                 </h3>
                 <div id="faq-content-5" class="accordion-collapse collapse" data-bs-parent="#faqlist">
-                  <div class="accordion-body">
-                    Molestie a iaculis at erat pellentesque adipiscing commodo. Dignissim suspendisse in est ante in. Nunc vel risus commodo viverra maecenas accumsan. Sit amet nisl suscipit adipiscing bibendum est. Purus gravida quis blandit turpis cursus in
-                  </div>
-                </div>
               </div><!-- # Faq item-->
 
               <div class="accordion-item">
@@ -370,11 +299,6 @@
             Belajar Dengan Teku Serta Bersemangat Tinngi Untuk Meraih Prestasi.
                   </button>
                 </h3>
-                <div id="faq-content-5" class="accordion-collapse collapse" data-bs-parent="#faqlist">
-                  <div class="accordion-body">
-                    Molestie a iaculis at erat pellentesque adipiscing commodo. Dignissim suspendisse in est ante in. Nunc vel risus commodo viverra maecenas accumsan. Sit amet nisl suscipit adipiscing bibendum est. Purus gravida quis blandit turpis cursus in
-                  </div>
-                </div>
               </div><!-- # Faq item-->
 
               <div class="accordion-item">
@@ -384,11 +308,6 @@
              Menjaga NAma Baik Keluarga Besar SMK Bina Cendekia Cirebon.
                   </button>
                 </h3>
-                <div id="faq-content-5" class="accordion-collapse collapse" data-bs-parent="#faqlist">
-                  <div class="accordion-body">
-                    Molestie a iaculis at erat pellentesque adipiscing commodo. Dignissim suspendisse in est ante in. Nunc vel risus commodo viverra maecenas accumsan. Sit amet nisl suscipit adipiscing bibendum est. Purus gravida quis blandit turpis cursus in
-                  </div>
-                </div>
               </div><!-- # Faq item-->
 
             </div>

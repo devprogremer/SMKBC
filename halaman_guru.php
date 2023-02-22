@@ -10,20 +10,20 @@ $get=$_GET['page'];
  
 if ( empty($get))
 {
-   include ('master/dashboard.php');	
+   include ('master2/profil.php');	
 }
 
 elseif ($get=='anggota')
 {
-  include ('master/anggota.php');
+  include ('master2/absen.php');
 }
 elseif ($get=='petugas')
 {
-  include ('master/petugas.php');
+  include ('master2/daftarsiswa.php');
 }
 elseif ($get=='siswa')
 {
-  include ('master/siswa.php');
+  include ('master2/nilai.php');
 }
 
 ?>

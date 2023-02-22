@@ -38,8 +38,9 @@
 </head>
 <body>
 
-  <!-- ======= Header ======= -->
-  <header id="header" class="header d-flex align-items-center fixed-top ">
+ 
+<!-- ======= Header ======= -->
+<header id="header" class="header d-flex align-items-center fixed-top bg-primary">
     <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
 
       <a href="index.php" class="logo d-flex align-items-center">
@@ -52,7 +53,7 @@
       <i class="mobile-nav-toggle mobile-nav-hide d-none bi bi-x"></i>
       <nav id="navbar" class="navbar">
          <ul>
-          <li><a href="index.php" class="active">Beranda</a></li>
+          <li class="bg-primary text-light"><a href="index.php" class="active">Beranda</a></li>
           <ul>
               <li class="dropdown"><a href="#"><span>Tentang Kami</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
                 <ul>
@@ -89,7 +90,7 @@
                   <li><a href="maulid.php">Maulid Nabi Muhammad</a></li>
                   <li><a href="porak.php">Porak</a></li>
                   <li><a href="agustus.php">HUT RI 17 Agustus</a></li>
-                  <li><a href="santri.php">Hari Santri</a></li>
+                  <l><a href="santri.php">Hari Santri</a></li>
                 </ul>
                 </li>
                 <li><a href="PKL.php">PKL 2023</a></li>
@@ -108,10 +109,31 @@
 
     </div>
   </header><!-- End Header -->
-  
+
+
+ <!-- ======= Breadcrumbs ======= -->
+ <div class="breadcrumbs">
+      <div class="page-header d-flex align-items-center">
+        <div class="container position-relative">
+          <div class="row d-flex justify-content-center">
+            <div class="col-lg-6 text-center">
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      <nav>
+        <div class="container">
+          <ol>
+            <li><a href="index.php">Beranda</a></li>
+            <li><a href="">Sambutan Kepsek</a></li>
+          </ol>
+        </div>
+      </nav>
+    </div><!-- End Breadcrumbs -->  
   <main id="main">
 
-  <!-- ======= Featured Services Section ======= -->
+  <!-- ======= Featured Services Section ======= 
   <section id="featured-services" class="featured-services">
       <div class="container">
 
@@ -152,7 +174,7 @@
 
   <main id="main">
 
-    <!-- ======= Featured Services Section ======= -->
+    <!-- ======= Featured Services Section ======= --
     <section id="featured-services" class="featured-services">
       <div class="container">
 
@@ -201,7 +223,7 @@
             <center><h3 class=""> Ade Rahmat Saputra M,Pd
           </div>
           <div class="col-lg-6 content order-last  order-lg-first">
-            <h3>SAMBUTAN KEPALA SEKOLAH</h3>
+            <h3>║ SAMBUTAN KEPALA SEKOLAH</h3>
             <p class="fs-6 fst-italic"> Assalamualaikum wr WB
 Saya Ade Rahmat Saputra MP,d Saya kepala sekolah SMK Bina Cendekia Cirebon,puji syukur Alhamdulillah 
  Kami SMK Bina Cendekia Cirebon sepakat salah satu sekolah menerima bantuan gibah dalam bantuan program  pusat keunggulan sektor ekonomi kreatif jurusan rekaya perangkat melalui program melalui program ini kami sangat membantu untuk mewujudkan perubahan yang lebih baru,kami telah melaksanakan penyalaksanaan kurikulum yang sesuai kebutuhan dunia pekerja serta berkembangnya sarana prasana di sekolah kami yang menunjang proses kegiatan kamu siswa sehingga menghasilkan kalobarisi untuk dunia induka
