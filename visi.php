@@ -68,17 +68,12 @@
   <!-- Template Main CSS File -->
   <link href="assets/css/main.css" rel="stylesheet">
 
-  <!-- =======================================================
-  * Template Name: Logis - v1.3.0
-  * Template URL: https://bootstrapmade.com/logis-bootstrap-logistics-website-template/
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
 </head>
 <body>
 
-  <!-- ======= Header ======= -->
-  <header id="header" class="header d-flex align-items-center fixed-top">
+
+<!-- ======= Header ======= -->
+<header id="header" class="header d-flex align-items-center fixed-top bg-primary">
     <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
 
       <a href="index.php" class="logo d-flex align-items-center">
@@ -91,11 +86,12 @@
       <i class="mobile-nav-toggle mobile-nav-hide d-none bi bi-x"></i>
       <nav id="navbar" class="navbar">
          <ul>
-          <li><a href="index.php" class="active">Beranda</a></li>
+          <li class="bg-primary text-light"><a href="index.php" class="active">Beranda</a></li>
           <ul>
               <li class="dropdown"><a href="#"><span>Tentang Kami</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
                 <ul>
                   <li><a href="profil.php">Profil Sekolah</a></li>
+                  <li><a href="sambutan.php">Sambutan Kepsek</a></li>
                   <li><a href="visi.php">Visi dan Misi</a></li>
                   <li><a href="organisasi.php">Struktur Organisasi</a></li>
                   <li><a href="data.php">Data Guru</a></li>
@@ -127,7 +123,7 @@
                   <li><a href="maulid.php">Maulid Nabi Muhammad</a></li>
                   <li><a href="porak.php">Porak</a></li>
                   <li><a href="agustus.php">HUT RI 17 Agustus</a></li>
-                  <li><a href="santri.php">Hari Santri</a></li>
+                  <l><a href="santri.php">Hari Santri</a></li>
                 </ul>
                 </li>
                 <li><a href="PKL.php">PKL 2023</a></li>
@@ -140,7 +136,7 @@
               <li><a href="informasi.php">Informasi Pendaftaran</a></li>
               </ul>
           <li><a href="contact.php">Contact</a></li>
-          <li><a class="get-a-quote" href="cek_login.php">Login</a></li>
+          <li><a class="get-a-quote bg-dark" href="cek_login.php">Login</a></li>
         </ul>
       </nav><!-- .navbar -->
 
@@ -148,109 +144,38 @@
   </header><!-- End Header -->
   
   <main id="main">
+</div>
+ <!-- ======= Featured Services Section ======= -->
+ <section id="header" class="header">
 
-  <!-- ======= Hero Section ======= -->
-  <section id="hero" class="hero d-flex align-items-center">
-    <div class="container">
-      <div class="row gy-4 d-flex justify-content-between">
-        <div class="col-lg-6 order-2 order-lg-1 d-flex flex-column justify-content-center">
-          <as data-aos-delay="fade-up">Gabung Bersama Kami </a>
-          <h1 data-aos="fade-up">Di SMK Bina Cendekia Cirebon</h1>
-          <h3 data-aos="fade-up" data-aos-delay="100">Sekolah Industri Berbasis Pesantren</h3>
+<div class="row gy-4">
+  
+  <!-- End Service Item -->
+</section>
+<!-- End Featured Services Section -->
 
-          <div class="row gy-4" data-aos="fade-up" data-aos-delay="400">
 
-            <div class="col-lg-3 col-6">
-              <div class="stats-item text-center w-100 h-100">
-                <span data-purecounter-start="0" data-purecounter-end="1300" data-purecounter-duration="1" class="purecounter"></span>
-                <p>siswa</p>
-              </div>
-            </div><!-- End Stats Item -->
-
-            <div class="col-lg-3 col-6">
-              <div class="stats-item text-center w-100 h-100">
-                <span data-purecounter-start="0" data-purecounter-end="56" data-purecounter-duration="1" class="purecounter"></span>
-                <p>guru</p>
-              </div>
-            </div><!-- End Stats Item -->
-
-            <div class="col-lg-3 col-6">
-              <div class="stats-item text-center w-100 h-100">
-                <span data-purecounter-start="0" data-purecounter-end="500" data-purecounter-duration="1" class="purecounter"></span>
-                <p>pengunjung</p>
-              </div>
-            </div><!-- End Stats Item -->
-
-            <div class="col-lg-3 col-6">
-              <div class="stats-item text-center w-100 h-100">
-                <span data-purecounter-start="0" data-purecounter-end="550" data-purecounter-duration="1" class="purecounter"></span>
-                <p>support</p>
-              </div>
-            </div><!-- End Stats Item -->
-
-          </div>
-        </div>
-
-        <div class="col-lg-6 order-5 order-lg-5 hero-img" data-aos="zoom-out">
-          <img src="assets/img/loggo.png" class="img-fluid mb-3 mb-lg-0" alt="">
-        </div>
-
-      </div>
+<!-- ======= Breadcrumbs ======= -->
+<div class="breadcrumbs">
+<div class="header">
+<div class="container position-relative">
+  <div class="row d-flex justify-content-center">
+    <div class="col-lg-6 text-center">
+      
     </div>
-  </section><!-- End Hero Section -->
+  </div>
+</div>
+</div>
+<nav>
+<div class="container">
+  <ol>
+    <li><a href="index.php">Beranda</a></li>
+    <li><a>Visi dan Misi</a></li>
+  </ol>
+</div>
+</nav>
+</div><!-- End Breadcrumbs --> 
 
-  <main id="main">
-
-    <!-- ======= Featured Services Section ======= -->
-    <section id="featured-services" class="featured-services">
-      <div class="container">
-
-        <div class="row gy-4">
-
-          <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up">
-            <div class="icon flex-shrink-0"><i class=""></i></div>
-            <div>
-              <h4 class="title"></h4>
-              <a href="service-details.php" class="readmore stretched-link"><span></span><i class=""></i></a>
-            </div>
-          </div>
-          <!-- End Service Item -->
-
-          <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up" data-aos-delay="100">
-            <div class="icon flex-shrink-0"><i class=""></i></div>
-            <div>
-              <h4 class="title"></h4>
-              <a href="service-details.php" class="readmore stretched-link"><span></span><i class=""></i></a>
-            </div>
-          </div><!-- End Service Item -->
-
-          <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up" data-aos-delay="200">
-            <div class="icon flex-shrink-0"><i class=""></i></div>
-            <div>
-              <h4 class="title"></h4>
-              <a href="service-details.php" class="readmore stretched-link"><span></span><i class=""></i></a>
-            </div>
-          </div>
-          
-          <!-- End Service Item -->
-
-        </div>
-
-      </div>
-    </section>
-    <!-- End Featured Services Section -->
-  
- 
-  
-  <main id="main">
-
-
-
-        </div>
-
-      </div>
-    </section>
-    <!-- End Featured Services Section -->
   <!-- ======= About Us Section ======= -->
   <section id="about" class="about pt-0">
       <div class="container" data-aos="fade-up">
@@ -264,7 +189,7 @@
             <h3>Visi SMK Bina Cendekia Cirebon</h3>
             <div class="col-md-7">
             <p class="fst-italic">
-            Visi
+           
             “Berakhlak mulia, berprestasi tinggi, tangguh dalam kompetisi, berwawasan lingkungan dengan berlandaskan budaya nasional dan kearifan lokal”.
             </p>
           </div>

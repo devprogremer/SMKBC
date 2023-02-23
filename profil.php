@@ -134,7 +134,7 @@
         <div class="container">
           <ol>
             <li><a href="index.php">Beranda</a></li>
-            <li><a href="">Profil Sekolah</a></li>
+            <li><a>Profil Sekolah</a></li>
           </ol>
         </div>
       </nav>

@@ -134,7 +134,7 @@
         <div class="container">
           <ol>
             <li><a href="index.php">Beranda</a></li>
-            <li><a href="sambutan.php">Sambutan Kepala Sekolah</a></li>
+            <li><a>Sambutan Kepala Sekolah</a></li>
           </ol>
         </div>
       </div>
@@ -149,9 +149,8 @@
             <img src="assets/img/sambutan.png" class="img-fluid" alt="">
             </div>
           <div class="col-lg-6 content order-last  order-lg-first">
-            <div>
-              <div>
-            <h3>Sambutan Kepala Sekolah</h3>
+          <h4></h4>
+            <h3>║ Sambutan Kepala Sekolah</h3>
             <p class="fs-6 fst-italic container"> Assalamualaikum wr WB
 Saya Ade Rahmat Saputra MP,d Saya kepala sekolah SMK Bina Cendekia Cirebon,puji syukur Alhamdulillah 
  Kami SMK Bina Cendekia Cirebon sepakat salah satu sekolah menerima bantuan gibah dalam bantuan program  pusat keunggulan sektor ekonomi kreatif jurusan rekaya perangkat melalui program melalui program ini kami sangat membantu untuk mewujudkan perubahan yang lebih baru,kami telah melaksanakan penyalaksanaan kurikulum yang sesuai kebutuhan dunia pekerja serta berkembangnya sarana prasana di sekolah kami yang menunjang proses kegiatan kamu siswa sehingga menghasilkan kalobarisi untuk dunia induka
