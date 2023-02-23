@@ -110,102 +110,109 @@
   
   <main id="main">
 
-  <!-- ======= Hero Section ======= -->
-  <section id="hero" class="hero d-flex align-items-center">
-    <div class="container">
-      <div class="row gy-4 d-flex justify-content-between">
-        <div class="col-lg-6 order-2 order-lg-1 d-flex flex-column justify-content-center">
-          <h1 data-aos="fade-up">SMK BINA CENDEKIA CIREBON</h1>
-          <h3 data-aos="fade-up" data-aos-delay="100">Sekolah Industri Berbasis Pesantren</h3>
+  
+<!-- ======= Header ======= -->
+<header id="header" class="header d-flex align-items-center fixed-top bg-primary">
+    <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
 
-          <form action="#" class="form- d-flex align-items-stretch mb-3" data-aos="fade-up" data-aos-delay="200">
-            <input type="text" class="form-control" placeholder="Search">
-            <button type="submit" class="btn btn-primary">Search</button>
-          </form>
+      <a href="index.php" class="logo d-flex align-items-center">
+        <!-- Uncomment the line below if you also wish to use an image logo -->
+        <img src="assets/img/okkkkkk.png" alt="">
+        <h1>SMK BINA CENDEKIA CIREBON</h1>
+      </a>
 
-          <div class="row gy-4" data-aos="fade-up" data-aos-delay="400">
+      <i class="mobile-nav-toggle mobile-nav-show bi bi-list"></i>
+      <i class="mobile-nav-toggle mobile-nav-hide d-none bi bi-x"></i>
+      <nav id="navbar" class="navbar">
+         <ul>
+          <li class="bg-primary text-light"><a href="index.php" class="active">Beranda</a></li>
+          <ul>
+              <li class="dropdown"><a href="#"><span>Tentang Kami</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
+                <ul>
+                  <li><a href="profil.php">Profil Sekolah</a></li>
+                  <li><a href="sambutan.php">Sambutan Kepsek</a></li>
+                  <li><a href="visi.php">Visi dan Misi</a></li>
+                  <li><a href="organisasi.php">Struktur Organisasi</a></li>
+                  <li><a href="data.php">Data Guru</a></li>
+                  <li><a href="akreditasi.php">Akreditasi</a></li>
+                  <li><a href="industri.php">Hubungan Industri</a></li>    
+                  <li><a href="prestasi.php">Prestasi</a></li>           
+                  <li class="dropdown"><a href="#"><span>Sarana</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
+                <ul>
+                  <li><a href="kelas.php">Kelas</a></li>
+                </ul>
+                </li>
+                </ul>
+                </li>
+            <li class="dropdown"><a href="#"><span>Program</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
+            <ul>
+            <li class="dropdown"><a href="#"><span>Program Studi</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
+                <ul>
+                  <li><a href="RPL.php">RPL (Rekayasa Perangkat Lunak)</a></li>
+                  <li><a href="STI.php">STI (Samsung Tech Institute)</a></li>
+                  <li><a href="ASKEP.php">ASKEP (Asisten Keperawatan)</a></li>
+                  <li><a href="TBO.php">TBO(Teknik Bodi Otomotif)</a></li>
+                  <li><a href="TABUS.php">TABUS(Tata Busana)</a></li>
+                  </ul>
+              </li>
+              <li class="dropdown"><a href="#"><span>Kegiatan</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
+                <ul>
+                  <li><a href="ekstrakurikuler.php">Ekstrakurikuler</a></li>
+                  <li><a href="bahasa.php">Bulan Bahasa</a></li>
+                  <li><a href="maulid.php">Maulid Nabi Muhammad</a></li>
+                  <li><a href="porak.php">Porak</a></li>
+                  <li><a href="agustus.php">HUT RI 17 Agustus</a></li>
+                  <l><a href="santri.php">Hari Santri</a></li>
+                </ul>
+                </li>
+                <li><a href="PKL.php">PKL 2023</a></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+              <li class="dropdown"><a href="#"><span>PPDB</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
+            <ul>
+              <li><a href="informasi.php">Informasi Pendaftaran</a></li>
+              </ul>
+          <li><a href="contact.php">Contact</a></li>
+          <li><a class="get-a-quote bg-dark" href="cek_login.php">Login</a></li>
+        </ul>
+      </nav><!-- .navbar -->
 
-            <div class="col-lg-3 col-6">
-              <div class="stats-item text-center w-100 h-100">
-                <span data-purecounter-start="0" data-purecounter-end="1300" data-purecounter-duration="1" class="purecounter"></span>
-                <p>Siswa</p>
-              </div>
-            </div><!-- End Stats Item -->
-
-            <div class="col-lg-3 col-6">
-              <div class="stats-item text-center w-100 h-100">
-                <span data-purecounter-start="0" data-purecounter-end="56" data-purecounter-duration="1" class="purecounter"></span>
-                <p>Guru</p>
-              </div>
-            </div><!-- End Stats Item -->
-
-            <div class="col-lg-3 col-6">
-              <div class="stats-item text-center w-100 h-100">
-                <span data-purecounter-start="0" data-purecounter-end="1453" data-purecounter-duration="1" class="purecounter"></span>
-                <p>Support</p>
-              </div>
-            </div><!-- End Stats Item -->
-
-            <div class="col-lg-3 col-6">
-              <div class="stats-item text-center w-100 h-100">
-                <span data-purecounter-start="0" data-purecounter-end="1872" data-purecounter-duration="1" class="purecounter"></span>
-                <p>Total</p>
-              </div>
-            </div><!-- End Stats Item -->
-
-          </div>
-        </div>
-
-        <div class="col-lg-5 order-1 order-lg-2 hero-img" data-aos="zoom-out">
-          <img src="assets/img/hero-img.svg" class="img-fluid mb-3 mb-lg-0" alt="">
-        </div>
-
-      </div>
     </div>
-  </section><!-- End Hero Section -->
-
-  <main id="main">
+  </header><!-- End Header -->
 
     <!-- ======= Featured Services Section ======= -->
-    <section id="featured-services" class="featured-services">
-      <div class="container">
+      <section id="header" class="header">
 
         <div class="row gy-4">
-
-          <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up">
-            <div class="icon flex-shrink-0"><i class=""></i></div>
-            <div>
-              <h4 class="title"></h4>
-              <a href="service-details.php" class="readmore stretched-link"><span></span><i class=""></i></a>
-            </div>
-          </div>
-          <!-- End Service Item -->
-
-          <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up" data-aos-delay="100">
-            <div class="icon flex-shrink-0"><i class=""></i></div>
-            <div>
-              <h4 class="title"></h4>
-              <a href="service-details.php" class="readmore stretched-link"><span></span><i class=""></i></a>
-            </div>
-          </div><!-- End Service Item -->
-
-          <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up" data-aos-delay="200">
-            <div class="icon flex-shrink-0"><i class=""></i></div>
-            <div>
-              <h4 class="title"></h4>
-              <a href="service-details.php" class="readmore stretched-link"><span></span><i class=""></i></a>
-            </div>
-          </div>
           
           <!-- End Service Item -->
-
-        </div>
-
-      </div>
     </section>
     <!-- End Featured Services Section -->
 
-  <!-- ======= Features Section ======= -->
+
+ <!-- ======= Breadcrumbs ======= -->
+ <div class="breadcrumbs">
+      <div class="header">
+        <div class="container position-relative">
+          <div class="row d-flex justify-content-center">
+            <div class="col-lg-6 text-center">
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      <nav>
+        <div class="container">
+          <ol>
+            <li><a href="index.php">Beranda</a></li>
+            <li><a href="">Profil Sekolah</a></li>
+          </ol>
+        </div>
+      </nav>
+    </div><!-- End Breadcrumbs --> 
+
     <!-- ======= Services Section ======= -->
     <section id="service" class="services pt-0">
       <div class="container" data-aos="fade-up">

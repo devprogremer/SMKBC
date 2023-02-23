@@ -102,7 +102,7 @@
               <li><a href="informasi.php">Informasi Pendaftaran</a></li>
               </ul>
           <li><a href="contact.php">Contact</a></li>
-          <li><a class="get-a-quote" href="cek_login.php">Login</a></li>
+          <li><a class="get-a-quote bg-dark" href="cek_login.php">Login</a></li>
         </ul>
       </nav><!-- .navbar -->
 
@@ -208,6 +208,20 @@
               </div>
             </div>
           </div>
+          <div class="carousel-item">
+            <img class="w-100" src="assets/img/pdb-4.png" alt="Image" />
+            <div class="carousel-caption">
+              <div class="container">
+                <div class="row justify-content-center">
+                  <div class="col-lg-10 text-start">
+                    <p class="fs-5 fw-medium text-primary text-uppercase animated slideInRight"></p>
+                    <h1 class="display-1 text-white mb-5 animated slideInRight"></h1>
+                    <a href="" class=""></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
         <button class="carousel-control-prev" type="button" data-bs-target="#header-carousel" data-bs-slide="prev">
           <span class="carousel-control-prev-icon" aria-hidden="true"></span>
           <span class="visually-hidden">Previous</span>
@@ -221,7 +235,7 @@
     <!-- Carousel End -->
 
   <main id="main">
-    
+</div>
     <!-- ======= About Us Section ======= -->
     <section id="about" class="about pt-0">
       <div class="container" data-aos="fade-up">

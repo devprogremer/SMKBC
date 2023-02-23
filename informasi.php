@@ -163,7 +163,7 @@
                 </div>
 
                 <div class="col-lg-12">
-                  <h4>Your Personal Details</h4>
+                  <h4>Your</h4>
                 </div>
 
                 <div class="col-md-12">

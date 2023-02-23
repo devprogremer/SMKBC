@@ -38,8 +38,7 @@
 </head>
 <body>
 
- 
-<!-- ======= Header ======= -->
+ <!-- ======= Header ======= -->
 <header id="header" class="header d-flex align-items-center fixed-top bg-primary">
     <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
 
@@ -103,17 +102,26 @@
               <li><a href="informasi.php">Informasi Pendaftaran</a></li>
               </ul>
           <li><a href="contact.php">Contact</a></li>
-          <li><a class="get-a-quote" href="cek_login.php">Login</a></li>
+          <li><a class="get-a-quote bg-dark" href="cek_login.php">Login</a></li>
         </ul>
       </nav><!-- .navbar -->
 
     </div>
   </header><!-- End Header -->
 
+    <!-- ======= Featured Services Section ======= -->
+      <section id="header" class="header">
+
+        <div class="row gy-4">
+          
+          <!-- End Service Item -->
+    </section>
+    <!-- End Featured Services Section -->
+
 
  <!-- ======= Breadcrumbs ======= -->
  <div class="breadcrumbs">
-      <div class="page-header d-flex align-items-center">
+      <div class="header">
         <div class="container position-relative">
           <div class="row d-flex justify-content-center">
             <div class="col-lg-6 text-center">
@@ -126,114 +134,34 @@
         <div class="container">
           <ol>
             <li><a href="index.php">Beranda</a></li>
-            <li><a href="">Sambutan Kepsek</a></li>
+            <li><a href="sambutan.php">Sambutan Kepala Sekolah</a></li>
           </ol>
         </div>
+      </div>
       </nav>
-    </div><!-- End Breadcrumbs -->  
-  <main id="main">
-
-  <!-- ======= Featured Services Section ======= 
-  <section id="featured-services" class="featured-services">
-      <div class="container">
-
-        <div class="row gy-4">
-
-          <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up">
-            <div class="icon flex-shrink-0"><i class=""></i></div>
-            <div>
-              <h4 class="title"></h4>
-              <a href="service-details.php" class="readmore stretched-link"><span></span><i class=""></i></a>
-            </div>
-          </div>
-          <!-- End Service Item -->
-
-          <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up" data-aos-delay="100">
-            <div class="icon flex-shrink-0"><i class=""></i></div>
-            <div>
-              <h4 class="title"></h4>
-              <a href="service-details.php" class="readmore stretched-link"><span></span><i class=""></i></a>
-            </div>
-          </div><!-- End Service Item -->
-
-          <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up" data-aos-delay="200">
-            <div class="icon flex-shrink-0"><i class=""></i></div>
-            <div>
-              <h4 class="title"></h4>
-              <a href="service-details.php" class="readmore stretched-link"><span></span><i class=""></i></a>
-            </div>
-          </div>
-          
-          <!-- End Service Item -->
-
-        </div>
-
-      </div>
-    </section>
-    <!-- End Featured Services Section -->
-
-  <main id="main">
-
-    <!-- ======= Featured Services Section ======= --
-    <section id="featured-services" class="featured-services">
-      <div class="container">
-
-        <div class="row gy-4">
-
-          <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up">
-            <div class="icon flex-shrink-0"><i class=""></i></div>
-            <div>
-              <h4 class="title"></h4>
-              <a href="service-details.php" class="readmore stretched-link"><span></span><i class=""></i></a>
-            </div>
-          </div>
-          <!-- End Service Item -->
-
-          <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up" data-aos-delay="100">
-            <div class="icon flex-shrink-0"><i class=""></i></div>
-            <div>
-              <h4 class="title"></h4>
-              <a href="service-details.php" class="readmore stretched-link"><span></span><i class=""></i></a>
-            </div>
-          </div><!-- End Service Item -->
-
-          <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up" data-aos-delay="200">
-            <div class="icon flex-shrink-0"><i class=""></i></div>
-            <div>
-              <h4 class="title"></h4>
-              <a href="service-details.php" class="readmore stretched-link"><span></span><i class=""></i></a>
-            </div>
-          </div>
-          
-          <!-- End Service Item -->
-
-        </div>
-
-      </div>
-    </section>
-    <!-- End Featured Services Section -->
+       </div><!-- End Breadcrumbs -->  
 
     <!-- ======= About Us Section ======= -->
     <section id="about" class="about pt-0">
       <div class="container" data-aos="fade-up">
-
         <div class="row gy-4">
           <div class="col-lg-6 position-relative align-self-start order-lg-last order-first">
-            <center><img src="assets/img/sambutan.png" class="img-fluid" alt="">
-            <center><h3 class=""> Ade Rahmat Saputra M,Pd
-          </div>
+            <img src="assets/img/sambutan.png" class="img-fluid" alt="">
+            </div>
           <div class="col-lg-6 content order-last  order-lg-first">
-            <h3>║ SAMBUTAN KEPALA SEKOLAH</h3>
-            <p class="fs-6 fst-italic"> Assalamualaikum wr WB
+            <div>
+              <div>
+            <h3>Sambutan Kepala Sekolah</h3>
+            <p class="fs-6 fst-italic container"> Assalamualaikum wr WB
 Saya Ade Rahmat Saputra MP,d Saya kepala sekolah SMK Bina Cendekia Cirebon,puji syukur Alhamdulillah 
  Kami SMK Bina Cendekia Cirebon sepakat salah satu sekolah menerima bantuan gibah dalam bantuan program  pusat keunggulan sektor ekonomi kreatif jurusan rekaya perangkat melalui program melalui program ini kami sangat membantu untuk mewujudkan perubahan yang lebih baru,kami telah melaksanakan penyalaksanaan kurikulum yang sesuai kebutuhan dunia pekerja serta berkembangnya sarana prasana di sekolah kami yang menunjang proses kegiatan kamu siswa sehingga menghasilkan kalobarisi untuk dunia induka
 Untuk penerapan jurusan  yang kompeten dan siap kerja dalam skema permadana di bidang dunia kerja industri SMK Bina Cendekia Cirebon menggandeng perusahaan dan komunitas  nelkom Indonesia memilki program yaitu
-1. training yaitu berfokus pembekalan trainen untuk setiap menjalankan SMK KPK permadana tainen menyampaikan langsung Tenen.
-2. Sepleni yaitu program berfokus untuk membentukan fabilitas digital funamental dari SMKnya sendiri.
-3.viatur  xpcc yaitu berfokus penikasan skil tiga dimensi kreator bagi siswa SMK 
-4.projek manajemen yaitu program pelatihan penerapan projek agar mencapai gol dalam jangka waktu terukur.
-5. Desain sprit yaitu metode mendepankan proses ciptakan sebuah ide produk.
-6.ritul export renovasi yaitu menampilkan hasil karya sekaligus portofolio siswa SMP dengan program-program yang luar biasa ini yang di siapkan dari perusahaan telepon Indonesia dapat menjadikan telenta digital dari lulusan Siswa-Siswi SMK Bina Cendekia.
+<br>1. training yaitu berfokus pembekalan trainen untuk setiap menjalankan SMK PK permadana tainen menyampaikan langsung Tenen.
+<br>2. Sepleni yaitu program berfokus untuk membentukan fasilitas digital funamental dari SMKnya sendiri.
+<br>3.viatur  xpcc yaitu berfokus penikasan skil tiga dimensi kreator bagi siswa SMK 
+<br>4.projek manajemen yaitu program pelatihan penerapan projek agar mencapai gol dalam jangka waktu terukur.
+<br>5. Desain sprit yaitu metode mendepankan proses ciptakan sebuah ide produk.
+<br>6.ritul export renovasi yaitu menampilkan hasil karya sekaligus portofolio siswa SMP dengan program-program yang luar biasa ini yang di siapkan dari perusahaan telepon Indonesia dapat menjadikan telenta digital dari lulusan Siswa-Siswi SMK Bina Cendekia.
 Setelah program-program ini tuntas dilakukan dalam menunjang  pelaksanaan teaching factory yang ada di SMK Bina Cendekia Cirebon Rusia jurusan rekayasa perangkat lunak dapat menghasilkan produk smart phone, smart, smart LG culture atau Gren house web aplikasi berbasis android dan metal.</p>
           </div>
         </div>
