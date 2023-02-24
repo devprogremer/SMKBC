@@ -124,28 +124,28 @@
             <div class="col-lg-3 col-6">
               <div class="stats-item text-center w-100 h-100">
                 <span data-purecounter-start="0" data-purecounter-end="1300" data-purecounter-duration="1" class="purecounter"></span>
-                <p>Hari</p>
+                <p>Clients</p>
               </div>
             </div><!-- End Stats Item -->
 
             <div class="col-lg-3 col-6">
               <div class="stats-item text-center w-100 h-100">
                 <span data-purecounter-start="0" data-purecounter-end="56" data-purecounter-duration="1" class="purecounter"></span>
-                <p>Jam</p>
+                <p>Pengunjung</p>
               </div>
             </div><!-- End Stats Item -->
 
             <div class="col-lg-3 col-6">
               <div class="stats-item text-center w-100 h-100">
                 <span data-purecounter-start="60" data-purecounter-end="0" data-purecounter-duration="9000" class="purecounter"></span>
-                <p>Menit</p>
+                <p>Supprot</p>
               </div>
             </div><!-- End Stats Item -->
 
             <div class="col-lg-3 col-6">
               <div class="stats-item text-center w-100 h-100">
                 <span data-purecounter-start="59" data-purecounter-end="0" data-purecounter-duration="60" class="purecounter"></span>
-                <p>Detik</p>
+                <p>Total</p>
               </div>
             </div><!-- End Stats Item -->
 
