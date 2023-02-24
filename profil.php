@@ -141,7 +141,7 @@
     </div><!-- End Breadcrumbs --> 
   
     <!-- ======= About Us Section ======= -->
-    <section id="about" class="about pt-0">
+    <section id="about" class="about pt-4">
       <div class="container" data-aos="fade-up">
 
         <div class="row gy-4 align-items-center features-item" data-aos="fade-up" data-aos-delay="200">
@@ -330,7 +330,7 @@
   </main><!-- End #main -->
 
    <!-- ======= Footer ======= -->
-   <footer id="footer" class="footer">
+   <footer id="footer" class="footer bg-primary">
 
 <div class="container">
   <div class="row gy-4">

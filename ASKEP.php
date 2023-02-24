@@ -251,7 +251,7 @@
       </div>
     </section><!-- End Services Section -->
   <!-- ======= Footer ======= -->
-  <footer id="footer" class="footer">
+  <footer id="footer" class="footer bg-primary">
 
     <div class="container">
       <div class="row gy-4">

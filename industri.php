@@ -397,7 +397,7 @@ Berganti nama pada Agustus 1974 Chienkuo Industrial Junior College,Berganti nama
     </section><!-- End Pricing Section -->
 
   <!-- ======= Footer ======= -->
-  <footer id="footer" class="footer">
+  <footer id="footer" class="footer bg-primary">
 
     <div class="container">
       <div class="row gy-4">

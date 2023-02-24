@@ -142,11 +142,11 @@
        </div><!-- End Breadcrumbs -->  
 
     <!-- ======= About Us Section ======= -->
-    <section id="about" class="about pt-0">
+    <section id="about" class="about pt-6">
       <div class="container" data-aos="fade-up">
         <div class="row gy-4">
-          <div class="col-lg-6 position-relative align-self-start order-lg-last order-first">
-            <img src="assets/img/sambutan.png" class="img-fluid" alt="">
+          <div class="col-lg-6 position-middle middle-self-start order-lg-last order-first">
+            <img src="assets/img/w.png" class="img-align" alt="">
             </div>
           <div class="col-lg-6 content order-last  order-lg-first">
           <h4></h4>
@@ -180,7 +180,7 @@ Setelah program-program ini tuntas dilakukan dalam menunjang  pelaksanaan teachi
  
    
   <!-- ======= Footer ======= -->
-  <footer id="footer" class="footer">
+  <footer id="footer" class="footer bg-primary">
 
     <div class="container">
       <div class="row gy-4">

@@ -50,11 +50,11 @@
 
       <i class="mobile-nav-toggle mobile-nav-show bi bi-list"></i>
       <i class="mobile-nav-toggle mobile-nav-hide d-none bi bi-x"></i>
-      <nav id="navbar" class="navbar">
+      <nav id="navbar" class="navbar bg-primary">
          <ul>
           <li class="bg-primary text-light"><a href="index.php" class="active" class="bi bi-">Beranda</a></li>
           <ul>
-              <li class="dropdown"><a href="#"><span>Tentang Kami</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
+              <li class="dropdown bg-primary"><a href="#"><span>Tentang Kami</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
                 <ul>
                   <li><a href="profil.php">Profil Sekolah</a></li>
                   <li><a href="sambutan.php">Sambutan Kepsek</a></li>
@@ -234,33 +234,51 @@
     </div>
     <!-- Carousel End -->
 
-  <main id="main">
+    <main id="main">
 </div>
-    <!-- ======= About Us Section ======= -->
-    <section id="about" class="about pt-0">
+
+    <!-- ======= Services Section ======= -->
+    <section id="service" class="services pt-0">
       <div class="container" data-aos="fade-up">
 
         <div class="row gy-4">
-          <div class="col-lg-6 position-relative align-self-start order-lg-last order-first">
-            <img src="assets/img/abaout.jpeg" class="img-fluid" alt="">
-            <a href="https://youtu.be/RU14KbxDDfU" class="glightbox play-btn"></a>
-          </div>
-          <div class="col-lg-6 content order-last  order-lg-first">
-          <h5>Informasi Umum</h5>
-            <h3>SMK BINA CENDEKIA CIREBON</h3>
-            <p class="fs-6 fst-italic"> Adalah Sekolah Industri Berbasis Pesantren, Sekolah Kami Juga Termasuk Pusat Keunggulan Dan Lulusan SMK Bina Cendekia Cirebon Di Jamin Langsung Kerja Karena Sudah Bekerja Sama Dengan Banyak Perusahaan Didalam Negeri Maupun Diluar Negeri </p>
-          </div>
-        </div>
+          <div class="col-lg-4 col-md-4" data-aos="fade-up" data-aos-delay="100">
+            <div class="">
+              <div class="card-img">
+                <img src="assets/img/home-1.png" alt="" class="img-fluid">
+              </div>
+              
+            </div>
+          </div><!-- End Card Item -->
 
-      </div>
-    </section><!-- End About Us Section -->
+          <div class="col-lg-4 col-md-4" data-aos="fade-up" data-aos-delay="200">
+            <div class="">
+              <div class="card-img">
+                <img src="assets/img/home-2.png" alt="" class="img-fluid">
+              </div>
+              
+            </div>
+          </div><!-- End Card Item -->
+
+          <div class="col-lg-4 col-md-4" data-aos="fade-up" data-aos-delay="200">
+            <div class="">
+              <div class="card-img">
+                <img src="assets/img/home-3.png" alt="" class="img-fluid">
+              </div>
+              
+            </div>
+          </div><!-- End Card Item -->
+   
+
+  <main id="main">
+</div>
 
     <!-- ======= Services Section ======= -->
     <section id="service" class="services pt-0">
       <div class="container" data-aos="fade-up">
 
         <div class="section-header">
-        <center><img src="assets/img/robot.png" alt="" style="width:500px;height:450px;"><center>
+        <center><img src="assets/img/robot.png" alt="" style="width:500px;height:360px;"><center>
           <h2>Kenapa Harus SMK Bina Cendekia CIrebon?</h2>
             <h4>Alasan kenapa kalian semua harus bergabung dengan SMK Bina Cendekia Cirebon.</h4>
             <center><img src="assets/img/ok.jpeg" alt="" style="width:1350x;height:140px;"><center>
@@ -405,282 +423,91 @@
          
          </div>   
           <!-- ======= Team Section ======= -->
-          <section id="service" class="services pt-0">
+        <!-- ======= Services Section ======= -->
+    <section id="service" class="services pt-0">
       <div class="container" data-aos="fade-up">
+          </div>
+        <div class="row gy-4">
+          <div class="col-lg-3 col-md-3" data-aos="fade-up" data-aos-delay="100">
+            <div class="">
+              <div class="card-img">
+                <img src="assets/img/toga-service.png" alt="" class="img-fluid">
+              </div>
+              <center><h3><a href="#" class="stretched-link">Program Beasiswa</a></h3><center>
+              <center><p>Program Beasiswa Ini Untuk Siswa Yang Berprestasi dan anak yatim/piatu</p><center>
+            </div>
+          </div><!-- End Card Item -->
 
-        <div class="section-header">
-          <h2>Kegiatan SMK Bina Cendekia Cirebon</h2>
-          </div>
-        <div class="row">
-          <div class="col-lg-6 col-md-10 d-flex align-items-stretch">
-            <div class="member" data-aos="fade-up" data-aos-delay="100">
-              <div class="member-img">
-                <img src="assets/img/santri2.jpeg" class="img-fluid" alt="">
+          <div class="col-lg-3 col-md-3" data-aos="fade-up" data-aos-delay="200">
+            <div class="">
+              <div class="card-img">
+                <img src="assets/img/akreditasi-service.png" alt="" class="img-fluid">
               </div>
-              <div class="member-info">
-                <h4></h4>
-                <span></span>
-              </div>
+              <center><h3><a href="#" class="stretched-link">Akreditasi-B</a></h3><center>
+              <center><p>Terakreditasi-B</p><center>
             </div>
-          </div>
+          </div><!-- End Card Item -->
 
-          <div class="col-lg-6 col-md-10 d-flex align-items-stretch">
-            <div class="member" data-aos="fade-up" data-aos-delay="200">
-              <div class="member-img">
-                <img src="assets/img/prestasi1.jpeg" class="img-fluid" alt="">
+          <div class="col-lg-3 col-md-3" data-aos="fade-up" data-aos-delay="300">
+            <div class="">
+              <div class="card-img">
+                <img src="assets/img/pengajar-service.jpg" alt="" class="img-fluid">
               </div>
-              <div class="member-info">
-                <h4></h4>
-                <span></span>
-              </div>
+              <center><h3><a href="#" class="stretched-link">Pengajar Kompoten</a></h3><center>
+              <center><p>Kualifikasi pengajar S1 dan S2 dari lulusan kampus ternama dan memiliki sertifikasi keahlian</p><center>
             </div>
-          </div>
-          <div class="col-lg-4 col-md-8 d-flex align-items-stretch">
-            <div class="member" data-aos="fade-up" data-aos-delay="300">
-              <div class="member-img">
-                <img src="assets/img/biasiswa2.jpeg" class="img-fluid" alt="">
+          </div><!-- End Card Item -->
+
+          <div class="col-lg-3 col-md-3" data-aos="fade-up" data-aos-delay="400">
+            <div class="">
+              <div class="card-img">
+                <img src="assets/img/lulusan-service.jpg" alt="" class="img-fluid">
               </div>
-              <div class="member-info">
-                <h4></h4>
-                <span></span>
+              <center><h3><a href="#" class="stretched-link">Alumni Berkualitas</a></h3><center>
+              <center><p>Alumni siap kerja, siap kuliah dan siap berwirausaha. Alumni tersebar di berbagai negara Seperti Jepang, Taiwan, Malaysia, dan lain-lain</p><center>
               </div>
+          </div><!-- End Card Item -->
+
+          <div class="col-lg-3 col-md-3" data-aos="fade-up" data-aos-delay="500">
+            <div class="">
+              <div class="card-img">
+                <img src="assets/img/prestasii-service.png" alt="" class="img-fluid">
+              </div>
+              <center><h3><a href="#" class="stretched-link">Prestasi</a></h3><center>
+              <center><p>Memiliki segudang prestasi baik tingkat lokal, regional maupun nasional.</p><center>
             </div>
-          </div>
-          <div class="col-lg-4 col-md-8 d-flex align-items-stretch">
-            <div class="member" data-aos="fade-up" data-aos-delay="400">
-              <div class="member-img">
-                <img src="assets/img/biasiswa.jpeg" class="img-fluid" alt="">
+          </div><!-- End Card Item -->
+
+          <div class="col-lg-3 col-md-3" data-aos="fade-up" data-aos-delay="600">
+            <div class="">
+              <div class="card-img">
+                <img src="assets/img/kurikulum-service.jpg" alt="" class="img-fluid">
               </div>
-              <div class="member-info">
-                <h4></h4>
-                <span></span>
-              </div>
+              <center><h3><a href="#" class="stretched-link">Kurikulum Merdeka</a></h3><center>
+              <center><p>Merdeka Belajar Bina Cendekia School (MBBCS) dengan 4 Pilar yaitu SDM GURU, Pendidikan Karakter Siswa, KURIKULUM dan Moderenisasi Sarana Prasarana sekolah.</p><center>
             </div>
-          </div>
-          <div class="col-lg-4 col-md-8 d-flex align-items-stretch">
-            <div class="member" data-aos="fade-up" data-aos-delay="100">
-              <div class="member-img">
-                <img src="assets/img/biasiswa1.jpeg" class="img-fluid" alt="">
+          </div><!-- End Card Item -->
+
+          <div class="col-lg-3 col-md-3" data-aos="fade-up" data-aos-delay="700">
+            <div class="">
+              <div class="card-img">
+                <img src="assets/img/gedung-service.png" alt="" class="img-fluid">
               </div>
-              <div class="member-info">
-                <h4></h4>
-                <span></span>
-              </div>
+              <center><h3><a href="#" class="stretched-link">Fasilitas Lengkap</a></h3><center>
+              <center><p>Belajar Dengan Kualitas Yang Ada dan Mencukupi</p><center>
             </div>
-          </div>
-          <div class="row">
-          <div class="col-lg-6 col-md-10 d-flex align-items-stretch">
-            <div class="member" data-aos="fade-up" data-aos-delay="200">
-              <div class="member-img">
-                <img src="assets/img/sv2.jpg" class="img-fluid" alt="">
+          </div><!-- End Card Item -->
+
+          <div class="col-lg-3 col-md-3" data-aos="fade-up" data-aos-delay="800">
+            <div class="">
+              <div class="card-img">
+                <img src="assets/img/juara-service.png" alt="" class="img-fluid">
               </div>
-              <div class="member-info">
-                <h4></h4>
-                <span></span>
-              </div>
+              <center><h3><a href="#" class="stretched-link">Juara LKS SMK</a></h3><center>
+              <center><p>Sekolah Kami Menjuarai Lomba Kompetensi Siswa (LKS) Bidang Health & Social Care Tingkat Provinsi Jawa Barat 2022</p><center>
             </div>
-          </div>
-          <div class="col-lg-6 col-md-10 d-flex align-items-stretch">
-            <div class="member" data-aos="fade-up" data-aos-delay="300">
-              <div class="member-img">
-                <img src="assets/img/sv5.jpg" class="img-fluid" alt="">
-              </div>
-              <div class="member-info">
-                <h4></h4>
-                <span></span>
-              </div>
-            </div>
-            </div>
-           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-            <div class="member" data-aos="fade-up" data-aos-delay="400">
-              <div class="member-img">
-                <img src="assets/img/sv3.jpg" class="img-fluid" alt="">
-              </div>
-              <div class="member-info">
-                <h4></h4>
-                <span></span>
-              </div>
-            </div>
-          </div>
-       <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-          <div class="member" data-aos="fade-up" data-aos-delay="100">
-           <div class="member-img">
-             <img src="assets/img/sv.jpg" class="img-fluid" alt="">
-                </div>
-    <div class="member-info">
-      <h4></h4>
-      <span></span>
-    </div>
-  </div>
-</div>
-<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-  <div class="member" data-aos="fade-up" data-aos-delay="200">
-    <div class="member-img">
-      <img src="assets/img/sv6.jpg" class="img-fluid" alt="">
-    </div>
-    <div class="member-info">
-      <h4></h4>
-      <span></span>
-    </div>
-  </div>
-</div>
-<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-  <div class="member" data-aos="fade-up" data-aos-delay="300">
-    <div class="member-img">
-      <img src="assets/img/maulid2.jpeg" class="img-fluid" alt="">
-    </div>
-    <div class="member-info">
-      <h4></h4>
-      <span></span>
-    </div>
-  </div>
-</div>
-<div class="row">
-<div class="col-lg-4 col-md-8 d-flex align-items-stretch">
-  <div class="member" data-aos="fade-up" data-aos-delay="400">
-    <div class="member-img">
-      <img src="assets/img/ags7.jpeg" class="img-fluid" alt="">
-    </div>
-    <div class="member-info">
-      <h4></h4>
-      <span></span>
-    </div>
-  </div>
-</div>
-<div class="col-lg-4 col-md-8 d-flex align-items-stretch">
-  <div class="member" data-aos="fade-up" data-aos-delay="100">
-    <div class="member-img">
-      <img src="assets/img/maulid4.jpeg" class="img-fluid" alt="">
-    </div>
-    <div class="member-info">
-      <h4></h4>
-      <span></span>
-    </div>
-  </div>
-</div>
-<div class="col-lg-4 col-md-8 d-flex align-items-stretch">
-  <div class="member" data-aos="fade-up" data-aos-delay="200">
-    <div class="member-img">
-      <img src="assets/img/profil2.jpeg" class="img-fluid" alt="">
-    </div>
-    <div class="member-info">
-      <h4></h4>
-      <span></span>
-    </div>
-  </div>
-</div>
-<div class="row">
-<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-  <div class="member" data-aos="fade-up" data-aos-delay="300">
-    <div class="member-img">
-      <img src="assets/img/aboutt.jpeg" class="img-fluid" alt="">
-    </div>
-    <div class="member-info">
-      <h4></h4>
-      <span></span>
-    </div>
-  </div>
-</div>
-<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-  <div class="member" data-aos="fade-up" data-aos-delay="400">
-    <div class="member-img">
-      <img src="assets/img/ags3.jpeg" class="img-fluid" alt="">
-    </div>
-    <div class="member-info">
-      <h4></h4>
-      <span></span>
-    </div>
-  </div>
-</div>
-  <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-    <div class="member" data-aos="fade-up" data-aos-delay="100">
-              <div class="member-img">
-                <img src="assets/img/ags5.jpeg" class="img-fluid" alt="">
-              </div>
-              <div class="member-info">
-                <h4></h4>
-                <span></span>
-              </div>
-            </div>
-            </div>
-           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-    <div class="member" data-aos="fade-up" data-aos-delay="100">
-              <div class="member-img">
-                <img src="assets/img/ags6.jpeg" class="img-fluid" alt="">
-              </div>
-              <div class="member-info">
-                <h4></h4>
-                <span></span>
-              </div>
-            </div>
-            </div>
-           <div class="col-lg-6 col-md-12 d-flex align-items-stretch">
-    <div class="member" data-aos="fade-up" data-aos-delay="100">
-              <div class="member-img">
-                <img src="assets/img/kegiatan1.jpeg" class="img-fluid" alt="">
-              </div>
-              <div class="member-info">
-                <h4></h4>
-                <span></span>
-              </div>
-            </div>
-            </div>
-           <div class="col-lg-6 col-md-12 d-flex align-items-stretch">
-    <div class="member" data-aos="fade-up" data-aos-delay="100">
-              <div class="member-img">
-                <img src="assets/img/kegiatan3.jpeg" class="img-fluid" alt="">
-              </div>
-              <div class="member-info">
-                <h4></h4>
-                <span></span>
-              </div>
-            </div>
-            </div>
-            <div class="row">
-            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-    <div class="member" data-aos="fade-up" data-aos-delay="100">
-              <div class="member-img">
-                <img src="assets/img/maulid1.jpeg" class="img-fluid" alt="">
-              </div>
-              <div class="member-info">
-                <h4></h4>
-                <span></span>
-              </div>
-            </div>
-            </div>
-           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-    <div class="member" data-aos="fade-up" data-aos-delay="100">
-              <div class="member-img">
-                <img src="assets/img/tabus1.jpeg" class="img-fluid" alt="">
-              </div>
-              <div class="member-info">
-                <h4></h4>
-                <span></span>
-              </div>
-            </div>
-            </div>
-           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-    <div class="member" data-aos="fade-up" data-aos-delay="100">
-              <div class="member-img">
-                <img src="assets/img/sv7.jpg" class="img-fluid" alt="">
-              </div>
-              <div class="member-info">
-                <h4></h4>
-                <span></span>
-              </div>
-            </div>
-            </div>
-           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-    <div class="member" data-aos="fade-up" data-aos-delay="100">
-              <div class="member-img">
-                <img src="assets/img/rpl7.jpeg" class="img-fluid" alt="">
-              </div>
-              <div class="member-info">
-                <h4></h4>
-      <span></span>
-              </div>
-            </div>
-            </div>
+          </div><!-- End Card Item -->
+
     </section><!-- End Features Section -->
     <center><img src="assets/img/ok.jpeg" alt="" style="width:1300x;height:133px;"><center>
              <!-- ======= About Us Section ======= --> 
@@ -706,7 +533,7 @@
   </main><!-- End #main -->
 
   <!-- ======= Footer ======= -->
-  <footer id="footer" class="footer">
+  <footer id="footer" class="footer bg-primary">
 
     <div class="container">
       <div class="row gy-4">
