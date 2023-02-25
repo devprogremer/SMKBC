@@ -181,6 +181,8 @@
             <ul>
               <li><i class="bi bi-check"></i> Shering Metode Pembelajaran Di Finlandia</li>
               <li><i class="bi bi-check"></i> Untuk Memeprerat Kerjasama</li>
+              <li><i class="bi bi-check"></i> Menjalin Silaturahmi</li>
+              <li><i class="bi bi-check"></i> Memeprerat Tali Persaudaraan</li>
             </ul>
           </div>
         </div><!-- Features Item -->
@@ -190,7 +192,7 @@
             <img src="assets/img/profil2.jpeg" class="img-fluid" alt="">
           </div>
           <div class="col-md-7 order-2 order-md-1">
-            <h3>Corporis temporibus maiores provident</h3>
+            <h3></h3>
             <p class="fst-italic">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
               magna aliqua.
