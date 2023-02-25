@@ -108,43 +108,14 @@
 
     </div>
   </header><!-- End Header -->
-
+  
       <!-- ======= Featured Services Section ======= 
       <section id="featured-services" class="featured-services">
-      <div class="container">
-
-        <div class="row gy-4">
-
-          <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up">
-            <div class="icon flex-shrink-0"><i class=""></i></div>
-            <div>
-              <h4 class="title"></h4>
-              <a href="service-details.php" class="readmore stretched-link"><span></span><i class=""></i></a>
-            </div>
-          </div>
-          <!-- End Service Item -->
-
-          <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up" data-aos-delay="100">
-            <div class="icon flex-shrink-0"><i class=""></i></div>
-            <div>
-              <h4 class="title"></h4>
-              <a href="service-details.php" class="readmore stretched-link"><span></span><i class=""></i></a>
-            </div>
-          </div><!-- End Service Item -->
-
-          <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up" data-aos-delay="200">
-            <div class="icon flex-shrink-0"><i class=""></i></div>
-            <div>
-              <h4 class="title"></h4>
-              <a href="service-details.php" class="readmore stretched-link"><span></span><i class=""></i></a>
-            </div>
-          </div>
-          
-          <!-- End Service Item -->
+      <div class="container">...
     </section>
     <!-- End Featured Services Section -->
+
     
-  
   <main id="main">
 
   <!-- Carousel Start -->
