@@ -41,7 +41,7 @@
 
   
   <!-- ======= Header ======= -->
-  <header id="header" class="header d-flex align-items-center fixed-top">
+  <header id="header" class="header d-flex align-items-center fixed-top bg-primary">
     <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
 
       <a href="index.php" class="logo d-flex align-items-center">
@@ -54,11 +54,12 @@
       <i class="mobile-nav-toggle mobile-nav-hide d-none bi bi-x"></i>
       <nav id="navbar" class="navbar">
          <ul>
-          <li><a href="index.php" class="active">Beranda</a></li>
+          <li class="bg-primary text-light"><a href="index.php" class="active" class="bi bi-">Beranda</a></li>
           <ul>
               <li class="dropdown"><a href="#"><span>Tentang Kami</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
                 <ul>
                   <li><a href="profil.php">Profil Sekolah</a></li>
+                  <li><a href="sambutan.php">Sambutan Kepsek</a></li>
                   <li><a href="visi.php">Visi dan Misi</a></li>
                   <li><a href="organisasi.php">Struktur Organisasi</a></li>
                   <li><a href="data.php">Data Guru</a></li>
@@ -90,7 +91,7 @@
                   <li><a href="maulid.php">Maulid Nabi Muhammad</a></li>
                   <li><a href="porak.php">Porak</a></li>
                   <li><a href="agustus.php">HUT RI 17 Agustus</a></li>
-                  <li><a href="santri.php">Hari Santri</a></li>
+                  <l><a href="santri.php">Hari Santri</a></li>
                 </ul>
                 </li>
                 <li><a href="PKL.php">PKL 2023</a></li>
@@ -103,7 +104,7 @@
               <li><a href="informasi.php">Informasi Pendaftaran</a></li>
               </ul>
           <li><a href="contact.php">Contact</a></li>
-          <li><a class="get-a-quote" href="cek_login.php">Login</a></li>
+          <li><a class="get-a-quote bg-dark" href="cek_login.php">Login</a></li>
         </ul>
       </nav><!-- .navbar -->
 
@@ -112,98 +113,112 @@
   
   <main id="main">
 
-    <!-- ======= Breadcrumbs ======= -->
-    <div class="breadcrumbs">
-      <div class="page-header d-flex align-items-center" style="background-image: url('assets/img/page-header.jpeg');">
-        <div class="container position-relative">
-          <div class="row d-flex justify-content-center">
-            <div class="col-lg-6 text-center">
-              <h2>Penerimaan Peserta Didik Baru Tahun Ajaran 2023/2024</h2>
-            </div>
-          </div>
-        </div>
-      </div>
-      <nav>
-        <div class="container">
-          <ol>
-            <li><a href="index.php">Home</a></li>
-            <li><a href="cek_login.php">login</a></li>
-          </ol>
-        </div>
-      </nav>
-    </div><!-- End Breadcrumbs -->
-
-  <!-- ======= Get a Quote Section ======= -->
-  <section id="get-a-quote" class="get-a-quote">
+     <!-- ======= Services Section ======= -->
+     <section id="service" class="services pt-0">
       <div class="container" data-aos="fade-up">
 
-        <div class="row g-0">
-
-          <div class="col-lg-5 quote-bg" style="background-image: url(assets/img/Quote-bg.jpeg);"></div>
-
-          <div class="col-lg-7">
-            <form action="forms/quote.php" method="post" class="php-email-form">
-              <h3>DAFTAR SEKARANG</h3>
-                <div class="row gy-4">
-
-                <div class="col-md-6">
-                  <input type="text" name="departure" class="form-control" placeholder="No. HP Orang Tua/Wali" required>
-                </div>
-
-                <div class="col-md-6">
-                  <input type="text" name="delivery" class="form-control" placeholder="Nama Lengkap Orang Tua" required>
-                </div>
-
-                <div class="col-md-6">
-                  <input type="text" name="weight" class="form-control" placeholder="No. HP Wali Kelas" required>
-                </div>
-
-                <div class="col-md-6">
-                  <input type="text" name="dimensions" class="form-control" placeholder="No. HP Guru BK" required>
-                </div>
-
-                <div class="col-lg-12">
-                  <h4>Your Personal Details</h4>
-                </div>
-
-                <div class="col-md-12">
-                  <input type="text" name="name" class="form-control" placeholder="Nama Lengkap" required>
-                </div>
-
-                <div class="col-md-12 ">
-                  <input type="email" class="form-control" name="email" placeholder="No. HP atau WA Calon Siswa" required>
-                </div>
-
-                <div class="col-md-12">
-                  <input type="text" class="form-control" name="phone" placeholder="Asal Sekolah" required>
-                </div>
-
-                <div class="col-md-12">
-                  <textarea class="form-control" name="message" rows="6" placeholder="Info PPDB" required></textarea>
-                </div>
-
-                <div class="col-md-12 text-center">
-                  <div class="loading">Loading</div>
-                  <div class="error-message"></div>
-                  <div class="sent-message">Your quote request has been sent successfully. Thank you!</div>
-
-                  <button type="submit">Kirim Data</button>
-                </div>
-
+        <div class="section-header">
+        <center><img src="assets/img/robot.png" alt="" style="width:500px;height:360px;"><center>
+          <h2>Kenapa Harus SMK Bina Cendekia CIrebon?</h2>
+            <h4>Alasan kenapa kalian semua harus bergabung dengan SMK Bina Cendekia Cirebon.</h4>
+            <center><img src="assets/img/ok.jpeg" alt="" style="width:1350x;height:140px;"><center>
+          </div>
+        <div class="row gy-4">
+          <div class="col-lg-3 col-md-3" data-aos="fade-up" data-aos-delay="100">
+            <div class="">
+              <div class="card-img">
+                <img src="assets/img/toga-service.png" alt="" class="img-fluid">
               </div>
-            </form>
-          </div><!-- End Quote Form -->
+              <center><h3><a href="#" class="stretched-link">Program Beasiswa</a></h3><center>
+              <center><p>Program Beasiswa Ini Untuk Siswa Yang Berprestasi dan anak yatim/piatu</p><center>
+            </div>
+          </div><!-- End Card Item -->
 
-       
+          <div class="col-lg-3 col-md-3" data-aos="fade-up" data-aos-delay="200">
+            <div class="">
+              <div class="card-img">
+                <img src="assets/img/akreditasi-service.png" alt="" class="img-fluid">
+              </div>
+              <center><h3><a href="#" class="stretched-link">Akreditasi-B</a></h3><center>
+              <center><p>Terakreditasi-B</p><center>
+            </div>
+          </div><!-- End Card Item -->
+
+          <div class="col-lg-3 col-md-3" data-aos="fade-up" data-aos-delay="300">
+            <div class="">
+              <div class="card-img">
+                <img src="assets/img/pengajar-service.jpg" alt="" class="img-fluid">
+              </div>
+              <center><h3><a href="#" class="stretched-link">Pengajar Kompoten</a></h3><center>
+              <center><p>Kualifikasi pengajar S1 dan S2 dari lulusan kampus ternama dan memiliki sertifikasi keahlian</p><center>
+            </div>
+          </div><!-- End Card Item -->
+
+          <div class="col-lg-3 col-md-3" data-aos="fade-up" data-aos-delay="400">
+            <div class="">
+              <div class="card-img">
+                <img src="assets/img/lulusan-service.jpg" alt="" class="img-fluid">
+              </div>
+              <center><h3><a href="#" class="stretched-link">Alumni Berkualitas</a></h3><center>
+              <center><p>Alumni siap kerja, siap kuliah dan siap berwirausaha. Alumni tersebar di berbagai negara Seperti Jepang, Taiwan, Malaysia, dan lain-lain</p><center>
+              </div>
+          </div><!-- End Card Item -->
+
+          <div class="col-lg-3 col-md-3" data-aos="fade-up" data-aos-delay="500">
+            <div class="">
+              <div class="card-img">
+                <img src="assets/img/prestasii-service.png" alt="" class="img-fluid">
+              </div>
+              <center><h3><a href="#" class="stretched-link">Prestasi</a></h3><center>
+              <center><p>Memiliki segudang prestasi baik tingkat lokal, regional maupun nasional.</p><center>
+            </div>
+          </div><!-- End Card Item -->
+
+          <div class="col-lg-3 col-md-3" data-aos="fade-up" data-aos-delay="600">
+            <div class="">
+              <div class="card-img">
+                <img src="assets/img/kurikulum-service.jpg" alt="" class="img-fluid">
+              </div>
+              <center><h3><a href="#" class="stretched-link">Kurikulum Merdeka</a></h3><center>
+              <center><p>Merdeka Belajar Bina Cendekia School (MBBCS) dengan 4 Pilar yaitu SDM GURU, Pendidikan Karakter Siswa, KURIKULUM dan Moderenisasi Sarana Prasarana sekolah.</p><center>
+            </div>
+          </div><!-- End Card Item -->
+
+          <div class="col-lg-3 col-md-3" data-aos="fade-up" data-aos-delay="700">
+            <div class="">
+              <div class="card-img">
+                <img src="assets/img/gedung-service.png" alt="" class="img-fluid">
+              </div>
+              <center><h3><a href="#" class="stretched-link">Fasilitas Lengkap</a></h3><center>
+              <center><p>Belajar Dengan Kualitas Yang Ada dan Mencukupi</p><center>
+            </div>
+          </div><!-- End Card Item -->
+
+          <div class="col-lg-3 col-md-3" data-aos="fade-up" data-aos-delay="800">
+            <div class="">
+              <div class="card-img">
+                <img src="assets/img/juara-service.png" alt="" class="img-fluid">
+              </div>
+              <center><h3><a href="#" class="stretched-link">Juara LKS SMK</a></h3><center>
+              <center><p>Sekolah Kami Menjuarai Lomba Kompetensi Siswa (LKS) Bidang Health & Social Care Tingkat Provinsi Jawa Barat 2022</p><center>
+            </div>
+          </div><!-- End Card Item -->
+
+
         </div>
 
       </div>
-    </section><!-- End Contact Section -->
+    </section><!-- End Services Section -->
+        </div>
+
+      </div>
+    </section><!-- End Pricing Section -->
+   
 
   </main><!-- End #main -->
 
    <!-- ======= Footer ======= -->
-   <footer id="footer" class="footer">
+   <footer id="footer" class="footer bg-primary">
 
 <div class="container">
   <div class="row gy-4">

@@ -39,8 +39,9 @@
 <body>
 
   
-  <!-- ======= Header ======= -->
-  <header id="header" class="header d-flex align-items-center fixed-top">
+  
+<!-- ======= Header ======= -->
+<header id="header" class="header d-flex align-items-center fixed-top bg-primary">
     <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
 
       <a href="index.php" class="logo d-flex align-items-center">
@@ -53,11 +54,12 @@
       <i class="mobile-nav-toggle mobile-nav-hide d-none bi bi-x"></i>
       <nav id="navbar" class="navbar">
          <ul>
-          <li><a href="index.php" class="active">Beranda</a></li>
+          <li class="bg-primary text-light"><a href="index.php" class="active">Beranda</a></li>
           <ul>
               <li class="dropdown"><a href="#"><span>Tentang Kami</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
                 <ul>
                   <li><a href="profil.php">Profil Sekolah</a></li>
+                  <li><a href="sambutan.php">Sambutan Kepsek</a></li>
                   <li><a href="visi.php">Visi dan Misi</a></li>
                   <li><a href="organisasi.php">Struktur Organisasi</a></li>
                   <li><a href="data.php">Data Guru</a></li>
@@ -89,7 +91,7 @@
                   <li><a href="maulid.php">Maulid Nabi Muhammad</a></li>
                   <li><a href="porak.php">Porak</a></li>
                   <li><a href="agustus.php">HUT RI 17 Agustus</a></li>
-                  <li><a href="santri.php">Hari Santri</a></li>
+                  <l><a href="santri.php">Hari Santri</a></li>
                 </ul>
                 </li>
                 <li><a href="PKL.php">PKL 2023</a></li>
@@ -102,67 +104,43 @@
               <li><a href="informasi.php">Informasi Pendaftaran</a></li>
               </ul>
           <li><a href="contact.php">Contact</a></li>
-          <li><a class="get-a-quote" href="cek_login.php">Login</a></li>
+          <li><a class="get-a-quote bg-dark" href="cek_login.php">Login</a></li>
         </ul>
       </nav><!-- .navbar -->
 
     </div>
   </header><!-- End Header -->
-  
-  <!-- ======= Hero Section ======= -->
-  <section id="hero" class="hero d-flex align-items-center">
-    <div class="container">
-      <div class="row gy-4 d-flex justify-content-between">
-        <div class="col-lg-6 order-2 order-lg-1 d-flex flex-column justify-content-center">
-          <h1 data-aos="fade-up">Data Guru</h1>
-          <h3 data-aos="fade-up" data-aos-delay="100">SMK Bina Cendekia Cirebon</h3>
 
-          <form action="#" class="form- d-flex align-items-stretch mb-3" data-aos="fade-up" data-aos-delay="200">
-            <input type="text" class="form-control" placeholder="Search">
-            <button type="submit" class="btn btn-primary">Search</button>
-          </form>
+    <!-- ======= Featured Services Section ======= -->
+      <section id="header" class="header">
 
-          <div class="row gy-4" data-aos="fade-up" data-aos-delay="400">
+        <div class="row gy-4">
+          
+          <!-- End Service Item -->
+    </section>
+    <!-- End Featured Services Section -->
 
-            <div class="col-lg-3 col-6">
-              <div class="stats-item text-center w-100 h-100">
-                <span data-purecounter-start="0" data-purecounter-end="1300" data-purecounter-duration="1" class="purecounter"></span>
-                <p>Siswa</p>
-              </div>
-            </div><!-- End Stats Item -->
 
-            <div class="col-lg-3 col-6">
-              <div class="stats-item text-center w-100 h-100">
-                <span data-purecounter-start="0" data-purecounter-end="56" data-purecounter-duration="1" class="purecounter"></span>
-                <p>Guru</p>
-              </div>
-            </div><!-- End Stats Item -->
-
-            <div class="col-lg-3 col-6">
-              <div class="stats-item text-center w-100 h-100">
-                <span data-purecounter-start="0" data-purecounter-end="1453" data-purecounter-duration="1" class="purecounter"></span>
-                <p>Support</p>
-              </div>
-            </div><!-- End Stats Item -->
-
-            <div class="col-lg-3 col-6">
-              <div class="stats-item text-center w-100 h-100">
-                <span data-purecounter-start="0" data-purecounter-end="1872" data-purecounter-duration="1" class="purecounter"></span>
-                <p>Total</p>
-              </div>
-            </div><!-- End Stats Item -->
-
+ <!-- ======= Breadcrumbs ======= -->
+ <div class="breadcrumbs">
+      <div class="header">
+        <div class="container position-relative">
+          <div class="row d-flex justify-content-center">
+            <div class="col-lg-6 text-center">
+              
+            </div>
           </div>
         </div>
-
-        <div class="col-lg-5 order-1 order-lg-2 hero-img" data-aos="zoom-out">
-          <img src="assets/img/hero-img.svg" class="img-fluid mb-3 mb-lg-0" alt="">
-        </div>
-
       </div>
-    </div>
-  </section><!-- End Hero Section -->
-
+      <nav>
+        <div class="container">
+          <ol>
+            <li><a href="index.php">Beranda</a></li>
+            <li><a href="">Profil Sekolah</a></li>
+          </ol>
+        </div>
+      </nav>
+    </div><!-- End Breadcrumbs --> 
   <main id="main">
 
     <!-- ======= Featured Services Section ======= -->
@@ -218,6 +196,7 @@
 
           <div class="col-lg-3 col-md-1 d-flex">
             <div class="member">
+            <a class="team" href="index.php">
               <img src="assets/img/team/kepsek.jpeg" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Ade Rahamat Saputra,M,Pd.</h4>
@@ -237,6 +216,8 @@
 
           <div class="col-lg-3 col-md-1 d-flex">
             <div class="member">
+            <a class="team" href="index.php">
+              <a class="team" href="halaman_guru.php">
               <img src="assets/img/team/01.jpeg" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Maulana Jamaludin, S.Kom</h4>
@@ -256,6 +237,7 @@
 
           <div class="col-lg-3 col-md-1 d-flex">
             <div class="member">
+            <a class="team" href="index.php">
               <img src="assets/img/team/3.jpeg" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Abdul Mutholib, S.Pd.I</h4>
@@ -275,6 +257,7 @@
 
           <div class="col-lg-3 col-md-1 d-flex">
             <div class="member">
+            <a class="team" href="index.php">
               <img src="assets/img/team/23.jpeg" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Madhuri S.Pd</h4>
@@ -295,6 +278,7 @@
 
           <div class="col-lg-3 col-md-1 d-flex">
             <div class="member">
+            <a class="team" href="index.php">
               <img src="assets/img/team/04.jpeg" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Nurhikmah, S.Pd</h4>
@@ -314,6 +298,7 @@
 
           <div class="col-lg-3 col-md-1 d-flex">
             <div class="member">
+            <a class="team" href="index.php">
               <img src="assets/img/team/010.jpeg" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Dian Siti Oliyana, S.Pd.I </h4>
@@ -333,6 +318,7 @@
 
           <div class="col-lg-3 col-md-1 d-flex">
             <div class="member">
+            <a class="team" href="index.php">
               <img src="assets/img/team/91.jpeg" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Verdiyan Agustina, S.Pd</h4>
@@ -352,6 +338,7 @@
 
           <div class="col-lg-3 col-md-1 d-flex">
             <div class="member">
+            <a class="team" href="index.php">
               <img src="assets/img/team/16.jpeg" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Faisal Rohman, S.T</h4>
@@ -371,6 +358,7 @@
 
           <div class="col-lg-3 col-md-1 d-flex">
             <div class="member">
+            <a class="team" href="index.php">
               <img src="assets/img/team/98.jpeg" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Abdul Ghoni, S.Pd </h4>
@@ -390,6 +378,7 @@
 
           <div class="col-lg-3 col-md-1 d-flex">
             <div class="member">
+            <a class="team" href="index.php">
               <img src="assets/img/team/Teamm-1.jpeg" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Yulianthi, S.Pd</h4>
@@ -409,6 +398,7 @@
 
           <div class="col-lg-3 col-md-1 d-flex">
             <div class="member">
+            <a class="team" href="index.php">
               <img src="assets/img/team/Teamm-1.jpeg" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Zaenudin Ikhwanul M., S.Pd </h4>
@@ -428,6 +418,7 @@
 
           <div class="col-lg-3 col-md-1 d-flex">
             <div class="member">
+            <a class="team" href="index.php">
               <img src="assets/img/team/Teamm-1.jpeg" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Abdullah, S.Pd </h4>
@@ -447,6 +438,7 @@
 
           <div class="col-lg-3 col-md-1 d-flex">
             <div class="member">
+            <a class="team" href="index.php">
               <img src="assets/img/team/Teamm-1.jpeg" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Irma Kencanawati, Amd.Kep </h4>
@@ -465,6 +457,7 @@
 
           <div class="col-lg-3 col-md-1 d-flex">
             <div class="member">
+            <a class="team" href="index.php">
               <img src="assets/img/team/46.jpeg" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Yani Rohayani, S.Pd</h4>
@@ -484,6 +477,7 @@
 
           <div class="col-lg-3 col-md-1 d-flex">
             <div class="member">
+            <a class="team" href="index.php">
               <img src="assets/img/team/Teamm-1.jpeg" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Titim Siti Fatimah, S.Pd</h4>
@@ -503,6 +497,7 @@
 
           <div class="col-lg-3 col-md-1 d-flex">
             <div class="member">
+            <a class="team" href="index.php">
               <img src="assets/img/team/05.jpeg" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Soleh Abdussalam, S.Pd </h4>
@@ -522,6 +517,7 @@
 
           <div class="col-lg-3 col-md-1 d-flex">
             <div class="member">
+            <a class="team" href="index.php">
               <img src="assets/img/team/88.jpeg" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Irganeila Ratu H., S.Pd </h4>
@@ -541,6 +537,7 @@
 
           <div class="col-lg-3 col-md-1 d-flex">
             <div class="member">
+            <a class="team" href="index.php">
               <img src="assets/img/team/26.jpeg" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Entik Kartika, S.Pd</h4>
@@ -560,6 +557,7 @@
 
           <div class="col-lg-3 col-md-1 d-flex">
             <div class="member">
+            <a class="team" href="index.php">
               <img src="assets/img/team/Teamm-1.jpeg" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Icha Yerucha, S.Pd </h4>
@@ -579,6 +577,7 @@
 
           <div class="col-lg-3 col-md-1 d-flex">
             <div class="member">
+            <a class="team" href="index.php">
               <img src="assets/img/team/Teamm-1.jpeg" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Lili Hambali, ST</h4>
@@ -598,6 +597,7 @@
 
           <div class="col-lg-3 col-md-1 d-flex">
             <div class="member">
+            <a class="team" href="index.php">
               <img src="assets/img/team/15.jpeg" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Aris Sunandar, S.Pd </h4>
@@ -617,6 +617,7 @@
 
           <div class="col-lg-3 col-md-1 d-flex">
             <div class="member">
+            <a class="team" href="index.php">
               <img src="assets/img/team/10.jpeg" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Lailatul Badriyah, S.Pd</h4>
@@ -636,6 +637,7 @@
 
           <div class="col-lg-3 col-md-1 d-flex">
             <div class="member">
+            <a class="team" href="index.php">
               <img src="assets/img/team/20.jpeg" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Rizal Perdiawan, S.Kom</h4>
@@ -655,6 +657,7 @@
 
           <div class="col-lg-3 col-md-1 d-flex">
             <div class="member">
+            <a class="team" href="index.php">
               <img src="assets/img/team/99.jpeg" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Putren Diastuti, S.pd </h4>
@@ -674,6 +677,7 @@
 
           <div class="col-lg-3 col-md-1 d-flex">
             <div class="member">
+            <a class="team" href="index.php">
               <img src="assets/img/team/18.jpeg" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Fatmawati, S.Kep</h4>
@@ -693,6 +697,7 @@
 
           <div class="col-lg-3 col-md-1 d-flex">
             <div class="member">
+            <a class="team" href="index.php">
               <img src="assets/img/team/90.jpeg" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Rizka Bayu Kembara, S.Kom</h4>
@@ -712,6 +717,7 @@
 
           <div class="col-lg-3 col-md-1 d-flex">
             <div class="member">
+            <a class="team" href="index.php">
               <img src="assets/img/team/00.jpeg" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Subhi Nulchakim, S.Pd</h4>
@@ -731,6 +737,7 @@
 
           <div class="col-lg-3 col-md-1 d-flex">
             <div class="member">
+            <a class="team" href="index.php">
               <img src="assets/img/team/Teamm-1.jpeg" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Narsidah</h4>
@@ -750,6 +757,7 @@
 
           <div class="col-lg-3 col-md-1 d-flex">
             <div class="member">
+            <a class="team" href="index.php">
               <img src="assets/img/team/Teamm-1.jpeg" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Mohammad Misbakh, S.Pd </h4>
@@ -769,6 +777,7 @@
 
           <div class="col-lg-3 col-md-1 d-flex">
             <div class="member">
+            <a class="team" href="index.php">
               <img src="assets/img/team/79.jpeg" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Ghoyatul Farikhah, S.Pd</h4>
@@ -788,6 +797,7 @@
 
           <div class="col-lg-3 col-md-1 d-flex">
             <div class="member">
+            <a class="team" href="index.php">
               <img src="assets/img/team/Teamm-1.jpeg" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Imas Sri Rahmawati, S.Pd </h4>
@@ -807,6 +817,7 @@
 
           <div class="col-lg-3 col-md-1 d-flex">
             <div class="member">
+            <a class="team" href="index.php">
               <img src="assets/img/team/53.jpeg" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Ahmad Anas, Amd.Kom</h4>
@@ -826,6 +837,7 @@
 
           <div class="col-lg-3 col-md-1 d-flex">
             <div class="member">
+            <a class="team" href="index.php">
               <img src="assets/img/team/9.jpeg" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Surana, S.Kom</h4>
@@ -845,6 +857,7 @@
 
           <div class="col-lg-3 col-md-1 d-flex">
             <div class="member">
+            <a class="team" href="index.php">
               <img src="assets/img/team/Teamm-1.jpeg" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Siti Rohimah, S.Pd</h4>
@@ -864,6 +877,7 @@
 
           <div class="col-lg-3 col-md-1 d-flex">
             <div class="member">
+            <a class="team" href="index.php">
               <img src="assets/img/team/Teamm-1.jpeg" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Dian Hendriyana, S.Pd </h4>
@@ -883,6 +897,7 @@
 
           <div class="col-lg-3 col-md-1 d-flex">
             <div class="member">
+            <a class="team" href="index.php">
               <img src="assets/img/team/Teamm-1.jpeg" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Ruli Paryadi, S.T</h4>
@@ -902,6 +917,7 @@
 
           <div class="col-lg-3 col-md-1 d-flex">
             <div class="member">
+            <a class="team" href="index.php">
               <img src="assets/img/team/Teamm-1.jpeg" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Siti Aisyah, S.P</h4>
@@ -921,6 +937,7 @@
 
           <div class="col-lg-3 col-md-1 d-flex">
             <div class="member">
+            <a class="team" href="index.php">
               <img src="assets/img/team/Teamm-1.jpeg" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Mita Monica, S.Kom</h4>
@@ -940,6 +957,7 @@
 
           <div class="col-lg-3 col-md-1 d-flex">
             <div class="member">
+            <a class="team" href="index.php">
               <img src="assets/img/team/Teamm-1.jpeg" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Rahmat Hidayat, Amd.Kom</h4>
@@ -959,6 +977,7 @@
 
           <div class="col-lg-3 col-md-1 d-flex">
             <div class="member">
+            <a class="team" href="index.php">
               <img src="assets/img/team/Teamm-1.jpeg" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Heru Agus N, S.Pd </h4>
@@ -978,6 +997,7 @@
 
           <div class="col-lg-3 col-md-1 d-flex">
             <div class="member">
+            <a class="team" href="index.php">
               <img src="assets/img/team/Teamm-1.jpeg" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Koko Baskoro</h4>
@@ -997,6 +1017,7 @@
 
           <div class="col-lg-3 col-md-1 d-flex">
             <div class="member">
+            <a class="team" href="index.php">
               <img src="assets/img/team/Teamm-1.jpeg" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Agnes Sulistyowati, S.S</h4>
@@ -1016,6 +1037,7 @@
 
           <div class="col-lg-3 col-md-1 d-flex">
             <div class="member">
+            <a class="team" href="index.php">
               <img src="assets/img/team/Teamm-1.jpeg" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Randy Juliantiana, S.Kom</h4>
@@ -1035,6 +1057,7 @@
 
           <div class="col-lg-3 col-md-1 d-flex">
             <div class="member">
+            <a class="team" href="index.php">
               <img src="assets/img/team/Teamm-1.jpeg" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Jihan Azhaar Ramadhanty, S.Pd</h4>
@@ -1054,6 +1077,7 @@
 
           <div class="col-lg-3 col-md-1 d-flex">
             <div class="member">
+            <a class="team" href="index.php">
               <img src="assets/img/team/Teamm-1.jpeg" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Dewi Pudjiastuti, S.Kom </h4>
@@ -1073,6 +1097,7 @@
 
           <div class="col-lg-3 col-md-1 d-flex">
             <div class="member">
+            <a class="team" href="index.php">
               <img src="assets/img/team/Teamm-1.jpeg" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Chanifudin Fauzan, S.Pd.I</h4>
@@ -1092,6 +1117,7 @@
 
           <div class="col-lg-3 col-md-1 d-flex">
             <div class="member">
+            <a class="team" href="index.php">
               <img src="assets/img/team/Teamm-1.jpeg" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Muayyanah, S.Pd</h4>
@@ -1111,6 +1137,7 @@
           
           <div class="col-lg-3 col-md-1 d-flex">
             <div class="member">
+            <a class="team" href="index.php">
               <img src="assets/img/team/Teamm-1.jpeg" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Yusuf Akbar, S.E</h4>
@@ -1130,6 +1157,7 @@
 
           <div class="col-lg-3 col-md-1 d-flex">
             <div class="member">
+            <a class="team" href="index.php">
               <img src="assets/img/team/Teamm-1.jpeg" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Aldi Kuswandi, S.T</h4>
@@ -1149,6 +1177,7 @@
 
           <div class="col-lg-3 col-md-1 d-flex">
             <div class="member">
+            <a class="team" href="index.php">
               <img src="assets/img/team/Teamm-1.jpeg" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Maulana Fatahillah, S.Si</h4>
@@ -1168,6 +1197,7 @@
 
           <div class="col-lg-3 col-md-1 d-flex">
             <div class="member">
+            <a class="team" href="index.php">
               <img src="assets/img/team/Teamm-1.jpeg" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Tuti Awaliyah, S.Pd</h4>
@@ -1187,6 +1217,7 @@
 
           <div class="col-lg-3 col-md-1 d-flex">
             <div class="member">
+            <a class="team" href="index.php">
               <img src="assets/img/team/Teamm-1.jpeg" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Sintia Dewi </h4>
@@ -1206,6 +1237,7 @@
 
           <div class="col-lg-3 col-md-1 d-flex">
             <div class="member">
+            <a class="team" href="index.php">
               <img src="assets/img/team/Teamm-1.jpeg" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Dimas Fajar Maulana, M.Pd</h4>
@@ -1225,6 +1257,7 @@
 
           <div class="col-lg-3 col-md-1 d-flex">
             <div class="member">
+            <a class="team" href="index.php">
               <img src="assets/img/team/Teamm-1.jpeg" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Harya Dinata Januar, S.Pd</h4>
@@ -1244,6 +1277,7 @@
 
           <div class="col-lg-3 col-md-1 d-flex">
             <div class="member">
+            <a class="team" href="index.php">
               <img src="assets/img/team/Teamm-1.jpeg" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Novia Indriani Nur Fatimah, S.Kep</h4>
@@ -1263,6 +1297,7 @@
 
           <div class="col-lg-3 col-md-1 d-flex">
             <div class="member">
+            <a class="team" href="index.php">
               <img src="assets/img/team/Teamm-1.jpeg" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Galih Ahmad Dinata, S.Pd</h4>
@@ -1282,6 +1317,7 @@
 
           <div class="col-lg-3 col-md-1 d-flex">
             <div class="member">
+            <a class="team" href="index.php">
               <img src="assets/img/team/77.jpeg" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Herna Rosnasari</h4>
@@ -1301,6 +1337,7 @@
             </div><!-- End Team Member -->
             <div class="col-lg-3 col-md-1 d-flex">
             <div class="member">
+            <a class="team" href="index.php">
               <img src="assets/img/team/Teamm-1.jpeg" class="img-fluid" alt="">
               <div class="member-content">
                 <h4> Nurul Hikmah M., S.Kom</h4>
@@ -1320,6 +1357,7 @@
             </div><!-- End Team Member -->
             <div class="col-lg-3 col-md-1 d-flex">
             <div class="member">
+            <a class="team" href="index.php">
               <img src="assets/img/team/Teamm-1.jpeg" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Azis Nurul Fuadi </h4>
@@ -1348,7 +1386,7 @@
   </main><!-- End #main -->
 
   <!-- ======= Footer ======= -->
-  <footer id="footer" class="footer">
+  <footer id="footer" class="footer bg-primary">
 
     <div class="container">
       <div class="row gy-4">

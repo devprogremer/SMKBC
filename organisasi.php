@@ -38,6 +38,18 @@
 </head>
 <body>
 
+    <!-- ======= Featured Services Section ======= -->
+      <section id="header" class="header">
+
+        <div class="row gy-4">
+          
+          <!-- End Service Item -->
+    </section>
+    <!-- End Featured Services Section -->
+
+
+
+
 <center><img src="assets/img/so.jpeg" alt="" style="width:900px;height:1200px;"><center>
 <a href="#" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
 
