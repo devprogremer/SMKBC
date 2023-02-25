@@ -101,18 +101,6 @@
 
     </div>
   </header><!-- End Header -->
-<<<<<<< HEAD
-
-      <!-- ======= Featured Services Section ======= --
-=======
-  
-      <!-- ======= Featured Services Section ======= 
->>>>>>> 060ff87d382c0cd56767c8d093cbe0e6f015b153
-      <section id="featured-services" class="featured-services">
-      <div class="container">...
-    </section>
-    <!-- End Featured Services Section -->
-
     
   <main id="main">
 
@@ -397,86 +385,69 @@
       <div class="container" data-aos="fade-up">
           </div>
         <div class="row gy-4">
-          <div class="col-lg-3 col-md-3" data-aos="fade-up" data-aos-delay="100">
+          <div class="col-lg-6 col-md-5" data-aos="fade-up" data-aos-delay="100">
             <div class="">
               <div class="card-img">
-                <img src="assets/img/toga-service.png" alt="" class="img-fluid">
+                <img src="assets/img/04.jpeg" alt="" class="img-fluid">
               </div>
-              <center><h3><a href="#" class="stretched-link">Program Beasiswa</a></h3><center>
-              <center><p>Program Beasiswa Ini Untuk Siswa Yang Berprestasi dan anak yatim/piatu</p><center>
+           
             </div>
           </div><!-- End Card Item -->
 
-          <div class="col-lg-3 col-md-3" data-aos="fade-up" data-aos-delay="200">
+          <div class="col-lg-6 col-md-5" data-aos="fade-up" data-aos-delay="200">
             <div class="">
               <div class="card-img">
-                <img src="assets/img/akreditasi-service.png" alt="" class="img-fluid">
+                <img src="assets/img/05.jpeg" alt="" class="img-fluid">
               </div>
-              <center><h3><a href="#" class="stretched-link">Akreditasi-B</a></h3><center>
-              <center><p>Terakreditasi-B</p><center>
+             
             </div>
           </div><!-- End Card Item -->
 
-          <div class="col-lg-3 col-md-3" data-aos="fade-up" data-aos-delay="300">
+          <div class="col-lg-4 col-md-4" data-aos="fade-up" data-aos-delay="300">
             <div class="">
               <div class="card-img">
-                <img src="assets/img/pengajar-service.jpg" alt="" class="img-fluid">
+                <img src="assets/img/07.jpeg" alt="" class="img-fluid">
               </div>
-              <center><h3><a href="#" class="stretched-link">Pengajar Kompoten</a></h3><center>
-              <center><p>Kualifikasi pengajar S1 dan S2 dari lulusan kampus ternama dan memiliki sertifikasi keahlian</p><center>
+            
             </div>
           </div><!-- End Card Item -->
 
-          <div class="col-lg-3 col-md-3" data-aos="fade-up" data-aos-delay="400">
+          <div class="col-lg-4 col-md-4" data-aos="fade-up" data-aos-delay="400">
             <div class="">
               <div class="card-img">
-                <img src="assets/img/lulusan-service.jpg" alt="" class="img-fluid">
+                <img src="assets/img/03.jpeg" alt="" class="img-fluid">
               </div>
-              <center><h3><a href="#" class="stretched-link">Alumni Berkualitas</a></h3><center>
-              <center><p>Alumni siap kerja, siap kuliah dan siap berwirausaha. Alumni tersebar di berbagai negara Seperti Jepang, Taiwan, Malaysia, dan lain-lain</p><center>
+            
               </div>
           </div><!-- End Card Item -->
 
-          <div class="col-lg-3 col-md-3" data-aos="fade-up" data-aos-delay="500">
+          <div class="col-lg-4 col-md-4" data-aos="fade-up" data-aos-delay="500">
             <div class="">
               <div class="card-img">
-                <img src="assets/img/prestasii-service.png" alt="" class="img-fluid">
+                <img src="assets/img/8.jpeg" alt="" class="img-fluid">
               </div>
-              <center><h3><a href="#" class="stretched-link">Prestasi</a></h3><center>
-              <center><p>Memiliki segudang prestasi baik tingkat lokal, regional maupun nasional.</p><center>
+             
             </div>
           </div><!-- End Card Item -->
 
-          <div class="col-lg-3 col-md-3" data-aos="fade-up" data-aos-delay="600">
+          <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-delay="600">
             <div class="">
               <div class="card-img">
-                <img src="assets/img/kurikulum-service.jpg" alt="" class="img-fluid">
+                <img src="assets/img/11.jpeg" alt="" class="img-fluid">
               </div>
-              <center><h3><a href="#" class="stretched-link">Kurikulum Merdeka</a></h3><center>
-              <center><p>Merdeka Belajar Bina Cendekia School (MBBCS) dengan 4 Pilar yaitu SDM GURU, Pendidikan Karakter Siswa, KURIKULUM dan Moderenisasi Sarana Prasarana sekolah.</p><center>
+             
             </div>
           </div><!-- End Card Item -->
 
-          <div class="col-lg-3 col-md-3" data-aos="fade-up" data-aos-delay="700">
+          <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-delay="700">
             <div class="">
               <div class="card-img">
-                <img src="assets/img/gedung-service.png" alt="" class="img-fluid">
+                <img src="assets/img/02.jpeg" alt="" class="img-fluid">
               </div>
-              <center><h3><a href="#" class="stretched-link">Fasilitas Lengkap</a></h3><center>
-              <center><p>Belajar Dengan Kualitas Yang Ada dan Mencukupi</p><center>
             </div>
           </div><!-- End Card Item -->
 
-          <div class="col-lg-3 col-md-3" data-aos="fade-up" data-aos-delay="800">
-            <div class="">
-              <div class="card-img">
-                <img src="assets/img/juara-service.png" alt="" class="img-fluid">
-              </div>
-              <center><h3><a href="#" class="stretched-link">Juara LKS SMK</a></h3><center>
-              <center><p>Sekolah Kami Menjuarai Lomba Kompetensi Siswa (LKS) Bidang Health & Social Care Tingkat Provinsi Jawa Barat 2022</p><center>
-            </div>
-          </div><!-- End Card Item -->
-
+          
     </section><!-- End Features Section -->
     <center><img src="assets/img/ok.jpeg" alt="" style="width:1300x;height:133px;"><center>
              <!-- ======= About Us Section ======= --> 

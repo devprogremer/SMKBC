@@ -53,7 +53,7 @@
       <a href="index.php" class="logo d-flex align-items-center">
         <!-- Uncomment the line below if you also wish to use an image logo -->
         <img src="assets/img/okkkkkk.png" alt="">
-        <h1 class="text-dark">SMK BINA CENDEKIA CIREBON</h1>
+        <h1 class="text-dark left">SMK BINA CENDEKIA CIREBON</h1>
       </a>
 
       <i class="mobile-nav-toggle mobile-nav-show bi bi-list"></i>
@@ -123,14 +123,15 @@
 <div class="container">
   <div class="row">
     <div class="col-lg-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center">
-      <h1 data-aos="fade-up">Sekolah Industri Berbasis Pesantren</h1>
-      <h2 data-aos="fade-up" data-aos-delay="400">Kini Mendaftar ke SMK Bina Cendekia Cirebon lebih Mudah Daftar dari rumah.</h2>
+      <h6 data-aos="fade-up">Penerimaan Peserta Didik Baru 2023/2024</h6>
+      <h1 data-aos="fade-up">Sekolah <a class="text-primary">Industri </a> Berbasis <a class="text-primary">Pesantren</a></h1>
+      <h2 data-aos="fade-up" data-aos-delay="400">Kini Mendaftar ke <a class="text-primary">SMK Bina Cendekia Cirebon</a> lebih Mudah Daftar dari rumah.</h2>
       <div data-aos="fade-up" data-aos-delay="800">
-        <a href="#about" class="btn-get-started scrollto">Daftar Sekarang</a>
+        <a href="#about" class=" shadow p-3 mb-2 btn-get-started">Daftar Sekarang</a>
       </div>
     </div>
-    <div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="fade-up" data-aos-delay="200">
-      <img src="assets/img/loggo.png" class="img-fluid" alt="">
+    <div class="col-lg-6 order-1 order-lg-2 hero-img " data-aos="fade-up" data-aos-delay="200">
+      <img src="assets/img/op.png" class="rounded float-end" style="width:650px;height:650px;" alt="">
     </div>
   </div>
 </div>
@@ -143,7 +144,7 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-header">
-          <h2>Kenapa Harus SMK Bina Cendekia CIrebon?</h2>
+          <h2>Kenapa Harus SMK Bina Cendekia Cirebon?</h2>
             
           </div>
         <div class="row gy-4">
@@ -212,7 +213,7 @@
               <div class="card-img">
                 <img src="assets/img/gedung-service.png" alt="" class="img-fluid">
               </div>
-              <center><h3><a href="#" class="stretched-link"></a></h3><center>
+              <center><h3><a href="#" class="stretched-link">Fasilitas</a></h3><center>
               <center><p>Belajar Dengan Kualitas Yang Ada dan Mencukupi</p><center>
             </div>
           </div><!-- End Card Item -->
@@ -236,6 +237,7 @@
 
       </div>
     </section><!-- End Pricing Section -->
+
     
    
   </main><!-- End #main -->

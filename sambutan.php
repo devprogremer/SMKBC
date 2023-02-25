@@ -142,11 +142,11 @@
        </div><!-- End Breadcrumbs -->  
 
     <!-- ======= About Us Section ======= -->
-    <section id="about" class="about pt-6">
+    <section id="about" class="about pt-4">
       <div class="container" data-aos="fade-up">
         <div class="row gy-4">
           <div class="col-lg-6 position-middle middle-self-start order-lg-last order-first">
-            <img src="assets/img/w.png" class="img-align" alt="">
+            <img src="assets/img/w.png" class="img-align rounded-middle float-end" alt="">
             </div>
           <div class="col-lg-6 content order-last  order-lg-first">
           <h4></h4>
