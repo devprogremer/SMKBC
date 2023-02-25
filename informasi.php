@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>SMK BINA CENDEKIA CIREBON - Contact</title>
+  <title>SMK BINA CENDEKIA CIREBON</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -29,32 +29,38 @@
   <!-- Template Main CSS File -->
   <link href="assets/css/main.css" rel="stylesheet">
 
-  <!-- =======================================================
-  * Template Name: Logis - v1.3.0
-  * Template URL: https://bootstrapmade.com/logis-bootstrap-logistics-website-template/
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
-</head>
+  <!-- Vendor CSS Files -->
+  <link href="assets1/vendor/aos/aos.css" rel="stylesheet">
+  <link href="assets1/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets1/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets1/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="assets1/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="assets1/vendor/remixicon/remixicon.css" rel="stylesheet">
+  <link href="assets1/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
 
+  <!-- Template Main CSS File -->
+  <link href="assets1/css/style.css" rel="stylesheet">
+
+</head>
 <body>
 
+
   
-  <!-- ======= Header ======= -->
-  <header id="header" class="header d-flex align-items-center fixed-top bg-primary">
+<!-- ======= Header ======= -->
+<header id="header" class="header d-flex align-items-center fixed-top bg-light">
     <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
 
       <a href="index.php" class="logo d-flex align-items-center">
         <!-- Uncomment the line below if you also wish to use an image logo -->
         <img src="assets/img/okkkkkk.png" alt="">
-        <h1>SMK BINA CENDEKIA CIREBON</h1>
+        <h1 class="text-dark">SMK BINA CENDEKIA CIREBON</h1>
       </a>
 
       <i class="mobile-nav-toggle mobile-nav-show bi bi-list"></i>
       <i class="mobile-nav-toggle mobile-nav-hide d-none bi bi-x"></i>
       <nav id="navbar" class="navbar">
          <ul>
-          <li class="bg-primary text-light"><a href="index.php" class="active" class="bi bi-">Beranda</a></li>
+          <li class=""><a href="index.php" class="">Beranda</a></li>
           <ul>
               <li class="dropdown"><a href="#"><span>Tentang Kami</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
                 <ul>
@@ -104,24 +110,42 @@
               <li><a href="informasi.php">Informasi Pendaftaran</a></li>
               </ul>
           <li><a href="contact.php">Contact</a></li>
-          <li><a class="get-a-quote bg-dark" href="cek_login.php">Login</a></li>
+          <li><a class="shadow p-3 mb-2 getstarted " href="cek_login.php">Login</a></li>
+          <li><a class="shadow p-3 mb-1 getstarted " href="">Daftar PPDB</a></li>
         </ul>
       </nav><!-- .navbar -->
 
     </div>
   </header><!-- End Header -->
-  
-  <main id="main">
 
-     <!-- ======= Services Section ======= -->
-     <section id="service" class="services pt-0">
+    <!-- ======= Hero Section ======= -->
+  <section id="hero" class="d-flex align-items-center">
+
+<div class="container">
+  <div class="row">
+    <div class="col-lg-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center">
+      <h1 data-aos="fade-up">Sekolah Industri Berbasis Pesantren</h1>
+      <h2 data-aos="fade-up" data-aos-delay="400">Kini Mendaftar ke SMK Bina Cendekia Cirebon lebih Mudah Daftar dari rumah.</h2>
+      <div data-aos="fade-up" data-aos-delay="800">
+        <a href="#about" class="btn-get-started scrollto">Daftar Sekarang</a>
+      </div>
+    </div>
+    <div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="fade-up" data-aos-delay="200">
+      <img src="assets/img/loggo.png" class="img-fluid" alt="">
+    </div>
+  </div>
+</div>
+
+</section><!-- End Hero -->
+
+ 
+    <!-- ======= Services Section ======= -->
+    <section id="service" class="services pt-0">
       <div class="container" data-aos="fade-up">
 
         <div class="section-header">
-        <center><img src="assets/img/robot.png" alt="" style="width:500px;height:360px;"><center>
           <h2>Kenapa Harus SMK Bina Cendekia CIrebon?</h2>
-            <h4>Alasan kenapa kalian semua harus bergabung dengan SMK Bina Cendekia Cirebon.</h4>
-            <center><img src="assets/img/ok.jpeg" alt="" style="width:1350x;height:140px;"><center>
+            
           </div>
         <div class="row gy-4">
           <div class="col-lg-3 col-md-3" data-aos="fade-up" data-aos-delay="100">
@@ -189,7 +213,7 @@
               <div class="card-img">
                 <img src="assets/img/gedung-service.png" alt="" class="img-fluid">
               </div>
-              <center><h3><a href="#" class="stretched-link">Fasilitas Lengkap</a></h3><center>
+              <center><h3><a href="#" class="stretched-link"></a></h3><center>
               <center><p>Belajar Dengan Kualitas Yang Ada dan Mencukupi</p><center>
             </div>
           </div><!-- End Card Item -->
@@ -213,18 +237,18 @@
 
       </div>
     </section><!-- End Pricing Section -->
+    
    
-
   </main><!-- End #main -->
 
    <!-- ======= Footer ======= -->
-   <footer id="footer" class="footer bg-primary">
+   <footer id="footer" class="footer bg-light">
 
 <div class="container">
   <div class="row gy-4">
     <div class="col-lg-5 col-md-12 footer-info">
       <a href="index.php" class="logo d-flex align-items-center">
-        <span>ALAMAT</span>
+        <h1 class="text-dark">ALAMAT</h1>
       </a>
       <p>Jl. KH Wahid HasyimDesa. Mertapada Wetan Kecanatan. Astanajapura Kabupaten. Cirebon Jawa Barat 45181
      <br> Phone: 0231 8845465<br>Email: smkbinacendekiacirebona@gmail.com
@@ -273,7 +297,7 @@
     <!-- You can delete the links only if you purchased the pro version. -->
     <!-- Licensing information: https://bootstrapmade.com/license/ -->
     <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/logis-bootstrap-logistics-website-template/ -->
-    Designed by <a href="https://bootstrapmade.com/"> Devprogremer</a>
+    Designed by <a href="https://bootstrapmade.com/" class="text-primary"> Devprogremer</a>
   </div>
 </div>
 
