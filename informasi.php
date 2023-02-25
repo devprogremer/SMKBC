@@ -111,7 +111,7 @@
               </ul>
           <li><a href="contact.php">Contact</a></li>
           <li><a class="shadow p-3 mb-2 getstarted " href="cek_login.php">Login</a></li>
-          <li><a class="shadow p-3 mb-1 getstarted " href="">Daftar PPDB</a></li>
+          <li><a class="shadow p-3 mb-2 getstarted " href="">Daftar PPDB</a></li>
         </ul>
       </nav><!-- .navbar -->
 
