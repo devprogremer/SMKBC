@@ -109,65 +109,16 @@
     </div>
   </header><!-- End Header -->
 
-<<<<<<< HEAD
-  <!-- ======= Hero Section ======= -->
-  <section id="hero" class="hero d-flex align-items-center">
-    <div class="container">
-      <div class="row gy-4 d-flex justify-content-between">
-        <div class="col-lg-6 order-2 order-lg-1 d-flex flex-column justify-content-center">
-          <as data-aos-delay="fade-up">Gabung Bersama Kami </a>
-          <h1 data-aos="fade-up">Di SMK Bina Cendekia Cirebon</h1>
-          <h3 data-aos="fade-up" data-aos-delay="100">Sekolah Industri Berbasis Pesantren</h3>
 
-          <div class="row gy-4" data-aos="fade-up" data-aos-delay="400">
 
-            <div class="col-lg-3 col-6">
-              <div class="stats-item text-center w-100 h-100">
-                <span data-purecounter-start="0" data-purecounter-end="1300" data-purecounter-duration="1" class="purecounter"></span>
-                <p>Clients</p>
-              </div>
-            </div><!-- End Stats Item -->
-
-            <div class="col-lg-3 col-6">
-              <div class="stats-item text-center w-100 h-100">
-                <span data-purecounter-start="0" data-purecounter-end="56" data-purecounter-duration="1" class="purecounter"></span>
-                <p>Pengunjung</p>
-              </div>
-            </div><!-- End Stats Item -->
-
-            <div class="col-lg-3 col-6">
-              <div class="stats-item text-center w-100 h-100">
-                <span data-purecounter-start="60" data-purecounter-end="0" data-purecounter-duration="9000" class="purecounter"></span>
-                <p>Supprot</p>
-              </div>
-            </div><!-- End Stats Item -->
-
-            <div class="col-lg-3 col-6">
-              <div class="stats-item text-center w-100 h-100">
-                <span data-purecounter-start="59" data-purecounter-end="0" data-purecounter-duration="60" class="purecounter"></span>
-                <p>Total</p>
-              </div>
-            </div><!-- End Stats Item -->
-
-          </div>
-        </div>
-
-        <div class="col-lg-6 order-5 order-lg-5 hero-img" data-aos="zoom-out">
-          <img src="assets/img/Fotto.png" class="img-fluid mb-3 mb-lg-0" alt="">
-        </div>
-
-      </div>
-    </div>
-  </section><!-- End Hero Section -->
+           
 
   <main id="main">
 
     <!-- ======= Featured Services Section ======= -->
     <section id="featured-services" class="featured-services">
-=======
       <!-- ======= Featured Services Section ======= 
       <section id="featured-services" class="featured-services">
->>>>>>> fe3f0bae16dc3278aca934ae1cb5524b699cc75c
       <div class="container">
 
         <div class="row gy-4">
