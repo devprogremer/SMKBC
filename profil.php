@@ -129,39 +129,49 @@
           </div>
         </div>
       </div>
-      <nav>
-        <div class="container">
-          <ol>
-            <li><a href="index.php">Beranda</a></li>
-            <li><a>Profil Sekolah</a></li>
-          </ol>
-        </div>
-      </nav>
+
     </div><!-- End Breadcrumbs --> 
-  
-    <!-- ======= About Us Section ======= -->
-    <section id="about" class="about pt-4">
+
+     <!-- ======= Horizontal Pricing Section ======= -->
+     <section id="horizontal-pricing" class="horizontal-pricing pt-0">
       <div class="container" data-aos="fade-up">
 
-        <div class="row gy-4 align-items-center features-item" data-aos="fade-up" data-aos-delay="200">
-          <div class="col-lg-6 position-relative align-self-start order-lg-last order-first">
-            <img src="assets/img/profil.jpeg" class="img-fluid" alt="">
-            <a href="https://youtu.be/WeW9ZXy3YL4" class="glightbox play-btn"></a>
-          </div>
-          <div class="col-lg-6 content order-last  order-lg-first">
-          <h4>Profil</h4>
-            <h3>SMK BINA CENDEKIA CIREBON</h3>
-            <p>
-            Sekolah Menengah Kejuruan (SMK) Bina Cendekia adalah sekolah kejuruan pada jenjang pendidikan menengah yang berada dalam jurisdiksi Kementerian Pendidikan dan Kebudayaan (Kemdikbud). Satuan pendidikan ini dapat menjadi alternatif bagi lulusan SMP dan MTs, terutama bagi mereka yang memilih program kejuruan, dalam mengikuti pendidikan menengah, sebagai persiapan untuk melanjutkan pendidikan ke perguruan tinggi atau untuk memasuki kehidupan di masyarakat melalui bekerja atau berwirausaha. Kurikulum yang dilaksanakan di SMK Bina Cendekia adalah kurikulum SMK yang dikeluarkan oleh Kemdikbud. Pelaksanaan PAI bersifat komplementer dengan program pesantren, terutama terkait kemampuan membaca Al Qur’an, sehingga diharapkan lulusannya mampu membaca Al Qur’an secara fasih dan lancar, serta memahami aturan-aturan Islam terkait ibadah dan mu’amalah.
-            </p>
-            <ul>
-    
-    </section><!-- End About Us Section -->
+        <div class="section-header mt-4">
+          <span>PROFIL SMK BINA CENDEKIA CIREBON</span>
+          <h2>Profil SMK BIna Cendekia Cirebon</h2>
 
         </div>
+        <center><img src="assets/img/ok.jpeg" alt="" style="width:1500x;height:133px;"><center>
+        <div class="row gy-4 pricing-item mt-0" data-aos="fade-up" data-aos-delay="300">
+          <div class="col-lg-6 d-flex align-items-center justify-content-center">
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/zlmHgEsRTZY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+          </div>
+          <div class="col-lg-6 d-flex align-items-center justify-content-center">
+            <ul>
+            <h5 class="fst-italic">
+            Sekolah Menengah Kejuruan (SMK) Bina Cendekia adalah sekolah kejuruan pada jenjang pendidikan menengah yang berada dalam jurisdiksi Kementerian Pendidikan dan Kebudayaan (Kemdikbud). Satuan pendidikan ini dapat menjadi alternatif bagi lulusan SMP dan MTs, terutama bagi mereka yang memilih program kejuruan, dalam mengikuti pendidikan menengah, sebagai persiapan untuk melanjutkan pendidikan ke perguruan tinggi atau untuk memasuki kehidupan di masyarakat melalui bekerja atau berwirausaha. Kurikulum yang dilaksanakan di SMK Bina Cendekia adalah kurikulum SMK yang dikeluarkan oleh Kemdikbud. Pelaksanaan PAI bersifat komplementer dengan program pesantren, terutama terkait kemampuan membaca Al Qur’an, sehingga diharapkan lulusannya mampu membaca Al Qur’an secara fasih dan lancar, serta memahami aturan-aturan Islam terkait ibadah dan mu’amalah.
+            </h5> 
+            </ul>
+          </div>
+          
+        </div><!-- End Pricing Item -->
 
+        <div class="row gy-4 pricing-item mt-0" data-aos="fade-up" data-aos-delay="300">
+          <div class="col-lg-6 d-flex align-items-center justify-content-center">
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/zlmHgEsRTZY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+          </div>
+          <div class="col-lg-6 d-flex align-items-center justify-content-center">
+            <ul>
+            <h5 class="fst-italic">
+            Sekolah Menengah Kejuruan (SMK) Bina Cendekia adalah sekolah kejuruan pada jenjang pendidikan menengah yang berada dalam jurisdiksi Kementerian Pendidikan dan Kebudayaan (Kemdikbud). Satuan pendidikan ini dapat menjadi alternatif bagi lulusan SMP dan MTs, terutama bagi mereka yang memilih program kejuruan, dalam mengikuti pendidikan menengah, sebagai persiapan untuk melanjutkan pendidikan ke perguruan tinggi atau untuk memasuki kehidupan di masyarakat melalui bekerja atau berwirausaha. Kurikulum yang dilaksanakan di SMK Bina Cendekia adalah kurikulum SMK yang dikeluarkan oleh Kemdikbud. Pelaksanaan PAI bersifat komplementer dengan program pesantren, terutama terkait kemampuan membaca Al Qur’an, sehingga diharapkan lulusannya mampu membaca Al Qur’an secara fasih dan lancar, serta memahami aturan-aturan Islam terkait ibadah dan mu’amalah.
+            </h5> 
+            </ul>
+          </div>
+          
+        </div><!-- End Pricing Item -->
       </div>
-    </section><!-- End Services Section -->
+    </section><!-- End Horizontal Pricing Section -->
+
 
     <!-- ======= Features Section ======= -->
     <section id="features" class="features">
