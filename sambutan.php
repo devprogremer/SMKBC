@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>SMK BINA CENDEKIA CIREBON</title>
+  <title>Sambutan Kepsek - SMK BCC</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -29,12 +29,6 @@
   <!-- Template Main CSS File -->
   <link href="assets/css/main.css" rel="stylesheet">
 
-  <!-- =======================================================
-  * Template Name: Logis - v1.3.0
-  * Template URL: https://bootstrapmade.com/logis-bootstrap-logistics-website-template/
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
 </head>
 <body>
 
@@ -115,9 +109,8 @@
     </section>
     <!-- End Featured Services Section -->
 
-
- <!-- ======= Breadcrumbs ======= -->
- <div class="breadcrumbs">
+<!-- ======= Breadcrumbs ======= -->
+<div class="breadcrumbs">
       <div class="header">
         <div class="container position-relative">
           <div class="row d-flex justify-content-center">
@@ -127,16 +120,25 @@
           </div>
         </div>
       </div>
-      <nav>
-        <div class="container">
-          <ol>
-            <li><a href="index.php">Beranda</a></li>
-            <li><a>Sambutan Kepala Sekolah</a></li>
-          </ol>
+
+    </div><!-- End Breadcrumbs --> 
+
+
+<!-- ======= Horizontal Pricing Section ======= -->
+     <section id="feature" class="feature pt-0">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-header mt-4">
+          <span>sambutan kepala sekolah</span>
+          <h2>Sambutan kepala sekolah</h2>
         </div>
+          <div class="row gy-4 pricing-item mt-0" data-aos="fade-up" data-aos-delay="300">
+          <div class="col-lg-6 d-flex align-items-center justify-content-center">
+          </div>
+        </div><!-- End Pricing Item -->
       </div>
-      </nav>
-       </div><!-- End Breadcrumbs -->  
+    </section><!-- End Horizontal Pricing Section -->
+
 
     <!-- ======= About Us Section ======= -->
     <section id="about" class="about pt-4">
@@ -144,7 +146,8 @@
         <div class="row gy-4">
           <div class="col-lg-6 position-middle middle-self-start order-lg-last order-first">
             <img src="assets/img/w.png" class="img-align rounded-middle float-end" alt="">
-            </div>
+            <h3>Ade Rahmat Saputra M,Pd.
+          </div>
           <div class="col-lg-6 content order-last  order-lg-first">
           <h4></h4>
             <h3>║ Sambutan Kepala Sekolah</h3>

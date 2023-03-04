@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>SMK BINA CENDEKIA CIREBON</title>
+  <title>Info PPDB - SMK BCC</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -249,7 +249,7 @@
       </div>
     </div>
     <div class="col-lg-6 order-1 order-lg-2 hero-img " data-aos="fade-up" data-aos-delay="200">
-      <img src="assets/img/lp.png" class="rounded float-end" style="" alt="">
+      <img src="assets/img/lp.png" class="rounded float-end" alt="">
     </div>
   </div>
 </div>

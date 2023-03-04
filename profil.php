@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>SMK BINA CENDEKIA CIREBON</title>
+  <title>Profil Sekolah - SMK BCC</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -29,12 +29,6 @@
   <!-- Template Main CSS File -->
   <link href="assets/css/main.css" rel="stylesheet">
 
-  <!-- =======================================================
-  * Template Name: Logis - v1.3.0
-  * Template URL: https://bootstrapmade.com/logis-bootstrap-logistics-website-template/
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
 </head>
 <body>
 
@@ -132,7 +126,7 @@
     </div><!-- End Breadcrumbs --> 
 
      <!-- ======= Horizontal Pricing Section ======= -->
-     <section id="horizontal-pricing" class="horizontal-pricing pt-0">
+     <section id="feature" class="feature pt-0">
       <div class="container" data-aos="fade-up">
 
         <div class="section-header mt-4">
@@ -147,9 +141,9 @@
           </div>
           <div class="col-lg-6 d-flex align-items-center justify-content-center">
             <ul>
-            <h5 class="fst-italic">
+            <h6 class="fst-italic">
             Sekolah Menengah Kejuruan (SMK) Bina Cendekia adalah sekolah kejuruan pada jenjang pendidikan menengah yang berada dalam jurisdiksi Kementerian Pendidikan dan Kebudayaan (Kemdikbud). Satuan pendidikan ini dapat menjadi alternatif bagi lulusan SMP dan MTs, terutama bagi mereka yang memilih program kejuruan, dalam mengikuti pendidikan menengah, sebagai persiapan untuk melanjutkan pendidikan ke perguruan tinggi atau untuk memasuki kehidupan di masyarakat melalui bekerja atau berwirausaha. Kurikulum yang dilaksanakan di SMK Bina Cendekia adalah kurikulum SMK yang dikeluarkan oleh Kemdikbud. Pelaksanaan PAI bersifat komplementer dengan program pesantren, terutama terkait kemampuan membaca Al Qur’an, sehingga diharapkan lulusannya mampu membaca Al Qur’an secara fasih dan lancar, serta memahami aturan-aturan Islam terkait ibadah dan mu’amalah.
-            </h5> 
+            </h6> 
             </ul>
           </div>
           
