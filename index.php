@@ -33,7 +33,7 @@
 <body>
 
   <!-- ======= Header ======= -->
-  <header id="header" class="p-3 mb-2 bg-primary text-white fixed-top">
+  <header id="header" class="p-3 mb-2 bg-primary text-white fixed-padding">
     <div class="container-fluid container-xl d-flex align-items-center justify-content-between ">
 
     <a href="" class="navbar-brand">
@@ -127,7 +127,7 @@
             </div>
           </div>
           <div class="carousel-item">
-            <img class="w-100" src="assets/img/pdb-3.png" alt="Image" />
+            <img class="w-100" src="assets/img/ppdb-6.png" alt="Image" />
             <div class="carousel-caption">
               <div class="container">
                 <div class="row justify-content-center">
@@ -141,7 +141,7 @@
             </div>
           </div>
           <div class="carousel-item">
-            <img class="w-100" src="assets/img/pdb-1.png" alt="Image" />
+            <img class="w-100" src="assets/img/ppdb-3.png" alt="Image" />
             <div class="carousel-caption">
               <div class="container">
                 <div class="row justify-content-center">
@@ -155,7 +155,7 @@
             </div>
           </div>
           <div class="carousel-item">
-            <img class="w-100" src="assets/img/ppb-6.png" alt="Image" />
+            <img class="w-100" src="assets/img/ppdb-7.png" alt="Image" />
             <div class="carousel-caption">
               <div class="container">
                 <div class="row justify-content-center">
@@ -169,7 +169,7 @@
             </div>
           </div>
           <div class="carousel-item">
-            <img class="w-100" src="assets/img/pdb-9.png" alt="Image" />
+            <img class="w-100" src="assets/img/Bcc.png" alt="Image" />
             <div class="carousel-caption">
               <div class="container">
                 <div class="row justify-content-center">
