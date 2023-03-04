@@ -123,14 +123,8 @@
           </div>
         </div>
       </div>
-      <nav>
-        <div class="container">
-          <ol>
-            <li><a href="index.php">Beranda</a></li>
-            <li><a href="">Profil Sekolah</a></li>
-          </ol>
-        </div>
-      </nav>
+    </div>
+    </div>
     </div><!-- End Breadcrumbs --> 
 
   <main id="main">
@@ -138,12 +132,12 @@
 </div>
 
     <!-- ======= Services Section ======= -->
-    <section id="service" class="services pt-0">
+    <section id="service" class="services pt-6">
       <div class="container" data-aos="fade-up">
 
         <div class="section-header">
-          <span></span>
-          <h2>HUBUNGAN INDUSTRI SMK BINA CENDEKIA CIREBON</h2>
+          <span>SMK BINA CENDEKIA CIREBON</span>
+          <h2>HUBUNGAN INDUSTRI</h2>
 
         </div>
 

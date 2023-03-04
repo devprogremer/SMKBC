@@ -126,15 +126,13 @@
     </div><!-- End Breadcrumbs --> 
 
      <!-- ======= Horizontal Pricing Section ======= -->
-     <section id="feature" class="feature pt-0">
+     <section id="feature" class="feature pt-4">
       <div class="container" data-aos="fade-up">
 
         <div class="section-header mt-4">
           <span>PROFIL SMK BINA CENDEKIA CIREBON</span>
           <h2>Profil SMK BIna Cendekia Cirebon</h2>
-
         </div>
-        <center><img src="assets/img/ok.jpeg" alt="" style="width:1500x;height:133px;"><center>
         <div class="row gy-4 pricing-item mt-0" data-aos="fade-up" data-aos-delay="300">
           <div class="col-lg-6 d-flex align-items-center justify-content-center">
           <iframe width="560" height="315" src="https://www.youtube.com/embed/zlmHgEsRTZY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -151,13 +149,10 @@
       </div>
     </section><!-- End Horizontal Pricing Section -->
 
-
     <!-- ======= Features Section ======= -->
     <section id="features" class="features">
       <div class="container">
-
         <div class="row gy-4 align-items-center features-item" data-aos="fade-up">
-
           <div class="col-md-5">
             <img src="assets/img/profil1.jpeg" class="img-fluid" alt="">
           </div>
@@ -174,27 +169,7 @@
             </ul>
           </div>
         </div><!-- Features Item -->
-
-        <div class="row gy-4 align-items-center features-item" data-aos="fade-up">
-          <div class="col-md-5 order-1 order-md-2">
-            <img src="assets/img/profil2.jpeg" class="img-fluid" alt="">
-          </div>
-          <div class="col-md-7 order-2 order-md-1">
-            <h3></h3>
-            <p class="fst-italic">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
-            </p>
-            <p>
-              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-              culpa qui officia deserunt mollit anim id est laborum
-            </p>
-          </div>
-        </div><!-- Features Item -->
-          </div>
-  
-
+      </div>
       </div>
     </section><!-- End Features Section -->
 

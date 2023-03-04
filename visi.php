@@ -129,12 +129,12 @@
 
 
 <!-- ======= Horizontal Pricing Section ======= -->
-     <section id="feature" class="feature pt-0">
+     <section id="feature" class="feature pt-4">
       <div class="container" data-aos="fade-up">
 
         <div class="section-header mt-4">
-          <span>Visi dan Misi SMK BINA CENDEKIA CIREBON</span>
-          <h2>Visi dan Misi SMK BIna Cendekia Cirebon</h2>
+          <span>SMK BINA CENDEKIA CIREBON</span>
+          <h2>Visi dan Misi</h2>
         </div>
           <div class="row gy-4 pricing-item mt-0" data-aos="fade-up" data-aos-delay="300">
           <div class="col-lg-6 d-flex align-items-center justify-content-center">
@@ -142,7 +142,6 @@
         </div><!-- End Pricing Item -->
       </div>
     </section><!-- End Horizontal Pricing Section -->
-
 
   <!-- ======= About Us Section ======= -->
   <section id="about" class="about pt-4">
@@ -162,6 +161,7 @@
             <ul>
     
     </section><!-- End About Us Section -->
+    
     <!-- ======= Features Section ======= -->
     <section id="features" class="features">
       <div class="container">
