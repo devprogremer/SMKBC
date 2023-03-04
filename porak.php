@@ -134,98 +134,72 @@
     </div><!-- End Breadcrumbs --> 
 
 
-      <!-- ======= Team Section ======= -->
-      <section id="team" class="team">
+     <!-- ======= Services Section ======= -->
+    <section id="service" class="services pt-0">
       <div class="container" data-aos="fade-up">
+          </div>
+        <div class="row gy-4">
+          <div class="col-lg-6 col-md-5" data-aos="fade-up" data-aos-delay="100">
+            <div class="">
+              <div class="card-img">
+                <img src="assets/img/kegiatan1.jpeg" alt="" class="img-fluid">
+              </div>
+           
+            </div>
+          </div><!-- End Card Item -->
 
-        <div class="section-title">
-          <h2>Kegiatan Porak </h2>
-          <p>SMK Bina Cendekia Cirebon </p>
-        </div>
-        <div class="row">
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
-            <div class="member" data-aos="fade-up" data-aos-delay="100">
-              <div class="member-img">
-                <img src="assets/img/kegiatan1.jpeg" class="img-fluid" alt="">
+          <div class="col-lg-6 col-md-5" data-aos="fade-up" data-aos-delay="200">
+            <div class="">
+              <div class="card-img">
+                <img src="assets/img/kegiatan3.jpeg" alt="" class="img-fluid">
               </div>
-              <div class="member-info">
-                <p>Lomba Futsal</p>
-              </div>
+             
             </div>
-          </div>
+          </div><!-- End Card Item -->
 
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
-            <div class="member" data-aos="fade-up" data-aos-delay="200">
-              <div class="member-img">
-                <img src="assets/img/kegiatan2.jpeg" class="img-fluid" alt="">
+          <div class="col-lg-4 col-md-4" data-aos="fade-up" data-aos-delay="300">
+            <div class="">
+              <div class="card-img">
+                <img src="assets/img/kegiatan2.jpeg" alt="" class="img-fluid">
               </div>
-              <div class="member-info">
-                <p>Siswa Siswi SMK Bina Cendekia Cirebon</p>
+            
+            </div>
+          </div><!-- End Card Item -->
+
+          <div class="col-lg-4 col-md-4" data-aos="fade-up" data-aos-delay="400">
+            <div class="">
+              <div class="card-img">
+                <img src="assets/img/" alt="" class="img-fluid">
+              </div>
+            
+              </div>
+          </div><!-- End Card Item -->
+
+          <div class="col-lg-4 col-md-4" data-aos="fade-up" data-aos-delay="500">
+            <div class="">
+              <div class="card-img">
+                <img src="assets/img/" alt="" class="img-fluid">
+              </div>
+             
+            </div>
+          </div><!-- End Card Item -->
+
+          <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-delay="600">
+            <div class="">
+              <div class="card-img">
+                <img src="assets/img/" alt="" class="img-fluid">
+              </div>
+             
+            </div>
+          </div><!-- End Card Item -->
+
+          <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-delay="700">
+            <div class="">
+              <div class="card-img">
+                <img src="assets/img/" alt="" class="img-fluid">
               </div>
             </div>
-          </div>
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
-            <div class="member" data-aos="fade-up" data-aos-delay="300">
-              <div class="member-img">
-                <img src="assets/img/kegiatan3.jpeg" class="img-fluid" alt="">
-              </div>
-              <div class="member-info">
-                <p>Lomba Futsal SMK Bina Cendekia Cirebon</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-            <div class="member" data-aos="fade-up" data-aos-delay="400">
-              <div class="member-img">
-                <img src="assets/img/kegiatan4.jpeg" class="img-fluid" alt="">
-              </div>
-              <div class="member-info">
-                <span>OPERATOR MADRASAH</span>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-            <div class="member" data-aos="fade-up" data-aos-delay="100">
-              <div class="member-img">
-                <img src="assets/img/kegiatan5.jpeg" class="img-fluid" alt="">
-              </div>
-              <div class="member-info">
-                <span>OPERATOR MADRASAH</span>
-              </div>
-            </div>
-          </div>
-          <div class="row">
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-            <div class="member" data-aos="fade-up" data-aos-delay="200">
-              <div class="member-img">
-                <img src="assets/img/kegiatan6.jpeg" class="img-fluid" alt="">
-              </div>
-              <div class="member-info">
-                <p>BIDANG KURIKULUM</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-            <div class="member" data-aos="fade-up" data-aos-delay="300">
-              <div class="member-img">
-                <img src="assets/img/kegiatan7.jpeg" class="img-fluid" alt="">
-              </div>
-              <div class="member-info">
-                <span>BIDANG KESISWAAN</span>
-              </div>
-            </div>
-            </div>
-           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-            <div class="member" data-aos="fade-up" data-aos-delay="400">
-              <div class="member-img">
-                <img src="assets/img/kegiatan8.jpeg" class="img-fluid" alt="">
-              </div>
-              <div class="member-info">
-                <p>BIDANG SARPAS</p>
-              </div>
-            </div>
-          </div>
-    </section><!-- End Features Section -->
+          </div><!-- End Card Item -->
 
     <!-- ======= Footer ======= -->
   <footer id="footer" class="footer bg-primary">

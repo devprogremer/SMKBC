@@ -33,8 +33,8 @@
 <body>
 
   <!-- ======= Header ======= -->
-  <header id="header" class="header d-flex align-items-center fixed-top bg-primary">
-    <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
+  <header id="header" class="p-3 mb-2 bg-primary text-white fixed-top">
+    <div class="container-fluid container-xl d-flex align-items-center justify-content-between ">
 
     <a href="" class="navbar-brand">
         <!-- Uncomment the line below if you also wish to use an image logo -->
@@ -88,7 +88,6 @@
                 <li><a href="PKL.php">PKL 2023</a></li>
                 </ul>
               </li>
-            </ul>
           </li>
               <li class="dropdown"><a href="#"><span>PPDB</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
             <ul>
@@ -105,12 +104,16 @@
   <main id="main">
 
   <!-- Carousel Start -->
+     </div>
+   </div>
+  </div>
+ </div>
   <div class="row-10">
     <div class="container-fluid px-0 mb-5">
       <div id="header-carousel" class="carousel slide" data-bs-ride="carousel">
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <img class="w-100" src="assets/img/PPb.png" alt="Image" />
+            <img class="w-100" src="assets/img/Ppdb-11.png" alt="Image" />
             <div class="carousel-caption">
               <div class="container">
                 <div class="row justify-content-center">
@@ -166,7 +169,7 @@
             </div>
           </div>
           <div class="carousel-item">
-            <img class="w-100" src="assets/img/pdb-4.png" alt="Image" />
+            <img class="w-100" src="assets/img/pdb-9.png" alt="Image" />
             <div class="carousel-caption">
               <div class="container">
                 <div class="row justify-content-center">

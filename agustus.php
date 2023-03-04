@@ -150,91 +150,67 @@
           <p>SMK Bina Cendekia Cirebon </p>
         </div>
         <div class="row gy-4">
+          <div class="col-lg-6 col-md-5" data-aos="fade-up" data-aos-delay="100">
+            <div class="">
+              <div class="card-img">
+                <img src="assets/img/ags2.jpeg" alt="" class="img-fluid">
+              </div>
+           
+            </div>
+          </div><!-- End Card Item -->
 
-<div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
-  <div class="card">
-    <div class="card-img">
-      <img src="assets/img/ags1.jpeg" alt="" class="img-fluid">
-    </div>
-    <h3><a href="service-details.html" class="stretched-link"></a></h3>
-    <p>Paduan suara SMK Bina Cendekia </p>
-  </div>
-</div><!-- End Card Item -->
+          <div class="col-lg-6 col-md-5" data-aos="fade-up" data-aos-delay="200">
+            <div class="">
+              <div class="card-img">
+                <img src="assets/img/ags3.jpeg" alt="" class="img-fluid">
+              </div>
+             
+            </div>
+          </div><!-- End Card Item -->
 
-<div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
-  <div class="card">
-    <div class="card-img">
-      <img src="assets/img/ags2.jpeg" alt="" class="img-fluid">
-    </div>
-    <h3><a href="service-details.html" class="stretched-link"></a></h3>
-    <p>Petugas Upacara Pengibaran Bendera Merah Putih</p>
-  </div>
-</div><!-- End Card Item -->
+          <div class="col-lg-4 col-md-4" data-aos="fade-up" data-aos-delay="300">
+            <div class="">
+              <div class="card-img">
+                <img src="assets/img/ags1.jpeg" alt="" class="img-fluid">
+              </div>
+            
+            </div>
+          </div><!-- End Card Item -->
 
-<div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
-  <div class="card">
-    <div class="card-img">
-      <img src="assets/img/ags3.jpeg" alt="" class="img-fluid">
-    </div>
-    <h3><a href="service-details.html" class="stretched-link"></a></h3>
-    <p>Petugas Upacara</p>
-  </div>
-</div><!-- End Card Item -->
+          <div class="col-lg-4 col-md-4" data-aos="fade-up" data-aos-delay="400">
+            <div class="">
+              <div class="card-img">
+                <img src="assets/img/ags10.jpeg" alt="" class="img-fluid">
+              </div>
+            
+              </div>
+          </div><!-- End Card Item -->
 
-<div class="col-lg-6 col-md-8" data-aos="fade-up" data-aos-delay="400">
-  <div class="card">
-    <div class="card-img">
-      <img src="assets/img/ags4.jpeg" alt="" class="img-fluid">
-    </div>
-    <h3><a href="service-details.html" class="stretched-link"></a></h3>
-<p>Petugas  Pengibaran Bendera Merah Putih </p>
-  </div>
-</div><!-- End Card Item -->
+          <div class="col-lg-4 col-md-4" data-aos="fade-up" data-aos-delay="500">
+            <div class="">
+              <div class="card-img">
+                <img src="assets/img/ags5.jpeg" alt="" class="img-fluid">
+              </div>
+             
+            </div>
+          </div><!-- End Card Item -->
 
-<div class="col-lg-6 col-md-8" data-aos="fade-up" data-aos-delay="500">
-  <div class="card">
-    <div class="card-img">
-      <img src="assets/img/ags5.jpeg" alt="" class="img-fluid">
-    </div>
-    <h3><a href="service-details.html" class="stretched-link"></a></h3>
-    <p>Siswa Siswi SMK Bina Cendekia Cirebon </p>
-  </div>
-</div><!-- End Card Item -->
+          <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-delay="600">
+            <div class="">
+              <div class="card-img">
+                <img src="assets/img/ags8.jpeg" alt="" class="img-fluid">
+              </div>
+             
+            </div>
+          </div><!-- End Card Item -->
 
-<div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="600">
-  <div class="card">
-    <div class="card-img">
-      <img src="assets/img/ags6.jpeg" alt="" class="img-fluid">
-    </div>
-    <h3><a href="service-details.html" class="stretched-link"></a></h3>
-    <p>Petugas  Pengibaran Bendera Merah Putih</p>
-  </div>
-</div><!-- End Card Item -->
-
-<div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="600">
-  <div class="card">
-    <div class="card-img">
-      <img src="assets/img/ags7.jpeg" alt="" class="img-fluid">
-    </div>
-    <h3><a href="service-details.html" class="stretched-link"></a></h3>
-    <p>Guru-Guru SMK Bina Cendekia Cirebon </p>
-  </div>
-</div><!-- End Card Item -->
-
-<div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="600">
-  <div class="card">
-    <div class="card-img">
-      <img src="assets/img/ags8.jpeg" alt="" class="img-fluid">
-    </div>
-    <h3><a href="service-details.html" class="stretched-link"></a></h3>
-    <p>Petugas  Pengibaran Bendera Merah Putih</p>
-  </div>
-</div><!-- End Card Item -->
-</div>
-
-</div>
-</section><!-- End Services Section -->
-
+          <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-delay="700">
+            <div class="">
+              <div class="card-img">
+                <img src="assets/img/ags4.jpeg" alt="" class="img-fluid">
+              </div>
+            </div>
+          </div><!-- End Card Item -->
  <!-- ======= Footer ======= -->
  <footer id="footer" class="footer bg-primary">
 
