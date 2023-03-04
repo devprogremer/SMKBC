@@ -148,108 +148,68 @@
           <h2> Kegiatan Hari Santri </h2>
           <p>SMK Bina Cendekia Cirebon </p>
         </div>
-        <div class="row">
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
-            <div class="member" data-aos="fade-up" data-aos-delay="100">
-              <div class="member-img">
-                <img src="assets/img/santri1.jpeg" class="img-fluid" alt="">
+        <div class="row gy-4">
+          <div class="col-lg-6 col-md-5" data-aos="fade-up" data-aos-delay="100">
+            <div class="">
+              <div class="card-img">
+                <img src="assets/img/santri3.jpeg" alt="" class="img-fluid">
               </div>
-              <div class="member-info">
-                <h4>23 oktober 2022</h4>
-                <span>kegiatan hari santri nasional</span>
+           
+            </div>
+          </div><!-- End Card Item -->
+
+          <div class="col-lg-6 col-md-5" data-aos="fade-up" data-aos-delay="200">
+            <div class="">
+              <div class="card-img">
+                <img src="assets/img/santri4.jpeg" alt="" class="img-fluid">
+              </div>
+             
+            </div>
+          </div><!-- End Card Item -->
+
+          <div class="col-lg-4 col-md-4" data-aos="fade-up" data-aos-delay="300">
+            <div class="">
+              <div class="card-img">
+                <img src="assets/img/santri6.jpeg" alt="" class="img-fluid">
+              </div>
+            
+            </div>
+          </div><!-- End Card Item -->
+
+          <div class="col-lg-4 col-md-4" data-aos="fade-up" data-aos-delay="400">
+            <div class="">
+              <div class="card-img">
+                <img src="assets/img/santri2.jpeg" alt="" class="img-fluid">
+              </div>
+            
+              </div>
+          </div><!-- End Card Item -->
+
+          <div class="col-lg-4 col-md-4" data-aos="fade-up" data-aos-delay="500">
+            <div class="">
+              <div class="card-img">
+                <img src="assets/img/santri8.jpeg" alt="" class="img-fluid">
+              </div>
+             
+            </div>
+          </div><!-- End Card Item -->
+
+          <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-delay="600">
+            <div class="">
+              <div class="card-img">
+                <img src="assets/img/santri1.jpeg" alt="" class="img-fluid">
+              </div>
+             
+            </div>
+          </div><!-- End Card Item -->
+
+          <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-delay="700">
+            <div class="">
+              <div class="card-img">
+                <img src="assets/img/santri7.jpeg" alt="" class="img-fluid">
               </div>
             </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
-            <div class="member" data-aos="fade-up" data-aos-delay="200">
-              <div class="member-img">
-                <img src="assets/img/santri2.jpeg" class="img-fluid" alt="">
-              </div>
-              <div class="member-info">
-                <h4>23 oktober 2022</h4>
-                <span>lomba karauke islami</span>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
-            <div class="member" data-aos="fade-up" data-aos-delay="300">
-              <div class="member-img">
-                <img src="assets/img/santri3.jpeg" class="img-fluid" alt="">
-              </div>
-              <div class="member-info">
-                <h4>23 oktober 2022</h4>
-                <span>kegiatan lomba kaligrafi</span>
-              </div>
-            </div>
-          </div>
-
-          <div class="row">
-
-          <center><div class="col-lg-5 col-md-6 d-flex align-items-stretch">
-            <div class="member" data-aos="fade-up" data-aos-delay="100">
-              <div class="member-img">
-                <img src="assets/img/santri4.jpeg" class="img-fluid" alt="">
-              </div>
-              <div class="member-info">
-                <h4>23 oktober 2022</h4>
-                <span>lomba kaligrafi di SMK Bina Cendekia Cirebon</span>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-5 col-md-6 d-flex align-items-stretch">
-            <div class="member" data-aos="fade-up" data-aos-delay="200">
-              <div class="member-img">
-                <img src="assets/img/santri5.jpeg" class="img-fluid" alt="">
-              </div>
-              <div class="member-info">
-                <h4>23 oktober 2022</h4>
-                <span>lomba tahafiz jus 30</span>
-              </div>
-            </div>
-          </div>
-
-          <div class="row">
-
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
-            <div class="member" data-aos="fade-up" data-aos-delay="200">
-              <div class="member-img">
-                <img src="assets/img/santri6.jpeg" class="img-fluid" alt="">
-                </div>
-              <div class="member-info">
-                <h4>23 oktober 2022</h4>
-                <span>lomba hafalan jus 30</span>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
-            <div class="member" data-aos="fade-up" data-aos-delay="300">
-              <div class="member-img">
-                <img src="assets/img/santri7.jpeg" class="img-fluid" alt="">
-              </div>
-              <div class="member-info">
-                <h4>23 oktober 2022</h4>
-                <span>kegiatan lomba di hari santri</span>
-              </div>
-            </div>
-            </div>
-
-           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
-            <div class="member" data-aos="fade-up" data-aos-delay="400">
-              <div class="member-img">
-                <img src="assets/img/santri8.jpeg" class="img-fluid" alt="">
-              </div>
-              <div class="member-info">
-                <h4>23 oktober 2022</h4>
-                <span>lomba kaligrafi di SMK Bina Cendekia Cirebon</span>
-              </div>
-            </div>
-          </div>
-
-    </section><!-- End Features Section -->
+          </div><!-- End Card Item -->
    <!-- ======= Footer ======= -->
    <footer id="footer" class="footer bg-primary">
 
