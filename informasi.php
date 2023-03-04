@@ -29,7 +29,7 @@
   <!-- Template Main CSS File -->
   <link href="assets/css/main.css" rel="stylesheet">
 
-  <!-- Vendor CSS Files -->
+<!-- Vendor CSS Files -->
   <link href="assets1/vendor/aos/aos.css" rel="stylesheet">
   <link href="assets1/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
   <link href="assets1/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
@@ -42,7 +42,7 @@
   <link href="assets1/css/style.css" rel="stylesheet">
 
 </head>
-<body>
+<body class data-aos-easing="ease" data-aos-duration="1000" data-aos-delay="0">
 
 
   
@@ -50,10 +50,10 @@
 <header id="header" class="header d-flex align-items-center fixed-top bg-light">
     <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
 
-      <a href="index.php" class="logo d-flex align-items-center">
+      <a href="" class="navbar-brand">
         <!-- Uncomment the line below if you also wish to use an image logo -->
-        <img src="assets/img/okkkkkk.png" alt="">
-        <h1 class="text-dark left">SMK BINA CENDEKIA CIREBON</h1>
+        <img src="assets/img/ko.png" style="width:200px;" alt="Logo Smk Bina Cendekia">
+        <h1 class="text-dark left"></h1>
       </a>
 
       <i class="mobile-nav-toggle mobile-nav-show bi bi-list"></i>
@@ -110,7 +110,7 @@
               </ul>
           <li><a href="contact.php">Contact</a></li>
           <li><a class="shadow p-3 mb-2 getstarted " href="cek_login.php">Login</a></li>
-          <li><a class="shadow p-3 mb-2 getstarted " href="">Daftar PPDB</a></li>
+          <li><a class="shadow p-3 mb-2 getstarted " href="ppdb.php">Daftar PPDB</a></li>
         </ul>
       </nav><!-- .navbar -->
 
@@ -127,7 +127,7 @@
       <h1 data-aos="fade-up">Sekolah <a class="text-primary">Industri </a> Berbasis <a class="text-primary">Pesantren</a></h1>
       <h2 data-aos="fade-up" data-aos-delay="400">Kini Mendaftar ke <a class="text-primary">SMK Bina Cendekia Cirebon</a> lebih Mudah Daftar dari rumah.</h2>
       <div data-aos="fade-up" data-aos-delay="800">
-        <a href="#about" class=" shadow p-3 mb-2 btn-get-started">Daftar Sekarang</a>
+        <a href="ppdb.php" class=" shadow p-3 mb-2 btn-get-started">Daftar Sekarang</a>
       </div>
     </div>
     <div class="col-lg-6 order-1 order-lg-2 hero-img " data-aos="fade-up" data-aos-delay="200">
@@ -153,8 +153,8 @@
               <div class="card-img">
                 <img src="assets/img/toga-service.png" alt="" class="img-fluid">
               </div>
-              <center><h3><a href="#" class="stretched-link">Program Beasiswa</a></h3><center>
-              <center><p>Program Beasiswa Ini Untuk Siswa Yang Berprestasi dan anak yatim/piatu</p><center>
+              <center><h3><a class="text-primary">Program Beasiswa</a></h3><center>
+              <center><p class="fst-italic">Program Beasiswa Ini Untuk Siswa Yang Berprestasi dan anak yatim/piatu</p><center>
             </div>
           </div><!-- End Card Item -->
 
@@ -163,8 +163,8 @@
               <div class="card-img">
                 <img src="assets/img/akreditasi-service.png" alt="" class="img-fluid">
               </div>
-              <center><h3><a href="#" class="stretched-link">Akreditasi-B</a></h3><center>
-              <center><p>Terakreditasi-B</p><center>
+              <center><h3><a class="text-primary">Akreditasi-B</a></h3><center>
+              <center><p class="fst-italic">Terakreditasi-B</p><center>
             </div>
           </div><!-- End Card Item -->
 
@@ -173,8 +173,8 @@
               <div class="card-img">
                 <img src="assets/img/pengajar-service.jpg" alt="" class="img-fluid">
               </div>
-              <center><h3><a href="#" class="stretched-link">Pengajar Kompoten</a></h3><center>
-              <center><p>Kualifikasi pengajar S1 dan S2 dari lulusan kampus ternama dan memiliki sertifikasi keahlian</p><center>
+              <center><h3><a class="text-primary">Pengajar Kompoten</a></h3><center>
+              <center><p class="fst-italic">Kualifikasi pengajar S1 dan S2 dari lulusan kampus ternama dan memiliki sertifikasi keahlian</p><center>
             </div>
           </div><!-- End Card Item -->
 
@@ -183,8 +183,8 @@
               <div class="card-img">
                 <img src="assets/img/lulusan-service.jpg" alt="" class="img-fluid">
               </div>
-              <center><h3><a href="#" class="stretched-link">Alumni Berkualitas</a></h3><center>
-              <center><p>Alumni siap kerja, siap kuliah dan siap berwirausaha. Alumni tersebar di berbagai negara Seperti Jepang, Taiwan, Malaysia, dan lain-lain</p><center>
+              <center><h3><a class="text-primary">Alumni Berkualitas</a></h3><center>
+              <center><p class="fst-italic">Alumni siap kerja, siap kuliah dan siap berwirausaha. Alumni tersebar di berbagai negara Seperti Jepang, Taiwan, Malaysia, dan lain-lain</p><center>
               </div>
           </div><!-- End Card Item -->
 
@@ -193,8 +193,8 @@
               <div class="card-img">
                 <img src="assets/img/prestasii-service.png" alt="" class="img-fluid">
               </div>
-              <center><h3><a href="#" class="stretched-link">Prestasi</a></h3><center>
-              <center><p>Memiliki segudang prestasi baik tingkat lokal, regional maupun nasional.</p><center>
+              <center><h3><a class="text-primary">Prestasi</a></h3><center>
+              <center><p class="fst-italic">Memiliki segudang prestasi baik tingkat lokal, regional maupun nasional.</p><center>
             </div>
           </div><!-- End Card Item -->
 
@@ -203,8 +203,8 @@
               <div class="card-img">
                 <img src="assets/img/kurikulum-service.jpg" alt="" class="img-fluid">
               </div>
-              <center><h3><a href="#" class="stretched-link">Kurikulum Merdeka</a></h3><center>
-              <center><p>Merdeka Belajar Bina Cendekia School (MBBCS) dengan 4 Pilar yaitu SDM GURU, Pendidikan Karakter Siswa, KURIKULUM dan Moderenisasi Sarana Prasarana sekolah.</p><center>
+              <center><h3><a class="text-primary">Kurikulum Merdeka</a></h3><center>
+              <center><p class="fst-italic">Merdeka Belajar Bina Cendekia School (MBBCS) dengan 4 Pilar yaitu SDM GURU, Pendidikan Karakter Siswa, KURIKULUM dan Moderenisasi Sarana Prasarana sekolah.</p><center>
             </div>
           </div><!-- End Card Item -->
 
@@ -213,8 +213,8 @@
               <div class="card-img">
                 <img src="assets/img/gedung-service.png" alt="" class="img-fluid">
               </div>
-              <center><h3><a href="#" class="stretched-link">Fasilitas</a></h3><center>
-              <center><p>Belajar Dengan Kualitas Yang Ada dan Mencukupi</p><center>
+              <center><h3><a class="text-primary">Fasilitas</a></h3><center>
+              <center><p class="fst-italic">Belajar Dengan Kualitas Yang Ada dan Mencukupi</p><center>
             </div>
           </div><!-- End Card Item -->
 
@@ -223,8 +223,8 @@
               <div class="card-img">
                 <img src="assets/img/juara-service.png" alt="" class="img-fluid">
               </div>
-              <center><h3><a href="#" class="stretched-link">Juara LKS SMK</a></h3><center>
-              <center><p>Sekolah Kami Menjuarai Lomba Kompetensi Siswa (LKS) Bidang Health & Social Care Tingkat Provinsi Jawa Barat 2022</p><center>
+              <center><h3><a class="text-primary">Juara LKS SMK</a></h3><center>
+              <center><p class="fst-italic">Sekolah Kami Menjuarai Lomba Kompetensi Siswa (LKS) Bidang Health & Social Care Tingkat Provinsi Jawa Barat 2022</p><center>
             </div>
           </div><!-- End Card Item -->
 
@@ -238,6 +238,133 @@
       </div>
     </section><!-- End Pricing Section -->
 
+     <!-- ======= Hero Section ======= -->
+  <section id="hero" class="d-flex align-items-center">
+
+<div class="container">
+  <div class="row">
+    <div class="col-lg-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center">
+      <h1 data-aos="fade-up">Program Keahlian Yang Bisa Kalian Pilih<a class="text-primary"> Sesuai Passion.</a></h1>
+      <div data-aos="fade-up" data-aos-delay="800">
+      </div>
+    </div>
+    <div class="col-lg-6 order-1 order-lg-2 hero-img " data-aos="fade-up" data-aos-delay="200">
+      <img src="assets/img/lp.png" class="rounded float-end" style="" alt="">
+    </div>
+  </div>
+</div>
+
+</section><!-- End Hero -->
+
+     <!-- ======= Hero Section ======= -->
+     <section id="hero" class="d-flex align-items-center">
+
+<div class="container">
+  <div class="row">
+    <div class="col-lg-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center">
+      <h1 data-aos="fade-up">Rekayasa Perangkat <br> Lunak</h1>
+      <h5 data-aos="fade-up" data-aos-delay="400">Membekali peserta didik dengan ketrampilan,pengetahuan <br> sikap agar kompeten menginstalasi software aplikasi, <br>mengoperasikan software,mrawat software aplikasi dan  <br> di bidang pembuatan softaware aplikasi.</h5>
+      <div data-aos="fade-up" data-aos-delay="800">
+        <!-- ======= Featured Services Section ======= -->
+ <section id="header" class="header">
+
+<div class="row pt-4">
+  
+  <!-- End Service Item -->
+</section>
+<!-- End Featured Services Section -->
+        <a href="ppdb.php" class=" shadow p-3 mb-2 btn-get-started">Detail Video</a>
+      </div>
+      <div data-aos="fade-up" data-aos-delay="800">
+      </div>
+    </div>
+    <div class="col-lg-6 order-1 order-lg-2 hero-img " data-aos="fade-up" data-aos-delay="200">
+      <img src="assets/img/sb.png" class="rounded float-end" style="height:700px;" alt="">
+    </div>
+  </div>
+</div>
+
+</section><!-- End Hero -->
+
+     <!-- ======= Hero Section ======= -->
+     <section id="hero" class="d-flex align-items-center">
+
+<div class="container">
+  <div class="row">
+    <div class="col-lg-6 pt-5 pt-lg-0 order-2 order-lg-1" data-aos="fade-up" data-aos-delay="200">
+    <img src="assets/img/bbb.png" class="rounded float-end" style="height:800px;" alt="">
+      <div data-aos="fade-up" data-aos-delay="800">
+      </div>
+    </div>
+    <div class="col-lg-6 order-1 order-lg-2 hero-img d-flex flex-column justify-content-center" data-aos="fade-up" data-aos-delay="200">
+    <h1 data-aos="fade-up">Tata Busana</h1>
+    <h5 data-aos="fade-up" data-aos-delay="400" class="container">Membekali peserta didik dengan ketrampilam,pengetahuan dan sikap agar komputen di bidang fashion drawing (menggambar busana), pembuatan busana baik pria maupun wanita dan anak-anak, pembuatan hiasan pada busan (Embruodery).</h5>
+      <div data-aos="fade-up" data-aos-delay="800">
+        <!-- ======= Featured Services Section ======= -->
+ <section id="header" class="header">
+
+<div class="row pt-4">
+  
+  <!-- End Service Item -->
+</section>
+<!-- End Featured Services Section -->
+        <a href="ppdb.php" class=" shadow p-3 mb-2 btn-get-started">Detail Video<i class="bi bi-check"></i></a>
+      </div>
+      <div data-aos="fade-up" data-aos-delay="800">
+      </div>
+    </div>
+  </div>
+</div>
+
+</section><!-- End Hero -->
+
+     <!-- ======= Hero Section ======= -->
+     <section id="hero" class="d-flex align-items-center">
+
+<div class="container">
+  <div class="row">
+    <div class="col-lg-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center">
+      <h1 data-aos="fade-up">Asisten Keperawatan</h1>
+      <h5 data-aos="fade-up" data-aos-delay="400">Membekali peserta didik dengan ketrampilan,pengetahuan dan <br> sikap agar kompeten agar di bidang merawat baik individu/sendiri, keluarga, dll. Serta memelihara dan dapat menyembuhkan.</h5>
+      <div data-aos="fade-up" data-aos-delay="800">
+        <!-- ======= Featured Services Section ======= -->
+ <section id="header" class="header">
+
+<div class="row pt-4">
+  
+  <!-- End Service Item -->
+</section>
+<!-- End Featured Services Section -->
+        <a href="ppdb.php" class=" shadow p-3 mb-2 btn-get-started">Detail Video</a>
+      </div>
+      <div data-aos="fade-up" data-aos-delay="800">
+      </div>
+    </div>
+    <div class="col-lg-6 order-1 order-lg-2 hero-img " data-aos="fade-up" data-aos-delay="200">
+      <img src="assets/img/kpm.png" class="rounded float-end" style="height:700px;" alt="">
+    </div>
+  </div>
+</div>
+
+</section><!-- End Hero -->
+
+ <!-- ======= Hero Section ======= -->
+ <section id="hero" class="d-flex align-items-center">
+
+<div class="container">
+  <div class="row">
+    <div class="col-lg-6 pt-5 pt-lg-0 order-2 order-lg-1" data-aos="fade-up" data-aos-delay="200">
+    <img src="assets/img/lp.png" class="rounded float-end" style="height:700px;" alt="">
+      <div data-aos="fade-up" data-aos-delay="800">
+      </div>
+    </div>
+    <div class="col-lg-6 order-1 order-lg-2 hero-img d-flex flex-column justify-content-center" data-aos="fade-up" data-aos-delay="200">
+    <h1 data-aos="fade-up">Program Keahlian Yang Bisa Kalian Pilih<a class="text-primary"> Sesuai Passion.</a></h1>
+    </div>
+  </div>
+</div>
+
+</section><!-- End Hero -->
     
    
   </main><!-- End #main -->
@@ -248,8 +375,10 @@
 <div class="container">
   <div class="row gy-4">
     <div class="col-lg-5 col-md-12 footer-info">
-      <a href="index.php" class="logo d-flex align-items-center">
-        <h1 class="text-dark">ALAMAT</h1>
+    <a href="" class="navbar-brand">
+        <!-- Uncomment the line below if you also wish to use an image logo -->
+        <img src="assets/img/ko.png" style="width:200px;" alt="Logo Smk Bina Cendekia">
+        <h1 class="text-dark left"></h1>
       </a>
       <p>Jl. KH Wahid HasyimDesa. Mertapada Wetan Kecanatan. Astanajapura Kabupaten. Cirebon Jawa Barat 45181
      <br> Phone: 0231 8845465<br>Email: smkbinacendekiacirebona@gmail.com
@@ -262,7 +391,7 @@
       </div>
     </div>
 
-    <div class="col-lg-2 col-6 footer-links">
+    <div class="col-lg-3 col-6 footer-links">
       <h4>Useful Links</h4>
       <ul>
         <li><a href="#">Home</a></li>
@@ -273,7 +402,7 @@
       </ul>
     </div>
 
-    <div class="col-lg-2 col-6 footer-links">
+    <div class="col-lg-3 col-6 footer-links">
       <h4>the links we visit</h4>
       <ul>
         <li><a href="#">Boootstrap</a></li>
@@ -283,6 +412,12 @@
         <li><a href="#">Aos</a></li>
       </ul>
     </div>
+
+    <div class="col-lg-12 col-md-12 footer-location">
+            <div>
+          <iframe style="border:0; width: 100%; height: 300px;" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d63384.46777856386!2d108.60656949990842!3d-6.826961529703611!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e6f04acde0ee93d%3A0x570909eb0cf5286!2sSMK%20Bina%20Cendekia%20Cirebon!5e0!3m2!1sid!2sid!4v1674962821715!5m2!1sid!2sid" frameborder="0" allowfullscreen></iframe>
+          </div>
+        </div>
 
     </div>
 

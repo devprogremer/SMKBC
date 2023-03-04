@@ -33,13 +33,13 @@
 <body>
 
   <!-- ======= Header ======= -->
-  <header id="header" class="header d-flex align-items-center fixed-top bg-primary">
-    <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
+  <header id="header" class="p-3 mb-2 bg-primary text-white fixed-top">
+    <div class="container-fluid container-xl d-flex align-items-center justify-content-between ">
 
-      <a href="index.php" class="logo d-flex align-items-center">
+    <a href="" class="navbar-brand">
         <!-- Uncomment the line below if you also wish to use an image logo -->
-        <img src="assets/img/okkkkkk.png" alt="">
-        <h1>SMK BINA CENDEKIA CIREBON</h1>
+        <img src="assets/img/ke.png" style="width:210px;" alt="Logo Smk Bina Cendekia">
+        <h1 class="text-dark left"></h1>
       </a>
 
       <i class="mobile-nav-toggle mobile-nav-show bi bi-list"></i>
@@ -88,7 +88,6 @@
                 <li><a href="PKL.php">PKL 2023</a></li>
                 </ul>
               </li>
-            </ul>
           </li>
               <li class="dropdown"><a href="#"><span>PPDB</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
             <ul>
@@ -105,12 +104,16 @@
   <main id="main">
 
   <!-- Carousel Start -->
+     </div>
+   </div>
+  </div>
+ </div>
   <div class="row-10">
     <div class="container-fluid px-0 mb-5">
       <div id="header-carousel" class="carousel slide" data-bs-ride="carousel">
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <img class="w-100" src="assets/img/PPb.png" alt="Image" />
+            <img class="w-100" src="assets/img/Ppdb-11.png" alt="Image" />
             <div class="carousel-caption">
               <div class="container">
                 <div class="row justify-content-center">
@@ -166,7 +169,7 @@
             </div>
           </div>
           <div class="carousel-item">
-            <img class="w-100" src="assets/img/pdb-4.png" alt="Image" />
+            <img class="w-100" src="assets/img/pdb-9.png" alt="Image" />
             <div class="carousel-caption">
               <div class="container">
                 <div class="row justify-content-center">
@@ -457,8 +460,7 @@
 
         <div class="row gy-4">
           <div class="col-lg-6 position-relative align-self-start order-lg-last order-first">
-            <img src="assets/img/aboutt.jpeg" class="img-fluid" alt="">
-            <a href="https://youtube.com/watch?v=WeW9ZXy3YL4&feature=shares" class="glightbox play-btn"></a>
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/WeW9ZXy3YL4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
           </div>
           <div class="col-lg-6 content order-last  order-lg-first">
             <div>
@@ -485,32 +487,32 @@
          <br> Phone: 0231 8845465<br>Email: smkbinacendekiacirebona@gmail.com
           </p>
           <div class="social-links d-flex mt-4">
-            <a href="https://youtube.com/@smkbinacendekiacirebonoffi3039" class="Youtube"><i class="bi bi-play-btn-fill"></i></a>
-            <a href="https://www.facebook.com/profile.php?id=100009648338366" class="facebook"><i class="bi bi-facebook"></i></a>
-            <a href="https://instagram.com/smkbinacendekia?igshid=OGQ2MjdiOTE=" class="instagram"><i class="bi bi-instagram"></i></a>
-            <a href="https://www.tiktok.com/@smkbinacendekiacirebon?_r=1&_d=dkgebdh40m7l26&language=id&sec_uid=MS4wLjABAAAAYRFN2ZlU0y_HKAnDd33Qg3ZBMFmqtm7-Py0AkhltELueBlrfbxgyAwwWwajHbl7f&share_author_id=6933598016310592513&source=h5_t&timestamp=1674875179&utm_source=copy&utm_campaign=client_share&utm_medium=android&share_iid=7188303969302906650&share_link_id=648d57dd-9a99-4dda-bcc8-6f59b17706c7&share_app_id=1180&ugbiz_name=Account&ug_btm=b6880%2Cb2878" class="TikTok"><i class="bi bi-tiktok"></i></a>
+            <a href="https://youtube.com/@smkbinacendekiacirebonoffi3039" class="Youtube bg-danger"><i class="bi bi-play-btn-fill"></i></a>
+            <a href="https://www.facebook.com/profile.php?id=100009648338366" class="facebook bg-primary"><i class="bi bi-facebook"></i></a>
+            <a href="https://instagram.com/smkbinacendekia?igshid=OGQ2MjdiOTE=" class="instagram "><i class="bi bi-instagram"></i></a>
+            <a href="https://www.tiktok.com/@smkbinacendekiacirebon?_r=1&_d=dkgebdh40m7l26&language=id&sec_uid=MS4wLjABAAAAYRFN2ZlU0y_HKAnDd33Qg3ZBMFmqtm7-Py0AkhltELueBlrfbxgyAwwWwajHbl7f&share_author_id=6933598016310592513&source=h5_t&timestamp=1674875179&utm_source=copy&utm_campaign=client_share&utm_medium=android&share_iid=7188303969302906650&share_link_id=648d57dd-9a99-4dda-bcc8-6f59b17706c7&share_app_id=1180&ugbiz_name=Account&ug_btm=b6880%2Cb2878" class="TikTok bg-dark"><i class="bi bi-tiktok"></i></a>
           </div>
         </div>
 
         <div class="col-lg-2 col-6 footer-links">
           <h4>Useful Links</h4>
           <ul>
-            <li><a href="#">Home</a></li>
-            <li><a href="#">Tentang kami</a></li>
-            <li><a href="#">Program</a></li>
-            <li><a href="#">Ppdb</a></li>
-            <li><a href="#">Contact</a></li>
+            <li><a href="">Beranda</a></li>
+            <li><a href="">Tentang Kami</a></li>
+            <li><a href="">Program</a></li>
+            <li><a href="">Ppdb</a></li>
+            <li><a href="">Contact</a></li>
           </ul>
         </div>
 
         <div class="col-lg-2 col-6 footer-links">
-          <h4>the links we visit</h4>
+          <h4>The links we visit</h4>
           <ul>
-            <li><a href="#">Boootstrap</a></li>
-            <li><a href="#">Font Awesome Fonts</a></li>
-            <li><a href="#">Niagahoster</a></li>
-            <li><a href="#">Malasngoding</a></li>
-            <li><a href="#">Aos</a></li>
+            <li><a href="https://getbootstrap.com/">Boootstrap</a></li>
+            <li><a href="https://fontawesome.com/">Font Awesome Fonts</a></li>
+            <li><a href="https://www.niagahoster.co.id/">Niagahoster</a></li>
+            <li><a href="https://www.malasngoding.com/">Malasngoding</a></li>
+            <li><a href="https://www.aos.co.id/">Aos</a></li>
           </ul>
         </div>
 
@@ -524,11 +526,7 @@
         &copy; Copyright <strong><span>SMK BINA CENDEKIA CIREBON</span></strong>
       </div>
       <div class="credits">
-        <!-- All the links in the footer should remain intact. -->
-        <!-- You can delete the links only if you purchased the pro version. -->
-        <!-- Licensing information: https://bootstrapmade.com/license/ -->
-        <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/logis-bootstrap-logistics-website-template/ -->
-        Designed by <a href="https://web.facebook.com/profile.php?id=100089766366337"> Devprogremer</a>
+        Designed by <a href="https://web.facebook.com/profile.php?id=100089766366337" class="text-warning"> Devprogremer</a>
       </div>
     </div>
 
