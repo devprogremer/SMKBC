@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Data Guru-SMK BCC</title>
+  <title>Data Guru - SMK BCC</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -29,12 +29,6 @@
   <!-- Template Main CSS File -->
   <link href="assets/css/main.css" rel="stylesheet">
 
-  <!-- =======================================================
-  * Template Name: Logis - v1.3.0
-  * Template URL: https://bootstrapmade.com/logis-bootstrap-logistics-website-template/
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
 </head>
 <body>
 
@@ -45,10 +39,10 @@
   <header id="header" class="header d-flex align-items-center fixed-top bg-primary">
     <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
 
-      <a href="index.php" class="logo d-flex align-items-center">
+    <a href="" class="navbar-brand">
         <!-- Uncomment the line below if you also wish to use an image logo -->
-        <img src="assets/img/okkkkkk.png" alt="">
-        <h1>SMK BINA CENDEKIA CIREBON</h1>
+        <img src="assets/img/ke.png" style="width:210px;" alt="Logo Smk Bina Cendekia">
+        <h1 class="text-dark left"></h1>
       </a>
 
       <i class="mobile-nav-toggle mobile-nav-show bi bi-list"></i>
@@ -121,9 +115,8 @@
     </section>
     <!-- End Featured Services Section -->
 
-
- <!-- ======= Breadcrumbs ======= -->
- <div class="breadcrumbs">
+<!-- ======= Breadcrumbs ======= -->
+<div class="breadcrumbs">
       <div class="header">
         <div class="container position-relative">
           <div class="row d-flex justify-content-center">
@@ -133,15 +126,10 @@
           </div>
         </div>
       </div>
-      <nav>
-        <div class="container">
-          <ol>
-            <li><a href="index.php">Beranda</a></li>
-            <li><a href="">Profil Sekolah</a></li>
-          </ol>
-        </div>
-      </nav>
+
     </div><!-- End Breadcrumbs --> 
+
+
 
   <main id="main">
 
@@ -162,7 +150,7 @@
             <a class="team" href="index.php">
               <img src="assets/img/team/kepsek.jpeg" class="img-fluid" alt="">
               <div class="member-content">
-                <h4>Ade Rahamat Saputra,M,Pd.</h4>
+                <h4>Ade Rahmat Saputra. M,Pd.</h4>
             
                 <p>
                  
