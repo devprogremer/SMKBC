@@ -96,7 +96,7 @@
               <li><a href="informasi.php">Informasi Pendaftaran</a></li>
               </ul>
           <li><a href="contact.php">Contact</a></li>
-          <li><a class="get-a-quote bg-dark" href="cek_login.php">Login</a></li>
+          <li><a class="get-a-quote bg-light text-dark" href="cek_login.php">Login</a></li>
         </ul>
       </nav><!-- .navbar -->
 
@@ -128,18 +128,14 @@
 
 
 <!-- ======= Horizontal Pricing Section ======= -->
-     <section id="feature" class="feature pt-0">
+     <section id="feature" class="feature pt-4">
       <div class="container" data-aos="fade-up">
 
         <div class="section-header mt-4">
-          <span>sambutan kepala sekolah</span>
+          <span>smk bina cendekia cirebon</span>
           <h2>Sambutan kepala sekolah</h2>
         </div>
-          <div class="row gy-4 pricing-item mt-0" data-aos="fade-up" data-aos-delay="300">
-          <div class="col-lg-6 d-flex align-items-center justify-content-center">
-          </div>
-        </div><!-- End Pricing Item -->
-      </div>
+        
     </section><!-- End Horizontal Pricing Section -->
 
 
@@ -147,9 +143,9 @@
     <section id="about" class="about pt-4">
       <div class="container" data-aos="fade-up">
         <div class="row gy-4">
-          <div class="col-lg-6 position-middle middle-self-start order-lg-last order-first">
-            <img src="assets/img/w.png" class="img-align rounded-middle float-end" alt="">
-            <h3>Ade Rahmat Saputra M,Pd.
+          <div class="col-lg-5 position-middle middle-self-start order-lg-last order-first">
+            <img src="assets/img/yy.png" class="img-align rounded-middle float-end" alt="">
+            <center><h3 class="fst-bold">Ade Rahmat Saputra M,Pd.</h3></center>
           </div>
           <div class="col-lg-6 content order-last  order-lg-first">
           <h4></h4>

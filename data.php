@@ -134,7 +134,7 @@
   <main id="main">
 
     <!-- ======= Our Team Section ======= -->
-    <section id="team" class="team pt-0">
+    <section id="team" class="team pt-6">
       <div class="container" data-aos="fade-up">
 
         <div class="section-header">

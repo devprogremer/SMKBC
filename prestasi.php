@@ -97,7 +97,7 @@
               <li><a href="informasi.php">Informasi Pendaftaran</a></li>
               </ul>
           <li><a href="contact.php">Contact</a></li>
-          <li><a class="get-a-quote bg-dark" href="cek_login.php">Login</a></li>
+          <li><a class="get-a-quote bg-light text-dark" href="cek_login.php">Login</a></li>
         </ul>
       </nav><!-- .navbar -->
 
@@ -125,14 +125,6 @@
           </div>
         </div>
       </div>
-      <nav>
-        <div class="container">
-          <ol>
-            <li><a href="index.php">Beranda</a></li>
-            <li><a href="">Profil Sekolah</a></li>
-          </ol>
-        </div>
-      </nav>
     </div><!-- End Breadcrumbs --> 
 
   <main id="main">
@@ -153,6 +145,7 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-header">
+          <span>SMK BINA Cendekia Cirebon</span>
           <h2>PRESTASI YANG DI RAIH</h2>
 
         </div>
