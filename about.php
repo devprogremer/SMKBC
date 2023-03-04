@@ -40,9 +40,9 @@
 <body>
 
   <!-- ======= Header ======= -->
-  <header id="header" class="header d-flex align-items-center fixed-top">
-    <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
-
+  <header id="header" class="p-3 mb-2 bg-primary text-white fixed-top">
+    <div class="container-fluid container-xl d-flex align-items-center justify-content-between ">
+      
       <a href="index.html" class="logo d-flex align-items-center">
         <!-- Uncomment the line below if you also wish to use an image logo -->
         <!-- <img src="assets/img/logo.png" alt=""> -->
