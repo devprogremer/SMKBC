@@ -256,7 +256,115 @@
 
 </section><!-- End Hero -->
 
+     <!-- ======= Hero Section ======= -->
+     <section id="hero" class="d-flex align-items-center">
 
+<div class="container">
+  <div class="row">
+    <div class="col-lg-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center">
+      <h1 data-aos="fade-up">Rekayasa Perangkat <br> Lunak</h1>
+      <h5 data-aos="fade-up" data-aos-delay="400">Membekali peserta didik dengan ketrampilan,pengetahuan <br> sikap agar kompeten menginstalasi software aplikasi, <br>mengoperasikan software,mrawat software aplikasi dan  <br> di bidang pembuatan softaware aplikasi.</h5>
+      <div data-aos="fade-up" data-aos-delay="800">
+        <!-- ======= Featured Services Section ======= -->
+ <section id="header" class="header">
+
+<div class="row pt-4">
+  
+  <!-- End Service Item -->
+</section>
+<!-- End Featured Services Section -->
+        <a href="ppdb.php" class=" shadow p-3 mb-2 btn-get-started">Detail Video</a>
+      </div>
+      <div data-aos="fade-up" data-aos-delay="800">
+      </div>
+    </div>
+    <div class="col-lg-6 order-1 order-lg-2 hero-img " data-aos="fade-up" data-aos-delay="200">
+      <img src="assets/img/sb.png" class="rounded float-end" style="height:700px;" alt="">
+    </div>
+  </div>
+</div>
+
+</section><!-- End Hero -->
+
+     <!-- ======= Hero Section ======= -->
+     <section id="hero" class="d-flex align-items-center">
+
+<div class="container">
+  <div class="row">
+    <div class="col-lg-6 pt-5 pt-lg-0 order-2 order-lg-1" data-aos="fade-up" data-aos-delay="200">
+    <img src="assets/img/bbb.png" class="rounded float-end" style="height:800px;" alt="">
+      <div data-aos="fade-up" data-aos-delay="800">
+      </div>
+    </div>
+    <div class="col-lg-6 order-1 order-lg-2 hero-img d-flex flex-column justify-content-center" data-aos="fade-up" data-aos-delay="200">
+    <h1 data-aos="fade-up">Tata Busana</h1>
+    <h5 data-aos="fade-up" data-aos-delay="400" class="container">Membekali peserta didik dengan ketrampilam,pengetahuan dan sikap agar komputen di bidang fashion drawing (menggambar busana), pembuatan busana baik pria maupun wanita dan anak-anak, pembuatan hiasan pada busan (Embruodery).</h5>
+      <div data-aos="fade-up" data-aos-delay="800">
+        <!-- ======= Featured Services Section ======= -->
+ <section id="header" class="header">
+
+<div class="row pt-4">
+  
+  <!-- End Service Item -->
+</section>
+<!-- End Featured Services Section -->
+        <a href="ppdb.php" class=" shadow p-3 mb-2 btn-get-started">Detail Video<i class="bi bi-check"></i></a>
+      </div>
+      <div data-aos="fade-up" data-aos-delay="800">
+      </div>
+    </div>
+  </div>
+</div>
+
+</section><!-- End Hero -->
+
+     <!-- ======= Hero Section ======= -->
+     <section id="hero" class="d-flex align-items-center">
+
+<div class="container">
+  <div class="row">
+    <div class="col-lg-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center">
+      <h1 data-aos="fade-up">Asisten Keperawatan</h1>
+      <h5 data-aos="fade-up" data-aos-delay="400">Membekali peserta didik dengan ketrampilan,pengetahuan dan <br> sikap agar kompeten agar di bidang merawat baik individu/sendiri, keluarga, dll. Serta memelihara dan dapat menyembuhkan.</h5>
+      <div data-aos="fade-up" data-aos-delay="800">
+        <!-- ======= Featured Services Section ======= -->
+ <section id="header" class="header">
+
+<div class="row pt-4">
+  
+  <!-- End Service Item -->
+</section>
+<!-- End Featured Services Section -->
+        <a href="ppdb.php" class=" shadow p-3 mb-2 btn-get-started">Detail Video</a>
+      </div>
+      <div data-aos="fade-up" data-aos-delay="800">
+      </div>
+    </div>
+    <div class="col-lg-6 order-1 order-lg-2 hero-img " data-aos="fade-up" data-aos-delay="200">
+      <img src="assets/img/kpm.png" class="rounded float-end" style="height:700px;" alt="">
+    </div>
+  </div>
+</div>
+
+</section><!-- End Hero -->
+
+ <!-- ======= Hero Section ======= -->
+ <section id="hero" class="d-flex align-items-center">
+
+<div class="container">
+  <div class="row">
+    <div class="col-lg-6 pt-5 pt-lg-0 order-2 order-lg-1" data-aos="fade-up" data-aos-delay="200">
+    <img src="assets/img/lp.png" class="rounded float-end" style="height:700px;" alt="">
+      <div data-aos="fade-up" data-aos-delay="800">
+      </div>
+    </div>
+    <div class="col-lg-6 order-1 order-lg-2 hero-img d-flex flex-column justify-content-center" data-aos="fade-up" data-aos-delay="200">
+    <h1 data-aos="fade-up">Program Keahlian Yang Bisa Kalian Pilih<a class="text-primary"> Sesuai Passion.</a></h1>
+    </div>
+  </div>
+</div>
+
+</section><!-- End Hero -->
     
    
   </main><!-- End #main -->

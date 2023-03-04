@@ -457,8 +457,7 @@
 
         <div class="row gy-4">
           <div class="col-lg-6 position-relative align-self-start order-lg-last order-first">
-            <img src="assets/img/aboutt.jpeg" class="img-fluid" alt="">
-            <a href="https://youtube.com/watch?v=WeW9ZXy3YL4&feature=shares" class="glightbox play-btn"></a>
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/WeW9ZXy3YL4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
           </div>
           <div class="col-lg-6 content order-last  order-lg-first">
             <div>

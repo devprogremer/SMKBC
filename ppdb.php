@@ -120,21 +120,37 @@
   <main id="main">
 </div>
 
+<!-- ======= Featured Services Section ======= -->
+<section id="featured-services" class="featured-services">
+      <div class="container">
 
-    <!-- ======= Featured Services Section ======= -->
-    <section id="header" class="header">
+        <div class="row gy-4">
 
-<div class="row pt-4">
-  
-  <!-- End Service Item -->
-</section>
+          <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up">
+            </div>
+          </div>
+          <!-- End Service Item -->
+
+          <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up" data-aos-delay="100">
+            </div>
+          </div><!-- End Service Item -->
+
+          <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up" data-aos-delay="200">
+            </div>
+          </div><!-- End Service Item -->
+
+        </div>
+
+      </div>
+    </section><!-- End Featured Services Section -->
+
+   
 <!-- End Featured Services Section -->
 
-<div class="container pt-12">
+<div class="container pt-8">
   <div class="row">
     <div class="col-lg-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center">
-      <h1 data-aos="fade-up">Sekolah <a class="text-primary">Industri </a> Berbasis <a class="text-primary">Pesantren</a></h1>
-      <h2 data-aos="fade-up" data-aos-delay="400">Kini Mendaftar ke <a class="text-primary">SMK Bina Cendekia Cirebon</a> lebih Mudah Daftar dari rumah.</h2>
+      <h1 data-aos="fade-up">Forms<a class="text-primary">Industri </a></h1>
       <div data-aos="fade-up" data-aos-delay="800">
       </div>
     </div>
