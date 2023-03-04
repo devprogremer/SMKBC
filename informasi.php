@@ -47,7 +47,7 @@
 
   
 <!-- ======= Header ======= -->
-<header id="header" class="header d-flex align-items-center fixed-top bg-light">
+<header id="header" class="header d-flex align-items-center fixed-padding bg-light">
     <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
 
       <a href="" class="navbar-brand">
