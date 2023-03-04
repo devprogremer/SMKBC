@@ -249,7 +249,7 @@
       </div>
     </div>
     <div class="col-lg-6 order-1 order-lg-2 hero-img " data-aos="fade-up" data-aos-delay="200">
-      <img src="assets/img/lp.png" class="rounded float-end" style="" alt="">
+      <img src="assets/img/lp.png" class="rounded float-end" alt="">
     </div>
   </div>
 </div>
