@@ -79,6 +79,7 @@
                   <li><a href="ASKEP.php">ASKEP (Asisten Keperawatan)</a></li>
                   <li><a href="TBO.php">TBO(Teknik Bodi Otomotif)</a></li>
                   <li><a href="TABUS.php">TABUS(Tata Busana)</a></li>
+                  <li><a href="DKV.php">DKV(Desain Komunikasi Visual)</a></li>
                   </ul>
               </li>
               <li class="dropdown"><a href="#"><span>Kegiatan</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
@@ -168,95 +169,69 @@
 
         <div class="section-header">
           <h2>Kegiatan Tata Busana</h2>
-
         </div>
-
         <div class="row gy-4">
-
-          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
-            <div class="card">
+          <div class="col-lg-6 col-md-5" data-aos="fade-up" data-aos-delay="100">
+            <div class="">
               <div class="card-img">
-                <img src="assets/img/tabus1.jpeg" alt="" class="img-fluid">
+                <img src="assets/img/tabus11.jpeg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">06-maret-2022</a></h3>
-              <p>membuat gamis sendiri anak-anak tatabus.</p>
+           
             </div>
           </div><!-- End Card Item -->
 
-          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
-            <div class="card">
-              <div class="card-img">
-                <img src="assets/img/tabus2.jpeg" alt="" class="img-fluid">
-              </div>
-              <h3><a href="service-details.html" class="stretched-link">23-maret-2022</a></h3>
-            <p> Acara Fashion show, uji kompetensi kejuruan tata busana kelas 12 angkatan ke7.</p>
-            </div>
-          </div><!-- End Card Item -->
-
-          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
-            <div class="card">
+          <div class="col-lg-6 col-md-5" data-aos="fade-up" data-aos-delay="200">
+            <div class="">
               <div class="card-img">
                 <img src="assets/img/tabus3.jpeg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">23 januari 2022</a></h3>
-              <p>jurusan tata busana di sekolah SMK Bina Cendekia cirebon. </p>
+             
             </div>
           </div><!-- End Card Item -->
 
-          <div class="col-lg-6 col-md-8" data-aos="fade-up" data-aos-delay="600">
-            <div class="card">
-              <div class="card-img">
-                <img src="assets/img/tabus4.jpeg" alt="" class="img-fluid">
-              </div>
-              <h3><a href="service-details.html" class="stretched-link">12 Noveber 2022</a></h3>
-              <p>kegiatan jait kelas xi tata busana.</p>
-            </div>
-          </div><!-- End Card Item -->
-
-          <div class="col-lg-6 col-md-8" data-aos="fade-up" data-aos-delay="600">
-            <div class="card">
-              <div class="card-img">
-                <img src="assets/img/tabus5.jpeg" alt="" class="img-fluid">
-              </div>
-              <h3><a href="service-details.html" class="stretched-link">22 November 2022</a></h3>
-              <p>praktek jait kelas tabus.</p>
-            </div>
-          </div><!-- End Card Item -->
-
-          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="600">
-            <div class="card">
+          <div class="col-lg-4 col-md-4" data-aos="fade-up" data-aos-delay="300">
+            <div class="">
               <div class="card-img">
                 <img src="assets/img/tabus6.jpeg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">28 oktober 2022</a></h3>
-              <p>prakerin tata busana di RABANI</p>
+            
             </div>
           </div><!-- End Card Item -->
 
-          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="600">
-            <div class="card">
+          <div class="col-lg-4 col-md-4" data-aos="fade-up" data-aos-delay="400">
+            <div class="">
               <div class="card-img">
                 <img src="assets/img/tabus7.jpeg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">12 desemeber 2021</a></h3>
-              <p>kunjungan industri di toko rabani  </p>
-            </div>
+            
+              </div>
           </div><!-- End Card Item -->
 
-          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="600">
-            <div class="card">
+          <div class="col-lg-4 col-md-4" data-aos="fade-up" data-aos-delay="500">
+            <div class="">
               <div class="card-img">
                 <img src="assets/img/tabus8.jpeg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">28 oktober 2022</a></h3>
-              <p>prakerin tata busana di RABANI  </p>
+             
             </div>
           </div><!-- End Card Item -->
 
-        </div>
+          <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-delay="600">
+            <div class="">
+              <div class="card-img">
+                <img src="assets/img/tabus4.jpeg" alt="" class="img-fluid">
+              </div>
+             
+            </div>
+          </div><!-- End Card Item -->
 
-      </div>
-    </section><!-- End Services Section -->
+          <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-delay="700">
+            <div class="">
+              <div class="card-img">
+                <img src="assets/img/tabus5.jpeg" alt="" class="img-fluid">
+              </div>
+            </div>
+          </div><!-- End Card Item -->
   <!-- ======= Footer ======= -->
   <footer id="footer" class="footer bg-primmary">
 

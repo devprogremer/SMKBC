@@ -79,6 +79,7 @@
                   <li><a href="ASKEP.php">ASKEP (Asisten Keperawatan)</a></li>
                   <li><a href="TBO.php">TBO(Teknik Bodi Otomotif)</a></li>
                   <li><a href="TABUS.php">TABUS(Tata Busana)</a></li>
+                  <li><a href="DKV.php">DKV(Desain Komunikasi Visual)</a></li>
                   </ul>
               </li>
               <li class="dropdown"><a href="#"><span>Kegiatan</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
@@ -167,95 +168,69 @@
 
         <div class="section-header">
           <h2>Kegiatan Samsung Tech Institute</h2>
-
         </div>
-
         <div class="row gy-4">
-
-          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
-            <div class="card">
-              <div class="card-img">
-                <img src="assets/img/sti1.jpeg" alt="" class="img-fluid">
-              </div>
-              <h3><a href="service-details.html" class="stretched-link">29 sepetember 2019</a></h3>
-              <p>kegiatan praktek program studi Samsung Tech Institute SMK Bina Cendekia Cirebon</p>
-            </div>
-          </div><!-- End Card Item -->
-
-          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
-            <div class="card">
-              <div class="card-img">
-                <img src="assets/img/sti2.jpeg" alt="" class="img-fluid">
-              </div>
-              <h3><a href="service-details.html" class="stretched-link">29 sepetember 2019</a></h3>
-            <p>kegiatan praktek program studi Samsung Tech Institute SMK Bina Cendekia Cirebon</p>
-            </div>
-          </div><!-- End Card Item -->
-
-          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
-            <div class="card">
-              <div class="card-img">
-                <img src="assets/img/sti3.jpeg" alt="" class="img-fluid">
-              </div>
-              <h3><a href="service-details.html" class="stretched-link">29 sepetember 2019</a></h3>
-              <p>kegiatan praktek program studi Samsung Tech Institute SMK Bina Cendekia Cirebon</p>
-            </div>
-          </div><!-- End Card Item -->
-
-          <div class="col-lg-6 col-md-8" data-aos="fade-up" data-aos-delay="400">
-            <div class="card">
+          <div class="col-lg-6 col-md-5" data-aos="fade-up" data-aos-delay="100">
+            <div class="">
               <div class="card-img">
                 <img src="assets/img/sti4.jpeg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">23 januari 2019</a></h3>
-              <p>praktek anak-anak SAMSUNG</p>
+           
             </div>
           </div><!-- End Card Item -->
 
-          <div class="col-lg-6 col-md-8" data-aos="fade-up" data-aos-delay="500">
-            <div class="card">
+          <div class="col-lg-6 col-md-5" data-aos="fade-up" data-aos-delay="200">
+            <div class="">
+              <div class="card-img">
+                <img src="assets/img/sti2.jpeg" alt="" class="img-fluid">
+              </div>
+             
+            </div>
+          </div><!-- End Card Item -->
+
+          <div class="col-lg-4 col-md-4" data-aos="fade-up" data-aos-delay="300">
+            <div class="">
               <div class="card-img">
                 <img src="assets/img/sti5.jpeg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">23 januari 2019</a></h3>
-              <p>praktek anak-anak SAMSUNG</p>
+            
             </div>
           </div><!-- End Card Item -->
 
-          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="600">
-            <div class="card">
-              <div class="card-img">
-                <img src="assets/img/sti6.jpeg" alt="" class="img-fluid">
-              </div>
-              <h3><a href="service-details.html" class="stretched-link">04 Januari 2022</a></h3>
-              <p></p>kelas SAMSUNG SMK Bina Cendekia Cirebon masa Training DI SAMSUNG CENTER CIREBON
-            </div>
-          </div><!-- End Card Item -->
-
-          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="600">
-            <div class="card">
+          <div class="col-lg-4 col-md-4" data-aos="fade-up" data-aos-delay="400">
+            <div class="">
               <div class="card-img">
                 <img src="assets/img/sti7.jpeg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">23 februari 2022</a></h3>
-              <p>anak-anak SAMSUNG SMK Bina Cendekia Cirebon</p>
-            </div>
+            
+              </div>
           </div><!-- End Card Item -->
 
-          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="600">
-            <div class="card">
+          <div class="col-lg-4 col-md-4" data-aos="fade-up" data-aos-delay="500">
+            <div class="">
               <div class="card-img">
                 <img src="assets/img/sti8.jpeg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">04 Januari 2022</a></h3>
-              <p>kelas SAMSUNG SMK Bina Cendekia Cirebon masa Training DI SAMSUNG CENTER CIREBON</p>
+             
             </div>
           </div><!-- End Card Item -->
 
-        </div>
+          <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-delay="600">
+            <div class="">
+              <div class="card-img">
+                <img src="assets/img/sti4.jpeg" alt="" class="img-fluid">
+              </div>
+             
+            </div>
+          </div><!-- End Card Item -->
 
-      </div>
-    </section><!-- End Services Section -->
+          <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-delay="700">
+            <div class="">
+              <div class="card-img">
+                <img src="assets/img/sti5.jpeg" alt="" class="img-fluid">
+              </div>
+            </div>
+          </div><!-- End Card Item -->
 
  <!-- ======= Footer ======= -->
  <footer id="footer" class="footer bg-primary">

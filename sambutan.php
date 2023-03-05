@@ -80,6 +80,7 @@
                   <li><a href="ASKEP.php">ASKEP (Asisten Keperawatan)</a></li>
                   <li><a href="TBO.php">TBO(Teknik Bodi Otomotif)</a></li>
                   <li><a href="TABUS.php">TABUS(Tata Busana)</a></li>
+                  <li><a href="DKV.php">DKV(Desain Komunikasi Visual)</a></li>
                   </ul>
               </li>
               <li class="dropdown"><a href="#"><span>Kegiatan</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>

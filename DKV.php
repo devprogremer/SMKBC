@@ -38,9 +38,7 @@
 </head>
 <body>
 
-
- 
-<!-- ======= Header ======= -->
+  <!-- ======= Header ======= -->
 <header id="header" class="header d-flex align-items-center fixed-top bg-primary">
     <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
 
@@ -104,7 +102,7 @@
               <li><a href="informasi.php">Informasi Pendaftaran</a></li>
               </ul>
           <li><a href="contact.php">Contact</a></li>
-          <li><a class="get-a-quote bg-light text-dark" href="cek_login.php">Login</a></li>
+          <li><a class="get-a-quote bg-dark" href="cek_login.php">Login</a></li>
         </ul>
       </nav><!-- .navbar -->
 
@@ -142,19 +140,41 @@
       </nav>
     </div><!-- End Breadcrumbs --> 
 
-   <!-- ======= Team Section ======= -->
-   <section id="team" class="team">
+
+  <main id="main">
+
+<!-- ======= About Section ======= -->
+    <section id="about" class="about">
       <div class="container" data-aos="fade-up">
 
-        <div class="section-title">
-          <h2> Kegiatan HUT RI 17 Agustus </h2>
+        <div class="row">
+          <div class="col-lg-5 order-1 order-lg-2" data-aos="fade-left" data-aos-delay="100">
+            <img src="assets/img/dev.png" class="img-fluid" alt="">
+          </div>
+          <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right" data-aos-delay="100">
+          <div class="section-title">
+          <h2>DKV (Desain Komunikasi Visual)</h2>
           <p>SMK Bina Cendekia Cirebon </p>
+        </div>
+            <ul> 
+          <br>Membekali peserta didik dengan ketrampilan,pengetahuan sikap agar kompeten menginstalasi software aplikasi,mengoperasikan software,mrawat software aplikasi dan mengelola di bidang pembuatan softaware aplikasi.</br>
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End About Section -->
+          <!-- ======= Services Section ======= -->
+    <section id="service" class="services pt-0">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-header">
+          <h2>Kegiatan Desain Komunikasi Visual</h2>
         </div>
         <div class="row gy-4">
           <div class="col-lg-6 col-md-5" data-aos="fade-up" data-aos-delay="100">
             <div class="">
               <div class="card-img">
-                <img src="assets/img/ags2.jpeg" alt="" class="img-fluid">
+                <img src="assets/img/dkv1.jpeg" alt="" class="img-fluid">
               </div>
            
             </div>
@@ -163,7 +183,7 @@
           <div class="col-lg-6 col-md-5" data-aos="fade-up" data-aos-delay="200">
             <div class="">
               <div class="card-img">
-                <img src="assets/img/ags3.jpeg" alt="" class="img-fluid">
+                <img src="assets/img/dkv4.jpeg" alt="" class="img-fluid">
               </div>
              
             </div>
@@ -172,7 +192,7 @@
           <div class="col-lg-4 col-md-4" data-aos="fade-up" data-aos-delay="300">
             <div class="">
               <div class="card-img">
-                <img src="assets/img/ags1.jpeg" alt="" class="img-fluid">
+                <img src="assets/img/dkv7.jpeg" alt="" class="img-fluid">
               </div>
             
             </div>
@@ -181,7 +201,7 @@
           <div class="col-lg-4 col-md-4" data-aos="fade-up" data-aos-delay="400">
             <div class="">
               <div class="card-img">
-                <img src="assets/img/ags10.jpeg" alt="" class="img-fluid">
+                <img src="assets/img/dkv8.jpeg" alt="" class="img-fluid">
               </div>
             
               </div>
@@ -190,7 +210,7 @@
           <div class="col-lg-4 col-md-4" data-aos="fade-up" data-aos-delay="500">
             <div class="">
               <div class="card-img">
-                <img src="assets/img/ags5.jpeg" alt="" class="img-fluid">
+                <img src="assets/img/dkv9.jpeg" alt="" class="img-fluid">
               </div>
              
             </div>
@@ -199,7 +219,7 @@
           <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-delay="600">
             <div class="">
               <div class="card-img">
-                <img src="assets/img/ags8.jpeg" alt="" class="img-fluid">
+                <img src="assets/img/dkv2.jpeg" alt="" class="img-fluid">
               </div>
              
             </div>
@@ -208,12 +228,12 @@
           <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-delay="700">
             <div class="">
               <div class="card-img">
-                <img src="assets/img/ags4.jpeg" alt="" class="img-fluid">
+                <img src="assets/img/dkv3.jpeg" alt="" class="img-fluid">
               </div>
             </div>
           </div><!-- End Card Item -->
- <!-- ======= Footer ======= -->
- <footer id="footer" class="footer bg-primary">
+   <!-- ======= Footer ======= -->
+   <footer id="footer" class="footer bg-primary">
 
 <div class="container">
   <div class="row gy-4">
