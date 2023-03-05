@@ -32,8 +32,8 @@
 </head>
 <body>
 
-   <!-- ======= Header ======= -->
-   <header id="header" class="p-0 mb-1 bg-primary text-white fixed-padding">
+  <!-- ======= Header ======= -->
+  <header id="header" class="p-0 mb-1 bg-primary text-white fixed-padding">
     <div class="container-fluid container-xl d-flex align-items-center justify-content-between ">
 
     <a href="" class="navbar-brand">
@@ -98,80 +98,14 @@
         </ul>
       </nav><!-- .navbar -->
 
+
     </div>
   </header><!-- End Header -->
   
   <main id="main">
 
   
-  <!-- ======= Header ======= -->
-  <header id="header" class="header d-flex align-items-center fixed-top bg-primary">
-    <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
-
-      <a href="index.php" class="logo d-flex align-items-center">
-        <!-- Uncomment the line below if you also wish to use an image logo -->
-        <img src="assets/img/okkkkkk.png" alt="">
-        <h1>SMK BINA CENDEKIA CIREBON</h1>
-      </a>
-
-      <i class="mobile-nav-toggle mobile-nav-show bi bi-list"></i>
-      <i class="mobile-nav-toggle mobile-nav-hide d-none bi bi-x"></i>
-      <nav id="navbar" class="navbar bg-primary">
-         <ul>
-          <li class="bg-primary text-light"><a href="index.php" class="active" class="bi bi-">Beranda</a></li>
-          <ul>
-              <li class="dropdown bg-primary"><a href="#"><span>Tentang Kami</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
-                <ul>
-                  <li><a href="profil.php">Profil Sekolah</a></li>
-                  <li><a href="sambutan.php">Sambutan Kepsek</a></li>
-                  <li><a href="visi.php">Visi dan Misi</a></li>
-                  <li><a href="organisasi.php">Struktur Organisasi</a></li>
-                  <li><a href="data.php">Data Guru</a></li>
-                  <li><a href="akreditasi.php">Akreditasi</a></li>
-                  <li><a href="industri.php">Hubungan Industri</a></li>    
-                  <li><a href="prestasi.php">Prestasi</a></li>           
-                  <li class="dropdown"><a href="#"><span>Sarana</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
-                <ul>
-                  <li><a href="kelas.php">Kelas</a></li>
-                </ul>
-                </li>
-                </ul>
-                </li>
-            <li class="dropdown"><a href="#"><span>Program</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
-            <ul>
-            <li class="dropdown"><a href="#"><span>Program Studi</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
-                <ul>
-                  <li><a href="RPL.php">RPL (Rekayasa Perangkat Lunak)</a></li>
-                  <li><a href="STI.php">STI (Samsung Tech Institute)</a></li>
-                  <li><a href="ASKEP.php">ASKEP (Asisten Keperawatan)</a></li>
-                  <li><a href="TBO.php">TBO(Teknik Bodi Otomotif)</a></li>
-                  <li><a href="TABUS.php">TABUS(Tata Busana)</a></li>
-                  </ul>
-              </li>
-              <li class="dropdown"><a href="#"><span>Kegiatan</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
-                <ul>
-                  <li><a href="ekstrakurikuler.php">Ekstrakurikuler</a></li>
-                  <li><a href="bahasa.php">Bulan Bahasa</a></li>
-                  <li><a href="maulid.php">Maulid Nabi Muhammad</a></li>
-                  <li><a href="porak.php">Porak</a></li>
-                  <li><a href="agustus.php">HUT RI 17 Agustus</a></li>
-                  <l><a href="santri.php">Hari Santri</a></li>
-                </ul>
-                </li>
-                <li><a href="PKL.php">PKL 2023</a></li>
-                </ul>
-              </li>
-            </ul>
-          </li>
-              <li class="dropdown"><a href="#"><span>PPDB</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
-            <ul>
-              <li><a href="informasi.php">Informasi Pendaftaran</a></li>
-              </ul>
-          <li><a href="contact.php">Contact</a></li>
-          <li><a class="get-a-quote bg-light text-dark" href="cek_login.php">Login</a></li>
-        </ul>
-      </nav><!-- .navbar -->
-
+ 
     </div>
   </header><!-- End Header -->
     <!-- ======= Featured Services Section ======= -->
@@ -226,7 +160,7 @@
             <p class="fst-italic">
               Tujuan OSIS
             </p>
-           <P> Tujuan OSIS
+            <p align="justify">Tujuan OSIS
 OSIS bertujuan memfasilitasi para siswa untuk menyalurkan aspirasinya, mengekspresikan kreativitasnya, dan berkontribusi untuk hal-hal yang positif. OSIS memiliki tujuan yang positif bagi seluruh siswa di sekolah yang artinya akan memberikan pengaruh positif juga bagi sekolah itu sendiri.</P>
           </div>
         </div><!-- Features Item -->
@@ -239,9 +173,7 @@ OSIS bertujuan memfasilitasi para siswa untuk menyalurkan aspirasinya, mengekspr
             <h3>PRAMUKA</h3>
             <p class="fst-italic">
               TUJUAN PRAMUKA
-            </p>
-            <p>
-            Pramuka bertujuan untuk membentuk setiap Pramuka agar memiliki kepribadian yang beriman, bertakwa, berakhlak mulia, berjiwa patriotik, taat hukum, disiplin, menjunjung tinggi nilai-nilai luhur bangsa, dan memiliki berkecakapan hidup sebagai kader bangsa dalam menjaga dan membangun Negeara Kesatuan Republik
+              <p align="justify"> Pramuka bertujuan untuk membentuk setiap Pramuka agar memiliki kepribadian yang beriman, bertakwa, berakhlak mulia, berjiwa patriotik, taat hukum, disiplin, menjunjung tinggi nilai-nilai luhur bangsa, dan memiliki berkecakapan hidup sebagai kader bangsa dalam menjaga dan membangun Negeara Kesatuan Republik
             </p>
           </div>
         </div><!-- Features Item -->
@@ -258,8 +190,7 @@ OSIS bertujuan memfasilitasi para siswa untuk menyalurkan aspirasinya, mengekspr
             <h3>PMR WIRA</h3>
             <p class="fst-italic">
              TUJUAN PMR WIRA
-            </p>
-            <P>Ekskul PMR atau palang merah remaja juga bertujuan untuk melatih dan membentuk jiwa kemanusiaan para anggotanya agar mereka bisa memiliki kepedulian yang tinggi terhadap kemanusiaan sejak usia dini. Tentu saja ini akan membuat Kamu menjadi pribadi yang lebih mampu berempati dengan individu lainnya.</P>
+             <p align="justify">Ekskul PMR atau palang merah remaja juga bertujuan untuk melatih dan membentuk jiwa kemanusiaan para anggotanya agar mereka bisa memiliki kepedulian yang tinggi terhadap kemanusiaan sejak usia dini. Tentu saja ini akan membuat Kamu menjadi pribadi yang lebih mampu berempati dengan individu lainnya.</P>
           </div>
         </div><!-- Features Item -->
 
@@ -290,8 +221,7 @@ OSIS bertujuan memfasilitasi para siswa untuk menyalurkan aspirasinya, mengekspr
             <h3>IRMAS</h3>
             <p class="fst-italic">
             TUJUAN IRMAS
-            </p>
-            <P>remaja masjid harus menjadi wadah pemersatu serta dapat membentengi dan mencegah agar generasi muda Islam tidak terlibat perilaku negatif atau kenakalan remaja.</P>
+            <p align="justify">remaja masjid harus menjadi wadah pemersatu serta dapat membentengi dan mencegah agar generasi muda Islam tidak terlibat perilaku negatif atau kenakalan remaja.</P>
           </div>
         </div><!-- Features Item -->
 
@@ -303,9 +233,7 @@ OSIS bertujuan memfasilitasi para siswa untuk menyalurkan aspirasinya, mengekspr
             <h3>SINEMA TOGRAFI</h3>
             <p class="fst-italic">
               TUJUAN SINEMATOGRAFI
-            </p>
-            <p>
-            Oleh karena itu pengambilan gambar yang baik sangat ditekankan pada proses ini. Jadi teknik sinematografi adalah cara/metode yang digunakan untuk mengambil gambar agar penonton mudah untuk menangkap makna/pesan yang ingin disampaikan melalui sebuah gambar.
+              <p align="justify">Oleh karena itu pengambilan gambar yang baik sangat ditekankan pada proses ini. Jadi teknik sinematografi adalah cara/metode yang digunakan untuk mengambil gambar agar penonton mudah untuk menangkap makna/pesan yang ingin disampaikan melalui sebuah gambar.
             </p>
           </div>
         </div><!-- Features Item -->
@@ -322,8 +250,7 @@ OSIS bertujuan memfasilitasi para siswa untuk menyalurkan aspirasinya, mengekspr
             <h3>FUTSAL</h3>
             <p class="fst-italic">
             TUJUAN FUTAL
-            </p>
-            <P>Tujuan dari olahraga ini adalah mencatak gol sebanyak-banyaknya kegawang lawan untuk bisa memenangkan pertandingan.</p>
+            <p align="justify">Tujuan dari olahraga ini adalah mencatak gol sebanyak-banyaknya kegawang lawan untuk bisa memenangkan pertandingan.</p>
           </div>
         </div><!-- Features Item -->
 
@@ -335,9 +262,7 @@ OSIS bertujuan memfasilitasi para siswa untuk menyalurkan aspirasinya, mengekspr
             <h3>VOLI BALL</h3>
             <p class="fst-italic">
               TUJUAN VOLI
-            </p>
-            <p>
-            tujuan dari permainan bola voli adalah melewatkan bola di atas net agar dapat jatuh menyentuh lantai lapangan lawan, untuk mencegah bola yang sama dari lawan. Setiap tim dapat memainkan tiga pantulan untuk mengembalikan bola diluar perkenaan block.
+              <p align="justify">tujuan dari permainan bola voli adalah melewatkan bola di atas net agar dapat jatuh menyentuh lantai lapangan lawan, untuk mencegah bola yang sama dari lawan. Setiap tim dapat memainkan tiga pantulan untuk mengembalikan bola diluar perkenaan block.
             </p>
           </div>
         </div><!-- Features Item -->
@@ -354,8 +279,7 @@ OSIS bertujuan memfasilitasi para siswa untuk menyalurkan aspirasinya, mengekspr
             <h3>BADMINTON</h3>
             <p class="fst-italic">
             TUJUAN BADMINTON
-            </p>
-           <P>Tujuan dari permainan bulutangkis adalah memperoleh angka dan kemenangan dengan cara menyebrangkan dan menjatuhkan shuttlecock di bidang permainan lawan dan berusaha agar lawan tidak dapat memukul shuttlecock atau menjatuhkannya di daerah permainannya sendiri.</P>
+            <p align="justify">Tujuan dari permainan bulutangkis adalah memperoleh angka dan kemenangan dengan cara menyebrangkan dan menjatuhkan shuttlecock di bidang permainan lawan dan berusaha agar lawan tidak dapat memukul shuttlecock atau menjatuhkannya di daerah permainannya sendiri.</P>
           </div>
         </div><!-- Features Item -->
 
@@ -367,9 +291,7 @@ OSIS bertujuan memfasilitasi para siswa untuk menyalurkan aspirasinya, mengekspr
             <h3>ENGLISH CLUB</h3>
             <p class="fst-italic">
               TUJUAN ENGLIS CLUB
-            </p>
-            <p>
-            English Club Sebagai Wadah Bagi Para Siswa Untuk Belajar Dan Meningkatkan Kemampuan Berbahasa Inggris. English Club Dapat Membantu Para Siswa Dalam Menunjang Pembelajaran Bahasa Inggris Dikelas Maupun Dilingkungan Sekitar Atau Diluar Sekolah.
+              <p align="justify"> English Club Sebagai Wadah Bagi Para Siswa Untuk Belajar Dan Meningkatkan Kemampuan Berbahasa Inggris. English Club Dapat Membantu Para Siswa Dalam Menunjang Pembelajaran Bahasa Inggris Dikelas Maupun Dilingkungan Sekitar Atau Diluar Sekolah.
             </p>
           </div>
         </div><!-- Features Item -->
@@ -386,8 +308,7 @@ OSIS bertujuan memfasilitasi para siswa untuk menyalurkan aspirasinya, mengekspr
             <h3>BENKAIKU (B. Jepang)</h3>
             <p class="fst-italic">
              TUJUAN BENKAIKU:
-            </p>
-            <p>Menghasilkan sarjana pendidikan bahasa Jepang yang menguasai teori pengajaran bahasa Jepang, kemahiran mengajar bahasa Jepang, teori belajar dan pembelajaran bahasa Jepang, dan mampu menerapkan dalam pembelajaran bahasa Jepang pada jenjang pendidikan menengah sesuai dengan standar kompetensi lulusan, standar isi, serta standar proses.</p>
+             <p align="justify">Menghasilkan sarjana pendidikan bahasa Jepang yang menguasai teori pengajaran bahasa Jepang, kemahiran mengajar bahasa Jepang, teori belajar dan pembelajaran bahasa Jepang, dan mampu menerapkan dalam pembelajaran bahasa Jepang pada jenjang pendidikan menengah sesuai dengan standar kompetensi lulusan, standar isi, serta standar proses.</p>
           </div>
         </div><!-- Features Item -->
         

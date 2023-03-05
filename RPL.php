@@ -112,11 +112,12 @@
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right" data-aos-delay="100">
           <div class="section-title">
-          <h2 class="fst-italic text-bold">RPL (Rekayasa Perangkat Lunak)</h2>
-          <p>SMK Bina Cendekia Cirebon </p>
+          <h2 class="fst-italic text-bold">
+          <p align="justify"> RPL (Rekayasa Perangkat Lunak)
+          SMK Bina Cendekia Cirebon </p>
         </div>
-            <ul> 
-          <br>Membekali peserta didik dengan ketrampilan,pengetahuan sikap agar kompeten menginstalasi software aplikasi,mengoperasikan software,mrawat software aplikasi dan mengelola di bidang pembuatan softaware aplikasi.</br>
+            <ul>
+          <br><p align="justify">Membekali peserta didik dengan ketrampilan,pengetahuan sikap agar kompeten menginstalasi software aplikasi,mengoperasikan software,mrawat software aplikasi dan mengelola di bidang pembuatan softaware aplikasi.</br>
           </div>
         </div>
 
@@ -139,7 +140,7 @@
                 <img src="assets/img/rpl1.jpeg" alt="" class="img-fluid">
               </div>
               <h3><a href="service-details.html" class="stretched-link">23 Juli 2021</a></h3>
-              <p>belajar denangan tenang dengan alat-alat yang sudah di tersediakan</p>
+              <p align="justify">belajar denangan tenang dengan alat-alat yang sudah di tersediakan</p>
             </div>
           </div><!-- End Card Item -->
 
@@ -149,7 +150,7 @@
                 <img src="assets/img/rpl2.jpeg" alt="" class="img-fluid">
               </div>
               <h3><a href="service-details.html" class="stretched-link">15 Maret 2022</a></h3>
-              <p>Uji Kometensi Kejuruan Rekayasa Perangkat Lunak kelas XII</p>
+              <p align="justify">Uji Kometensi Kejuruan Rekayasa Perangkat Lunak kelas XII</p>
             </div>
           </div><!-- End Card Item -->
 
@@ -159,7 +160,7 @@
                 <img src="assets/img/rpl3.jpeg" alt="" class="img-fluid">
               </div>
               <h3><a href="service-details.html" class="stretched-link">17 Maret 2022</a></h3>
-              <p>Uji Kometensi Kejuruan Rekayasa Perangkat Lunak kelas XII</p>
+              <p align="justify">Uji Kometensi Kejuruan Rekayasa Perangkat Lunak kelas XII</p>
             </div>
           </div><!-- End Card Item -->
 
@@ -169,7 +170,7 @@
                 <img src="assets/img/rpl4.jpeg" alt="" class="img-fluid">
               </div>
               <h3><a href="service-details.html" class="stretched-link">09 November 2022</a></h3>
-          <p>kegiatan belajar di Sekolah SMK Bina Cendekia</p>
+              <p align="justify">kegiatan belajar di Sekolah SMK Bina Cendekia</p>
             </div>
           </div><!-- End Card Item -->
 
@@ -179,7 +180,7 @@
                 <img src="assets/img/rpl5.jpeg" alt="" class="img-fluid">
               </div>
               <h3><a href="service-details.html" class="stretched-link">20 Oktober 2022</a></h3>
-              <p>jurusan Rpl di SMK Bina Cendekia. </p>
+              <p align="justify">jurusan Rpl di SMK Bina Cendekia. </p>
             </div>
           </div><!-- End Card Item -->
 
@@ -189,7 +190,7 @@
                 <img src="assets/img/rpl6.jpeg" alt="" class="img-fluid">
               </div>
               <h3><a href="service-details.html" class="stretched-link">24 Agustus 2022</a></h3>
-              <p>kegiatan anak Rpl di laboratium SMK Bina Cendekia Cirebon.</p>
+              <p align="justify">kegiatan anak Rpl di laboratium SMK Bina Cendekia Cirebon.</p>
             </div>
           </div><!-- End Card Item -->
 
@@ -199,7 +200,7 @@
                 <img src="assets/img/rpl7.jpeg" alt="" class="img-fluid">
               </div>
               <h3><a href="service-details.html" class="stretched-link">15 Desember 2021</a></h3>
-              <p>Sekolah SMK Bina Cendekia Cirebon kerja sama dengan PT Selim Elektro. </p>
+              <p align="justify">Sekolah SMK Bina Cendekia Cirebon kerja sama dengan PT Selim Elektro. </p>
             </div>
           </div><!-- End Card Item -->
 
@@ -209,7 +210,7 @@
                 <img src="assets/img/rpl8.jpeg" alt="" class="img-fluid">
               </div>
               <h3><a href="service-details.html" class="stretched-link">19 November 2022</a></h3>
-              <p>Warkosp, penjelasan kurikulum  dan bahan ajar, SMK Bina Cendekia Cirebon.</p>
+              <p align="justify">Warkosp, penjelasan kurikulum  dan bahan ajar, SMK Bina Cendekia Cirebon.</p>
             </div>
           </div><!-- End Card Item -->
         </div>

@@ -32,8 +32,7 @@
 </head>
 <body>
 
-  <!-- ======= Header ======= -->
- <header id="header" class="p-3 mb-2 bg-primary text-white fixed-padding">
+ 
    <!-- ======= Header ======= -->
    <header id="header" class="p-0 mb-1 bg-primary text-white fixed-padding">
     <div class="container-fluid container-xl d-flex align-items-center justify-content-between ">
@@ -140,7 +139,7 @@
           <div class="col-lg-3 col-md-1 d-flex">
             <div class="member">
             <a class="team" href="index.php">
-              <a class="team" href="halaman_guru.php">
+              <a class="team" href="">
               <img src="assets/img/team/01.jpeg" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Maulana Jamaludin, S.Kom</h4>

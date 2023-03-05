@@ -29,18 +29,19 @@
   <!-- Template Main CSS File -->
   <link href="assets/css/main.css" rel="stylesheet">
 
-  </head>
+  <!-- =======================================================
+  * Template Name: Logis - v1.3.0
+  * Template URL: https://bootstrapmade.com/logis-bootstrap-logistics-website-template/
+  * Author: BootstrapMade.com
+  * License: https://bootstrapmade.com/license/
+  ======================================================== -->
+</head>
 <body>
   
   
   
-<<<<<<< HEAD
  <!-- ======= Header ======= -->
  <header id="header" class="p-0 mb-1 bg-primary text-white fixed-padding">
-=======
-  <!-- ======= Header ======= -->
- <header id="header" class="p-3 mb-2 bg-primary text-white fixed-padding">
->>>>>>> 57e0c86646b470c94b819b95b9301903344d5b38
     <div class="container-fluid container-xl d-flex align-items-center justify-content-between ">
 
     <a href="" class="navbar-brand">
@@ -107,15 +108,45 @@
     </div>
   </header><!-- End Header -->
 
-   <main id="main">
+    <!-- ======= Featured Services Section ======= -->
+      <section id="header" class="header">
+
+        <div class="row gy-4">
+          
+          <!-- End Service Item -->
+    </section>
+    <!-- End Featured Services Section -->
+
+
+ <!-- ======= Breadcrumbs ======= -->
+ <div class="breadcrumbs">
+      <div class="header">
+        <div class="container position-relative">
+          <div class="row d-flex justify-content-center">
+            <div class="col-lg-6 text-center">
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      <nav>
+        <div class="container">
+          <ol>
+            <li><a href="index.php">Beranda</a></li>
+            <li><a href="">Profil Sekolah</a></li>
+          </ol>
+        </div>
+      </nav>
+    </div><!-- End Breadcrumbs --> 
+  <main id="main">
     
-    <!-- ======= About Section ======= -->
+<!-- ======= About Section ======= -->
     <section id="about" class="about">
       <div class="container" data-aos="fade-up">
 
         <div class="row">
-          <div class="col-lg-6 order-1 order-lg-2" data-aos="fade-left" data-aos-delay="100">
-            <center><img src="assets/img/asskepp1.png" class="img-fluid" alt="">
+          <div class="col-lg-5 order-1 order-lg-2" data-aos="fade-left" data-aos-delay="100">
+            <img src="assets/img/asskepp1.png" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right" data-aos-delay="100">
           <div class="section-title">
@@ -123,13 +154,12 @@
           <p>SMK Bina Cendekia Cirebon </p>
         </div>
             <ul>
-          <br>Membekali peserta didik dengan ketrampilan,pengetahuan dan sikap agar kompeten agar di bidang merawat baik individu/ sendiri,keluarga,dll.serat memelihara dan dapat menyembuhkan.</br>
+          <br><p align="justify">Membekali peserta didik dengan ketrampilan,pengetahuan dan sikap agar kompeten agar di bidang merawat baik individu/ sendiri,keluarga,dll.serat memelihara dan dapat menyembuhkan.</br>
           </div>
         </div>
 
       </div>
     </section><!-- End About Section -->
-
         <!-- ======= Services Section ======= -->
         <section id="service" class="services pt-0">
       <div class="container" data-aos="fade-up">
@@ -147,7 +177,7 @@
                 <img src="assets/img/askep1.jpeg" alt="" class="img-fluid">
               </div>
               <h3><a href="service-details.html" class="stretched-link">12 maret 2022</a></h3>
-              <p>uji kompetensi keahlian (UKK) kelas 12 jurusan di SMK Bina Cendekia langsung di RS PERMATA</p>
+              <p align="justify">uji kompetensi keahlian (UKK) kelas 12 jurusan di SMK Bina Cendekia langsung di RS PERMATA</p>
             </div>
           </div><!-- End Card Item -->
 
@@ -157,7 +187,7 @@
                 <img src="assets/img/askep2.jpeg" alt="" class="img-fluid">
               </div>
               <h3><a href="service-details.html" class="stretched-link">12 maret 2022</a></h3>
-              <p>uji kompetensi keahlian (UKK) kelas 12 jurusan di SMK Bina Cendekia langsung di RS PERMATA</p>
+              <p align="justify">uji kompetensi keahlian (UKK) kelas 12 jurusan di SMK Bina Cendekia langsung di RS PERMATA</p>
             </div>
           </div><!-- End Card Item -->
 
@@ -169,7 +199,7 @@
                 <img src="assets/img/askep3.jpeg" alt="" class="img-fluid">
               </div>
               <h3><a href="service-details.html" class="stretched-link">12 maret 2022</a></h3>
-              <p>uji kompetensi keahlian (UKK) kelas 12 jurusan di SMK Bina Cendekia langsung di RS PERMATA</p>
+              <p align="justify">uji kompetensi keahlian (UKK) kelas 12 jurusan di SMK Bina Cendekia langsung di RS PERMATA</p>
             </div>
           </div><!-- End Card Item -->
 
@@ -179,7 +209,7 @@
                 <img src="assets/img/askep4.jpeg" alt="" class="img-fluid">
               </div>
               <h3><a href="service-details.html" class="stretched-link">18 januari 2022</a></h3>
-              <p>alumni SMK Bina Cendeki Cirebon lulus sekolah langsung kerja di rumah sakit permata cirebon</p>
+              <p align="justify">alumni SMK Bina Cendeki Cirebon lulus sekolah langsung kerja di rumah sakit permata cirebon</p>
             </div>
           </div><!-- End Card Item -->
 
@@ -189,7 +219,7 @@
                 <img src="assets/img/askep5.jpeg" alt="" class="img-fluid">
               </div>
               <h3><a href="service-details.html" class="stretched-link">12 maret 2022</a></h3>
-              <p>praktek Asisten Keperawatan</p>
+              <p align="justify">praktek Asisten Keperawatan</p>
             </div>
           </div><!-- End Card Item -->
 
@@ -199,7 +229,7 @@
                 <img src="assets/img/askep6.jpeg" alt="" class="img-fluid">
               </div>
               <h3><a href="service-details.html" class="stretched-link">23 juli 2022</a></h3>
-              <p>juara 2 lomba kompetensi siswa (LKS) Bidang Health Dan Social Care Tingkat Provinsi Jawa Barat </p>
+              <p align="justify">juara 2 lomba kompetensi siswa (LKS) Bidang Health Dan Social Care Tingkat Provinsi Jawa Barat </p>
             </div>
           </div><!-- End Card Item -->
 
@@ -209,7 +239,7 @@
                 <img src="assets/img/askep7.jpeg" alt="" class="img-fluid">
               </div>
               <h3><a href="service-details.html" class="stretched-link">03 agustus 2022</a></h3>
-              <p>lomba LKS tingkat provinsi jawa barat.cirebon dalam live dengan mata lomba "Health social and care"</p>
+              <p align="justify">lomba LKS tingkat provinsi jawa barat.cirebon dalam live dengan mata lomba "Health social and care"</p>
             </div>
           </div><!-- End Card Item -->
 

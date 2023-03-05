@@ -32,7 +32,6 @@
 </head>
 <body>
 
-<<<<<<< HEAD
   
  <!-- ======= Header ======= -->
  <header id="header" class="p-0 mb-1 bg-primary text-white fixed-padding">
@@ -41,16 +40,6 @@
     <a href="" class="navbar-brand">
         <!-- Uncomment the line below if you also wish to use an image logo -->
         <img src="assets/img/ke.png" style="width:190px;" alt="Logo Smk Bina Cendekia">
-=======
-
-  <!-- ======= Header ======= -->
-  <header id="header" class="p-3 mb-2 bg-primary text-white fixed-padding">
-    <div class="container-fluid container-xl d-flex align-items-center justify-content-between ">
-
-    <a href="" class="navbar-brand">
-        <!-- Uncomment the line below if you also wish to use an image logo -->
-        <img src="assets/img/ke.png" style="width:210px;" alt="Logo Smk Bina Cendekia">
->>>>>>> 57e0c86646b470c94b819b95b9301903344d5b38
         <h1 class="text-dark left"></h1>
       </a>
 

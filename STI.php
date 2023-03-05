@@ -115,7 +115,7 @@
           <p>SMK Bina Cendekia Cirebon </p>
         </div>
             <ul>
-          <br>kualitas sumber daya manusia merupakan faktor mendasar guna meningkatkan daya saing dan produktivitas angkatan kerja dalam menghadapi bonus demografi yang kian menantang </br>
+          <br<p align="justify">kualitas sumber daya manusia merupakan faktor mendasar guna meningkatkan daya saing dan produktivitas angkatan kerja dalam menghadapi bonus demografi yang kian menantang </br>
           </div>
         </div>
 
@@ -139,7 +139,7 @@
                 <img src="assets/img/sti1.jpeg" alt="" class="img-fluid">
               </div>
               <h3><a href="service-details.html" class="stretched-link">29 sepetember 2019</a></h3>
-              <p>kegiatan praktek program studi Samsung Tech Institute SMK Bina Cendekia Cirebon</p>
+              <p align="justify">kegiatan praktek program studi Samsung Tech Institute SMK Bina Cendekia Cirebon</p>
             </div>
           </div><!-- End Card Item -->
 
@@ -149,7 +149,7 @@
                 <img src="assets/img/sti2.jpeg" alt="" class="img-fluid">
               </div>
               <h3><a href="service-details.html" class="stretched-link">29 sepetember 2019</a></h3>
-            <p>kegiatan praktek program studi Samsung Tech Institute SMK Bina Cendekia Cirebon</p>
+              <p align="justify">kegiatan praktek program studi Samsung Tech Institute SMK Bina Cendekia Cirebon</p>
             </div>
           </div><!-- End Card Item -->
 
@@ -159,7 +159,7 @@
                 <img src="assets/img/sti3.jpeg" alt="" class="img-fluid">
               </div>
               <h3><a href="service-details.html" class="stretched-link">29 sepetember 2019</a></h3>
-              <p>kegiatan praktek program studi Samsung Tech Institute SMK Bina Cendekia Cirebon</p>
+              <p align="justify">kegiatan praktek program studi Samsung Tech Institute SMK Bina Cendekia Cirebon</p>
             </div>
           </div><!-- End Card Item -->
 
@@ -169,7 +169,7 @@
                 <img src="assets/img/sti4.jpeg" alt="" class="img-fluid">
               </div>
               <h3><a href="service-details.html" class="stretched-link">23 januari 2019</a></h3>
-              <p>praktek anak-anak SAMSUNG</p>
+              <p align="justify">praktek anak-anak SAMSUNG</p>
             </div>
           </div><!-- End Card Item -->
 
@@ -179,7 +179,7 @@
                 <img src="assets/img/sti5.jpeg" alt="" class="img-fluid">
               </div>
               <h3><a href="service-details.html" class="stretched-link">23 januari 2019</a></h3>
-              <p>praktek anak-anak SAMSUNG</p>
+              <p align="justify">praktek anak-anak SAMSUNG</p>
             </div>
           </div><!-- End Card Item -->
 
@@ -189,7 +189,7 @@
                 <img src="assets/img/sti6.jpeg" alt="" class="img-fluid">
               </div>
               <h3><a href="service-details.html" class="stretched-link">04 Januari 2022</a></h3>
-              <p></p>kelas SAMSUNG SMK Bina Cendekia Cirebon masa Training DI SAMSUNG CENTER CIREBON
+              <p align="justify">kelas SAMSUNG SMK Bina Cendekia Cirebon masa Training DI SAMSUNG CENTER CIREBON
             </div>
           </div><!-- End Card Item -->
 
@@ -199,7 +199,7 @@
                 <img src="assets/img/sti7.jpeg" alt="" class="img-fluid">
               </div>
               <h3><a href="service-details.html" class="stretched-link">23 februari 2022</a></h3>
-              <p>anak-anak SAMSUNG SMK Bina Cendekia Cirebon</p>
+              <p align="justify">anak-anak SAMSUNG SMK Bina Cendekia Cirebon</p>
             </div>
           </div><!-- End Card Item -->
 
@@ -209,7 +209,7 @@
                 <img src="assets/img/sti8.jpeg" alt="" class="img-fluid">
               </div>
               <h3><a href="service-details.html" class="stretched-link">04 Januari 2022</a></h3>
-              <p>kelas SAMSUNG SMK Bina Cendekia Cirebon masa Training DI SAMSUNG CENTER CIREBON</p>
+              <p align="justify">kelas SAMSUNG SMK Bina Cendekia Cirebon masa Training DI SAMSUNG CENTER CIREBON</p>
             </div>
           </div><!-- End Card Item -->
 
