@@ -36,12 +36,12 @@
   
 
    <!-- ======= Header ======= -->
-   <header id="header" class="p-3 mb-2 bg-primary text-white fixed-padding">
+   <header id="header" class="p-0 mb-1 bg-primary text-white fixed-padding">
     <div class="container-fluid container-xl d-flex align-items-center justify-content-between ">
 
     <a href="" class="navbar-brand">
         <!-- Uncomment the line below if you also wish to use an image logo -->
-        <img src="assets/img/ke.png" style="width:210px;" alt="Logo Smk Bina Cendekia">
+        <img src="assets/img/ke.png" style="width:190px;" alt="Logo Smk Bina Cendekia">
         <h1 class="text-dark left"></h1>
       </a>
 
