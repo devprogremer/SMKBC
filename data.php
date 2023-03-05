@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Data Guru-SMK BCC</title>
+  <title>Data Guru - SMK BCC</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -29,26 +29,19 @@
   <!-- Template Main CSS File -->
   <link href="assets/css/main.css" rel="stylesheet">
 
-  <!-- =======================================================
-  * Template Name: Logis - v1.3.0
-  * Template URL: https://bootstrapmade.com/logis-bootstrap-logistics-website-template/
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
 </head>
 <body>
 
-  
-  
-
   <!-- ======= Header ======= -->
-  <header id="header" class="header d-flex align-items-center fixed-top bg-primary">
-    <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
+ <header id="header" class="p-3 mb-2 bg-primary text-white fixed-padding">
+   <!-- ======= Header ======= -->
+   <header id="header" class="p-0 mb-1 bg-primary text-white fixed-padding">
+    <div class="container-fluid container-xl d-flex align-items-center justify-content-between ">
 
-      <a href="index.php" class="logo d-flex align-items-center">
+    <a href="" class="navbar-brand">
         <!-- Uncomment the line below if you also wish to use an image logo -->
-        <img src="assets/img/okkkkkk.png" alt="">
-        <h1>SMK BINA CENDEKIA CIREBON</h1>
+        <img src="assets/img/ke.png" style="width:190px;" alt="Logo Smk Bina Cendekia">
+        <h1 class="text-dark left"></h1>
       </a>
 
       <i class="mobile-nav-toggle mobile-nav-show bi bi-list"></i>
@@ -64,7 +57,6 @@
                   <li><a href="visi.php">Visi dan Misi</a></li>
                   <li><a href="organisasi.php">Struktur Organisasi</a></li>
                   <li><a href="data.php">Data Guru</a></li>
-                  <li><a href="akreditasi.php">Akreditasi</a></li>
                   <li><a href="industri.php">Hubungan Industri</a></li>    
                   <li><a href="prestasi.php">Prestasi</a></li>           
                   <li class="dropdown"><a href="#"><span>Sarana</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
@@ -99,7 +91,6 @@
                 <li><a href="PKL.php">PKL 2023</a></li>
                 </ul>
               </li>
-            </ul>
           </li>
               <li class="dropdown"><a href="#"><span>PPDB</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
             <ul>
@@ -109,40 +100,9 @@
           <li><a class="get-a-quote bg-light text-dark" href="cek_login.php">Login</a></li>
         </ul>
       </nav><!-- .navbar -->
-
-    </div>
+</div>
   </header><!-- End Header -->
-
-    <!-- ======= Featured Services Section ======= -->
-      <section id="header" class="header">
-
-        <div class="row gy-4">
-          
-          <!-- End Service Item -->
-    </section>
-    <!-- End Featured Services Section -->
-
-
- <!-- ======= Breadcrumbs ======= -->
- <div class="breadcrumbs">
-      <div class="header">
-        <div class="container position-relative">
-          <div class="row d-flex justify-content-center">
-            <div class="col-lg-6 text-center">
-              
-            </div>
-          </div>
-        </div>
-      </div>
-      <nav>
-        <div class="container">
-          <ol>
-            <li><a href="index.php">Beranda</a></li>
-            <li><a href="">Profil Sekolah</a></li>
-          </ol>
-        </div>
-      </nav>
-    </div><!-- End Breadcrumbs --> 
+ 
 
   <main id="main">
 
@@ -163,7 +123,7 @@
             <a class="team" href="index.php">
               <img src="assets/img/team/kepsek.jpeg" class="img-fluid" alt="">
               <div class="member-content">
-                <h4>Ade Rahamat Saputra,M,Pd.</h4>
+                <h4>Ade Rahmat Saputra. M,Pd.</h4>
             
                 <p>
                  

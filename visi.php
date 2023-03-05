@@ -5,46 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>SMK BINA CENDEKIA CIREBON</title>
-  <meta content="" name="description">
-  <meta content="" name="keywords">
-
-  <!-- Favicons -->
-  <link href="assets/img/okkkkkk.png" rel="icon">
-  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
-
-  <!-- Google Fonts -->
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,600;1,700&family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Inter:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet">
-
-  <!-- Vendor CSS Files -->
-  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
-  <link href="assets/vendor/fontawesome-free/css/all.min.css" rel="stylesheet">
-  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
-  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
-  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
-
-  <!-- Template Main CSS File -->
-  <link href="assets/css/main.css" rel="stylesheet">
-
-  <!-- =======================================================
-  * Template Name: Logis - v1.3.0
-  * Template URL: https://bootstrapmade.com/logis-bootstrap-logistics-website-template/
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
-</head>
-<body>
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-  <meta charset="utf-8">
-  <meta content="width=device-width, initial-scale=1.0" name="viewport">
-
-  <title>SMK BINA CENDEKIA CIREBON</title>
+  <title>Visi Misi - SMK BCC</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -72,23 +33,23 @@
 <body>
 
 
-<!-- ======= Header ======= -->
-<header id="header" class="header d-flex align-items-center fixed-top bg-primary">
-    <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
+ <!-- ======= Header ======= -->
+ <header id="header" class="p-0 mb-1 bg-primary text-white fixed-padding">
+    <div class="container-fluid container-xl d-flex align-items-center justify-content-between ">
 
-      <a href="index.php" class="logo d-flex align-items-center">
+    <a href="" class="navbar-brand">
         <!-- Uncomment the line below if you also wish to use an image logo -->
-        <img src="assets/img/okkkkkk.png" alt="">
-        <h1>SMK BINA CENDEKIA CIREBON</h1>
+        <img src="assets/img/ke.png" style="width:190px;" alt="Logo Smk Bina Cendekia">
+        <h1 class="text-dark left"></h1>
       </a>
 
       <i class="mobile-nav-toggle mobile-nav-show bi bi-list"></i>
       <i class="mobile-nav-toggle mobile-nav-hide d-none bi bi-x"></i>
-      <nav id="navbar" class="navbar">
+      <nav id="navbar" class="navbar bg-primary">
          <ul>
-          <li class="bg-primary text-light"><a href="index.php" class="active">Beranda</a></li>
+          <li class="bg-primary text-light"><a href="index.php" class="active" class="bi bi-">Beranda</a></li>
           <ul>
-              <li class="dropdown"><a href="#"><span>Tentang Kami</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
+              <li class="dropdown bg-primary"><a href="#"><span>Tentang Kami</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
                 <ul>
                   <li><a href="profil.php">Profil Sekolah</a></li>
                   <li><a href="sambutan.php">Sambutan Kepsek</a></li>
@@ -129,14 +90,13 @@
                 <li><a href="PKL.php">PKL 2023</a></li>
                 </ul>
               </li>
-            </ul>
           </li>
               <li class="dropdown"><a href="#"><span>PPDB</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
             <ul>
               <li><a href="informasi.php">Informasi Pendaftaran</a></li>
               </ul>
           <li><a href="contact.php">Contact</a></li>
-          <li><a class="get-a-quote bg-dark" href="cek_login.php">Login</a></li>
+          <li><a class="get-a-quote bg-light text-dark" href="cek_login.php">Login</a></li>
         </ul>
       </nav><!-- .navbar -->
 
@@ -144,37 +104,21 @@
   </header><!-- End Header -->
   
   <main id="main">
-</div>
- <!-- ======= Featured Services Section ======= -->
- <section id="header" class="header">
 
-<div class="row gy-4">
-  
-  <!-- End Service Item -->
-</section>
-<!-- End Featured Services Section -->
+<!-- ======= Horizontal Pricing Section ======= -->
+     <section id="feature" class="feature pt-0">
+      <div class="container" data-aos="fade-up">
 
-
-<!-- ======= Breadcrumbs ======= -->
-<div class="breadcrumbs">
-<div class="header">
-<div class="container position-relative">
-  <div class="row d-flex justify-content-center">
-    <div class="col-lg-6 text-center">
-      
-    </div>
-  </div>
-</div>
-</div>
-<nav>
-<div class="container">
-  <ol>
-    <li><a href="index.php">Beranda</a></li>
-    <li><a>Visi dan Misi</a></li>
-  </ol>
-</div>
-</nav>
-</div><!-- End Breadcrumbs --> 
+        <div class="section-header mt-4">
+          <span>SMK BINA CENDEKIA CIREBON</span>
+          <h2>Visi dan Misi</h2>
+        </div>
+          <div class="row gy-4 pricing-item mt-0" data-aos="fade-up" data-aos-delay="300">
+          <div class="col-lg-6 d-flex align-items-center justify-content-center">
+          </div>
+        </div><!-- End Pricing Item -->
+      </div>
+    </section><!-- End Horizontal Pricing Section -->
 
   <!-- ======= About Us Section ======= -->
   <section id="about" class="about pt-4">
@@ -182,20 +126,19 @@
 
         <div class="row gy-4">
           <div class="col-lg-6 position-relative align-self-start order-lg-last order-first">
-            <img src="assets/img/profill.jpeg" class="img-fluid" alt="">
-            <a href="https://youtu.be/eYXaqvNPlwc" class="glightbox play-btn"></a>
+            <img src="assets/img/profil4.jpeg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 content order-last  order-lg-first">
             <h3>Visi SMK Bina Cendekia Cirebon</h3>
             <div class="col-md-7">
             <p class="fst-italic">
-           
-            “Berakhlak mulia, berprestasi tinggi, tangguh dalam kompetisi, berwawasan lingkungan dengan berlandaskan budaya nasional dan kearifan lokal”.
+              "Menjadi Sekolah Menengah Kejuruan yang Berkarakter, Berbudaya, Berwawasan Lingkungan, Menghasilkan Insan yang Bertaqwa, Profesional Mampu Berwirausaha dan Berdaya Saing Global"
             </p>
           </div>
             <ul>
     
     </section><!-- End About Us Section -->
+    
     <!-- ======= Features Section ======= -->
     <section id="features" class="features">
       <div class="container">
@@ -203,32 +146,17 @@
         <div class="row gy-4 align-items-center features-item" data-aos="fade-up">
 
           <div class="col-md-5">
-            <img src="assets/img/profil4.jpeg" class="img-fluid" alt="">
+            <img src="assets/img/profill.jpeg" class="img-fluid" alt="">
           </div>
           <div class="col-md-7">
             <h3>Misi SMK Bina Cendekia Cirebon</h3>
-            <p class="fst-italic">
-            Setiap tahun secara berkala ditinjau dan dirumuskan untuk disesuaikan dengan perkembangan dan tantangan masyarakat. 
-            </p>
             <ul>
-              <li><i class="bi bi-check"></i> Memantapkan penghayatan dan pengamalan ajaran agama.</li>
-              <li><i class="bi bi-check"></i> Melaksanakan kurikulum berwawasan lingkungan dengan berlandaskan budaya nasional dan kearifan lokal.</li>
-              <li><i class="bi bi-check"></i> Melaksanakan peningkatan kualitas sumber daya manusia yang berkarakter dan mandiri.</li>
-            </ul>
-          </div>
-        </div><!-- Features Item -->
-
-        <div class="row gy-4 align-items-center features-item" data-aos="fade-up">
-          <div class="col-md-5 order-1 order-md-2">
-            <img src="assets/img/profil3.jpeg" class="img-fluid" alt="">
-          </div>
-          <div class="col-md-7 order-2 order-md-1">
-            <h3>Strategi SMK Bina Cendekia Cirebon</h3>
-            <ul>
-              <li><i class="bi bi-check"></i> Fokus untuk memuaskan konsumen: Misi memberi tahu siapa konsumennya, apa kebutuhan yang harus dipenuhi, dan bagaimana cara memenuhinya.</li>
-              <li><i class="bi bi-check"></i> Berdasarkan kompetensi utama: Perusahaan membangun misi berdasarkan kekuatan internalnya yang superior dan kompetitif, memilikikapabilitas unik atau sumber daya yang membantu perusahaan bekerja lebih baik dibandingkan perusahaan lainnya.</li>
-              <li><i class="bi bi-check"></i> Memotivasi dan menginspirasi komitmen stakeholder: stakeholder harus merasa pekerjaan dalam perusahaan Anda signifikan, menginspirasi, dan berkontribusi bagi kehidupan manusia.</li>
-              <li><i class="bi bi-check"></i> Realistis: jangan membuat misi yang terlalu sempit atau terlalu luas.</li>
+              <li><i class="bi bi-check"></i> Mengembangkan kurikulum, metodologi pembelajaran dan sistem penilaian berbasis kompetensi yang berkarakter.</li>
+              <li><i class="bi bi-check"></i> Menyelenggarakan kegiatan ekstrakurikuler agar peserta didik memiliki multi skills yang mampu mengembangkan kecakapan hidup ( life skill ) dan berakhlakul mulia, kreatif dan inovatif. </li>
+              <li><i class="bi bi-check"></i> Meningkatkan kualitas pendidik dan tenaga kependidikan yang yang memenuhi kualitas profesional, kreatif, inovatif, berkarakter dan berbudaya.</li>
+              <li><i class="bi bi-check"></i> Meningkatkan fasilitas dan lingkungan belajar yang aman, nyaman, memenuhi standar nasional pendidikan, standar kerja industri secara kualitas dan kuantitas.</li>
+              <li><i class="bi bi-check"></i> Membangun kemitraan ( link and match ) dengan lembaga yang relevan baik dalam maupun luar negeri.</li>
+              <li><i class="bi bi-check"></i> Mengembangkan sekolah unggulan berbasis literasi.</li>
             </ul>
           </div>
         </div><!-- Features Item -->

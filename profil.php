@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>SMK BINA CENDEKIA CIREBON</title>
+  <title>Profil Sekolah - SMK BCC</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -29,32 +29,26 @@
   <!-- Template Main CSS File -->
   <link href="assets/css/main.css" rel="stylesheet">
 
-  <!-- =======================================================
-  * Template Name: Logis - v1.3.0
-  * Template URL: https://bootstrapmade.com/logis-bootstrap-logistics-website-template/
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
 </head>
 <body>
 
-<!-- ======= Header ======= -->
-<header id="header" class="header d-flex align-items-center fixed-top bg-primary">
-    <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
+  <!-- ======= Header ======= -->
+  <header id="header" class="p-0 mb-1 bg-primary text-white fixed-padding">
+    <div class="container-fluid container-xl d-flex align-items-center justify-content-between ">
 
-      <a href="index.php" class="logo d-flex align-items-center">
+    <a href="" class="navbar-brand">
         <!-- Uncomment the line below if you also wish to use an image logo -->
-        <img src="assets/img/okkkkkk.png" alt="">
-        <h1>SMK BINA CENDEKIA CIREBON</h1>
+        <img src="assets/img/ke.png" style="width:190px;" alt="Logo Smk Bina Cendekia">
+        <h1 class="text-dark left"></h1>
       </a>
 
       <i class="mobile-nav-toggle mobile-nav-show bi bi-list"></i>
       <i class="mobile-nav-toggle mobile-nav-hide d-none bi bi-x"></i>
-      <nav id="navbar" class="navbar">
+      <nav id="navbar" class="navbar bg-primary">
          <ul>
-          <li class="bg-primary text-light"><a href="index.php" class="active">Beranda</a></li>
+          <li class="bg-primary text-light"><a href="index.php" class="active" class="bi bi-">Beranda</a></li>
           <ul>
-              <li class="dropdown"><a href="#"><span>Tentang Kami</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
+              <li class="dropdown bg-primary"><a href="#"><span>Tentang Kami</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
                 <ul>
                   <li><a href="profil.php">Profil Sekolah</a></li>
                   <li><a href="sambutan.php">Sambutan Kepsek</a></li>
@@ -95,63 +89,35 @@
                 <li><a href="PKL.php">PKL 2023</a></li>
                 </ul>
               </li>
-            </ul>
           </li>
               <li class="dropdown"><a href="#"><span>PPDB</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
             <ul>
               <li><a href="informasi.php">Informasi Pendaftaran</a></li>
               </ul>
           <li><a href="contact.php">Contact</a></li>
-          <li><a class="get-a-quote bg-dark" href="cek_login.php">Login</a></li>
+          <li><a class="get-a-quote bg-light text-dark" href="cek_login.php">Login</a></li>
         </ul>
       </nav><!-- .navbar -->
-
     </div>
   </header><!-- End Header -->
 
-    <!-- ======= Featured Services Section ======= -->
-      <section id="header" class="header">
-
-        <div class="row gy-4">
-          
-          <!-- End Service Item -->
-    </section>
-    <!-- End Featured Services Section -->
-
-
- <!-- ======= Breadcrumbs ======= -->
- <div class="breadcrumbs">
-      <div class="header">
-        <div class="container position-relative">
-          <div class="row d-flex justify-content-center">
-            <div class="col-lg-6 text-center">
-              
-            </div>
-          </div>
-        </div>
-      </div>
-
-    </div><!-- End Breadcrumbs --> 
-
      <!-- ======= Horizontal Pricing Section ======= -->
-     <section id="horizontal-pricing" class="horizontal-pricing pt-0">
+     <section id="feature" class="feature pt-0">
       <div class="container" data-aos="fade-up">
 
         <div class="section-header mt-4">
           <span>PROFIL SMK BINA CENDEKIA CIREBON</span>
           <h2>Profil SMK BIna Cendekia Cirebon</h2>
-
         </div>
-        <center><img src="assets/img/ok.jpeg" alt="" style="width:1500x;height:133px;"><center>
         <div class="row gy-4 pricing-item mt-0" data-aos="fade-up" data-aos-delay="300">
           <div class="col-lg-6 d-flex align-items-center justify-content-center">
           <iframe width="560" height="315" src="https://www.youtube.com/embed/zlmHgEsRTZY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
           </div>
           <div class="col-lg-6 d-flex align-items-center justify-content-center">
             <ul>
-            <h5 class="fst-italic">
+            <h6 class="fst-italic">
             Sekolah Menengah Kejuruan (SMK) Bina Cendekia adalah sekolah kejuruan pada jenjang pendidikan menengah yang berada dalam jurisdiksi Kementerian Pendidikan dan Kebudayaan (Kemdikbud). Satuan pendidikan ini dapat menjadi alternatif bagi lulusan SMP dan MTs, terutama bagi mereka yang memilih program kejuruan, dalam mengikuti pendidikan menengah, sebagai persiapan untuk melanjutkan pendidikan ke perguruan tinggi atau untuk memasuki kehidupan di masyarakat melalui bekerja atau berwirausaha. Kurikulum yang dilaksanakan di SMK Bina Cendekia adalah kurikulum SMK yang dikeluarkan oleh Kemdikbud. Pelaksanaan PAI bersifat komplementer dengan program pesantren, terutama terkait kemampuan membaca Al Qur’an, sehingga diharapkan lulusannya mampu membaca Al Qur’an secara fasih dan lancar, serta memahami aturan-aturan Islam terkait ibadah dan mu’amalah.
-            </h5> 
+            </h6> 
             </ul>
           </div>
           
@@ -159,13 +125,10 @@
       </div>
     </section><!-- End Horizontal Pricing Section -->
 
-
     <!-- ======= Features Section ======= -->
     <section id="features" class="features">
       <div class="container">
-
         <div class="row gy-4 align-items-center features-item" data-aos="fade-up">
-
           <div class="col-md-5">
             <img src="assets/img/profil1.jpeg" class="img-fluid" alt="">
           </div>
@@ -182,27 +145,7 @@
             </ul>
           </div>
         </div><!-- Features Item -->
-
-        <div class="row gy-4 align-items-center features-item" data-aos="fade-up">
-          <div class="col-md-5 order-1 order-md-2">
-            <img src="assets/img/profil2.jpeg" class="img-fluid" alt="">
-          </div>
-          <div class="col-md-7 order-2 order-md-1">
-            <h3></h3>
-            <p class="fst-italic">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
-            </p>
-            <p>
-              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-              culpa qui officia deserunt mollit anim id est laborum
-            </p>
-          </div>
-        </div><!-- Features Item -->
-          </div>
-  
-
+      </div>
       </div>
     </section><!-- End Features Section -->
 

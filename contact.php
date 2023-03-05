@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>SMK BINA CENDEKIA CIREBON - Contact</title>
+  <title>Contact - SMK BCC</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -28,13 +28,6 @@
 
   <!-- Template Main CSS File -->
   <link href="assets/css/main.css" rel="stylesheet">
-
-  <!-- =======================================================
-  * Template Name: Logis - v1.3.0
-  * Template URL: https://bootstrapmade.com/logis-bootstrap-logistics-website-template/
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
 </head>
 
 <body>
@@ -42,13 +35,13 @@
   
 
   <!-- ======= Header ======= -->
-  <header id="header" class="header d-flex align-items-center fixed-top bg-primary">
-    <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
+  <header id="header" class="p-0 mb-1 bg-primary text-white fixed-padding">
+    <div class="container-fluid container-xl d-flex align-items-center justify-content-between ">
 
-      <a href="index.php" class="logo d-flex align-items-center">
+    <a href="" class="navbar-brand">
         <!-- Uncomment the line below if you also wish to use an image logo -->
-        <img src="assets/img/okkkkkk.png" alt="">
-        <h1>SMK BINA CENDEKIA CIREBON</h1>
+        <img src="assets/img/ke.png" style="width:190px;" alt="Logo Smk Bina Cendekia">
+        <h1 class="text-dark left"></h1>
       </a>
 
       <i class="mobile-nav-toggle mobile-nav-show bi bi-list"></i>
@@ -98,7 +91,6 @@
                 <li><a href="PKL.php">PKL 2023</a></li>
                 </ul>
               </li>
-            </ul>
           </li>
               <li class="dropdown"><a href="#"><span>PPDB</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
             <ul>
@@ -108,7 +100,6 @@
           <li><a class="get-a-quote bg-light text-dark" href="cek_login.php">Login</a></li>
         </ul>
       </nav><!-- .navbar -->
-
     </div>
   </header><!-- End Header -->
   

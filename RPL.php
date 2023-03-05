@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>SMK BINA CENDEKIA CIREBON</title>
+  <title>Rekayasa Perangkat Lunak - SMK BCC</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -29,32 +29,26 @@
   <!-- Template Main CSS File -->
   <link href="assets/css/main.css" rel="stylesheet">
 
-  <!-- =======================================================
-  * Template Name: Logis - v1.3.0
-  * Template URL: https://bootstrapmade.com/logis-bootstrap-logistics-website-template/
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
 </head>
 <body>
 
   <!-- ======= Header ======= -->
-<header id="header" class="header d-flex align-items-center fixed-top bg-primary">
-    <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
+  <header id="header" class="p-0 mb-1 bg-primary text-white fixed-padding">
+    <div class="container-fluid container-xl d-flex align-items-center justify-content-between ">
 
-      <a href="index.php" class="logo d-flex align-items-center">
+    <a href="" class="navbar-brand">
         <!-- Uncomment the line below if you also wish to use an image logo -->
-        <img src="assets/img/okkkkkk.png" alt="">
-        <h1>SMK BINA CENDEKIA CIREBON</h1>
+        <img src="assets/img/ke.png" style="width:190px;" alt="Logo Smk Bina Cendekia">
+        <h1 class="text-dark left"></h1>
       </a>
 
       <i class="mobile-nav-toggle mobile-nav-show bi bi-list"></i>
       <i class="mobile-nav-toggle mobile-nav-hide d-none bi bi-x"></i>
-      <nav id="navbar" class="navbar">
+      <nav id="navbar" class="navbar bg-primary">
          <ul>
-          <li class="bg-primary text-light"><a href="index.php" class="active">Beranda</a></li>
+          <li class="bg-primary text-light"><a href="index.php" class="active" class="bi bi-">Beranda</a></li>
           <ul>
-              <li class="dropdown"><a href="#"><span>Tentang Kami</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
+              <li class="dropdown bg-primary"><a href="#"><span>Tentang Kami</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
                 <ul>
                   <li><a href="profil.php">Profil Sekolah</a></li>
                   <li><a href="sambutan.php">Sambutan Kepsek</a></li>
@@ -95,51 +89,17 @@
                 <li><a href="PKL.php">PKL 2023</a></li>
                 </ul>
               </li>
-            </ul>
           </li>
               <li class="dropdown"><a href="#"><span>PPDB</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
             <ul>
               <li><a href="informasi.php">Informasi Pendaftaran</a></li>
               </ul>
           <li><a href="contact.php">Contact</a></li>
-          <li><a class="get-a-quote bg-dark" href="cek_login.php">Login</a></li>
+          <li><a class="get-a-quote bg-light text-dark" href="cek_login.php">Login</a></li>
         </ul>
       </nav><!-- .navbar -->
-
     </div>
   </header><!-- End Header -->
-
-    <!-- ======= Featured Services Section ======= -->
-      <section id="header" class="header">
-
-        <div class="row gy-4">
-          
-          <!-- End Service Item -->
-    </section>
-    <!-- End Featured Services Section -->
-
-
- <!-- ======= Breadcrumbs ======= -->
- <div class="breadcrumbs">
-      <div class="header">
-        <div class="container position-relative">
-          <div class="row d-flex justify-content-center">
-            <div class="col-lg-6 text-center">
-              
-            </div>
-          </div>
-        </div>
-      </div>
-      <nav>
-        <div class="container">
-          <ol>
-            <li><a href="index.php">Beranda</a></li>
-            <li><a href="">Profil Sekolah</a></li>
-          </ol>
-        </div>
-      </nav>
-    </div><!-- End Breadcrumbs --> 
-
 
   <main id="main">
 
@@ -148,12 +108,12 @@
       <div class="container" data-aos="fade-up">
 
         <div class="row">
-          <div class="col-lg-5 order-1 order-lg-2" data-aos="fade-left" data-aos-delay="100">
-            <img src="assets/img/rpll1.png" class="img-fluid" alt="">
+          <div class="col-lg-6 order-1 order-lg-2" data-aos="fade-left" data-aos-delay="100">
+            <center><img src="assets/img/rpll1.png" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right" data-aos-delay="100">
           <div class="section-title">
-          <h2>RPL (Rekayasa Perangkat Lunak)</h2>
+          <h2 class="fst-italic text-bold">RPL (Rekayasa Perangkat Lunak)</h2>
           <p>SMK Bina Cendekia Cirebon </p>
         </div>
             <ul> 

@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>SMK BINA CENDEKIA CIREBON</title>
+  <title>Sambutan Kepsek - SMK BCC</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -29,39 +29,32 @@
   <!-- Template Main CSS File -->
   <link href="assets/css/main.css" rel="stylesheet">
 
-  <!-- =======================================================
-  * Template Name: Logis - v1.3.0
-  * Template URL: https://bootstrapmade.com/logis-bootstrap-logistics-website-template/
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
 </head>
 <body>
 
  <!-- ======= Header ======= -->
-<header id="header" class="header d-flex align-items-center fixed-top bg-primary">
-    <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
+ <header id="header" class="p-3 mb-2 bg-primary text-white fixed-padding">
+    <div class="container-fluid container-xl d-flex align-items-center justify-content-between ">
 
-      <a href="index.php" class="logo d-flex align-items-center">
+    <a href="" class="navbar-brand">
         <!-- Uncomment the line below if you also wish to use an image logo -->
-        <img src="assets/img/okkkkkk.png" alt="">
-        <h1>SMK BINA CENDEKIA CIREBON</h1>
+        <img src="assets/img/ke.png" style="width:210px;" alt="Logo Smk Bina Cendekia">
+        <h1 class="text-dark left"></h1>
       </a>
 
       <i class="mobile-nav-toggle mobile-nav-show bi bi-list"></i>
       <i class="mobile-nav-toggle mobile-nav-hide d-none bi bi-x"></i>
-      <nav id="navbar" class="navbar">
+      <nav id="navbar" class="navbar bg-primary">
          <ul>
-          <li class="bg-primary text-light"><a href="index.php" class="active">Beranda</a></li>
+          <li class="bg-primary text-light"><a href="index.php" class="active" class="bi bi-">Beranda</a></li>
           <ul>
-              <li class="dropdown"><a href="#"><span>Tentang Kami</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
+              <li class="dropdown bg-primary"><a href="#"><span>Tentang Kami</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
                 <ul>
                   <li><a href="profil.php">Profil Sekolah</a></li>
                   <li><a href="sambutan.php">Sambutan Kepsek</a></li>
                   <li><a href="visi.php">Visi dan Misi</a></li>
                   <li><a href="organisasi.php">Struktur Organisasi</a></li>
                   <li><a href="data.php">Data Guru</a></li>
-                  <li><a href="akreditasi.php">Akreditasi</a></li>
                   <li><a href="industri.php">Hubungan Industri</a></li>    
                   <li><a href="prestasi.php">Prestasi</a></li>           
                   <li class="dropdown"><a href="#"><span>Sarana</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
@@ -96,63 +89,50 @@
                 <li><a href="PKL.php">PKL 2023</a></li>
                 </ul>
               </li>
-            </ul>
           </li>
               <li class="dropdown"><a href="#"><span>PPDB</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
             <ul>
               <li><a href="informasi.php">Informasi Pendaftaran</a></li>
               </ul>
           <li><a href="contact.php">Contact</a></li>
-          <li><a class="get-a-quote bg-dark" href="cek_login.php">Login</a></li>
+          <li><a class="get-a-quote bg-light text-dark" href="cek_login.php">Login</a></li>
         </ul>
       </nav><!-- .navbar -->
-
     </div>
-  </header><!-- End Header -->
+  </header><!-- End Header --> 
 
-    <!-- ======= Featured Services Section ======= -->
-      <section id="header" class="header">
+<!-- ======= Horizontal Pricing Section ======= -->
+     <section id="feature" class="feature pt-4">
+      <div class="container" data-aos="fade-up">
 
-        <div class="row gy-4">
-          
-          <!-- End Service Item -->
-    </section>
-    <!-- End Featured Services Section -->
-
-
- <!-- ======= Breadcrumbs ======= -->
- <div class="breadcrumbs">
-      <div class="header">
-        <div class="container position-relative">
-          <div class="row d-flex justify-content-center">
-            <div class="col-lg-6 text-center">
-              
-            </div>
-          </div>
+        <div class="section-header mt-4">
+          <span>smk bina cendekia cirebon</span>
+          <h2>Sambutan kepala sekolah</h2>
         </div>
-      </div>
-      <nav>
-        <div class="container">
-          <ol>
-            <li><a href="index.php">Beranda</a></li>
-            <li><a>Sambutan Kepala Sekolah</a></li>
-          </ol>
-        </div>
-      </div>
-      </nav>
-       </div><!-- End Breadcrumbs -->  
+        
+    </section><!-- End Horizontal Pricing Section -->
+
 
     <!-- ======= About Us Section ======= -->
-    <section id="about" class="about pt-4">
+<<<<<<< HEAD
+    <section id="about" class="about pt-7">
+      <div class="container" data-aos="fade-up">
+        <div class="row gy-3">
+          <div class="col-lg-5 position-middle middle-self-start order-lg-last order-first">
+            <img src="assets/img/yy.png" class="img-align rounded-middle float-end" alt="">
+             <center><h4 class=>Ade Rahmat Saputra M,Pd.</h3></center>
+=======
+    <section id="about" class="about pt-0">
       <div class="container" data-aos="fade-up">
         <div class="row gy-4">
           <div class="col-lg-6 position-middle middle-self-start order-lg-last order-first">
-            <img src="assets/img/w.png" class="img-align rounded-middle float-end" alt="">
-            </div>
-          <div class="col-lg-6 content order-last  order-lg-first">
+            <img src="assets/img/yy.png" class="img-align rounded-middle float-end" alt="">
+>>>>>>> 57e0c86646b470c94b819b95b9301903344d5b38
+          </div>
+          <div class="col-lg-7 content order-last  order-lg-first">
           <h4></h4>
             <h3>║ Sambutan Kepala Sekolah</h3>
-            <p class="fs-6 fst-italic container"> Assalamualaikum wr WB
+            <p align="justify"> Assalamualaikum wr WB
 Saya Ade Rahmat Saputra MP,d Saya kepala sekolah SMK Bina Cendekia Cirebon,puji syukur Alhamdulillah 
  Kami SMK Bina Cendekia Cirebon sepakat salah satu sekolah menerima bantuan gibah dalam bantuan program  pusat keunggulan sektor ekonomi kreatif jurusan rekaya perangkat melalui program melalui program ini kami sangat membantu untuk mewujudkan perubahan yang lebih baru,kami telah melaksanakan penyalaksanaan kurikulum yang sesuai kebutuhan dunia pekerja serta berkembangnya sarana prasana di sekolah kami yang menunjang proses kegiatan kamu siswa sehingga menghasilkan kalobarisi untuk dunia induka
 Untuk penerapan jurusan  yang kompeten dan siap kerja dalam skema permadana di bidang dunia kerja industri SMK Bina Cendekia Cirebon menggandeng perusahaan dan komunitas  nelkom Indonesia memilki program yaitu
