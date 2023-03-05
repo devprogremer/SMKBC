@@ -34,6 +34,8 @@
 
   <!-- ======= Header ======= -->
  <header id="header" class="p-3 mb-2 bg-primary text-white fixed-padding">
+   <!-- ======= Header ======= -->
+   <header id="header" class="p-3 mb-2 bg-primary text-white fixed-padding">
     <div class="container-fluid container-xl d-flex align-items-center justify-content-between ">
 
     <a href="" class="navbar-brand">
@@ -97,8 +99,7 @@
           <li><a class="get-a-quote bg-light text-dark" href="cek_login.php">Login</a></li>
         </ul>
       </nav><!-- .navbar -->
-
-    </div>
+</div>
   </header><!-- End Header -->
  
 
