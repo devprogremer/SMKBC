@@ -32,12 +32,9 @@
 </head>
 <body>
 
-  
-  
-
   <!-- ======= Header ======= -->
-  <header id="header" class="header d-flex align-items-center fixed-top bg-primary">
-    <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
+ <header id="header" class="p-3 mb-2 bg-primary text-white fixed-padding">
+    <div class="container-fluid container-xl d-flex align-items-center justify-content-between ">
 
     <a href="" class="navbar-brand">
         <!-- Uncomment the line below if you also wish to use an image logo -->
@@ -58,7 +55,6 @@
                   <li><a href="visi.php">Visi dan Misi</a></li>
                   <li><a href="organisasi.php">Struktur Organisasi</a></li>
                   <li><a href="data.php">Data Guru</a></li>
-                  <li><a href="akreditasi.php">Akreditasi</a></li>
                   <li><a href="industri.php">Hubungan Industri</a></li>    
                   <li><a href="prestasi.php">Prestasi</a></li>           
                   <li class="dropdown"><a href="#"><span>Sarana</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
@@ -92,7 +88,6 @@
                 <li><a href="PKL.php">PKL 2023</a></li>
                 </ul>
               </li>
-            </ul>
           </li>
               <li class="dropdown"><a href="#"><span>PPDB</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
             <ul>
@@ -105,36 +100,12 @@
 
     </div>
   </header><!-- End Header -->
-
-    <!-- ======= Featured Services Section ======= -->
-      <section id="header" class="header">
-
-        <div class="row gy-4">
-          
-          <!-- End Service Item -->
-    </section>
-    <!-- End Featured Services Section -->
-
-<!-- ======= Breadcrumbs ======= -->
-<div class="breadcrumbs">
-      <div class="header">
-        <div class="container position-relative">
-          <div class="row d-flex justify-content-center">
-            <div class="col-lg-6 text-center">
-              
-            </div>
-          </div>
-        </div>
-      </div>
-
-    </div><!-- End Breadcrumbs --> 
-
-
+ 
 
   <main id="main">
 
     <!-- ======= Our Team Section ======= -->
-    <section id="team" class="team pt-6">
+    <section id="team" class="team pt-0">
       <div class="container" data-aos="fade-up">
 
         <div class="section-header">

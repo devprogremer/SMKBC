@@ -98,31 +98,7 @@
         </ul>
       </nav><!-- .navbar -->
     </div>
-  </header><!-- End Header -->
-
-    <!-- ======= Featured Services Section ======= -->
-      <section id="header" class="header">
-
-        <div class="row gy-4">
-          
-          <!-- End Service Item -->
-    </section>
-    <!-- End Featured Services Section -->
-
-<!-- ======= Breadcrumbs ======= -->
-<div class="breadcrumbs">
-      <div class="header">
-        <div class="container position-relative">
-          <div class="row d-flex justify-content-center">
-            <div class="col-lg-6 text-center">
-              
-            </div>
-          </div>
-        </div>
-      </div>
-
-    </div><!-- End Breadcrumbs --> 
-
+  </header><!-- End Header --> 
 
 <!-- ======= Horizontal Pricing Section ======= -->
      <section id="feature" class="feature pt-4">
@@ -137,12 +113,11 @@
 
 
     <!-- ======= About Us Section ======= -->
-    <section id="about" class="about pt-4">
+    <section id="about" class="about pt-0">
       <div class="container" data-aos="fade-up">
         <div class="row gy-4">
-          <div class="col-lg-5 position-middle middle-self-start order-lg-last order-first">
+          <div class="col-lg-6 position-middle middle-self-start order-lg-last order-first">
             <img src="assets/img/yy.png" class="img-align rounded-middle float-end" alt="">
-            <center><h3 class="fst-bold">Ade Rahmat Saputra M,Pd.</h3></center>
           </div>
           <div class="col-lg-6 content order-last  order-lg-first">
           <h4></h4>

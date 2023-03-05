@@ -101,32 +101,8 @@
     </div>
   </header><!-- End Header -->
 
-    <!-- ======= Featured Services Section ======= -->
-      <section id="header" class="header">
-
-        <div class="row gy-4">
-          
-          <!-- End Service Item -->
-    </section>
-    <!-- End Featured Services Section -->
-
-
- <!-- ======= Breadcrumbs ======= -->
- <div class="breadcrumbs">
-      <div class="header">
-        <div class="container position-relative">
-          <div class="row d-flex justify-content-center">
-            <div class="col-lg-6 text-center">
-              
-            </div>
-          </div>
-        </div>
-      </div>
-
-    </div><!-- End Breadcrumbs --> 
-
      <!-- ======= Horizontal Pricing Section ======= -->
-     <section id="feature" class="feature pt-4">
+     <section id="feature" class="feature pt-0">
       <div class="container" data-aos="fade-up">
 
         <div class="section-header mt-4">

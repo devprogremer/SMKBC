@@ -47,7 +47,7 @@
          <ul>
           <li class="bg-primary text-light"><a href="index.php" class="active" class="bi bi-">Beranda</a></li>
           <ul>
-              <li class="dropdown bg-primary"><a href="#"><span>Tentang Kami</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
+              <li class="dropdown"><a href="#"><span>Tentang Kami</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
                 <ul>
                   <li><a href="profil.php">Profil Sekolah</a></li>
                   <li><a href="sambutan.php">Sambutan Kepsek</a></li>
@@ -63,7 +63,7 @@
                 </li>
                 </ul>
                 </li>
-            <li class="dropdown"><a href="#"><span>Program</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
+            <li class="dropdown "><a href="#"><span>Program</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
             <ul>
             <li class="dropdown"><a href="#"><span>Program Studi</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
                 <ul>
@@ -100,49 +100,17 @@
     </div>
   </header><!-- End Header -->
 
-    <!-- ======= Featured Services Section ======= -->
-      <section id="header" class="header">
-
-        <div class="row gy-4">
-          
-          <!-- End Service Item -->
-    </section>
-    <!-- End Featured Services Section -->
-
-
- <!-- ======= Breadcrumbs ======= -->
- <div class="breadcrumbs">
-      <div class="header">
-        <div class="container position-relative">
-          <div class="row d-flex justify-content-center">
-            <div class="col-lg-6 text-center">
-              
-            </div>
-          </div>
-        </div>
-      </div>
-      <nav>
-        <div class="container">
-          <ol>
-            <li><a href="index.php">Beranda</a></li>
-            <li><a href="">Profil Sekolah</a></li>
-          </ol>
-        </div>
-      </nav>
-    </div><!-- End Breadcrumbs --> 
-
-
 <!-- ======= About Section ======= -->
     <section id="about" class="about">
       <div class="container" data-aos="fade-up">
 
         <div class="row">
           <div class="col-lg-6 order-1 order-lg-2" data-aos="fade-left" data-aos-delay="100">
-            <img src="assets/img/samsung.jpeg" class="img-fluid" alt="">
+            <center><img src="assets/img/samsung.jpeg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right" data-aos-delay="100">
           <div class="section-title">
-          <h2>STI (Samsung Tech Institute)</h2>
+          <h2 class="fst-italic text-bold">STI (Samsung Tech Institute)</h2>
           <p>SMK Bina Cendekia Cirebon </p>
         </div>
             <ul>
