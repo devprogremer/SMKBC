@@ -231,7 +231,10 @@
                 <img src="assets/img/dkv2.jpeg" alt="" class="img-fluid">
               </div>
             </div>
-          </div><!-- End Card Item -->
+      </div><!-- End Card Item -->
+
+    </main><!-- End #main -->
+
    <!-- ======= Footer ======= -->
    <footer id="footer" class="footer bg-primary">
 
