@@ -81,6 +81,7 @@
                   <li><a href="ASKEP.php">ASKEP (Asisten Keperawatan)</a></li>
                   <li><a href="TBO.php">TBO(Teknik Bodi Otomotif)</a></li>
                   <li><a href="TABUS.php">TABUS(Tata Busana)</a></li>
+                  <li><a href="DKV.php">DKV(Desain Komunikasi Visual)</a></li>
                   </ul>
               </li>
               <li class="dropdown"><a href="#"><span>Kegiatan</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
@@ -166,87 +167,105 @@
 
         <div class="section-header">
           <h2>Kegiatan Asisten Keperawatan</h2>
-
         </div>
-
         <div class="row gy-4">
-
-          <div class="col-lg-6 col-md-8" data-aos="fade-up" data-aos-delay="100">
-            <div class="card">
+          <div class="col-lg-6 col-md-5" data-aos="fade-up" data-aos-delay="100">
+            <div class="">
               <div class="card-img">
                 <img src="assets/img/askep1.jpeg" alt="" class="img-fluid">
               </div>
+<<<<<<< HEAD
               <h3><a href="service-details.html" class="stretched-link">12 maret 2022</a></h3>
               <p align="justify">uji kompetensi keahlian (UKK) kelas 12 jurusan di SMK Bina Cendekia langsung di RS PERMATA</p>
+=======
+           
+>>>>>>> 46e019af9636db1281016cdce9d09f9892bb2da1
             </div>
           </div><!-- End Card Item -->
 
-          <div class="col-lg-6 col-md-8" data-aos="fade-up" data-aos-delay="200">
-            <div class="card">
+          <div class="col-lg-6 col-md-5" data-aos="fade-up" data-aos-delay="200">
+            <div class="">
               <div class="card-img">
                 <img src="assets/img/askep2.jpeg" alt="" class="img-fluid">
               </div>
+<<<<<<< HEAD
               <h3><a href="service-details.html" class="stretched-link">12 maret 2022</a></h3>
               <p align="justify">uji kompetensi keahlian (UKK) kelas 12 jurusan di SMK Bina Cendekia langsung di RS PERMATA</p>
+=======
+             
+>>>>>>> 46e019af9636db1281016cdce9d09f9892bb2da1
             </div>
           </div><!-- End Card Item -->
 
-          <div class="row gy-4">
-
-          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
-            <div class="card">
+          <div class="col-lg-4 col-md-4" data-aos="fade-up" data-aos-delay="300">
+            <div class="">
               <div class="card-img">
                 <img src="assets/img/askep3.jpeg" alt="" class="img-fluid">
               </div>
+<<<<<<< HEAD
               <h3><a href="service-details.html" class="stretched-link">12 maret 2022</a></h3>
               <p align="justify">uji kompetensi keahlian (UKK) kelas 12 jurusan di SMK Bina Cendekia langsung di RS PERMATA</p>
+=======
+            
+>>>>>>> 46e019af9636db1281016cdce9d09f9892bb2da1
             </div>
           </div><!-- End Card Item -->
 
-          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="400">
-            <div class="card">
+          <div class="col-lg-4 col-md-4" data-aos="fade-up" data-aos-delay="400">
+            <div class="">
               <div class="card-img">
                 <img src="assets/img/askep4.jpeg" alt="" class="img-fluid">
               </div>
+<<<<<<< HEAD
               <h3><a href="service-details.html" class="stretched-link">18 januari 2022</a></h3>
               <p align="justify">alumni SMK Bina Cendeki Cirebon lulus sekolah langsung kerja di rumah sakit permata cirebon</p>
             </div>
+=======
+            
+              </div>
+>>>>>>> 46e019af9636db1281016cdce9d09f9892bb2da1
           </div><!-- End Card Item -->
 
-          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="500">
-            <div class="card">
+          <div class="col-lg-4 col-md-4" data-aos="fade-up" data-aos-delay="500">
+            <div class="">
               <div class="card-img">
                 <img src="assets/img/askep5.jpeg" alt="" class="img-fluid">
               </div>
+<<<<<<< HEAD
               <h3><a href="service-details.html" class="stretched-link">12 maret 2022</a></h3>
               <p align="justify">praktek Asisten Keperawatan</p>
+=======
+             
+>>>>>>> 46e019af9636db1281016cdce9d09f9892bb2da1
             </div>
           </div><!-- End Card Item -->
 
-          <div class="col-lg-6 col-md-8" data-aos="fade-up" data-aos-delay="600">
-            <div class="card">
+          <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-delay="600">
+            <div class="">
               <div class="card-img">
                 <img src="assets/img/askep6.jpeg" alt="" class="img-fluid">
               </div>
+<<<<<<< HEAD
               <h3><a href="service-details.html" class="stretched-link">23 juli 2022</a></h3>
               <p align="justify">juara 2 lomba kompetensi siswa (LKS) Bidang Health Dan Social Care Tingkat Provinsi Jawa Barat </p>
+=======
+             
+>>>>>>> 46e019af9636db1281016cdce9d09f9892bb2da1
             </div>
           </div><!-- End Card Item -->
 
-          <div class="col-lg-6 col-md-8" data-aos="fade-up" data-aos-delay="600">
-            <div class="card">
+          <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-delay="700">
+            <div class="">
               <div class="card-img">
                 <img src="assets/img/askep7.jpeg" alt="" class="img-fluid">
               </div>
+<<<<<<< HEAD
               <h3><a href="service-details.html" class="stretched-link">03 agustus 2022</a></h3>
               <p align="justify">lomba LKS tingkat provinsi jawa barat.cirebon dalam live dengan mata lomba "Health social and care"</p>
+=======
+>>>>>>> 46e019af9636db1281016cdce9d09f9892bb2da1
             </div>
           </div><!-- End Card Item -->
-
-        </div>
-
-      </div>
-    </section><!-- End Services Section -->
   <!-- ======= Footer ======= -->
   <footer id="footer" class="footer bg-primary">
 
