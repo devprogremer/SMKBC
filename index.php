@@ -33,12 +33,12 @@
 <body>
 
   <!-- ======= Header ======= -->
-  <header id="header" class="p-3 mb-2 bg-primary text-white fixed-padding">
+  <header id="header" class="p-0 mb-1 bg-primary text-white fixed-padding">
     <div class="container-fluid container-xl d-flex align-items-center justify-content-between ">
 
     <a href="" class="navbar-brand">
         <!-- Uncomment the line below if you also wish to use an image logo -->
-        <img src="assets/img/ke.png" style="width:210px;" alt="Logo Smk Bina Cendekia">
+        <img src="assets/img/ke.png" style="width:190px;" alt="Logo Smk Bina Cendekia">
         <h1 class="text-dark left"></h1>
       </a>
 
@@ -73,6 +73,7 @@
                   <li><a href="ASKEP.php">ASKEP (Asisten Keperawatan)</a></li>
                   <li><a href="TBO.php">TBO(Teknik Bodi Otomotif)</a></li>
                   <li><a href="TABUS.php">TABUS(Tata Busana)</a></li>
+                  <li><a href="DKV.php">DKV(Desain Komunikasi Visual)</a></li>
                   </ul>
               </li>
               <li class="dropdown"><a href="#"><span>Kegiatan</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
@@ -201,26 +202,26 @@
     <section id="service" class="services pt-0">
       <div class="container" data-aos="fade-up">
 
-        <div class="row gy-4">
-          <div class="col-lg-4 col-md-4" data-aos="fade-up" data-aos-delay="100">
+       <div class="row gy-3">
+          <div class="col-lg-4 col-md-3" data-aos="fade-up" data-aos-delay="">
             <div class="">
               <div class="card-img">
-                <img src="assets/img/home-1.png" alt="" class="img-fluid">
+           <img src="assets/img/home-1.png" alt="" class="img-fluid">
               </div>
               
             </div>
           </div><!-- End Card Item -->
 
-          <div class="col-lg-4 col-md-4" data-aos="fade-up" data-aos-delay="200">
+          <div class="col-lg-4 col-md-3" data-aos="fade-up" data-aos-delay="">
             <div class="">
-              <div class="card-img">
-                <img src="assets/img/home-2.png" alt="" class="img-fluid">
+             <div class="card-img">
+               <img src="assets/img/home-2.png" alt="" class="img-fluid">
               </div>
               
             </div>
           </div><!-- End Card Item -->
 
-          <div class="col-lg-4 col-md-4" data-aos="fade-up" data-aos-delay="200">
+          <div class="col-lg-4 col-md-3" data-aos="fade-up" data-aos-delay="">
             <div class="">
               <div class="card-img">
                 <img src="assets/img/home-3.png" alt="" class="img-fluid">
@@ -250,7 +251,7 @@
                 <img src="assets/img/toga-service.png" alt="" class="img-fluid">
               </div>
               <center><h3><a href="#" class="stretched-link">Program Beasiswa</a></h3><center>
-              <center><p>Program Beasiswa Ini Untuk Siswa Yang Berprestasi dan anak yatim/piatu</p><center>
+             <p align="justify">Program Beasiswa Ini Untuk Siswa Yang Berprestasi dan anak yatim/piatu.<p>
             </div>
           </div><!-- End Card Item -->
 
@@ -270,7 +271,7 @@
                 <img src="assets/img/pengajar-service.jpg" alt="" class="img-fluid">
               </div>
               <center><h3><a href="#" class="stretched-link">Pengajar Kompoten</a></h3><center>
-              <center><p>Kualifikasi pengajar S1 dan S2 dari lulusan kampus ternama dan memiliki sertifikasi keahlian</p><center>
+              <p align="justify">Kualifikasi pengajar S1 dan S2 dari lulusan kampus ternama dan memiliki sertifikasi keahlian</p>
             </div>
           </div><!-- End Card Item -->
 
@@ -280,7 +281,7 @@
                 <img src="assets/img/lulusan-service.jpg" alt="" class="img-fluid">
               </div>
               <center><h3><a href="#" class="stretched-link">Alumni Berkualitas</a></h3><center>
-              <center><p>Alumni siap kerja, siap kuliah dan siap berwirausaha. Alumni tersebar di berbagai negara Seperti Jepang, Taiwan, Malaysia, dan lain-lain</p><center>
+              <p align="justify">Alumni siap kerja, siap kuliah dan siap berwirausaha.</p>
               </div>
           </div><!-- End Card Item -->
 
@@ -290,7 +291,7 @@
                 <img src="assets/img/prestasii-service.png" alt="" class="img-fluid">
               </div>
               <center><h3><a href="#" class="stretched-link">Prestasi</a></h3><center>
-              <center><p>Memiliki segudang prestasi baik tingkat lokal, regional maupun nasional.</p><center>
+              <p align="justify">Memiliki segudang prestasi baik tingkat lokal, regional maupun nasional.</p>
             </div>
           </div><!-- End Card Item -->
 
@@ -300,7 +301,7 @@
                 <img src="assets/img/kurikulum-service.jpg" alt="" class="img-fluid">
               </div>
               <center><h3><a href="#" class="stretched-link">Kurikulum Merdeka</a></h3><center>
-              <center><p>Merdeka Belajar Bina Cendekia School (MBBCS) dengan 4 Pilar yaitu SDM GURU, Pendidikan Karakter Siswa, KURIKULUM dan Moderenisasi Sarana Prasarana sekolah.</p><center>
+              <p align="justify">Merdeka Belajar Bina Cendekia School (MBBCS) dengan 4 Pilar yaitu SDM GURU, Pendidikan Karakter Siswa, KURIKULUM dan Moderenisasi Sarana Prasarana sekolah.</p>
             </div>
           </div><!-- End Card Item -->
 
@@ -310,7 +311,7 @@
                 <img src="assets/img/gedung-service.png" alt="" class="img-fluid">
               </div>
               <center><h3><a href="#" class="stretched-link">Fasilitas Lengkap</a></h3><center>
-              <center><p>Belajar Dengan Kualitas Yang Ada dan Mencukupi</p><center>
+              <p align="justify">Belajar Dengan Kualitas Yang Ada dan Mencukupi</p>
             </div>
           </div><!-- End Card Item -->
 
@@ -320,7 +321,7 @@
                 <img src="assets/img/juara-service.png" alt="" class="img-fluid">
               </div>
               <center><h3><a href="#" class="stretched-link">Juara LKS SMK</a></h3><center>
-              <center><p>Sekolah Kami Menjuarai Lomba Kompetensi Siswa (LKS) Bidang Health & Social Care Tingkat Provinsi Jawa Barat 2022</p><center>
+              <p align="justify">Sekolah Kami Menjuarai Lomba Kompetensi Siswa (LKS) Bidang Health & Social Care Tingkat Provinsi Jawa Barat 2022</p>
             </div>
           </div><!-- End Card Item -->
 
@@ -338,7 +339,6 @@
     </div>
     <section id="service" class="services pt-0">
       <div class="container" data-aos="fade-up">
-
           <div class="row gy-4">
           <div class="col-lg-3 col-md-3" data-aos="fade-up" data-aos-delay="100">
             <div class="">
@@ -346,7 +346,7 @@
                 <img src="assets/img/rpll1.png" alt="" class="img-fluid">
               </div>
               <center><h3><a href="#" class="stretched-link"></a></h3><center>
-              <p class="text-center">Membekali Peserta Didik dengan keterampilan, Pengetahuan dan Sikap agar kompeten Menginstalasi Software Aplikasi, Mengoperasikan Software, Merawat Software Aplikasi dan Mengelola Usaha di Bidang Pembuatan Software Aplikasi.</p>
+              <p align="justify">Membekali Peserta Didik dengan keterampilan, Pengetahuan dan Sikap agar kompeten Menginstalasi Software Aplikasi, Mengoperasikan Software,Merawat Software Aplikasi dan Mengelola Usaha di Bidang Pembuatan Software Aplikasi.</p>
             </div>
           </div><!-- End Card Item -->
 
@@ -356,7 +356,7 @@
                 <img src="assets/img/tabuss1.png" alt="" class="img-fluid">
               </div>
               <center><h3><a href="#" class="stretched-link"></a></h3><center>
-              <p text="text-center">Membekali Peserta Didik dengan Keterampilan, Pengetahuan dan Sikap agar Kompoten di Bidang Fashion Drawing (Menggambar Busana), Pembuatan Busana Baik Pria Maupun Wanita dan Anak-Anak, Pembuatan Hiasan Pada Busana (Embroidery).</p>
+              <p align="justify">Membekali Peserta Didik dengan Keterampilan, Pengetahuan dan Sikap agar Kompoten di Bidang Fashion Drawing yaitu (Menggambar Busana),Pembuatan Busana Baik Pria Maupun Wanita dan Anak-Anak,Pembuatan Hiasan Pada Busana (Embroidery).</p>
             </div>
           </div><!-- End Card Item -->
 
@@ -366,7 +366,7 @@
                 <img src="assets/img/Tbo2.png" alt="" class="img-fluid">
               </div>
               <center><h3><a href="#" class="stretched-link"></a></h3><center>
-              <center><p>Membekali peserta didik dengan ketrampilan,pengetahuan dan sikap,agar kompeten bidang teknik bodi otomotif,baik pebaikan panel dan pengecatan bodi maupun pemeliharaan dan perbaikan interior otomotif</p><center>
+              <p align="justify">Membekali peserta didik dengan ketrampilan,pengetahuan dan sikap,agar kompeten bidang teknik bodi otomotif,baik pebaikan panel dan pengecatan bodi maupun pemeliharaan dan perbaikan interior otomotif</p><center>
             </div>
           </div><!-- End Card Item -->
 
@@ -376,10 +376,19 @@
                 <img src="assets/img/asskepp1.png" alt="" class="img-fluid">
               </div>
               <center><h3><a href="#" class="stretched-link"></a></h3><center>
-              <center><p>Membekali peserta didik dengan ketrampilan,pengetahuan dan sikap agar kompeten agar di bidang merawat baik individu/ sendiri,keluarga,dll.serat memelihara dan dapat menyembuhkan.</p><center>
+              <p align="justify">Membekali peserta didik dengan ketrampilan,pengetahuan dan sikap agar kompeten agar di bidang merawat baik individu/sendiri,keluarga,dll.serat memelihara dan dapat menyembuhkan.</p><center>
               </div>
           </div><!-- End Card Item -->
-          <center><img src="assets/img/bcc.jpeg" alt="" style="width:1350x;height:129px;"><center>
+          <div class="col-lg-3 col-md-3" data-aos="fade-up" data-aos-delay="100">
+            <div class="">
+              <div class="card-img">
+                <img src="assets/img/dkv3.jpg" alt="" class="img-fluid">
+              </div>
+              <center><h3><a href="#" class="stretched-link"></a></h3><center>
+              <p align="justify">DKV adalah cabang ilmu desain. Di jurusan ini, siswa belajar konsep komunikasi dan ungkapan kreatif dengan menggunakan berbagai elemen visual untuk menyampaikan pesan. Dengan gambar visual,siswa belajar menyampaikan pesan secara informatif, efektif, dan komunikatif.</p><center>
+              </div>
+          </div><!-- End Card Item -->
+          <center><img src="assets/img/bcc.jpeg" alt="" style="width:1000x;height:129px;"><center>
          
          </div>   
           <!-- ======= Team Section ======= -->
@@ -460,11 +469,11 @@
 
         <div class="row gy-4">
           <div class="col-lg-6 position-relative align-self-start order-lg-last order-first">
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/WeW9ZXy3YL4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+          <iframe width="635" height="317" src="https://www.youtube.com/embed/WeW9ZXy3YL4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
           </div>
           <div class="col-lg-6 content order-last  order-lg-first">
             <div>
-          <iframe style="border:0; width: 100%; height: 300px;" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d63384.46777856386!2d108.60656949990842!3d-6.826961529703611!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e6f04acde0ee93d%3A0x570909eb0cf5286!2sSMK%20Bina%20Cendekia%20Cirebon!5e0!3m2!1sid!2sid!4v1674962821715!5m2!1sid!2sid" frameborder="0" allowfullscreen></iframe>
+          <iframe style="border:0; width: 103%; height: 319px;" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d63384.46777856386!2d108.60656949990842!3d-6.826961529703611!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e6f04acde0ee93d%3A0x570909eb0cf5286!2sSMK%20Bina%20Cendekia%20Cirebon!5e0!3m2!1sid!2sid!4v1674962821715!5m2!1sid!2sid" frameborder="0" allowfullscreen></iframe>
           </div>
         </div>
 

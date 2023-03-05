@@ -34,12 +34,12 @@
 
 
  <!-- ======= Header ======= -->
- <header id="header" class="p-3 mb-2 bg-primary text-white fixed-padding">
+ <header id="header" class="p-0 mb-1 bg-primary text-white fixed-padding">
     <div class="container-fluid container-xl d-flex align-items-center justify-content-between ">
 
     <a href="" class="navbar-brand">
         <!-- Uncomment the line below if you also wish to use an image logo -->
-        <img src="assets/img/ke.png" style="width:210px;" alt="Logo Smk Bina Cendekia">
+        <img src="assets/img/ke.png" style="width:190px;" alt="Logo Smk Bina Cendekia">
         <h1 class="text-dark left"></h1>
       </a>
 
@@ -74,6 +74,7 @@
                   <li><a href="ASKEP.php">ASKEP (Asisten Keperawatan)</a></li>
                   <li><a href="TBO.php">TBO(Teknik Bodi Otomotif)</a></li>
                   <li><a href="TABUS.php">TABUS(Tata Busana)</a></li>
+                  <li><a href="DKV.php">DKV(Desain Komunikasi Visual)</a></li>
                   </ul>
               </li>
               <li class="dropdown"><a href="#"><span>Kegiatan</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
@@ -130,8 +131,8 @@
           <div class="col-lg-6 content order-last  order-lg-first">
             <h3>Visi SMK Bina Cendekia Cirebon</h3>
             <div class="col-md-7">
-            <p class="fst-italic">
-              "Menjadi Sekolah Menengah Kejuruan yang Berkarakter, Berbudaya, Berwawasan Lingkungan, Menghasilkan Insan yang Bertaqwa, Profesional Mampu Berwirausaha dan Berdaya Saing Global"
+             <h6 class="fst-italic">
+            <p align="justify"> "Menjadi Sekolah Menengah Kejuruan yang Berkarakter,Berbudaya,Berwawasan Lingkungan,Menghasilkan Insan yang Bertaqwa, Profesional Mampu Berwirausaha dan Berdaya Saing Global"
             </p>
           </div>
             <ul>
@@ -150,12 +151,12 @@
           <div class="col-md-7">
             <h3>Misi SMK Bina Cendekia Cirebon</h3>
             <ul>
-              <li><i class="bi bi-check"></i> Mengembangkan kurikulum, metodologi pembelajaran dan sistem penilaian berbasis kompetensi yang berkarakter.</li>
-              <li><i class="bi bi-check"></i> Menyelenggarakan kegiatan ekstrakurikuler agar peserta didik memiliki multi skills yang mampu mengembangkan kecakapan hidup ( life skill ) dan berakhlakul mulia, kreatif dan inovatif. </li>
-              <li><i class="bi bi-check"></i> Meningkatkan kualitas pendidik dan tenaga kependidikan yang yang memenuhi kualitas profesional, kreatif, inovatif, berkarakter dan berbudaya.</li>
-              <li><i class="bi bi-check"></i> Meningkatkan fasilitas dan lingkungan belajar yang aman, nyaman, memenuhi standar nasional pendidikan, standar kerja industri secara kualitas dan kuantitas.</li>
-              <li><i class="bi bi-check"></i> Membangun kemitraan ( link and match ) dengan lembaga yang relevan baik dalam maupun luar negeri.</li>
-              <li><i class="bi bi-check"></i> Mengembangkan sekolah unggulan berbasis literasi.</li>
+              <p align="justify"> Mengembangkan kurikulum, metodologi pembelajaran dan sistem penilaian berbasis kompetensi yang berkarakter.</li>
+              <p align="justify"> Menyelenggarakan kegiatan ekstrakurikuler agar peserta didik memiliki multi skills yang mampu mengembangkan kecakapan hidup ( life skill ) dan berakhlakul mulia, kreatif dan inovatif. </li>
+              <p align="justify"> Meningkatkan kualitas pendidik dan tenaga kependidikan yang yang memenuhi kualitas profesional, kreatif, inovatif, berkarakter dan berbudaya.</li>
+              <p align="justify"> Meningkatkan fasilitas dan lingkungan belajar yang aman, nyaman, memenuhi standar nasional pendidikan, standar kerja industri secara kualitas dan kuantitas.</li>
+              <p align="justify"> Membangun kemitraan ( link and match ) dengan lembaga yang relevan baik dalam maupun luar negeri.</li>
+              <p align="justify"> Mengembangkan sekolah unggulan berbasis literasi.</li>
             </ul>
           </div>
         </div><!-- Features Item -->

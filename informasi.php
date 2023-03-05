@@ -46,23 +46,23 @@
 
 
   
-<!-- ======= Header ======= -->
-<header id="header" class="header d-flex align-items-center fixed-padding bg-light">
-    <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
+ <!-- ======= Header ======= -->
+ <header id="header" class="p-0 mb-1 bg-primary text-white fixed-padding">
+    <div class="container-fluid container-xl d-flex align-items-center justify-content-between ">
 
-      <a href="" class="navbar-brand">
+    <a href="" class="navbar-brand">
         <!-- Uncomment the line below if you also wish to use an image logo -->
-        <img src="assets/img/ko.png" style="width:200px;" alt="Logo Smk Bina Cendekia">
+        <img src="assets/img/ke.png" style="width:190px;" alt="Logo Smk Bina Cendekia">
         <h1 class="text-dark left"></h1>
       </a>
 
       <i class="mobile-nav-toggle mobile-nav-show bi bi-list"></i>
       <i class="mobile-nav-toggle mobile-nav-hide d-none bi bi-x"></i>
-      <nav id="navbar" class="navbar">
+      <nav id="navbar" class="navbar bg-primary">
          <ul>
-          <li class=""><a href="index.php" class="">Beranda</a></li>
+          <li class="bg-primary text-light"><a href="index.php" class="active" class="bi bi-">Beranda</a></li>
           <ul>
-              <li class="dropdown"><a href="#"><span>Tentang Kami</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
+              <li class="dropdown bg-primary"><a href="#"><span>Tentang Kami</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
                 <ul>
                   <li><a href="profil.php">Profil Sekolah</a></li>
                   <li><a href="sambutan.php">Sambutan Kepsek</a></li>
@@ -87,6 +87,7 @@
                   <li><a href="ASKEP.php">ASKEP (Asisten Keperawatan)</a></li>
                   <li><a href="TBO.php">TBO(Teknik Bodi Otomotif)</a></li>
                   <li><a href="TABUS.php">TABUS(Tata Busana)</a></li>
+                  <li><a href="DKV.php">DKV(Desain Komunikasi Visual)</a></li>
                   </ul>
               </li>
               <li class="dropdown"><a href="#"><span>Kegiatan</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
@@ -102,18 +103,15 @@
                 <li><a href="PKL.php">PKL 2023</a></li>
                 </ul>
               </li>
-            </ul>
           </li>
               <li class="dropdown"><a href="#"><span>PPDB</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
             <ul>
               <li><a href="informasi.php">Informasi Pendaftaran</a></li>
               </ul>
           <li><a href="contact.php">Contact</a></li>
-          <li><a class="shadow p-3 mb-2 getstarted " href="cek_login.php">Login</a></li>
-          <li><a class="shadow p-3 mb-2 getstarted " href="ppdb.php">Daftar PPDB</a></li>
+          <li><a class="get-a-quote bg-light text-dark" href="cek_login.php">Login</a></li>
         </ul>
       </nav><!-- .navbar -->
-
     </div>
   </header><!-- End Header -->
 
@@ -154,7 +152,7 @@
                 <img src="assets/img/toga-service.png" alt="" class="img-fluid">
               </div>
               <center><h3><a class="text-primary">Program Beasiswa</a></h3><center>
-              <center><p class="fst-italic">Program Beasiswa Ini Untuk Siswa Yang Berprestasi dan anak yatim/piatu</p><center>
+              <p align="justify">Program Beasiswa Ini Untuk Siswa Yang Berprestasi dan anak yatim/piatu</p>
             </div>
           </div><!-- End Card Item -->
 
@@ -164,7 +162,7 @@
                 <img src="assets/img/akreditasi-service.png" alt="" class="img-fluid">
               </div>
               <center><h3><a class="text-primary">Akreditasi-B</a></h3><center>
-              <center><p class="fst-italic">Terakreditasi-B</p><center>
+              <p align="justify">Terakreditasi-B</p>
             </div>
           </div><!-- End Card Item -->
 
@@ -174,7 +172,7 @@
                 <img src="assets/img/pengajar-service.jpg" alt="" class="img-fluid">
               </div>
               <center><h3><a class="text-primary">Pengajar Kompoten</a></h3><center>
-              <center><p class="fst-italic">Kualifikasi pengajar S1 dan S2 dari lulusan kampus ternama dan memiliki sertifikasi keahlian</p><center>
+              <p align="justify">Kualifikasi pengajar S1 dan S2 dari lulusan kampus ternama dan memiliki sertifikasi keahlian</p>
             </div>
           </div><!-- End Card Item -->
 
@@ -184,7 +182,7 @@
                 <img src="assets/img/lulusan-service.jpg" alt="" class="img-fluid">
               </div>
               <center><h3><a class="text-primary">Alumni Berkualitas</a></h3><center>
-              <center><p class="fst-italic">Alumni siap kerja, siap kuliah dan siap berwirausaha. Alumni tersebar di berbagai negara Seperti Jepang, Taiwan, Malaysia, dan lain-lain</p><center>
+              <p align="justify">Alumni siap kerja, siap kuliah dan siap berwirausaha. </p>
               </div>
           </div><!-- End Card Item -->
 
@@ -194,7 +192,7 @@
                 <img src="assets/img/prestasii-service.png" alt="" class="img-fluid">
               </div>
               <center><h3><a class="text-primary">Prestasi</a></h3><center>
-              <center><p class="fst-italic">Memiliki segudang prestasi baik tingkat lokal, regional maupun nasional.</p><center>
+              <p align="justify">Memiliki segudang prestasi baik tingkat lokal, regional maupun nasional.</p>
             </div>
           </div><!-- End Card Item -->
 
@@ -204,7 +202,7 @@
                 <img src="assets/img/kurikulum-service.jpg" alt="" class="img-fluid">
               </div>
               <center><h3><a class="text-primary">Kurikulum Merdeka</a></h3><center>
-              <center><p class="fst-italic">Merdeka Belajar Bina Cendekia School (MBBCS) dengan 4 Pilar yaitu SDM GURU, Pendidikan Karakter Siswa, KURIKULUM dan Moderenisasi Sarana Prasarana sekolah.</p><center>
+              <p align="justify">Merdeka Belajar Bina Cendekia School (MBBCS) dengan 4 Pilar yaitu SDM GURU, Pendidikan Karakter Siswa, KURIKULUM dan Moderenisasi Sarana Prasarana sekolah.</p>
             </div>
           </div><!-- End Card Item -->
 
@@ -214,7 +212,7 @@
                 <img src="assets/img/gedung-service.png" alt="" class="img-fluid">
               </div>
               <center><h3><a class="text-primary">Fasilitas</a></h3><center>
-              <center><p class="fst-italic">Belajar Dengan Kualitas Yang Ada dan Mencukupi</p><center>
+              <p align="justify">Belajar Dengan Kualitas Yang Ada dan Mencukupi</p>
             </div>
           </div><!-- End Card Item -->
 
@@ -224,7 +222,7 @@
                 <img src="assets/img/juara-service.png" alt="" class="img-fluid">
               </div>
               <center><h3><a class="text-primary">Juara LKS SMK</a></h3><center>
-              <center><p class="fst-italic">Sekolah Kami Menjuarai Lomba Kompetensi Siswa (LKS) Bidang Health & Social Care Tingkat Provinsi Jawa Barat 2022</p><center>
+              <p align="justify"> Sekolah Kami Menjuarai Lomba Kompetensi Siswa (LKS) Bidang Health & Social Care Tingkat Provinsi Jawa Barat 2022</p>
             </div>
           </div><!-- End Card Item -->
 
@@ -263,8 +261,8 @@
   <div class="row">
     <div class="col-lg-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center">
       <h1 data-aos="fade-up">Rekayasa Perangkat <br> Lunak</h1>
-      <h5 data-aos="fade-up" data-aos-delay="400">Membekali peserta didik dengan ketrampilan,pengetahuan <br> sikap agar kompeten menginstalasi software aplikasi, <br>mengoperasikan software,mrawat software aplikasi dan  <br> di bidang pembuatan softaware aplikasi.</h5>
-      <div data-aos="fade-up" data-aos-delay="800">
+      <p align="justify">Membekali peserta didik dengan ketrampilan,pengetahuan sikap agar kompeten menginstalasi software aplikasi,mengoperasikan software,mrawat software aplikasi dan di bidang pembuatan softaware aplikasi.</h5>
+      <div data-aos="fade-up" data-aos-delay="700">
         <!-- ======= Featured Services Section ======= -->
  <section id="header" class="header">
 
@@ -298,7 +296,7 @@
     </div>
     <div class="col-lg-6 order-1 order-lg-2 hero-img d-flex flex-column justify-content-center" data-aos="fade-up" data-aos-delay="200">
     <h1 data-aos="fade-up">Tata Busana</h1>
-    <h5 data-aos="fade-up" data-aos-delay="400" class="container">Membekali peserta didik dengan ketrampilam,pengetahuan dan sikap agar komputen di bidang fashion drawing (menggambar busana), pembuatan busana baik pria maupun wanita dan anak-anak, pembuatan hiasan pada busan (Embruodery).</h5>
+    <p align="justify">Membekali peserta didik dengan ketrampilam,pengetahuan dan sikap agar komputen di bidang fashion drawing (menggambar busana), pembuatan busana baik pria maupun wanita dan anak-anak, pembuatan hiasan pada busan (Embruodery).</h5>
       <div data-aos="fade-up" data-aos-delay="800">
         <!-- ======= Featured Services Section ======= -->
  <section id="header" class="header">
@@ -325,7 +323,7 @@
   <div class="row">
     <div class="col-lg-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center">
       <h1 data-aos="fade-up">Asisten Keperawatan</h1>
-      <h5 data-aos="fade-up" data-aos-delay="400">Membekali peserta didik dengan ketrampilan,pengetahuan dan <br> sikap agar kompeten agar di bidang merawat baik individu/sendiri, keluarga, dll. Serta memelihara dan dapat menyembuhkan.</h5>
+      <p align="justify">Membekali peserta didik dengan ketrampilan,pengetahuan dan <br> sikap agar kompeten agar di bidang merawat baik individu/sendiri, keluarga, dll. Serta memelihara dan dapat menyembuhkan.</h5>
       <div data-aos="fade-up" data-aos-delay="800">
         <!-- ======= Featured Services Section ======= -->
  <section id="header" class="header">

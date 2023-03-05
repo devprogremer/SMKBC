@@ -29,18 +29,24 @@
   <!-- Template Main CSS File -->
   <link href="assets/css/main.css" rel="stylesheet">
 
-  </head>
+  <!-- =======================================================
+  * Template Name: Logis - v1.3.0
+  * Template URL: https://bootstrapmade.com/logis-bootstrap-logistics-website-template/
+  * Author: BootstrapMade.com
+  * License: https://bootstrapmade.com/license/
+  ======================================================== -->
+</head>
 <body>
   
   
   
-  <!-- ======= Header ======= -->
- <header id="header" class="p-3 mb-2 bg-primary text-white fixed-padding">
+ <!-- ======= Header ======= -->
+ <header id="header" class="p-0 mb-1 bg-primary text-white fixed-padding">
     <div class="container-fluid container-xl d-flex align-items-center justify-content-between ">
 
     <a href="" class="navbar-brand">
         <!-- Uncomment the line below if you also wish to use an image logo -->
-        <img src="assets/img/ke.png" style="width:210px;" alt="Logo Smk Bina Cendekia">
+        <img src="assets/img/ke.png" style="width:190px;" alt="Logo Smk Bina Cendekia">
         <h1 class="text-dark left"></h1>
       </a>
 
@@ -75,6 +81,7 @@
                   <li><a href="ASKEP.php">ASKEP (Asisten Keperawatan)</a></li>
                   <li><a href="TBO.php">TBO(Teknik Bodi Otomotif)</a></li>
                   <li><a href="TABUS.php">TABUS(Tata Busana)</a></li>
+                  <li><a href="DKV.php">DKV(Desain Komunikasi Visual)</a></li>
                   </ul>
               </li>
               <li class="dropdown"><a href="#"><span>Kegiatan</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
@@ -99,19 +106,48 @@
           <li><a class="get-a-quote bg-light text-dark" href="cek_login.php">Login</a></li>
         </ul>
       </nav><!-- .navbar -->
-
     </div>
   </header><!-- End Header -->
 
-   <main id="main">
+    <!-- ======= Featured Services Section ======= -->
+      <section id="header" class="header">
+
+        <div class="row gy-4">
+          
+          <!-- End Service Item -->
+    </section>
+    <!-- End Featured Services Section -->
+
+
+ <!-- ======= Breadcrumbs ======= -->
+ <div class="breadcrumbs">
+      <div class="header">
+        <div class="container position-relative">
+          <div class="row d-flex justify-content-center">
+            <div class="col-lg-6 text-center">
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      <nav>
+        <div class="container">
+          <ol>
+            <li><a href="index.php">Beranda</a></li>
+            <li><a href="">Profil Sekolah</a></li>
+          </ol>
+        </div>
+      </nav>
+    </div><!-- End Breadcrumbs --> 
+  <main id="main">
     
-    <!-- ======= About Section ======= -->
+<!-- ======= About Section ======= -->
     <section id="about" class="about">
       <div class="container" data-aos="fade-up">
 
         <div class="row">
-          <div class="col-lg-6 order-1 order-lg-2" data-aos="fade-left" data-aos-delay="100">
-            <center><img src="assets/img/asskepp1.png" class="img-fluid" alt="">
+          <div class="col-lg-5 order-1 order-lg-2" data-aos="fade-left" data-aos-delay="100">
+            <img src="assets/img/asskepp1.png" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right" data-aos-delay="100">
           <div class="section-title">
@@ -119,100 +155,117 @@
           <p>SMK Bina Cendekia Cirebon </p>
         </div>
             <ul>
-          <br>Membekali peserta didik dengan ketrampilan,pengetahuan dan sikap agar kompeten agar di bidang merawat baik individu/ sendiri,keluarga,dll.serat memelihara dan dapat menyembuhkan.</br>
+          <br><p align="justify">Membekali peserta didik dengan ketrampilan,pengetahuan dan sikap agar kompeten agar di bidang merawat baik individu/ sendiri,keluarga,dll.serat memelihara dan dapat menyembuhkan.</br>
           </div>
         </div>
 
       </div>
     </section><!-- End About Section -->
-
         <!-- ======= Services Section ======= -->
         <section id="service" class="services pt-0">
       <div class="container" data-aos="fade-up">
 
         <div class="section-header">
           <h2>Kegiatan Asisten Keperawatan</h2>
-
         </div>
-
         <div class="row gy-4">
-
-          <div class="col-lg-6 col-md-8" data-aos="fade-up" data-aos-delay="100">
-            <div class="card">
+          <div class="col-lg-6 col-md-5" data-aos="fade-up" data-aos-delay="100">
+            <div class="">
               <div class="card-img">
                 <img src="assets/img/askep1.jpeg" alt="" class="img-fluid">
               </div>
+<<<<<<< HEAD
               <h3><a href="service-details.html" class="stretched-link">12 maret 2022</a></h3>
-              <p>uji kompetensi keahlian (UKK) kelas 12 jurusan di SMK Bina Cendekia langsung di RS PERMATA</p>
+              <p align="justify">uji kompetensi keahlian (UKK) kelas 12 jurusan di SMK Bina Cendekia langsung di RS PERMATA</p>
+=======
+           
+>>>>>>> 46e019af9636db1281016cdce9d09f9892bb2da1
             </div>
           </div><!-- End Card Item -->
 
-          <div class="col-lg-6 col-md-8" data-aos="fade-up" data-aos-delay="200">
-            <div class="card">
+          <div class="col-lg-6 col-md-5" data-aos="fade-up" data-aos-delay="200">
+            <div class="">
               <div class="card-img">
                 <img src="assets/img/askep2.jpeg" alt="" class="img-fluid">
               </div>
+<<<<<<< HEAD
               <h3><a href="service-details.html" class="stretched-link">12 maret 2022</a></h3>
-              <p>uji kompetensi keahlian (UKK) kelas 12 jurusan di SMK Bina Cendekia langsung di RS PERMATA</p>
+              <p align="justify">uji kompetensi keahlian (UKK) kelas 12 jurusan di SMK Bina Cendekia langsung di RS PERMATA</p>
+=======
+             
+>>>>>>> 46e019af9636db1281016cdce9d09f9892bb2da1
             </div>
           </div><!-- End Card Item -->
 
-          <div class="row gy-4">
-
-          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
-            <div class="card">
+          <div class="col-lg-4 col-md-4" data-aos="fade-up" data-aos-delay="300">
+            <div class="">
               <div class="card-img">
                 <img src="assets/img/askep3.jpeg" alt="" class="img-fluid">
               </div>
+<<<<<<< HEAD
               <h3><a href="service-details.html" class="stretched-link">12 maret 2022</a></h3>
-              <p>uji kompetensi keahlian (UKK) kelas 12 jurusan di SMK Bina Cendekia langsung di RS PERMATA</p>
+              <p align="justify">uji kompetensi keahlian (UKK) kelas 12 jurusan di SMK Bina Cendekia langsung di RS PERMATA</p>
+=======
+            
+>>>>>>> 46e019af9636db1281016cdce9d09f9892bb2da1
             </div>
           </div><!-- End Card Item -->
 
-          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="400">
-            <div class="card">
+          <div class="col-lg-4 col-md-4" data-aos="fade-up" data-aos-delay="400">
+            <div class="">
               <div class="card-img">
                 <img src="assets/img/askep4.jpeg" alt="" class="img-fluid">
               </div>
+<<<<<<< HEAD
               <h3><a href="service-details.html" class="stretched-link">18 januari 2022</a></h3>
-              <p>alumni SMK Bina Cendeki Cirebon lulus sekolah langsung kerja di rumah sakit permata cirebon</p>
+              <p align="justify">alumni SMK Bina Cendeki Cirebon lulus sekolah langsung kerja di rumah sakit permata cirebon</p>
             </div>
+=======
+            
+              </div>
+>>>>>>> 46e019af9636db1281016cdce9d09f9892bb2da1
           </div><!-- End Card Item -->
 
-          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="500">
-            <div class="card">
+          <div class="col-lg-4 col-md-4" data-aos="fade-up" data-aos-delay="500">
+            <div class="">
               <div class="card-img">
                 <img src="assets/img/askep5.jpeg" alt="" class="img-fluid">
               </div>
+<<<<<<< HEAD
               <h3><a href="service-details.html" class="stretched-link">12 maret 2022</a></h3>
-              <p>praktek Asisten Keperawatan</p>
+              <p align="justify">praktek Asisten Keperawatan</p>
+=======
+             
+>>>>>>> 46e019af9636db1281016cdce9d09f9892bb2da1
             </div>
           </div><!-- End Card Item -->
 
-          <div class="col-lg-6 col-md-8" data-aos="fade-up" data-aos-delay="600">
-            <div class="card">
+          <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-delay="600">
+            <div class="">
               <div class="card-img">
                 <img src="assets/img/askep6.jpeg" alt="" class="img-fluid">
               </div>
+<<<<<<< HEAD
               <h3><a href="service-details.html" class="stretched-link">23 juli 2022</a></h3>
-              <p>juara 2 lomba kompetensi siswa (LKS) Bidang Health Dan Social Care Tingkat Provinsi Jawa Barat </p>
+              <p align="justify">juara 2 lomba kompetensi siswa (LKS) Bidang Health Dan Social Care Tingkat Provinsi Jawa Barat </p>
+=======
+             
+>>>>>>> 46e019af9636db1281016cdce9d09f9892bb2da1
             </div>
           </div><!-- End Card Item -->
 
-          <div class="col-lg-6 col-md-8" data-aos="fade-up" data-aos-delay="600">
-            <div class="card">
+          <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-delay="700">
+            <div class="">
               <div class="card-img">
                 <img src="assets/img/askep7.jpeg" alt="" class="img-fluid">
               </div>
+<<<<<<< HEAD
               <h3><a href="service-details.html" class="stretched-link">03 agustus 2022</a></h3>
-              <p>lomba LKS tingkat provinsi jawa barat.cirebon dalam live dengan mata lomba "Health social and care"</p>
+              <p align="justify">lomba LKS tingkat provinsi jawa barat.cirebon dalam live dengan mata lomba "Health social and care"</p>
+=======
+>>>>>>> 46e019af9636db1281016cdce9d09f9892bb2da1
             </div>
           </div><!-- End Card Item -->
-
-        </div>
-
-      </div>
-    </section><!-- End Services Section -->
   <!-- ======= Footer ======= -->
   <footer id="footer" class="footer bg-primary">
 

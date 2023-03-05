@@ -32,14 +32,14 @@
 </head>
 <body>
 
-
-  <!-- ======= Header ======= -->
-  <header id="header" class="p-3 mb-2 bg-primary text-white fixed-padding">
+  
+ <!-- ======= Header ======= -->
+ <header id="header" class="p-0 mb-1 bg-primary text-white fixed-padding">
     <div class="container-fluid container-xl d-flex align-items-center justify-content-between ">
 
     <a href="" class="navbar-brand">
         <!-- Uncomment the line below if you also wish to use an image logo -->
-        <img src="assets/img/ke.png" style="width:210px;" alt="Logo Smk Bina Cendekia">
+        <img src="assets/img/ke.png" style="width:190px;" alt="Logo Smk Bina Cendekia">
         <h1 class="text-dark left"></h1>
       </a>
 
@@ -74,6 +74,7 @@
                   <li><a href="ASKEP.php">ASKEP (Asisten Keperawatan)</a></li>
                   <li><a href="TBO.php">TBO(Teknik Bodi Otomotif)</a></li>
                   <li><a href="TABUS.php">TABUS(Tata Busana)</a></li>
+                  <li><a href="DKV.php">DKV(Desain Komunikasi Visual)</a></li>
                   </ul>
               </li>
               <li class="dropdown"><a href="#"><span>Kegiatan</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
@@ -125,85 +126,73 @@
       </div>
     </section><!-- End About Section -->
 
-            <!-- ======= Services Section ======= -->
-            <section id="service" class="services pt-0">
+     <!-- ======= Services Section ======= -->
+      <section id="service" class="services pt-0">
       <div class="container" data-aos="fade-up">
 
         <div class="section-header">
           <h2>Kegiatan Teknik Bodi Otomotif</h2>
-
         </div>
-
         <div class="row gy-4">
-
-        <div class="col-lg-6 col-md-8" data-aos="fade-up" data-aos-delay="600">
-            <div class="card">
+          <div class="col-lg-6 col-md-5" data-aos="fade-up" data-aos-delay="100">
+            <div class="">
               <div class="card-img">
                 <img src="assets/img/tbo1.jpeg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">12 Oktober 2022</a></h3>
-              <p>Praktek pengecettan mobil</p>
+           
             </div>
           </div><!-- End Card Item -->
 
-          <div class="col-lg-6 col-md-8" data-aos="fade-up" data-aos-delay="600">
-            <div class="card">
+          <div class="col-lg-6 col-md-5" data-aos="fade-up" data-aos-delay="200">
+            <div class="">
               <div class="card-img">
                 <img src="assets/img/tbo2.jpeg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">18 agustus 2022</a></h3>
-              <p>praktek pengecettan mobil</p>
+             
             </div>
           </div><!-- End Card Item -->
-          <div class="row gy-4">
 
-          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
-            <div class="card">
+          <div class="col-lg-4 col-md-4" data-aos="fade-up" data-aos-delay="300">
+            <div class="">
               <div class="card-img">
                 <img src="assets/img/tbo3.jpeg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">26 Juni 2022</a></h3>
-              <p>Anak-anak Teknik Bodi Otomotif </p>
+            
             </div>
           </div><!-- End Card Item -->
 
-          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="400">
-            <div class="card">
+          <div class="col-lg-4 col-md-4" data-aos="fade-up" data-aos-delay="400">
+            <div class="">
               <div class="card-img">
                 <img src="assets/img/tbo4.jpeg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">19 Maret 2021</a></h3>
-              <p>hasil pengecattan helem kelas 12 TBO </p>
-            </div>
+            
+              </div>
           </div><!-- End Card Item -->
 
-          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="500">
-            <div class="card">
+          <div class="col-lg-4 col-md-4" data-aos="fade-up" data-aos-delay="500">
+            <div class="">
               <div class="card-img">
                 <img src="assets/img/tbo5.jpeg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">23 Februari 2022</a></h3>
-              <p>Anak-anak Teknik Bodi Otomotif </p>
+             
             </div>
           </div><!-- End Card Item -->
 
-          <div class="col-lg-6 col-md-8" data-aos="fade-up" data-aos-delay="600">
-            <div class="card">
+          <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-delay="600">
+            <div class="">
               <div class="card-img">
                 <img src="assets/img/tbo6.jpeg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">18 agustus 2022 </a></h3>
-              <p>praktek pengecattan bodi mobil SMK Bina Cendekia </p>
+             
             </div>
           </div><!-- End Card Item -->
 
-          <div class="col-lg-6 col-md-8" data-aos="fade-up" data-aos-delay="600">
-            <div class="card">
+          <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-delay="700">
+            <div class="">
               <div class="card-img">
                 <img src="assets/img/tbo7.jpeg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">03 agustus 2022</a></h3>
-              <p>Praktek mengeacat hellem</p>
             </div>
           </div><!-- End Card Item -->
 
@@ -212,7 +201,6 @@
       </div>
     </section><!-- End Services Section -->
 
- 
   <!-- ======= Footer ======= -->
   <footer id="footer" class="footer bg-transparent">
 
