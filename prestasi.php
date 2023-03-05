@@ -122,7 +122,7 @@
                 <img src="assets/img/prestasi1.jpeg" alt="" class="img-fluid">
               </div>
               <h3><a href="service-details.html" class="stretched-link">Juara </a></h3>
-              <p>Dalam Rangka (LOMBA KETERAMPILAN SISWA) SMK Tingkat Provinsi Jawa Barat,Tahun 2022</p>
+              <p align="justify">Dalam Rangka (LOMBA KETERAMPILAN SISWA) SMK Tingkat Provinsi Jawa Barat,Tahun 2022</p>
             </div>
           </div><!-- End Card Item -->
 
@@ -132,7 +132,7 @@
                 <img src="assets/img/prestasi-sevice.jpeg" alt="" class="img-fluid">
               </div>
               <h3><a href="service-details.html" class="stretched-link">Juara II</a></h3>
-              <p>Dalam Rangka (LOMBA KETERAMPILAN SISWA) SMK Tingkat Provinsi Jawa Barat,Tahun 2022</p>
+              <p align="justify">Dalam Rangka (LOMBA KETERAMPILAN SISWA) SMK Tingkat Provinsi Jawa Barat,Tahun 2022</p>
             </div>
           </div><!-- End Card Item -->
 
@@ -142,7 +142,7 @@
                 <img src="assets/img/prestasi2.jpeg" alt="" class="img-fluid">
               </div>
               <h3><a href="service-details.html" class="stretched-link">Juara I</a></h3>
-              <p>Dalam Rangka (LOMBA KOSTUM TEBAIK) SMK Tingkat Kabupaten  Cirebon,Tahun 2021</p>
+              <p align="justify">Dalam Rangka (LOMBA KOSTUM TEBAIK) SMK Tingkat Kabupaten  Cirebon,Tahun 2021</p>
             </div>
           </div><!-- End Card Item -->
         </div>

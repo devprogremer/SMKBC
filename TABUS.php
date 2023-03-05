@@ -117,7 +117,7 @@
           <p>SMK Bina Cendekia Cirebon </p>
         </div>
             <ul>
-          <br> Membekali peserta didik dengan ketrampilam,pengetahuan dan sikap agar komputen di bidang fashion drawing (menggambar busana), pembuatan busana baik pria maupun wanita dan anak-anak,pembuatan hiasan pada busan (Embruodery). </br>
+          <br> <p align="justify">Membekali peserta didik dengan ketrampilam,pengetahuan dan sikap agar komputen di bidang fashion drawing (menggambar busana), pembuatan busana baik pria maupun wanita dan anak-anak,pembuatan hiasan pada busan (Embruodery). </br>
           </div>
         </div>
 

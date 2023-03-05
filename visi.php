@@ -131,8 +131,8 @@
           <div class="col-lg-6 content order-last  order-lg-first">
             <h3>Visi SMK Bina Cendekia Cirebon</h3>
             <div class="col-md-7">
-            <p class="fst-italic">
-              "Menjadi Sekolah Menengah Kejuruan yang Berkarakter, Berbudaya, Berwawasan Lingkungan, Menghasilkan Insan yang Bertaqwa, Profesional Mampu Berwirausaha dan Berdaya Saing Global"
+             <h6 class="fst-italic">
+            <p align="justify"> "Menjadi Sekolah Menengah Kejuruan yang Berkarakter,Berbudaya,Berwawasan Lingkungan,Menghasilkan Insan yang Bertaqwa, Profesional Mampu Berwirausaha dan Berdaya Saing Global"
             </p>
           </div>
             <ul>
@@ -151,12 +151,12 @@
           <div class="col-md-7">
             <h3>Misi SMK Bina Cendekia Cirebon</h3>
             <ul>
-              <li><i class="bi bi-check"></i> Mengembangkan kurikulum, metodologi pembelajaran dan sistem penilaian berbasis kompetensi yang berkarakter.</li>
-              <li><i class="bi bi-check"></i> Menyelenggarakan kegiatan ekstrakurikuler agar peserta didik memiliki multi skills yang mampu mengembangkan kecakapan hidup ( life skill ) dan berakhlakul mulia, kreatif dan inovatif. </li>
-              <li><i class="bi bi-check"></i> Meningkatkan kualitas pendidik dan tenaga kependidikan yang yang memenuhi kualitas profesional, kreatif, inovatif, berkarakter dan berbudaya.</li>
-              <li><i class="bi bi-check"></i> Meningkatkan fasilitas dan lingkungan belajar yang aman, nyaman, memenuhi standar nasional pendidikan, standar kerja industri secara kualitas dan kuantitas.</li>
-              <li><i class="bi bi-check"></i> Membangun kemitraan ( link and match ) dengan lembaga yang relevan baik dalam maupun luar negeri.</li>
-              <li><i class="bi bi-check"></i> Mengembangkan sekolah unggulan berbasis literasi.</li>
+              <p align="justify"> Mengembangkan kurikulum, metodologi pembelajaran dan sistem penilaian berbasis kompetensi yang berkarakter.</li>
+              <p align="justify"> Menyelenggarakan kegiatan ekstrakurikuler agar peserta didik memiliki multi skills yang mampu mengembangkan kecakapan hidup ( life skill ) dan berakhlakul mulia, kreatif dan inovatif. </li>
+              <p align="justify"> Meningkatkan kualitas pendidik dan tenaga kependidikan yang yang memenuhi kualitas profesional, kreatif, inovatif, berkarakter dan berbudaya.</li>
+              <p align="justify"> Meningkatkan fasilitas dan lingkungan belajar yang aman, nyaman, memenuhi standar nasional pendidikan, standar kerja industri secara kualitas dan kuantitas.</li>
+              <p align="justify"> Membangun kemitraan ( link and match ) dengan lembaga yang relevan baik dalam maupun luar negeri.</li>
+              <p align="justify"> Mengembangkan sekolah unggulan berbasis literasi.</li>
             </ul>
           </div>
         </div><!-- Features Item -->

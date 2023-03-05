@@ -32,8 +32,8 @@
 </head>
 <body>
 
-   <!-- ======= Header ======= -->
-   <header id="header" class="p-0 mb-1 bg-primary text-white fixed-padding">
+  <!-- ======= Header ======= -->
+  <header id="header" class="p-0 mb-1 bg-primary text-white fixed-padding">
     <div class="container-fluid container-xl d-flex align-items-center justify-content-between ">
 
     <a href="" class="navbar-brand">
@@ -98,12 +98,16 @@
         </ul>
       </nav><!-- .navbar -->
 
+
     </div>
   </header><!-- End Header -->
   
   <main id="main">
 
   
+<<<<<<< HEAD
+ 
+=======
   <!-- ======= Header ======= -->
   <header id="header" class="header d-flex align-items-center fixed-top bg-primary">
     <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
@@ -173,6 +177,7 @@
         </ul>
       </nav><!-- .navbar -->
 
+>>>>>>> 46e019af9636db1281016cdce9d09f9892bb2da1
     </div>
   </header><!-- End Header -->
     <!-- ======= Featured Services Section ======= -->
@@ -227,7 +232,7 @@
             <p class="fst-italic">
               Tujuan OSIS
             </p>
-           <P> Tujuan OSIS
+            <p align="justify">Tujuan OSIS
 OSIS bertujuan memfasilitasi para siswa untuk menyalurkan aspirasinya, mengekspresikan kreativitasnya, dan berkontribusi untuk hal-hal yang positif. OSIS memiliki tujuan yang positif bagi seluruh siswa di sekolah yang artinya akan memberikan pengaruh positif juga bagi sekolah itu sendiri.</P>
           </div>
         </div><!-- Features Item -->
@@ -240,9 +245,7 @@ OSIS bertujuan memfasilitasi para siswa untuk menyalurkan aspirasinya, mengekspr
             <h3>PRAMUKA</h3>
             <p class="fst-italic">
               TUJUAN PRAMUKA
-            </p>
-            <p>
-            Pramuka bertujuan untuk membentuk setiap Pramuka agar memiliki kepribadian yang beriman, bertakwa, berakhlak mulia, berjiwa patriotik, taat hukum, disiplin, menjunjung tinggi nilai-nilai luhur bangsa, dan memiliki berkecakapan hidup sebagai kader bangsa dalam menjaga dan membangun Negeara Kesatuan Republik
+              <p align="justify"> Pramuka bertujuan untuk membentuk setiap Pramuka agar memiliki kepribadian yang beriman, bertakwa, berakhlak mulia, berjiwa patriotik, taat hukum, disiplin, menjunjung tinggi nilai-nilai luhur bangsa, dan memiliki berkecakapan hidup sebagai kader bangsa dalam menjaga dan membangun Negeara Kesatuan Republik
             </p>
           </div>
         </div><!-- Features Item -->
@@ -259,8 +262,7 @@ OSIS bertujuan memfasilitasi para siswa untuk menyalurkan aspirasinya, mengekspr
             <h3>PMR WIRA</h3>
             <p class="fst-italic">
              TUJUAN PMR WIRA
-            </p>
-            <P>Ekskul PMR atau palang merah remaja juga bertujuan untuk melatih dan membentuk jiwa kemanusiaan para anggotanya agar mereka bisa memiliki kepedulian yang tinggi terhadap kemanusiaan sejak usia dini. Tentu saja ini akan membuat Kamu menjadi pribadi yang lebih mampu berempati dengan individu lainnya.</P>
+             <p align="justify">Ekskul PMR atau palang merah remaja juga bertujuan untuk melatih dan membentuk jiwa kemanusiaan para anggotanya agar mereka bisa memiliki kepedulian yang tinggi terhadap kemanusiaan sejak usia dini. Tentu saja ini akan membuat Kamu menjadi pribadi yang lebih mampu berempati dengan individu lainnya.</P>
           </div>
         </div><!-- Features Item -->
 
@@ -291,8 +293,7 @@ OSIS bertujuan memfasilitasi para siswa untuk menyalurkan aspirasinya, mengekspr
             <h3>IRMAS</h3>
             <p class="fst-italic">
             TUJUAN IRMAS
-            </p>
-            <P>remaja masjid harus menjadi wadah pemersatu serta dapat membentengi dan mencegah agar generasi muda Islam tidak terlibat perilaku negatif atau kenakalan remaja.</P>
+            <p align="justify">remaja masjid harus menjadi wadah pemersatu serta dapat membentengi dan mencegah agar generasi muda Islam tidak terlibat perilaku negatif atau kenakalan remaja.</P>
           </div>
         </div><!-- Features Item -->
 
@@ -304,9 +305,7 @@ OSIS bertujuan memfasilitasi para siswa untuk menyalurkan aspirasinya, mengekspr
             <h3>SINEMA TOGRAFI</h3>
             <p class="fst-italic">
               TUJUAN SINEMATOGRAFI
-            </p>
-            <p>
-            Oleh karena itu pengambilan gambar yang baik sangat ditekankan pada proses ini. Jadi teknik sinematografi adalah cara/metode yang digunakan untuk mengambil gambar agar penonton mudah untuk menangkap makna/pesan yang ingin disampaikan melalui sebuah gambar.
+              <p align="justify">Oleh karena itu pengambilan gambar yang baik sangat ditekankan pada proses ini. Jadi teknik sinematografi adalah cara/metode yang digunakan untuk mengambil gambar agar penonton mudah untuk menangkap makna/pesan yang ingin disampaikan melalui sebuah gambar.
             </p>
           </div>
         </div><!-- Features Item -->
@@ -323,8 +322,7 @@ OSIS bertujuan memfasilitasi para siswa untuk menyalurkan aspirasinya, mengekspr
             <h3>FUTSAL</h3>
             <p class="fst-italic">
             TUJUAN FUTAL
-            </p>
-            <P>Tujuan dari olahraga ini adalah mencatak gol sebanyak-banyaknya kegawang lawan untuk bisa memenangkan pertandingan.</p>
+            <p align="justify">Tujuan dari olahraga ini adalah mencatak gol sebanyak-banyaknya kegawang lawan untuk bisa memenangkan pertandingan.</p>
           </div>
         </div><!-- Features Item -->
 
@@ -336,9 +334,7 @@ OSIS bertujuan memfasilitasi para siswa untuk menyalurkan aspirasinya, mengekspr
             <h3>VOLI BALL</h3>
             <p class="fst-italic">
               TUJUAN VOLI
-            </p>
-            <p>
-            tujuan dari permainan bola voli adalah melewatkan bola di atas net agar dapat jatuh menyentuh lantai lapangan lawan, untuk mencegah bola yang sama dari lawan. Setiap tim dapat memainkan tiga pantulan untuk mengembalikan bola diluar perkenaan block.
+              <p align="justify">tujuan dari permainan bola voli adalah melewatkan bola di atas net agar dapat jatuh menyentuh lantai lapangan lawan, untuk mencegah bola yang sama dari lawan. Setiap tim dapat memainkan tiga pantulan untuk mengembalikan bola diluar perkenaan block.
             </p>
           </div>
         </div><!-- Features Item -->
@@ -355,8 +351,7 @@ OSIS bertujuan memfasilitasi para siswa untuk menyalurkan aspirasinya, mengekspr
             <h3>BADMINTON</h3>
             <p class="fst-italic">
             TUJUAN BADMINTON
-            </p>
-           <P>Tujuan dari permainan bulutangkis adalah memperoleh angka dan kemenangan dengan cara menyebrangkan dan menjatuhkan shuttlecock di bidang permainan lawan dan berusaha agar lawan tidak dapat memukul shuttlecock atau menjatuhkannya di daerah permainannya sendiri.</P>
+            <p align="justify">Tujuan dari permainan bulutangkis adalah memperoleh angka dan kemenangan dengan cara menyebrangkan dan menjatuhkan shuttlecock di bidang permainan lawan dan berusaha agar lawan tidak dapat memukul shuttlecock atau menjatuhkannya di daerah permainannya sendiri.</P>
           </div>
         </div><!-- Features Item -->
 
@@ -368,9 +363,7 @@ OSIS bertujuan memfasilitasi para siswa untuk menyalurkan aspirasinya, mengekspr
             <h3>ENGLISH CLUB</h3>
             <p class="fst-italic">
               TUJUAN ENGLIS CLUB
-            </p>
-            <p>
-            English Club Sebagai Wadah Bagi Para Siswa Untuk Belajar Dan Meningkatkan Kemampuan Berbahasa Inggris. English Club Dapat Membantu Para Siswa Dalam Menunjang Pembelajaran Bahasa Inggris Dikelas Maupun Dilingkungan Sekitar Atau Diluar Sekolah.
+              <p align="justify"> English Club Sebagai Wadah Bagi Para Siswa Untuk Belajar Dan Meningkatkan Kemampuan Berbahasa Inggris. English Club Dapat Membantu Para Siswa Dalam Menunjang Pembelajaran Bahasa Inggris Dikelas Maupun Dilingkungan Sekitar Atau Diluar Sekolah.
             </p>
           </div>
         </div><!-- Features Item -->
@@ -387,8 +380,7 @@ OSIS bertujuan memfasilitasi para siswa untuk menyalurkan aspirasinya, mengekspr
             <h3>BENKAIKU (B. Jepang)</h3>
             <p class="fst-italic">
              TUJUAN BENKAIKU:
-            </p>
-            <p>Menghasilkan sarjana pendidikan bahasa Jepang yang menguasai teori pengajaran bahasa Jepang, kemahiran mengajar bahasa Jepang, teori belajar dan pembelajaran bahasa Jepang, dan mampu menerapkan dalam pembelajaran bahasa Jepang pada jenjang pendidikan menengah sesuai dengan standar kompetensi lulusan, standar isi, serta standar proses.</p>
+             <p align="justify">Menghasilkan sarjana pendidikan bahasa Jepang yang menguasai teori pengajaran bahasa Jepang, kemahiran mengajar bahasa Jepang, teori belajar dan pembelajaran bahasa Jepang, dan mampu menerapkan dalam pembelajaran bahasa Jepang pada jenjang pendidikan menengah sesuai dengan standar kompetensi lulusan, standar isi, serta standar proses.</p>
           </div>
         </div><!-- Features Item -->
         

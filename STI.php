@@ -116,7 +116,7 @@
           <p>SMK Bina Cendekia Cirebon </p>
         </div>
             <ul>
-          <br>kualitas sumber daya manusia merupakan faktor mendasar guna meningkatkan daya saing dan produktivitas angkatan kerja dalam menghadapi bonus demografi yang kian menantang </br>
+          <br<p align="justify">kualitas sumber daya manusia merupakan faktor mendasar guna meningkatkan daya saing dan produktivitas angkatan kerja dalam menghadapi bonus demografi yang kian menantang </br>
           </div>
         </div>
 
@@ -131,12 +131,53 @@
           <h2>Kegiatan Samsung Tech Institute</h2>
         </div>
         <div class="row gy-4">
+<<<<<<< HEAD
+
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
+            <div class="card">
+              <div class="card-img">
+                <img src="assets/img/sti1.jpeg" alt="" class="img-fluid">
+              </div>
+              <h3><a href="service-details.html" class="stretched-link">29 sepetember 2019</a></h3>
+              <p align="justify">kegiatan praktek program studi Samsung Tech Institute SMK Bina Cendekia Cirebon</p>
+            </div>
+          </div><!-- End Card Item -->
+
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
+            <div class="card">
+              <div class="card-img">
+                <img src="assets/img/sti2.jpeg" alt="" class="img-fluid">
+              </div>
+              <h3><a href="service-details.html" class="stretched-link">29 sepetember 2019</a></h3>
+              <p align="justify">kegiatan praktek program studi Samsung Tech Institute SMK Bina Cendekia Cirebon</p>
+            </div>
+          </div><!-- End Card Item -->
+
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
+            <div class="card">
+              <div class="card-img">
+                <img src="assets/img/sti3.jpeg" alt="" class="img-fluid">
+              </div>
+              <h3><a href="service-details.html" class="stretched-link">29 sepetember 2019</a></h3>
+              <p align="justify">kegiatan praktek program studi Samsung Tech Institute SMK Bina Cendekia Cirebon</p>
+            </div>
+          </div><!-- End Card Item -->
+
+          <div class="col-lg-6 col-md-8" data-aos="fade-up" data-aos-delay="400">
+            <div class="card">
+              <div class="card-img">
+                <img src="assets/img/sti4.jpeg" alt="" class="img-fluid">
+              </div>
+              <h3><a href="service-details.html" class="stretched-link">23 januari 2019</a></h3>
+              <p align="justify">praktek anak-anak SAMSUNG</p>
+=======
           <div class="col-lg-6 col-md-5" data-aos="fade-up" data-aos-delay="100">
             <div class="">
               <div class="card-img">
                 <img src="assets/img/sti4.jpeg" alt="" class="img-fluid">
               </div>
            
+>>>>>>> 46e019af9636db1281016cdce9d09f9892bb2da1
             </div>
           </div><!-- End Card Item -->
 
@@ -154,6 +195,31 @@
               <div class="card-img">
                 <img src="assets/img/sti5.jpeg" alt="" class="img-fluid">
               </div>
+<<<<<<< HEAD
+              <h3><a href="service-details.html" class="stretched-link">23 januari 2019</a></h3>
+              <p align="justify">praktek anak-anak SAMSUNG</p>
+            </div>
+          </div><!-- End Card Item -->
+
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="600">
+            <div class="card">
+              <div class="card-img">
+                <img src="assets/img/sti6.jpeg" alt="" class="img-fluid">
+              </div>
+              <h3><a href="service-details.html" class="stretched-link">04 Januari 2022</a></h3>
+              <p align="justify">kelas SAMSUNG SMK Bina Cendekia Cirebon masa Training DI SAMSUNG CENTER CIREBON
+            </div>
+          </div><!-- End Card Item -->
+
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="600">
+            <div class="card">
+              <div class="card-img">
+                <img src="assets/img/sti7.jpeg" alt="" class="img-fluid">
+              </div>
+              <h3><a href="service-details.html" class="stretched-link">23 februari 2022</a></h3>
+              <p align="justify">anak-anak SAMSUNG SMK Bina Cendekia Cirebon</p>
+            </div>
+=======
             
             </div>
           </div><!-- End Card Item -->
@@ -165,6 +231,7 @@
               </div>
             
               </div>
+>>>>>>> 46e019af9636db1281016cdce9d09f9892bb2da1
           </div><!-- End Card Item -->
 
           <div class="col-lg-4 col-md-4" data-aos="fade-up" data-aos-delay="500">
@@ -172,7 +239,12 @@
               <div class="card-img">
                 <img src="assets/img/sti8.jpeg" alt="" class="img-fluid">
               </div>
+<<<<<<< HEAD
+              <h3><a href="service-details.html" class="stretched-link">04 Januari 2022</a></h3>
+              <p align="justify">kelas SAMSUNG SMK Bina Cendekia Cirebon masa Training DI SAMSUNG CENTER CIREBON</p>
+=======
              
+>>>>>>> 46e019af9636db1281016cdce9d09f9892bb2da1
             </div>
           </div><!-- End Card Item -->
 

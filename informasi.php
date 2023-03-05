@@ -152,7 +152,7 @@
                 <img src="assets/img/toga-service.png" alt="" class="img-fluid">
               </div>
               <center><h3><a class="text-primary">Program Beasiswa</a></h3><center>
-              <center><p class="fst-italic">Program Beasiswa Ini Untuk Siswa Yang Berprestasi dan anak yatim/piatu</p><center>
+              <p align="justify">Program Beasiswa Ini Untuk Siswa Yang Berprestasi dan anak yatim/piatu</p>
             </div>
           </div><!-- End Card Item -->
 
@@ -162,7 +162,7 @@
                 <img src="assets/img/akreditasi-service.png" alt="" class="img-fluid">
               </div>
               <center><h3><a class="text-primary">Akreditasi-B</a></h3><center>
-              <center><p class="fst-italic">Terakreditasi-B</p><center>
+              <p align="justify">Terakreditasi-B</p>
             </div>
           </div><!-- End Card Item -->
 
@@ -172,7 +172,7 @@
                 <img src="assets/img/pengajar-service.jpg" alt="" class="img-fluid">
               </div>
               <center><h3><a class="text-primary">Pengajar Kompoten</a></h3><center>
-              <center><p class="fst-italic">Kualifikasi pengajar S1 dan S2 dari lulusan kampus ternama dan memiliki sertifikasi keahlian</p><center>
+              <p align="justify">Kualifikasi pengajar S1 dan S2 dari lulusan kampus ternama dan memiliki sertifikasi keahlian</p>
             </div>
           </div><!-- End Card Item -->
 
@@ -182,7 +182,7 @@
                 <img src="assets/img/lulusan-service.jpg" alt="" class="img-fluid">
               </div>
               <center><h3><a class="text-primary">Alumni Berkualitas</a></h3><center>
-              <center><p class="fst-italic">Alumni siap kerja, siap kuliah dan siap berwirausaha. Alumni tersebar di berbagai negara Seperti Jepang, Taiwan, Malaysia, dan lain-lain</p><center>
+              <p align="justify">Alumni siap kerja, siap kuliah dan siap berwirausaha. </p>
               </div>
           </div><!-- End Card Item -->
 
@@ -192,7 +192,7 @@
                 <img src="assets/img/prestasii-service.png" alt="" class="img-fluid">
               </div>
               <center><h3><a class="text-primary">Prestasi</a></h3><center>
-              <center><p class="fst-italic">Memiliki segudang prestasi baik tingkat lokal, regional maupun nasional.</p><center>
+              <p align="justify">Memiliki segudang prestasi baik tingkat lokal, regional maupun nasional.</p>
             </div>
           </div><!-- End Card Item -->
 
@@ -202,7 +202,7 @@
                 <img src="assets/img/kurikulum-service.jpg" alt="" class="img-fluid">
               </div>
               <center><h3><a class="text-primary">Kurikulum Merdeka</a></h3><center>
-              <center><p class="fst-italic">Merdeka Belajar Bina Cendekia School (MBBCS) dengan 4 Pilar yaitu SDM GURU, Pendidikan Karakter Siswa, KURIKULUM dan Moderenisasi Sarana Prasarana sekolah.</p><center>
+              <p align="justify">Merdeka Belajar Bina Cendekia School (MBBCS) dengan 4 Pilar yaitu SDM GURU, Pendidikan Karakter Siswa, KURIKULUM dan Moderenisasi Sarana Prasarana sekolah.</p>
             </div>
           </div><!-- End Card Item -->
 
@@ -212,7 +212,7 @@
                 <img src="assets/img/gedung-service.png" alt="" class="img-fluid">
               </div>
               <center><h3><a class="text-primary">Fasilitas</a></h3><center>
-              <center><p class="fst-italic">Belajar Dengan Kualitas Yang Ada dan Mencukupi</p><center>
+              <p align="justify">Belajar Dengan Kualitas Yang Ada dan Mencukupi</p>
             </div>
           </div><!-- End Card Item -->
 
@@ -222,7 +222,7 @@
                 <img src="assets/img/juara-service.png" alt="" class="img-fluid">
               </div>
               <center><h3><a class="text-primary">Juara LKS SMK</a></h3><center>
-              <center><p class="fst-italic">Sekolah Kami Menjuarai Lomba Kompetensi Siswa (LKS) Bidang Health & Social Care Tingkat Provinsi Jawa Barat 2022</p><center>
+              <p align="justify"> Sekolah Kami Menjuarai Lomba Kompetensi Siswa (LKS) Bidang Health & Social Care Tingkat Provinsi Jawa Barat 2022</p>
             </div>
           </div><!-- End Card Item -->
 
@@ -261,8 +261,8 @@
   <div class="row">
     <div class="col-lg-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center">
       <h1 data-aos="fade-up">Rekayasa Perangkat <br> Lunak</h1>
-      <h5 data-aos="fade-up" data-aos-delay="400">Membekali peserta didik dengan ketrampilan,pengetahuan <br> sikap agar kompeten menginstalasi software aplikasi, <br>mengoperasikan software,mrawat software aplikasi dan  <br> di bidang pembuatan softaware aplikasi.</h5>
-      <div data-aos="fade-up" data-aos-delay="800">
+      <p align="justify">Membekali peserta didik dengan ketrampilan,pengetahuan sikap agar kompeten menginstalasi software aplikasi,mengoperasikan software,mrawat software aplikasi dan di bidang pembuatan softaware aplikasi.</h5>
+      <div data-aos="fade-up" data-aos-delay="700">
         <!-- ======= Featured Services Section ======= -->
  <section id="header" class="header">
 
@@ -296,7 +296,7 @@
     </div>
     <div class="col-lg-6 order-1 order-lg-2 hero-img d-flex flex-column justify-content-center" data-aos="fade-up" data-aos-delay="200">
     <h1 data-aos="fade-up">Tata Busana</h1>
-    <h5 data-aos="fade-up" data-aos-delay="400" class="container">Membekali peserta didik dengan ketrampilam,pengetahuan dan sikap agar komputen di bidang fashion drawing (menggambar busana), pembuatan busana baik pria maupun wanita dan anak-anak, pembuatan hiasan pada busan (Embruodery).</h5>
+    <p align="justify">Membekali peserta didik dengan ketrampilam,pengetahuan dan sikap agar komputen di bidang fashion drawing (menggambar busana), pembuatan busana baik pria maupun wanita dan anak-anak, pembuatan hiasan pada busan (Embruodery).</h5>
       <div data-aos="fade-up" data-aos-delay="800">
         <!-- ======= Featured Services Section ======= -->
  <section id="header" class="header">
@@ -323,7 +323,7 @@
   <div class="row">
     <div class="col-lg-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center">
       <h1 data-aos="fade-up">Asisten Keperawatan</h1>
-      <h5 data-aos="fade-up" data-aos-delay="400">Membekali peserta didik dengan ketrampilan,pengetahuan dan <br> sikap agar kompeten agar di bidang merawat baik individu/sendiri, keluarga, dll. Serta memelihara dan dapat menyembuhkan.</h5>
+      <p align="justify">Membekali peserta didik dengan ketrampilan,pengetahuan dan <br> sikap agar kompeten agar di bidang merawat baik individu/sendiri, keluarga, dll. Serta memelihara dan dapat menyembuhkan.</h5>
       <div data-aos="fade-up" data-aos-delay="800">
         <!-- ======= Featured Services Section ======= -->
  <section id="header" class="header">

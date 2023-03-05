@@ -33,7 +33,7 @@
 <body>
 
  <!-- ======= Header ======= -->
- <header id="header" class="p-3 mb-2 bg-primary text-white fixed-padding">
+ <header id="header" class="p-0 mb-1 bg-primary text-white fixed-padding">
     <div class="container-fluid container-xl d-flex align-items-center justify-content-between ">
 
     <a href="" class="navbar-brand">
@@ -114,25 +114,12 @@
 
 
     <!-- ======= About Us Section ======= -->
-<<<<<<< HEAD
     <section id="about" class="about pt-7">
       <div class="container" data-aos="fade-up">
         <div class="row gy-3">
           <div class="col-lg-5 position-middle middle-self-start order-lg-last order-first">
-            <img src="assets/img/yy.png" class="img-align rounded-middle float-end" alt="">
-             <center><h4 class=>Ade Rahmat Saputra M,Pd.</h3></center>
-=======
-    <section id="about" class="about pt-0">
-      <div class="container" data-aos="fade-up">
-        <div class="row gy-4">
-          <div class="col-lg-6 position-middle middle-self-start order-lg-last order-first">
-            <img src="assets/img/yy.png" class="img-align rounded-middle float-end" alt="">
->>>>>>> 57e0c86646b470c94b819b95b9301903344d5b38
-          </div>
-          <div class="col-lg-7 content order-last  order-lg-first">
-          <h4></h4>
-            <h3>║ Sambutan Kepala Sekolah</h3>
-            <p align="justify"> Assalamualaikum wr WB
+          <h6 class="fst-italic">
+            <p align="justify">SAMBUTAN KEPALA SEKOLAH<br>Assalamualaikum wr WB
 Saya Ade Rahmat Saputra MP,d Saya kepala sekolah SMK Bina Cendekia Cirebon,puji syukur Alhamdulillah 
  Kami SMK Bina Cendekia Cirebon sepakat salah satu sekolah menerima bantuan gibah dalam bantuan program  pusat keunggulan sektor ekonomi kreatif jurusan rekaya perangkat melalui program melalui program ini kami sangat membantu untuk mewujudkan perubahan yang lebih baru,kami telah melaksanakan penyalaksanaan kurikulum yang sesuai kebutuhan dunia pekerja serta berkembangnya sarana prasana di sekolah kami yang menunjang proses kegiatan kamu siswa sehingga menghasilkan kalobarisi untuk dunia induka
 Untuk penerapan jurusan  yang kompeten dan siap kerja dalam skema permadana di bidang dunia kerja industri SMK Bina Cendekia Cirebon menggandeng perusahaan dan komunitas  nelkom Indonesia memilki program yaitu
