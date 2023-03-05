@@ -157,7 +157,7 @@
           <p>SMK Bina Cendekia Cirebon </p>
         </div>
             <ul> 
-          <br>Membekali peserta didik dengan ketrampilan,pengetahuan sikap agar kompeten menginstalasi software aplikasi,mengoperasikan software,mrawat software aplikasi dan mengelola di bidang pembuatan softaware aplikasi.</br>
+          <br>DKV adalah cabang ilmu desain. Di jurusan ini, siswa belajar konsep komunikasi dan ungkapan kreatif dengan menggunakan berbagai elemen visual untuk menyampaikan pesan. Dengan gambar visual,siswa belajar menyampaikan pesan secara informatif, efektif, dan komunikatif.</br>
           </div>
         </div>
 
@@ -219,7 +219,7 @@
           <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-delay="600">
             <div class="">
               <div class="card-img">
-                <img src="assets/img/dkv2.jpeg" alt="" class="img-fluid">
+                <img src="assets/img/dkv3.jpeg" alt="" class="img-fluid">
               </div>
              
             </div>
@@ -228,7 +228,7 @@
           <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-delay="700">
             <div class="">
               <div class="card-img">
-                <img src="assets/img/dkv3.jpeg" alt="" class="img-fluid">
+                <img src="assets/img/dkv2.jpeg" alt="" class="img-fluid">
               </div>
             </div>
           </div><!-- End Card Item -->
