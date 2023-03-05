@@ -32,9 +32,8 @@
 </head>
 <body>
 
-  
-  
-
+  <!-- ======= Header ======= -->
+ <header id="header" class="p-3 mb-2 bg-primary text-white fixed-padding">
    <!-- ======= Header ======= -->
    <header id="header" class="p-0 mb-1 bg-primary text-white fixed-padding">
     <div class="container-fluid container-xl d-flex align-items-center justify-content-between ">
@@ -102,36 +101,12 @@
       </nav><!-- .navbar -->
 </div>
   </header><!-- End Header -->
-
-    <!-- ======= Featured Services Section ======= -->
-      <section id="header" class="header">
-
-        <div class="row gy-4">
-          
-          <!-- End Service Item -->
-    </section>
-    <!-- End Featured Services Section -->
-
-<!-- ======= Breadcrumbs ======= -->
-<div class="breadcrumbs">
-      <div class="header">
-        <div class="container position-relative">
-          <div class="row d-flex justify-content-center">
-            <div class="col-lg-6 text-center">
-              
-            </div>
-          </div>
-        </div>
-      </div>
-
-    </div><!-- End Breadcrumbs --> 
-
-
+ 
 
   <main id="main">
 
     <!-- ======= Our Team Section ======= -->
-    <section id="team" class="team pt-6">
+    <section id="team" class="team pt-0">
       <div class="container" data-aos="fade-up">
 
         <div class="section-header">

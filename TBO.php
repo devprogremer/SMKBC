@@ -29,15 +29,10 @@
   <!-- Template Main CSS File -->
   <link href="assets/css/main.css" rel="stylesheet">
 
-  <!-- =======================================================
-  * Template Name: Logis - v1.3.0
-  * Template URL: https://bootstrapmade.com/logis-bootstrap-logistics-website-template/
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
 </head>
 <body>
 
+<<<<<<< HEAD
   
  <!-- ======= Header ======= -->
  <header id="header" class="p-0 mb-1 bg-primary text-white fixed-padding">
@@ -46,6 +41,16 @@
     <a href="" class="navbar-brand">
         <!-- Uncomment the line below if you also wish to use an image logo -->
         <img src="assets/img/ke.png" style="width:190px;" alt="Logo Smk Bina Cendekia">
+=======
+
+  <!-- ======= Header ======= -->
+  <header id="header" class="p-3 mb-2 bg-primary text-white fixed-padding">
+    <div class="container-fluid container-xl d-flex align-items-center justify-content-between ">
+
+    <a href="" class="navbar-brand">
+        <!-- Uncomment the line below if you also wish to use an image logo -->
+        <img src="assets/img/ke.png" style="width:210px;" alt="Logo Smk Bina Cendekia">
+>>>>>>> 57e0c86646b470c94b819b95b9301903344d5b38
         <h1 class="text-dark left"></h1>
       </a>
 
@@ -108,38 +113,6 @@
     </div>
   </header><!-- End Header -->
 
-    <!-- ======= Featured Services Section ======= -->
-      <section id="header" class="header">
-
-        <div class="row gy-4">
-          
-          <!-- End Service Item -->
-    </section>
-    <!-- End Featured Services Section -->
-
-
- <!-- ======= Breadcrumbs ======= -->
- <div class="breadcrumbs">
-      <div class="header">
-        <div class="container position-relative">
-          <div class="row d-flex justify-content-center">
-            <div class="col-lg-6 text-center">
-              
-            </div>
-          </div>
-        </div>
-      </div>
-      <nav>
-        <div class="container">
-          <ol>
-            <li><a href="index.php">Beranda</a></li>
-            <li><a href="">Profil Sekolah</a></li>
-          </ol>
-        </div>
-      </nav>
-    </div><!-- End Breadcrumbs --> 
-
-
   <main id="main">
     
 <!-- ======= About Section ======= -->
@@ -147,8 +120,8 @@
       <div class="container" data-aos="fade-up">
 
         <div class="row">
-          <div class="col-lg-4 order-1 order-lg-2" data-aos="fade-left" data-aos-delay="100">
-            <img src="assets/img/Tbo2.png" class="img-fluid" alt="">
+          <div class="col-lg-6 order-1 order-lg-2" data-aos="fade-left" data-aos-delay="100">
+            <center><img src="assets/img/Tbo2.png" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right" data-aos-delay="100">
           <div class="section-title">
