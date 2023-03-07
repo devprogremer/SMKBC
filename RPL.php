@@ -137,12 +137,9 @@
               <div class="card-img">
                 <img src="assets/img/rpl1.jpeg" alt="" class="img-fluid">
               </div>
-<<<<<<< HEAD
+
               <h3><a href="service-details.html" class="stretched-link">23 Juli 2021</a></h3>
               <p align="justify">belajar denangan tenang dengan alat-alat yang sudah di tersediakan</p>
-=======
-           
->>>>>>> 46e019af9636db1281016cdce9d09f9892bb2da1
             </div>
           </div><!-- End Card Item -->
 
@@ -151,12 +148,9 @@
               <div class="card-img">
                 <img src="assets/img/rpl2.jpeg" alt="" class="img-fluid">
               </div>
-<<<<<<< HEAD
+
               <h3><a href="service-details.html" class="stretched-link">15 Maret 2022</a></h3>
               <p align="justify">Uji Kometensi Kejuruan Rekayasa Perangkat Lunak kelas XII</p>
-=======
-             
->>>>>>> 46e019af9636db1281016cdce9d09f9892bb2da1
             </div>
           </div><!-- End Card Item -->
 
@@ -165,7 +159,7 @@
               <div class="card-img">
                 <img src="assets/img/rpl3.jpeg" alt="" class="img-fluid">
               </div>
-<<<<<<< HEAD
+
               <h3><a href="service-details.html" class="stretched-link">17 Maret 2022</a></h3>
               <p align="justify">Uji Kometensi Kejuruan Rekayasa Perangkat Lunak kelas XII</p>
             </div>
@@ -176,6 +170,7 @@
               <div class="card-img">
                 <img src="assets/img/rpl4.jpeg" alt="" class="img-fluid">
               </div>
+
               <h3><a href="service-details.html" class="stretched-link">09 November 2022</a></h3>
               <p align="justify">kegiatan belajar di Sekolah SMK Bina Cendekia</p>
             </div>
@@ -186,6 +181,7 @@
               <div class="card-img">
                 <img src="assets/img/rpl5.jpeg" alt="" class="img-fluid">
               </div>
+              
               <h3><a href="service-details.html" class="stretched-link">20 Oktober 2022</a></h3>
               <p align="justify">jurusan Rpl di SMK Bina Cendekia. </p>
             </div>

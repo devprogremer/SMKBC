@@ -174,12 +174,9 @@
               <div class="card-img">
                 <img src="assets/img/askep1.jpeg" alt="" class="img-fluid">
               </div>
-<<<<<<< HEAD
               <h3><a href="service-details.html" class="stretched-link">12 maret 2022</a></h3>
               <p align="justify">uji kompetensi keahlian (UKK) kelas 12 jurusan di SMK Bina Cendekia langsung di RS PERMATA</p>
-=======
            
->>>>>>> 46e019af9636db1281016cdce9d09f9892bb2da1
             </div>
           </div><!-- End Card Item -->
 
@@ -188,12 +185,12 @@
               <div class="card-img">
                 <img src="assets/img/askep2.jpeg" alt="" class="img-fluid">
               </div>
-<<<<<<< HEAD
+
               <h3><a href="service-details.html" class="stretched-link">12 maret 2022</a></h3>
               <p align="justify">uji kompetensi keahlian (UKK) kelas 12 jurusan di SMK Bina Cendekia langsung di RS PERMATA</p>
-=======
+
              
->>>>>>> 46e019af9636db1281016cdce9d09f9892bb2da1
+
             </div>
           </div><!-- End Card Item -->
 
@@ -202,12 +199,12 @@
               <div class="card-img">
                 <img src="assets/img/askep3.jpeg" alt="" class="img-fluid">
               </div>
-<<<<<<< HEAD
+
               <h3><a href="service-details.html" class="stretched-link">12 maret 2022</a></h3>
               <p align="justify">uji kompetensi keahlian (UKK) kelas 12 jurusan di SMK Bina Cendekia langsung di RS PERMATA</p>
-=======
+
             
->>>>>>> 46e019af9636db1281016cdce9d09f9892bb2da1
+
             </div>
           </div><!-- End Card Item -->
 
@@ -216,14 +213,14 @@
               <div class="card-img">
                 <img src="assets/img/askep4.jpeg" alt="" class="img-fluid">
               </div>
-<<<<<<< HEAD
+
               <h3><a href="service-details.html" class="stretched-link">18 januari 2022</a></h3>
               <p align="justify">alumni SMK Bina Cendeki Cirebon lulus sekolah langsung kerja di rumah sakit permata cirebon</p>
             </div>
-=======
+
             
               </div>
->>>>>>> 46e019af9636db1281016cdce9d09f9892bb2da1
+
           </div><!-- End Card Item -->
 
           <div class="col-lg-4 col-md-4" data-aos="fade-up" data-aos-delay="500">
@@ -231,12 +228,12 @@
               <div class="card-img">
                 <img src="assets/img/askep5.jpeg" alt="" class="img-fluid">
               </div>
-<<<<<<< HEAD
+
               <h3><a href="service-details.html" class="stretched-link">12 maret 2022</a></h3>
               <p align="justify">praktek Asisten Keperawatan</p>
-=======
+
              
->>>>>>> 46e019af9636db1281016cdce9d09f9892bb2da1
+
             </div>
           </div><!-- End Card Item -->
 
@@ -245,12 +242,12 @@
               <div class="card-img">
                 <img src="assets/img/askep6.jpeg" alt="" class="img-fluid">
               </div>
-<<<<<<< HEAD
+
               <h3><a href="service-details.html" class="stretched-link">23 juli 2022</a></h3>
               <p align="justify">juara 2 lomba kompetensi siswa (LKS) Bidang Health Dan Social Care Tingkat Provinsi Jawa Barat </p>
-=======
+
              
->>>>>>> 46e019af9636db1281016cdce9d09f9892bb2da1
+
             </div>
           </div><!-- End Card Item -->
 
@@ -259,11 +256,10 @@
               <div class="card-img">
                 <img src="assets/img/askep7.jpeg" alt="" class="img-fluid">
               </div>
-<<<<<<< HEAD
+
               <h3><a href="service-details.html" class="stretched-link">03 agustus 2022</a></h3>
               <p align="justify">lomba LKS tingkat provinsi jawa barat.cirebon dalam live dengan mata lomba "Health social and care"</p>
-=======
->>>>>>> 46e019af9636db1281016cdce9d09f9892bb2da1
+
             </div>
           </div><!-- End Card Item -->
   <!-- ======= Footer ======= -->
