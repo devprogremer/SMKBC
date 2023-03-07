@@ -121,7 +121,7 @@
     </section><!-- End Horizontal Pricing Section -->
 
   <!-- ======= About Us Section ======= -->
-  <section id="about" class="about pt-4">
+  <section id="about" class="about pt-0">
       <div class="container" data-aos="fade-up">
 
         <div class="row gy-4">
@@ -132,7 +132,7 @@
             <h3>Visi SMK Bina Cendekia Cirebon</h3>
             <div class="col-md-7">
              <h6 class="fst-italic">
-            <p align="justify"> "Menjadi Sekolah Menengah Kejuruan yang Berkarakter,Berbudaya,Berwawasan Lingkungan,Menghasilkan Insan yang Bertaqwa, Profesional Mampu Berwirausaha dan Berdaya Saing Global"
+            <p align="justify"> "Menjadi Sekolah Menengah Kejuruan yang Berkarakter, Berbudaya, Berwawasan Lingkungan, Menghasilkan Insan yang Bertaqwa, Profesional Mampu Berwirausaha dan Berdaya Saing Global"
             </p>
           </div>
             <ul>
@@ -163,10 +163,7 @@
 
       </div>
     </section><!-- End Features Section -->
-        </div>
-      </div>
-    </section><!-- End Pricing Section -->
-
+       
   </main><!-- End #main -->
 
    <!-- ======= Footer ======= -->

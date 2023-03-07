@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Info PPDB - SMK BCC</title>
+  <title>PPDB - SMK BCC</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -14,22 +14,9 @@
   <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,600;1,700&family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Inter:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
 
   <!-- Vendor CSS Files -->
-  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
-  <link href="assets/vendor/fontawesome-free/css/all.min.css" rel="stylesheet">
-  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
-  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
-  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
-
-  <!-- Template Main CSS File -->
-  <link href="assets/css/main.css" rel="stylesheet">
-
-<!-- Vendor CSS Files -->
   <link href="assets1/vendor/aos/aos.css" rel="stylesheet">
   <link href="assets1/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
   <link href="assets1/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
@@ -40,45 +27,23 @@
 
   <!-- Template Main CSS File -->
   <link href="assets1/css/style.css" rel="stylesheet">
-
-</head>
-<body class data-aos-easing="ease" data-aos-duration="1000" data-aos-delay="0">
-
-
   
- <!-- ======= Header ======= -->
- <header id="header" class="p-0 mb-1 bg-primary text-white fixed-padding">
-    <div class="container-fluid container-xl d-flex align-items-center justify-content-between ">
 
-    <a href="" class="navbar-brand">
-        <!-- Uncomment the line below if you also wish to use an image logo -->
-        <img src="assets/img/ke.png" style="width:190px;" alt="Logo Smk Bina Cendekia">
-        <h1 class="text-dark left"></h1>
-      </a>
+  </head>
+  <body>
 
-      <i class="mobile-nav-toggle mobile-nav-show bi bi-list"></i>
-      <i class="mobile-nav-toggle mobile-nav-hide d-none bi bi-x"></i>
-      <nav id="navbar" class="navbar bg-primary">
-         <ul>
-          <li class="bg-primary text-light"><a href="index.php" class="active" class="bi bi-">Beranda</a></li>
-          <ul>
-              <li class="dropdown bg-primary"><a href="#"><span>Tentang Kami</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
-                <ul>
-                  <li><a href="profil.php">Profil Sekolah</a></li>
-                  <li><a href="sambutan.php">Sambutan Kepsek</a></li>
-                  <li><a href="visi.php">Visi dan Misi</a></li>
-                  <li><a href="organisasi.php">Struktur Organisasi</a></li>
-                  <li><a href="data.php">Data Guru</a></li>
-                  <li><a href="industri.php">Hubungan Industri</a></li>    
-                  <li><a href="prestasi.php">Prestasi</a></li>           
-                  <li class="dropdown"><a href="#"><span>Sarana</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
-                <ul>
-                  <li><a href="kelas.php">Kelas</a></li>
-                </ul>
-                </li>
-                </ul>
-                </li>
-            <li class="dropdown"><a href="#"><span>Program</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
+   <!-- ======= Header ======= -->
+   <header id="header" class="p-2 mb-1 bg-light text-dark fixed-top">
+    <div class="container d-flex align-items-center justify-content-between">
+
+      <div class="navbar-brand">
+      <img href="index.php" src="assets/img/ko.png" style="width:160px;" alt="Logo Smk Bina Cendekia">
+      </div>
+
+      <nav id="navbar" class="navbar">
+        <ul>
+          <li><a class="nav-link scrollto" href="index.php">Beranda</a></li>
+          <li class="dropdown"><a href="#"><span>Program</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
             <ul>
             <li class="dropdown"><a href="#"><span>Program Studi</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
                 <ul>
@@ -104,55 +69,59 @@
                 </ul>
               </li>
           </li>
-              <li class="dropdown"><a href="#"><span>PPDB</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
+              <li class="dropdown"><a href="#"><span class="active">PPDB</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
             <ul>
               <li><a href="informasi.php">Informasi Pendaftaran</a></li>
               </ul>
-          <li><a href="contact.php">Contact</a></li>
-          <li><a class="get-a-quote bg-light text-dark" href="cek_login.php">Login</a></li>
+          <li><a class="" href="contact.php">Hubungi Kami</a></li>
+          <li><a class="getstarted scrollto" href="cek_login.php">Login</a></li>
+          <li><a class="getstarted scrollto" href="ppdb.php">Daftar PPDB</a></li>
         </ul>
+        <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
+
     </div>
   </header><!-- End Header -->
 
-    <!-- ======= Hero Section ======= -->
-  <section id="hero" class="d-flex align-items-center">
 
-<div class="container">
-  <div class="row">
-    <div class="col-lg-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center">
-      <h6 data-aos="fade-up">Penerimaan Peserta Didik Baru 2023/2024</h6>
-      <h1 data-aos="fade-up">Sekolah <a class="text-primary">Industri </a> Berbasis <a class="text-primary">Pesantren</a></h1>
-      <h2 data-aos="fade-up" data-aos-delay="400">Kini Mendaftar ke <a class="text-primary">SMK Bina Cendekia Cirebon</a> lebih Mudah Daftar dari rumah.</h2>
-      <div data-aos="fade-up" data-aos-delay="800">
-        <a href="ppdb.php" class=" shadow p-3 mb-2 btn-get-started">Daftar Sekarang</a>
+ <!-- ======= Features Section ======= -->
+<section id="hero" class="hero-top d-flex align-items-middle">
+      <div class="container">
+
+        <div class="row gy-4 align-items-center features-item">
+          <div class="col-lg-6 order-4 order-lg-6 hero-img" data-aos="fade-left" data-aos-delay="200">
+            <img src="assets/img/kha1.png" class="img-fluid" alt="">
+          </div>
+          <div class="col-lg-6 content order-last  order-lg-first">
+          <p data-aos="fade-up" data-aos-delay="400">Penerimaan Peserta Didik Baru 2023/2024</p>
+          <h1 data-aos="fade-up">Sekolah<a class="text-primary"> Industri</a> <br>Berbasis<a class="text-primary"> Pesantren</a></h1>
+          <h2 data-aos="fade-up" data-aos-delay="400">Kini Mendaftar ke SMK Bina Cendekia Cirebon lebih Mudah Daftar dari rumah.</h2>
+          <div data-aos="fade-up" data-aos-delay="800">
+            <a href="ppdb.php" class="btn-get-started scrollto">Daftar Sekarang</a>
+          </div>
+          </div>
+
+
       </div>
-    </div>
-    <div class="col-lg-6 order-1 order-lg-2 hero-img " data-aos="fade-up" data-aos-delay="200">
-      <img src="assets/img/op.png" class="rounded float-end" style="width:650px;height:650px;" alt="">
-    </div>
-  </div>
-</div>
+    </section><!-- End Features Section -->
 
-</section><!-- End Hero -->
+  <main id="main">
 
- 
-    <!-- ======= Services Section ======= -->
-    <section id="service" class="services pt-0">
+  <!-- ======= Services Section ======= -->
+  <section id="service" class="services pt-6">
       <div class="container" data-aos="fade-up">
 
         <div class="section-header">
-          <h2>Kenapa Harus SMK Bina Cendekia Cirebon?</h2>
-            
-          </div>
+        <center><h2 class="text-primary fw-bolder">Kenapa Harus SMK Bina Cendekia Cirebon?</h2>
+        </div>
         <div class="row gy-4">
           <div class="col-lg-3 col-md-3" data-aos="fade-up" data-aos-delay="100">
             <div class="">
               <div class="card-img">
                 <img src="assets/img/toga-service.png" alt="" class="img-fluid">
               </div>
-              <center><h3><a class="text-primary">Program Beasiswa</a></h3><center>
-              <p align="justify">Program Beasiswa Ini Untuk Siswa Yang Berprestasi dan anak yatim/piatu</p>
+              <center><h3><a href="#" class="stretched-link">Program Beasiswa</a></h3><center>
+             <p align="justify">Program Beasiswa Ini Untuk Siswa Yang Berprestasi dan anak yatim/piatu.<p>
             </div>
           </div><!-- End Card Item -->
 
@@ -161,8 +130,8 @@
               <div class="card-img">
                 <img src="assets/img/akreditasi-service.png" alt="" class="img-fluid">
               </div>
-              <center><h3><a class="text-primary">Akreditasi-B</a></h3><center>
-              <p align="justify">Terakreditasi-B</p>
+              <center><h3><a href="#" class="stretched-link">Akreditasi-B</a></h3><center>
+              <center><p>Terakreditasi-B</p><center>
             </div>
           </div><!-- End Card Item -->
 
@@ -171,7 +140,7 @@
               <div class="card-img">
                 <img src="assets/img/pengajar-service.jpg" alt="" class="img-fluid">
               </div>
-              <center><h3><a class="text-primary">Pengajar Kompoten</a></h3><center>
+              <center><h3><a href="#" class="stretched-link">Pengajar Kompoten</a></h3><center>
               <p align="justify">Kualifikasi pengajar S1 dan S2 dari lulusan kampus ternama dan memiliki sertifikasi keahlian</p>
             </div>
           </div><!-- End Card Item -->
@@ -181,8 +150,8 @@
               <div class="card-img">
                 <img src="assets/img/lulusan-service.jpg" alt="" class="img-fluid">
               </div>
-              <center><h3><a class="text-primary">Alumni Berkualitas</a></h3><center>
-              <p align="justify">Alumni siap kerja, siap kuliah dan siap berwirausaha. </p>
+              <center><h3><a href="#" class="stretched-link">Alumni Berkualitas</a></h3><center>
+              <p align="justify">Alumni siap kerja, siap kuliah dan siap berwirausaha.</p>
               </div>
           </div><!-- End Card Item -->
 
@@ -191,7 +160,7 @@
               <div class="card-img">
                 <img src="assets/img/prestasii-service.png" alt="" class="img-fluid">
               </div>
-              <center><h3><a class="text-primary">Prestasi</a></h3><center>
+              <center><h3><a href="#" class="stretched-link">Prestasi</a></h3><center>
               <p align="justify">Memiliki segudang prestasi baik tingkat lokal, regional maupun nasional.</p>
             </div>
           </div><!-- End Card Item -->
@@ -201,7 +170,7 @@
               <div class="card-img">
                 <img src="assets/img/kurikulum-service.jpg" alt="" class="img-fluid">
               </div>
-              <center><h3><a class="text-primary">Kurikulum Merdeka</a></h3><center>
+              <center><h3><a href="#" class="stretched-link">Kurikulum Merdeka</a></h3><center>
               <p align="justify">Merdeka Belajar Bina Cendekia School (MBBCS) dengan 4 Pilar yaitu SDM GURU, Pendidikan Karakter Siswa, KURIKULUM dan Moderenisasi Sarana Prasarana sekolah.</p>
             </div>
           </div><!-- End Card Item -->
@@ -211,7 +180,7 @@
               <div class="card-img">
                 <img src="assets/img/gedung-service.png" alt="" class="img-fluid">
               </div>
-              <center><h3><a class="text-primary">Fasilitas</a></h3><center>
+              <center><h3><a href="#" class="stretched-link">Fasilitas Lengkap</a></h3><center>
               <p align="justify">Belajar Dengan Kualitas Yang Ada dan Mencukupi</p>
             </div>
           </div><!-- End Card Item -->
@@ -221,8 +190,8 @@
               <div class="card-img">
                 <img src="assets/img/juara-service.png" alt="" class="img-fluid">
               </div>
-              <center><h3><a class="text-primary">Juara LKS SMK</a></h3><center>
-              <p align="justify"> Sekolah Kami Menjuarai Lomba Kompetensi Siswa (LKS) Bidang Health & Social Care Tingkat Provinsi Jawa Barat 2022</p>
+              <center><h3><a href="#" class="stretched-link">Juara LKS SMK</a></h3><center>
+              <p align="justify">Sekolah Kami Menjuarai Lomba Kompetensi Siswa (LKS) Bidang Health & Social Care Tingkat Provinsi Jawa Barat 2022</p>
             </div>
           </div><!-- End Card Item -->
 
@@ -231,227 +200,257 @@
 
       </div>
     </section><!-- End Services Section -->
+    
+<!-- ======= Features Section ======= -->
+<section id="hero" class="d-flex align-items-center">
+      <div class="container">
+
+        <div class="row gy-4 align-items-center features-item">
+          <div class="col-lg-6 order-4 order-lg-6 hero-img" data-aos="fade-left" data-aos-delay="200">
+            <img src="assets/img/omm3.png" class="img-fluid" alt="">
+          </div>
+          <div class="col-lg-6 content order-last  order-lg-first">
+          <h1 data-aos="fade-up">Program Keahlian Yang Bisa <a class="text-primary"> Kamu Pilih Sesuai Passion</a></h1>
+          <h2 data-aos="fade-up" data-aos-delay="400"></h2>
+          </div>
+        </div><!-- Features Item -->
+
+      </div>
+    </section><!-- End Features Section -->
+
+  <main id="main">
+
+  <!-- ======= Features Section ======= -->
+<section id="hero" class="d-flex align-items-center">
+      <div class="container">
+
+        <div class="row gy-4 align-items-center features-item">
+          <div class="col-lg-6 order-4 order-lg-6 hero-img" data-aos="fade-left" data-aos-delay="200">
+            <img src="assets/img/omm.png" class="img-fluid" alt="">
+          </div>
+          <div class="col-lg-6 content order-last  order-lg-first">
+          <h1 data-aos="fade-up">Rekayasa Perangkat Lunak <a class="text-primary">(RPL)</a></h1>
+          <p align="justify" data-aos="fade-up" data-aos-delay="400" class="fst-italic">Membekali peserta didik dengan ketrampilan,pengetahuan sikap agar kompeten menginstalasi software aplikasi,mengoperasikan software,mrawat software aplikasi dan mengelola di bidang pembuatan softaware aplikasi.</p>
+          <div data-aos="fade-up" data-aos-delay="800">
+            <a href="ppdb.php" class="btn-get-started scrollto"><i class="bi bi-play-circle-fill"></i>  Details Video</a>
+          </div>
+          </div>
+        </div><!-- Features Item -->
+
+      </div>
+    </section><!-- End Features Section -->
+
+  <main id="main">
+
+<!-- ======= Features Section ======= -->
+<section id="hero" class="d-flex align-items-center">
+      <div class="container">
+
+        <div class="row gy-4 align-items-center features-item">
+
+          <div class="col-md-6" data-aos="fade-left" data-aos-delay="200">
+            <img src="assets/img/omm4.png" class="img-fluid" alt="">
+          </div>
+          <div class="col-md-6 pt-0 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center container">
+          <h1 data-aos="fade-up">Tata Busana <a class="text-success">(TABUS)</a></h1>
+          <p align="justify"  data-aos="fade-up" data-aos-delay="400" class="fst-italic">Membekali peserta didik dengan ketrampilam,pengetahuan dan sikap agar komputen di bidang fashion drawing (menggambar busana), pembuatan busana baik pria maupun wanita dan anak-anak,pembuatan hiasan pada busan (Embruodery).</p>
+          <div data-aos="fade-up" data-aos-delay="800">
+            <a href="ppdb.php" class="btn-get-started scrollto"><i class="bi bi-play-circle-fill"></i>  Details Video</a>
+          </div>
+          </div>
+        </div><!-- Features Item -->
+
+      </div>
+    </section><!-- End Features Section -->
+       
+  <main id="main">
+
+  <!-- ======= Features Section ======= -->
+    <section id="hero" class="d-flex align-items-center">
+      <div class="container">
+
+        <div class="row gy-4 align-items-center features-item">
+          <div class="col-lg-6 order-4 order-lg-6 hero-img" data-aos="fade-left" data-aos-delay="200">
+            <img src="assets/img/omm1.png" class="img-fluid" alt="">
+          </div>
+          <div class="col-lg-6 content order-last  order-lg-first">
+          <h1 data-aos="fade-up">Asisten Keperawatan <a class="text-success">(ASSKEP)</a></h1>
+          <p align="justify"  data-aos="fade-up" data-aos-delay="400" class="fst-italic">Membekali peserta didik dengan ketrampilan,pengetahuan dan sikap agar kompeten agar di bidang merawat baik individu/ sendiri,keluarga,dll.serat memelihara dan dapat menyembuhkan.</p>
+          <div data-aos="fade-up" data-aos-delay="800">
+            <a href="#about" class="btn-get-started scrollto"><i class="bi bi-play-circle-fill"></i>  Details Video</a>
+          </div>
+          </div>
+        </div><!-- Features Item -->
+
+      </div>
+    </section><!-- End Features Section -->
+
+  <main id="main">
+
+  <!-- ======= Features Section ======= -->
+    <section id="hero" class="d-flex align-items-center">
+      <div class="container">
+
+        <div class="row gy-4 align-items-center features-item" data-aos="fade-left" data-aos-delay="200">
+
+          <div class="col-md-6">
+            <img src="assets/img/omm5.png" class="img-fluid" alt="">
+          </div>
+          <div class="col-md-6 pt-0 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center container">
+          <h1 data-aos="fade-up">Teknik Bodi Otomotif <a class="text-danger">(TBO)</a></h1>
+          <p align="justify"  data-aos="fade-up" data-aos-delay="400" class="fst-italic">Membekali peserta didik dengan ketrampilan,pengetahuan dan sikap,agar kompeten bidang teknik bodi otomotif,baik pebaikan panel dan pengecatan bodi maupun pemeliharaan dan perbaikan interior otomotif</p>
+          <div data-aos="fade-up" data-aos-delay="800">
+            <a href="#about" class="btn-get-started scrollto"><i class="bi bi-play-circle-fill"></i>  Details Video</a>
+          </div>
+          </div>
+        </div><!-- Features Item -->
+
+      </div>
+    </section><!-- End Features Section -->
+
+    <main id="main">
+
+    <!-- ======= Features Section ======= -->
+    <section id="hero" class="d-flex align-items-center">
+      <div class="container">
+
+        <div class="row gy-4 align-items-center features-item">
+          <div class="col-lg-6 order-4 order-lg-6 hero-img" data-aos="fade-left" data-aos-delay="200">
+            <img src="assets/img/omm2.png" class="img-fluid" alt="">
+          </div>
+          <div class="col-lg-6 content order-last  order-lg-first">
+          <h1 data-aos="fade-up">Desain Komunikasi Visual <a class="text-blue">(DKV)</a></h1>
+          <p align="justify"  data-aos="fade-up" data-aos-delay="400" class="fst-italic">DKV adalah cabang ilmu desain. Di jurusan ini, siswa belajar konsep komunikasi dan ungkapan kreatif dengan menggunakan berbagai elemen visual untuk menyampaikan pesan. Dengan gambar visual,siswa belajar menyampaikan pesan secara informatif, efektif, dan komunikatif.</p>
+          <div data-aos="fade-up" data-aos-delay="800">
+            <a href="#about" class="btn-get-started scrollto"><i class="bi bi-play-circle-fill"></i>  Details Video</a>
+          </div>
+          </div>
+        </div><!-- Features Item -->
+
+      </div>
+    </section><!-- End Features Section -->
+
+    <main id="main">
+
+     <!-- ======= Horizontal Pricing Section ======= -->
+     <section id="horizontal-pricing" class="horizontal-pricing pt-0">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-header">
+        </div>
+
+        <div class="row gy-4 pricing-item featured mt-2" data-aos="fade-up" data-aos-delay="200">
+          <div class="col-lg-12 d-flex align-items-center justify-content-center">
+         </div>
+        </div><!-- End Pricing Item -->
+    </section><!-- End Horizontal Pricing Section -->
+
+
+    <!-- ======= Contact Section ======= -->
+    <section id="contact" class="contact">
+      <div class="container">
+
+        <div class="section-title" data-aos="fade-up">
+         
+        </div>
+
+        <div class="row">
+
+          <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="100">
+            <div class="contact-about">
+            <img  data-aos="fade-up" data-aos-delay="400" class="fw-bolder" src="assets/img/ko.png" style="width:170px;" alt="Logo Smk Bina Cendekia">
+              <p class="pt-2">SMK Bina Cendekia Cirebon sekolah industri Berbasis pesantren, sekolah kami sekolah PK dengan fasilitas yang mencukupi.</p>
+              <div class="social-links">
+                <h5 data-aos="fade-up" data-aos-delay="400" class="fw-bolder">Sosial Media </h5>
+              <a href="https://youtube.com/@smkbinacendekiacirebonoffi3039" class="Youtube"><i class="bi bi-play-btn-fill"></i></a>
+              <a href="https://www.facebook.com/profile.php?id=100009648338366" class="facebook"><i class="bi bi-facebook"></i></a>
+              <a href="https://instagram.com/smkbinacendekia?igshid=OGQ2MjdiOTE=" class="instagram"><i class="bi bi-instagram"></i></a>
+              <a href="https://www.tiktok.com/@smkbinacendekiacirebon?_r=1&_d=dkgebdh40m7l26&language=id&sec_uid=MS4wLjABAAAAYRFN2ZlU0y_HKAnDd33Qg3ZBMFmqtm7-Py0AkhltELueBlrfbxgyAwwWwajHbl7f&share_author_id=6933598016310592513&source=h5_t&timestamp=1674875179&utm_source=copy&utm_campaign=client_share&utm_medium=android&share_iid=7188303969302906650&share_link_id=648d57dd-9a99-4dda-bcc8-6f59b17706c7&share_app_id=1180&ugbiz_name=Account&ug_btm=b6880%2Cb2878" class="TikTok"><i class="bi bi-tiktok"></i></a>
+       
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="200">
+            <div class="info">
+            <div>
+            <h5 data-aos="fade-up" data-aos-delay="400" class="fw-bolder">Informasi</h5>
+              
+                <i class="ri-map-pin-line "></i>
+                <p href="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d63384.46777856386!2d108.60656949990842!3d-6.826961529703611!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e6f04acde0ee93d%3A0x570909eb0cf5286!2sSMK%20Bina%20Cendekia%20Cirebon!5e0!3m2!1sid!2sid!4v1674962821715!5m2!1sid!2sid">Jl. KH Wahid HasyimDesa. Mertapada Wetan Kecamatan.<br> Astanajapura Kabupaten. Cirebon Jawa Barat 45181
+              </p>
+              </div>
+
+              <div>
+                <i class="bi bi-globe"></i>
+                <p href="">https:/smkbinacendekia_crb.sch.id</p>
+              </div>
+
+              <div>
+                <i class="bi bi-whatsapp"></i>
+                <p href=""> 0813 9456 2008</p>
+              </div>
+
+              <div>
+                <i class="bi bi-whatsapp"></i>
+                <p href=""> 0823 1972 5958</p>
+              </div>
+
+            </div>
+          </div>
+
+          <div class="col-lg-5 col-md-12" data-aos="fade-up" data-aos-delay="300">
+          <iframe style="border:0; width: 103%; height: 319px;" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d63384.46777856386!2d108.60656949990842!3d-6.826961529703611!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e6f04acde0ee93d%3A0x570909eb0cf5286!2sSMK%20Bina%20Cendekia%20Cirebon!5e0!3m2!1sid!2sid!4v1674962821715!5m2!1sid!2sid" frameborder="0" allowfullscreen></iframe>
+        
+          </div>
+
         </div>
 
       </div>
-    </section><!-- End Pricing Section -->
+    </section><!-- End Contact Section -->
 
-     <!-- ======= Hero Section ======= -->
-  <section id="hero" class="d-flex align-items-center">
-
-<div class="container">
-  <div class="row">
-    <div class="col-lg-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center">
-      <h1 data-aos="fade-up">Program Keahlian Yang Bisa Kalian Pilih<a class="text-primary"> Sesuai Passion.</a></h1>
-      <div data-aos="fade-up" data-aos-delay="800">
-      </div>
-    </div>
-    <div class="col-lg-6 order-1 order-lg-2 hero-img " data-aos="fade-up" data-aos-delay="200">
-      <img src="assets/img/lp.png" class="rounded float-end" alt="">
-    </div>
-  </div>
-</div>
-
-</section><!-- End Hero -->
-
-     <!-- ======= Hero Section ======= -->
-     <section id="hero" class="d-flex align-items-center">
-
-<div class="container">
-  <div class="row">
-    <div class="col-lg-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center">
-      <h1 data-aos="fade-up">Rekayasa Perangkat <br> Lunak</h1>
-      <p align="justify">Membekali peserta didik dengan ketrampilan,pengetahuan sikap agar kompeten menginstalasi software aplikasi,mengoperasikan software,mrawat software aplikasi dan di bidang pembuatan softaware aplikasi.</h5>
-      <div data-aos="fade-up" data-aos-delay="700">
-        <!-- ======= Featured Services Section ======= -->
- <section id="header" class="header">
-
-<div class="row pt-4">
-  
-  <!-- End Service Item -->
-</section>
-<!-- End Featured Services Section -->
-        <a href="ppdb.php" class=" shadow p-3 mb-2 btn-get-started">Detail Video</a>
-      </div>
-      <div data-aos="fade-up" data-aos-delay="800">
-      </div>
-    </div>
-    <div class="col-lg-6 order-1 order-lg-2 hero-img " data-aos="fade-up" data-aos-delay="200">
-      <img src="assets/img/sb.png" class="rounded float-end" style="height:700px;" alt="">
-    </div>
-  </div>
-</div>
-
-</section><!-- End Hero -->
-
-     <!-- ======= Hero Section ======= -->
-     <section id="hero" class="d-flex align-items-center">
-
-<div class="container">
-  <div class="row">
-    <div class="col-lg-6 pt-5 pt-lg-0 order-2 order-lg-1" data-aos="fade-up" data-aos-delay="200">
-    <img src="assets/img/bbb.png" class="rounded float-end" style="height:800px;" alt="">
-      <div data-aos="fade-up" data-aos-delay="800">
-      </div>
-    </div>
-    <div class="col-lg-6 order-1 order-lg-2 hero-img d-flex flex-column justify-content-center" data-aos="fade-up" data-aos-delay="200">
-    <h1 data-aos="fade-up">Tata Busana</h1>
-    <p align="justify">Membekali peserta didik dengan ketrampilam,pengetahuan dan sikap agar komputen di bidang fashion drawing (menggambar busana), pembuatan busana baik pria maupun wanita dan anak-anak, pembuatan hiasan pada busan (Embruodery).</h5>
-      <div data-aos="fade-up" data-aos-delay="800">
-        <!-- ======= Featured Services Section ======= -->
- <section id="header" class="header">
-
-<div class="row pt-4">
-  
-  <!-- End Service Item -->
-</section>
-<!-- End Featured Services Section -->
-        <a href="ppdb.php" class=" shadow p-3 mb-2 btn-get-started">Detail Video<i class="bi bi-check"></i></a>
-      </div>
-      <div data-aos="fade-up" data-aos-delay="800">
-      </div>
-    </div>
-  </div>
-</div>
-
-</section><!-- End Hero -->
-
-     <!-- ======= Hero Section ======= -->
-     <section id="hero" class="d-flex align-items-center">
-
-<div class="container">
-  <div class="row">
-    <div class="col-lg-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center">
-      <h1 data-aos="fade-up">Asisten Keperawatan</h1>
-      <p align="justify">Membekali peserta didik dengan ketrampilan,pengetahuan dan <br> sikap agar kompeten agar di bidang merawat baik individu/sendiri, keluarga, dll. Serta memelihara dan dapat menyembuhkan.</h5>
-      <div data-aos="fade-up" data-aos-delay="800">
-        <!-- ======= Featured Services Section ======= -->
- <section id="header" class="header">
-
-<div class="row pt-4">
-  
-  <!-- End Service Item -->
-</section>
-<!-- End Featured Services Section -->
-        <a href="ppdb.php" class=" shadow p-3 mb-2 btn-get-started">Detail Video</a>
-      </div>
-      <div data-aos="fade-up" data-aos-delay="800">
-      </div>
-    </div>
-    <div class="col-lg-6 order-1 order-lg-2 hero-img " data-aos="fade-up" data-aos-delay="200">
-      <img src="assets/img/kpm.png" class="rounded float-end" style="height:700px;" alt="">
-    </div>
-  </div>
-</div>
-
-</section><!-- End Hero -->
-
- <!-- ======= Hero Section ======= -->
- <section id="hero" class="d-flex align-items-center">
-
-<div class="container">
-  <div class="row">
-    <div class="col-lg-6 pt-5 pt-lg-0 order-2 order-lg-1" data-aos="fade-up" data-aos-delay="200">
-    <img src="assets/img/lp.png" class="rounded float-end" style="height:700px;" alt="">
-      <div data-aos="fade-up" data-aos-delay="800">
-      </div>
-    </div>
-    <div class="col-lg-6 order-1 order-lg-2 hero-img d-flex flex-column justify-content-center" data-aos="fade-up" data-aos-delay="200">
-    <h1 data-aos="fade-up">Program Keahlian Yang Bisa Kalian Pilih<a class="text-primary"> Sesuai Passion.</a></h1>
-    </div>
-  </div>
-</div>
-
-</section><!-- End Hero -->
-    
-   
   </main><!-- End #main -->
 
-   <!-- ======= Footer ======= -->
-   <footer id="footer" class="footer bg-light">
-
-<div class="container">
-  <div class="row gy-4">
-    <div class="col-lg-5 col-md-12 footer-info">
-    <a href="" class="navbar-brand">
-        <!-- Uncomment the line below if you also wish to use an image logo -->
-        <img src="assets/img/ko.png" style="width:200px;" alt="Logo Smk Bina Cendekia">
-        <h1 class="text-dark left"></h1>
-      </a>
-      <p>Jl. KH Wahid HasyimDesa. Mertapada Wetan Kecanatan. Astanajapura Kabupaten. Cirebon Jawa Barat 45181
-     <br> Phone: 0231 8845465<br>Email: smkbinacendekiacirebona@gmail.com
-      </p>
-      <div class="social-links d-flex mt-4">
-        <a href="https://youtube.com/@smkbinacendekiacirebonoffi3039" class="Youtube"><i class="bi bi-play-btn-fill"></i></a>
-        <a href="https://www.facebook.com/profile.php?id=100009648338366" class="facebook"><i class="bi bi-facebook"></i></a>
-        <a href="https://instagram.com/smkbinacendekia?igshid=OGQ2MjdiOTE=" class="instagram"><i class="bi bi-instagram"></i></a>
-        <a href="https://www.tiktok.com/@smkbinacendekiacirebon?_r=1&_d=dkgebdh40m7l26&language=id&sec_uid=MS4wLjABAAAAYRFN2ZlU0y_HKAnDd33Qg3ZBMFmqtm7-Py0AkhltELueBlrfbxgyAwwWwajHbl7f&share_author_id=6933598016310592513&source=h5_t&timestamp=1674875179&utm_source=copy&utm_campaign=client_share&utm_medium=android&share_iid=7188303969302906650&share_link_id=648d57dd-9a99-4dda-bcc8-6f59b17706c7&share_app_id=1180&ugbiz_name=Account&ug_btm=b6880%2Cb2878" class="TikTok"><i class="bi bi-tiktok"></i></a>
+  <!-- ======= Footer ======= -->
+  <footer id="footer">
+    <div class="container">
+      <div class="row d-flex align-items-center">
+        <div class="col-lg-6 text-lg-left text-center">
+        <div class="container mt-4">
+      <div class="copyright">
+        &copy; Website <strong><span>SMK BINA CENDEKIA CIREBON</span></strong>
+      </div>
+      <div class="credits">
+        Designed by <a href="https://web.facebook.com/profile.php?id=100089766366337" class="text-primary"> Devprogremer</a>
       </div>
     </div>
 
-    <div class="col-lg-3 col-6 footer-links">
-      <h4>Useful Links</h4>
-      <ul>
-        <li><a href="#">Home</a></li>
-        <li><a href="#">Tentang kami</a></li>
-        <li><a href="#">Program</a></li>
-        <li><a href="#">Ppdb</a></li>
-        <li><a href="#">Contact</a></li>
-      </ul>
-    </div>
-
-    <div class="col-lg-3 col-6 footer-links">
-      <h4>the links we visit</h4>
-      <ul>
-        <li><a href="#">Boootstrap</a></li>
-        <li><a href="#">Font Awesome Fonts</a></li>
-        <li><a href="#">Niagahoster</a></li>
-        <li><a href="#">Malasngoding</a></li>
-        <li><a href="#">Aos</a></li>
-      </ul>
-    </div>
-
-    <div class="col-lg-12 col-md-12 footer-location">
-            <div>
-          <iframe style="border:0; width: 100%; height: 300px;" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d63384.46777856386!2d108.60656949990842!3d-6.826961529703611!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e6f04acde0ee93d%3A0x570909eb0cf5286!2sSMK%20Bina%20Cendekia%20Cirebon!5e0!3m2!1sid!2sid!4v1674962821715!5m2!1sid!2sid" frameborder="0" allowfullscreen></iframe>
-          </div>
         </div>
-
+        <div class="col-lg-6">
+          <nav class="footer-links text-lg-right text-center pt-2 pt-lg-0">
+            <a href="" class="scrollto">Beranda</a>
+            <a href="#" class="scrollto">Program</a>
+            <a href="#">PPDB</a>
+            <a href="#">Hubungi Kami</a>
+          </nav>
+        </div>
+      </div>
     </div>
+  </footer><!-- End Footer -->
 
-  </div>
-</div>
+  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
 
-<div class="container mt-4">
-  <div class="copyright">
-    &copy; Copyright <strong><span>SMK BINA CENDEKIA CIREBON</span></strong>
-  </div>
-  <div class="credits">
-    <!-- All the links in the footer should remain intact. -->
-    <!-- You can delete the links only if you purchased the pro version. -->
-    <!-- Licensing information: https://bootstrapmade.com/license/ -->
-    <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/logis-bootstrap-logistics-website-template/ -->
-    Designed by <a href="https://bootstrapmade.com/" class="text-primary"> Devprogremer</a>
-  </div>
-</div>
+  <!-- Vendor JS Files -->
+  <script src="assets1/vendor/purecounter/purecounter_vanilla.js"></script>
+  <script src="assets1/vendor/aos/aos.js"></script>
+  <script src="assets1/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets1/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="assets1/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="assets1/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="assets1/vendor/php-email-form/validate.js"></script>
 
-</footer><!-- End Footer -->
-<!-- End Footer -->
-
-<a href="#" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
-
-<div id="preloader"></div>
-
-<!-- Vendor JS Files -->
-<script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-<script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
-<script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
-<script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
-<script src="assets/vendor/aos/aos.js"></script>
-<script src="assets/vendor/php-email-form/validate.js"></script>
-
-<!-- Template Main JS File -->
-<script src="assets/js/main.js"></script>
+  <!-- Template Main JS File -->
+  <script src="assets1/js/main.js"></script>
 
 </body>
 

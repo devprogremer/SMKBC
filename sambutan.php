@@ -110,43 +110,38 @@
           <h2>Sambutan kepala sekolah</h2>
         </div>
         
-    </section><!-- End Horizontal Pricing Section -->
-
-
-    <!-- ======= About Us Section ======= -->
-    <section id="about" class="about pt-7">
+ 
+    <section id="about" class="about">
       <div class="container" data-aos="fade-up">
-        <div class="row gy-3">
-          <div class="col-lg-5 position-middle middle-self-start order-lg-last order-first">
-          <h6 class="fst-italic">
-            <p align="justify">SAMBUTAN KEPALA SEKOLAH<br>Assalamualaikum wr WB
+
+        <div class="row">
+          <div class="col-lg-6 order-1 order-lg-2" data-aos="fade-left" data-aos-delay="100">
+            <center><img src="assets/img/yy.png" class="img-fluid" alt="">
+          </div>
+          <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right" data-aos-delay="100">
+          <div class="section-title">
+          <h2 class="fst-italic text-bold">
+          <h2> Sambutan Kepala Sekolah :</h2>
+        </div>
+            <ul>
+          <p align="justify" class="fst-italic" >Assalamualaikum wr WB
 Saya Ade Rahmat Saputra MP,d Saya kepala sekolah SMK Bina Cendekia Cirebon,puji syukur Alhamdulillah 
  Kami SMK Bina Cendekia Cirebon sepakat salah satu sekolah menerima bantuan gibah dalam bantuan program  pusat keunggulan sektor ekonomi kreatif jurusan rekaya perangkat melalui program melalui program ini kami sangat membantu untuk mewujudkan perubahan yang lebih baru,kami telah melaksanakan penyalaksanaan kurikulum yang sesuai kebutuhan dunia pekerja serta berkembangnya sarana prasana di sekolah kami yang menunjang proses kegiatan kamu siswa sehingga menghasilkan kalobarisi untuk dunia induka
 Untuk penerapan jurusan  yang kompeten dan siap kerja dalam skema permadana di bidang dunia kerja industri SMK Bina Cendekia Cirebon menggandeng perusahaan dan komunitas  nelkom Indonesia memilki program yaitu
-<br>1. training yaitu berfokus pembekalan trainen untuk setiap menjalankan SMK PK permadana tainen menyampaikan langsung Tenen.
+<br>1. Training yaitu berfokus pembekalan trainen untuk setiap menjalankan SMK PK permadana tainen menyampaikan langsung Tenen.
 <br>2. Sepleni yaitu program berfokus untuk membentukan fasilitas digital funamental dari SMKnya sendiri.
-<br>3.viatur  xpcc yaitu berfokus penikasan skil tiga dimensi kreator bagi siswa SMK 
-<br>4.projek manajemen yaitu program pelatihan penerapan projek agar mencapai gol dalam jangka waktu terukur.
+<br>3. viatur  xpcc yaitu berfokus penikasan skil tiga dimensi kreator bagi siswa SMK 
+<br>4. projek manajemen yaitu program pelatihan penerapan projek agar mencapai gol dalam jangka waktu terukur.
 <br>5. Desain sprit yaitu metode mendepankan proses ciptakan sebuah ide produk.
-<br>6.ritul export renovasi yaitu menampilkan hasil karya sekaligus portofolio siswa SMP dengan program-program yang luar biasa ini yang di siapkan dari perusahaan telepon Indonesia dapat menjadikan telenta digital dari lulusan Siswa-Siswi SMK Bina Cendekia.
+<br>6. ritul export renovasi yaitu menampilkan hasil karya sekaligus portofolio siswa SMP dengan program-program yang luar biasa ini yang di siapkan dari perusahaan telepon Indonesia dapat menjadikan telenta digital dari lulusan Siswa-Siswi SMK Bina Cendekia.
 Setelah program-program ini tuntas dilakukan dalam menunjang  pelaksanaan teaching factory yang ada di SMK Bina Cendekia Cirebon Rusia jurusan rekayasa perangkat lunak dapat menghasilkan produk smart phone, smart, smart LG culture atau Gren house web aplikasi berbasis android dan metal.</p>
-          </div>
+      
+         </div>
         </div>
 
       </div>
-    </section><!-- End About Us Section -->
+    </section><!-- End About Section -->
 
-   
-
-        </div>
-
-      </div>
-    </section><!-- End Services Section -->
-        </div>
-
-      </div>
- 
-   
   <!-- ======= Footer ======= -->
   <footer id="footer" class="footer bg-primary">
 
@@ -199,10 +194,6 @@ Setelah program-program ini tuntas dilakukan dalam menunjang  pelaksanaan teachi
         &copy; Copyright <strong><span>SMK BINA CENDEKIA CIREBON</span></strong>
       </div>
       <div class="credits">
-        <!-- All the links in the footer should remain intact. -->
-        <!-- You can delete the links only if you purchased the pro version. -->
-        <!-- Licensing information: https://bootstrapmade.com/license/ -->
-        <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/logis-bootstrap-logistics-website-template/ -->
         Designed by <a href="https://bootstrapmade.com/"> Devprogremer</a>
       </div>
     </div>

@@ -32,8 +32,9 @@
 </head>
 <body>
 
-  <!-- ======= Header ======= -->
-  <header id="header" class="p-0 mb-1 bg-primary text-white fixed-padding">
+
+   <!-- ======= Header ======= -->
+   <header id="header" class="p-0 mb-1 bg-primary text-white fixed-padding">
     <div class="container-fluid container-xl d-flex align-items-center justify-content-between ">
 
     <a href="" class="navbar-brand">
@@ -73,83 +74,6 @@
                   <li><a href="ASKEP.php">ASKEP (Asisten Keperawatan)</a></li>
                   <li><a href="TBO.php">TBO(Teknik Bodi Otomotif)</a></li>
                   <li><a href="TABUS.php">TABUS(Tata Busana)</a></li>
-                  </ul>
-              </li>
-              <li class="dropdown"><a href="#"><span>Kegiatan</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
-                <ul>
-                  <li><a href="ekstrakurikuler.php">Ekstrakurikuler</a></li>
-                  <li><a href="bahasa.php">Bulan Bahasa</a></li>
-                  <li><a href="maulid.php">Maulid Nabi Muhammad</a></li>
-                  <li><a href="porak.php">Porak</a></li>
-                  <li><a href="agustus.php">HUT RI 17 Agustus</a></li>
-                  <l><a href="santri.php">Hari Santri</a></li>
-                </ul>
-                </li>
-                <li><a href="PKL.php">PKL 2023</a></li>
-                </ul>
-              </li>
-          </li>
-              <li class="dropdown"><a href="#"><span>PPDB</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
-            <ul>
-              <li><a href="informasi.php">Informasi Pendaftaran</a></li>
-              </ul>
-          <li><a href="contact.php">Contact</a></li>
-          <li><a class="get-a-quote bg-light text-dark" href="cek_login.php">Login</a></li>
-        </ul>
-      </nav><!-- .navbar -->
-
-
-    </div>
-  </header><!-- End Header -->
-  
-  <main id="main">
-
-  
-<<<<<<< HEAD
- 
-=======
-  <!-- ======= Header ======= -->
-  <header id="header" class="header d-flex align-items-center fixed-top bg-primary">
-    <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
-
-      <a href="index.php" class="logo d-flex align-items-center">
-        <!-- Uncomment the line below if you also wish to use an image logo -->
-        <img src="assets/img/okkkkkk.png" alt="">
-        <h1>SMK BINA CENDEKIA CIREBON</h1>
-      </a>
-
-      <i class="mobile-nav-toggle mobile-nav-show bi bi-list"></i>
-      <i class="mobile-nav-toggle mobile-nav-hide d-none bi bi-x"></i>
-      <nav id="navbar" class="navbar bg-primary">
-         <ul>
-          <li class="bg-primary text-light"><a href="index.php" class="active" class="bi bi-">Beranda</a></li>
-          <ul>
-              <li class="dropdown bg-primary"><a href="#"><span>Tentang Kami</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
-                <ul>
-                  <li><a href="profil.php">Profil Sekolah</a></li>
-                  <li><a href="sambutan.php">Sambutan Kepsek</a></li>
-                  <li><a href="visi.php">Visi dan Misi</a></li>
-                  <li><a href="organisasi.php">Struktur Organisasi</a></li>
-                  <li><a href="data.php">Data Guru</a></li>
-                  <li><a href="akreditasi.php">Akreditasi</a></li>
-                  <li><a href="industri.php">Hubungan Industri</a></li>    
-                  <li><a href="prestasi.php">Prestasi</a></li>           
-                  <li class="dropdown"><a href="#"><span>Sarana</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
-                <ul>
-                  <li><a href="kelas.php">Kelas</a></li>
-                </ul>
-                </li>
-                </ul>
-                </li>
-            <li class="dropdown"><a href="#"><span>Program</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
-            <ul>
-            <li class="dropdown"><a href="#"><span>Program Studi</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
-                <ul>
-                  <li><a href="RPL.php">RPL (Rekayasa Perangkat Lunak)</a></li>
-                  <li><a href="STI.php">STI (Samsung Tech Institute)</a></li>
-                  <li><a href="ASKEP.php">ASKEP (Asisten Keperawatan)</a></li>
-                  <li><a href="TBO.php">TBO(Teknik Bodi Otomotif)</a></li>
-                  <li><a href="TABUS.php">TABUS(Tata Busana)</a></li>
                   <li><a href="DKV.php">DKV(Desain Komunikasi Visual)</a></li>
                   </ul>
               </li>
@@ -166,7 +90,6 @@
                 <li><a href="PKL.php">PKL 2023</a></li>
                 </ul>
               </li>
-            </ul>
           </li>
               <li class="dropdown"><a href="#"><span>PPDB</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
             <ul>
@@ -176,41 +99,9 @@
           <li><a class="get-a-quote bg-light text-dark" href="cek_login.php">Login</a></li>
         </ul>
       </nav><!-- .navbar -->
-
->>>>>>> 46e019af9636db1281016cdce9d09f9892bb2da1
     </div>
   </header><!-- End Header -->
-    <!-- ======= Featured Services Section ======= -->
-      <section id="header" class="header">
-
-        <div class="row gy-4">
-          
-          <!-- End Service Item -->
-    </section>
-    <!-- End Featured Services Section -->
-
-
- <!-- ======= Breadcrumbs ======= -->
- <div class="breadcrumbs">
-      <div class="header">
-        <div class="container position-relative">
-          <div class="row d-flex justify-content-center">
-            <div class="col-lg-6 text-center">
-              
-            </div>
-          </div>
-        </div>
-      </div>
-      <nav>
-        <div class="container">
-          <ol>
-            <li><a href="index.php">Beranda</a></li>
-            <li><a href="">Profil Sekolah</a></li>
-          </ol>
-        </div>
-      </nav>
-    </div><!-- End Breadcrumbs --> 
-
+  
     <!-- ======= Services Section ======= -->
     <section id="service" class="services pt-0">
       <div class="container" data-aos="fade-up">
@@ -393,83 +284,79 @@ OSIS bertujuan memfasilitasi para siswa untuk menyalurkan aspirasinya, mengekspr
 
   </main><!-- End #main -->
 
-  <!-- ======= Footer ======= -->
-  <footer id="footer" class="footer bg-primary">
+ <!-- ======= Footer ======= -->
+ <footer id="footer" class="footer bg-transparent">
 
-    <div class="container">
-      <div class="row gy-4">
-        <div class="col-lg-5 col-md-12 footer-info">
-          <a href="index.php" class="logo d-flex align-items-center">
-            <span>ALAMAT</span>
-          </a>
-          <p>Jl. KH Wahid HasyimDesa. Mertapada Wetan Kecanatan. Astanajapura Kabupaten. Cirebon Jawa Barat 45181
-         <br> Phone: 0231 8845465<br>Email: smkbinacendekiacirebona@gmail.com
-          </p>
-          <div class="social-links d-flex mt-4">
-            <a href="https://youtube.com/@smkbinacendekiacirebonoffi3039" class="Youtube"><i class="bi bi-play-btn-fill"></i></a>
-            <a href="https://www.facebook.com/profile.php?id=100009648338366" class="facebook"><i class="bi bi-facebook"></i></a>
-            <a href="https://instagram.com/smkbinacendekia?igshid=OGQ2MjdiOTE=" class="instagram"><i class="bi bi-instagram"></i></a>
-            <a href="https://www.tiktok.com/@smkbinacendekiacirebon?_r=1&_d=dkgebdh40m7l26&language=id&sec_uid=MS4wLjABAAAAYRFN2ZlU0y_HKAnDd33Qg3ZBMFmqtm7-Py0AkhltELueBlrfbxgyAwwWwajHbl7f&share_author_id=6933598016310592513&source=h5_t&timestamp=1674875179&utm_source=copy&utm_campaign=client_share&utm_medium=android&share_iid=7188303969302906650&share_link_id=648d57dd-9a99-4dda-bcc8-6f59b17706c7&share_app_id=1180&ugbiz_name=Account&ug_btm=b6880%2Cb2878" class="TikTok"><i class="bi bi-tiktok"></i></a>
-          </div>
-        </div>
-
-        <div class="col-lg-2 col-6 footer-links">
-          <h4>Useful Links</h4>
-          <ul>
-            <li><a href="#">Home</a></li>
-            <li><a href="#">Tentang kami</a></li>
-            <li><a href="#">Program</a></li>
-            <li><a href="#">Ppdb</a></li>
-            <li><a href="#">Contact</a></li>
-          </ul>
-        </div>
-
-        <div class="col-lg-2 col-6 footer-links">
-          <h4>the links we visit</h4>
-          <ul>
-            <li><a href="#">Boootstrap</a></li>
-            <li><a href="#">Font Awesome Fonts</a></li>
-            <li><a href="#">Niagahoster</a></li>
-            <li><a href="#">Malasngoding</a></li>
-            <li><a href="#">Aos</a></li>
-          </ul>
-        </div>
-
-        </div>
-
+<div class="container">
+  <div class="row gy-4">
+    <div class="col-lg-5 col-md-12 footer-info">
+      <a href="index.php" class="logo d-flex align-items-center">
+        <span class="text-dark">ALAMAT</span>
+      </a>
+      <p class="text-dark">Jl. KH Wahid HasyimDesa. Mertapada Wetan Kecanatan. Astanajapura Kabupaten. Cirebon Jawa Barat 45181
+     <br> Phone: 0231 8845465<br>Email: smkbinacendekiacirebona@gmail.com
+      </p>
+      <div class="social-links d-flex mt-4">
+        <a href="https://youtube.com/@smkbinacendekiacirebonoffi3039" class="Youtube"><i class="bi bi-play-btn-fill"></i></a>
+        <a href="https://www.facebook.com/profile.php?id=100009648338366" class="facebook"><i class="bi bi-facebook"></i></a>
+        <a href="https://instagram.com/smkbinacendekia?igshid=OGQ2MjdiOTE=" class="instagram"><i class="bi bi-instagram"></i></a>
+        <a href="https://www.tiktok.com/@smkbinacendekiacirebon?_r=1&_d=dkgebdh40m7l26&language=id&sec_uid=MS4wLjABAAAAYRFN2ZlU0y_HKAnDd33Qg3ZBMFmqtm7-Py0AkhltELueBlrfbxgyAwwWwajHbl7f&share_author_id=6933598016310592513&source=h5_t&timestamp=1674875179&utm_source=copy&utm_campaign=client_share&utm_medium=android&share_iid=7188303969302906650&share_link_id=648d57dd-9a99-4dda-bcc8-6f59b17706c7&share_app_id=1180&ugbiz_name=Account&ug_btm=b6880%2Cb2878" class="TikTok"><i class="bi bi-tiktok"></i></a>
       </div>
     </div>
 
-    <div class="container mt-4">
-      <div class="copyright">
-        &copy; Copyright <strong><span>SMK BINA CENDEKIA CIREBON</span></strong>
-      </div>
-      <div class="credits">
-        <!-- All the links in the footer should remain intact. -->
-        <!-- You can delete the links only if you purchased the pro version. -->
-        <!-- Licensing information: https://bootstrapmade.com/license/ -->
-        <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/logis-bootstrap-logistics-website-template/ -->
-        Designed by <a href="https://bootstrapmade.com/"> Devprogremer</a>
-      </div>
+    <div class="col-lg-2 col-6 footer-links text-dark">
+      <h4 >Useful Links</h4>
+      <ul>
+        <li><a class="text-dark" href="#">Home</a></li>
+        <li><a class="text-dark" href="#">Tentang kami</a></li>
+        <li><a class="text-dark" href="#">Program</a></li>
+        <li><a class="text-dark" href="#">Ppdb</a></li>
+        <li><a class="text-dark" href="#">Contact</a></li>
+      </ul>
     </div>
 
-  </footer><!-- End Footer -->
-  <!-- End Footer -->
+    <div class="col-lg-2 col-6 footer-links text-dark">
+      <h4>the links we visit</h4>
+      <ul>
+        <li><a class="text-dark" href="#">Boootstrap</a></li>
+        <li><a class="text-dark" href="#">Font Awesome Fonts</a></li>
+        <li><a class="text-dark" href="#">Niagahoster</a></li>
+        <li><a class="text-dark" href="#">Malasngoding</a></li>
+        <li><a class="text-dark" href="#">Aos</a></li>
+      </ul>
+    </div>
 
-  <a href="#" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+    </div>
 
-  <div id="preloader"></div>
+  </div>
+</div>
 
-  <!-- Vendor JS Files -->
-  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-  <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
-  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
-  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
-  <script src="assets/vendor/aos/aos.js"></script>
-  <script src="assets/vendor/php-email-form/validate.js"></script>
+<div class="container mt-4">
+  <div class="copyright">
+    &copy; Copyright <strong><span>SMK BINA CENDEKIA CIREBON</span></strong>
+  </div>
+  <div class="credits">
+     Designed by <a href="https://bootstrapmade.com/"> Devprogremer</a>
+  </div>
+</div>
 
-  <!-- Template Main JS File -->
-  <script src="assets/js/main.js"></script>
+</footer><!-- End Footer -->
+
+<a href="#" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+<div id="preloader"></div>
+
+<!-- Vendor JS Files -->
+<script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
+<script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+<script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+<script src="assets/vendor/aos/aos.js"></script>
+<script src="assets/vendor/php-email-form/validate.js"></script>
+
+<!-- Template Main JS File -->
+<script src="assets/js/main.js"></script>
+
 
 </body>
 

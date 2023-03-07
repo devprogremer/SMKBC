@@ -99,8 +99,8 @@
         </ul>
       </nav><!-- .navbar -->
     </div>
-  </header><!-- End Header -->
-
+  </header><!-- End Header -->  <!-- ======= Featured Services Section ======= -->
+  
   <main id="main">
 
 <!-- ======= About Section ======= -->
@@ -109,22 +109,23 @@
 
         <div class="row">
           <div class="col-lg-6 order-1 order-lg-2" data-aos="fade-left" data-aos-delay="100">
-            <center><img src="assets/img/rpll1.png" class="img-fluid" alt="">
+            <img src="assets/img/rpll1.png" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right" data-aos-delay="100">
           <div class="section-title">
           <h2 class="fst-italic text-bold">
-          <p align="justify"> RPL (Rekayasa Perangkat Lunak)
-          SMK Bina Cendekia Cirebon </p>
+          <h2> RPL (Rekayasa Perangkat Lunak)</h2>
+          <p>SMK Bina Cendekia Cirebon </p>
         </div>
             <ul>
-          <br><p align="justify">Membekali peserta didik dengan ketrampilan,pengetahuan sikap agar kompeten menginstalasi software aplikasi,mengoperasikan software,mrawat software aplikasi dan mengelola di bidang pembuatan softaware aplikasi.</br>
+          <br>Membekali peserta didik dengan ketrampilan,pengetahuan sikap agar kompeten menginstalasi software aplikasi,mengoperasikan software,mrawat software aplikasi dan mengelola di bidang pembuatan softaware aplikasi.</br>
           </div>
         </div>
 
       </div>
     </section><!-- End About Section -->
-          <!-- ======= Services Section ======= -->
+
+    <!-- ======= Services Section ======= -->
     <section id="service" class="services pt-0">
       <div class="container" data-aos="fade-up">
 
@@ -137,7 +138,6 @@
               <div class="card-img">
                 <img src="assets/img/rpl1.jpeg" alt="" class="img-fluid">
               </div>
-
               <h3><a href="service-details.html" class="stretched-link">23 Juli 2021</a></h3>
               <p align="justify">belajar denangan tenang dengan alat-alat yang sudah di tersediakan</p>
             </div>
@@ -148,7 +148,6 @@
               <div class="card-img">
                 <img src="assets/img/rpl2.jpeg" alt="" class="img-fluid">
               </div>
-
               <h3><a href="service-details.html" class="stretched-link">15 Maret 2022</a></h3>
               <p align="justify">Uji Kometensi Kejuruan Rekayasa Perangkat Lunak kelas XII</p>
             </div>
@@ -214,8 +213,6 @@
               </div>
               <h3><a href="service-details.html" class="stretched-link">19 November 2022</a></h3>
               <p align="justify">Warkosp, penjelasan kurikulum  dan bahan ajar, SMK Bina Cendekia Cirebon.</p>
-=======
-            
             </div>
           </div><!-- End Card Item -->
 
@@ -234,14 +231,13 @@
                 <img src="assets/img/rpl4.jpeg" alt="" class="img-fluid">
               </div>
              
->>>>>>> 46e019af9636db1281016cdce9d09f9892bb2da1
             </div>
           </div><!-- End Card Item -->
 
           <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-delay="600">
             <div class="">
               <div class="card-img">
-                <img src="assets/img/rpl6.jpeg" alt="" class="img-fluid">
+                <img src="assets/img/rpl5.jpeg" alt="" class="img-fluid">
               </div>
              
             </div>
@@ -250,10 +246,13 @@
           <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-delay="700">
             <div class="">
               <div class="card-img">
-                <img src="assets/img/rpl5.jpeg" alt="" class="img-fluid">
+                <img src="assets/img/rpl6.jpeg" alt="" class="img-fluid">
               </div>
             </div>
           </div><!-- End Card Item -->
+
+      </main><!-- End #main -->
+
    <!-- ======= Footer ======= -->
    <footer id="footer" class="footer bg-primary">
 
