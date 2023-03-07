@@ -123,9 +123,7 @@
           
         </div><!-- End Pricing Item -->
       </div>
-    </section><!-- End Horizontal Pricing Section -->
-
-    <!-- ======= Features Section ======= -->
+ 
     <section id="features" class="features">
       <div class="container">
         <div class="row gy-4 align-items-center features-item" data-aos="fade-up">
