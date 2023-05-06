@@ -75,7 +75,7 @@
               </ul>
           <li><a class="" href="contact.php">Hubungi Kami</a></li>
           <li><a class="getstarted scrollto" href="cek_login.php">Login</a></li>
-          <li><a class="getstarted scrollto" href="ppdb.php">Daftar PPDB</a></li>
+          <li><a class="getstarted scrollto" href="ppdb/form-daftar.php">Daftar PPDB</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->

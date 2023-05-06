@@ -9,8 +9,6 @@
 	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
- 
-	<h1> <br/></h1>
 
 	<?php 
 	if(isset($_GET['pw'])){

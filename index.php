@@ -69,17 +69,17 @@
             <li class="dropdown"><a href="#"><span>Program Studi</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
                 <ul>
                   <li><a href="RPL.php">RPL (Rekayasa Perangkat Lunak)</a></li>
-                  <li><a href="STI.php">STI (Samsung Tech Institute)</a></li>
+                  <li><a href="TABUS.php">TABUS (Tata Busana)</a></li>
                   <li><a href="ASKEP.php">ASKEP (Asisten Keperawatan)</a></li>
                   <li><a href="TBO.php">TBO(Teknik Bodi Otomotif)</a></li>
-                  <li><a href="TABUS.php">TABUS(Tata Busana)</a></li>
+                  <li><a href="STI.php">STI (Samsung Tech Institute)</a></li>
                   <li><a href="DKV.php">DKV(Desain Komunikasi Visual)</a></li>
                   </ul>
               </li>
               <li class="dropdown"><a href="#"><span>Kegiatan</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
                 <ul>
                   <li><a href="ekstrakurikuler.php">Ekstrakurikuler</a></li>
-                  <li><a href="bahasa.php">Bulan Bahasa</a></li>
+                  <li><a href="bahasa.php"></a></li>
                   <li><a href="maulid.php">Maulid Nabi Muhammad</a></li>
                   <li><a href="porak.php">Porak</a></li>
                   <li><a href="agustus.php">HUT RI 17 Agustus</a></li>
@@ -461,9 +461,11 @@
 
           
     </section><!-- End Features Section -->
+    
     <center><img src="assets/img/ok.jpeg" alt="" style="width:1300x;height:133px;"><center>
-             <!-- ======= About Us Section ======= --> 
-             </div>
+        
+    <!-- ======= About Us Section ======= --> 
+    </div>
     <section id="about" class="about pt-0">
       <div class="container" data-aos="fade-up">
 
@@ -479,7 +481,6 @@
 
       </div>
     </section><!-- End About Us Section -->
-
 
   </main><!-- End #main -->
 
@@ -499,22 +500,22 @@
         <div class="col-lg-2 col-4 footer-links text-dark" data-aos="fade-up" data-aos-delay="400" class="fw-bolder">
           <h4 class="fw-bold">Menu Utama</h4>
           <ul>
-            <li><a class="text-primary" href="">Beranda</a></li>
-            <li><a class="text-primary" href="">Tentang Kami</a></li>
-            <li><a class="text-primary" href="">Program</a></li>
-            <li><a class="text-primary" href="">Ppdb</a></li>
-            <li><a class="text-primary" href="">Contact</a></li>
+            <li><a class="text-primary" href=""><i class="bi bi-chevron-right"></i>Beranda</a></li>
+            <li><a class="text-primary" href=""><i class="bi bi-chevron-right"></i>Tentang Kami</a></li>
+            <li><a class="text-primary" href=""><i class="bi bi-chevron-right"></i>Program</a></li>
+            <li><a class="text-primary" href=""><i class="bi bi-chevron-right"></i>Ppdb</a></li>
+            <li><a class="text-primary" href=""><i class="bi bi-chevron-right"></i>Contact</a></li>
           </ul>
         </div>
 
         <div class="col-lg-2 col-4 footer-links text-dark" data-aos="fade-up" data-aos-delay="400" class="fw-bolder">
           <h4 class="fw-bold">The Links We Visit</h4>
           <ul>
-            <li><a class="text-primary" href="https://getbootstrap.com/">Boootstrap</a></li>
-            <li><a class="text-primary" href="https://fontawesome.com/">Font Awesome Fonts</a></li>
-            <li><a class="text-primary" href="https://www.niagahoster.co.id/">Niagahoster</a></li>
-            <li><a class="text-primary" href="https://www.malasngoding.com/">Malasngoding</a></li>
-            <li><a class="text-primary" href="https://www.aos.co.id/">Aos</a></li>
+            <li><a class="text-primary" href="https://getbootstrap.com/"><i class="bi bi-chevron-right"></i>Boootstrap</a></li>
+            <li><a class="text-primary" href="https://fontawesome.com/"><i class="bi bi-chevron-right"></i>Font Awesome Fonts</a></li>
+            <li><a class="text-primary" href="https://www.niagahoster.co.id/"><i class="bi bi-chevron-right"></i>Niagahoster</a></li>
+            <li><a class="text-primary" href="https://www.malasngoding.com/"><i class="bi bi-chevron-right"></i>Malasngoding</a></li>
+            <li><a class="text-primary" href="https://www.aos.co.id/"><i class="bi bi-chevron-right"></i>Aos</a></li>
           </ul>
         </div>
 

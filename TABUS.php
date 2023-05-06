@@ -195,59 +195,18 @@
 
      </main><!-- End #main -->
 
-    <!-- ======= Footer ======= -->
-  <footer id="footer" class="footer bg-primary">
+
+   <!-- ======= Footer ======= -->
+   <footer id="footer" class="footer bg-light">
 
 <div class="container">
   <div class="row gy-4">
-    <div class="col-lg-5 col-md-12 footer-info">
-      <a href="index.php" class="logo d-flex align-items-center">
-        <span>ALAMAT</span>
-      </a>
-      <p>Jl. KH Wahid HasyimDesa. Mertapada Wetan Kecanatan. Astanajapura Kabupaten. Cirebon Jawa Barat 45181
-     <br> Phone: 0231 8845465<br>Email: smkbinacendekiacirebona@gmail.com
-      </p>
-      <div class="social-links d-flex mt-4">
-        <a href="https://youtube.com/@smkbinacendekiacirebonoffi3039" class="Youtube bg-danger"><i class="bi bi-play-btn-fill"></i></a>
-        <a href="https://www.facebook.com/profile.php?id=100009648338366" class="facebook bg-primary"><i class="bi bi-facebook"></i></a>
-        <a href="https://instagram.com/smkbinacendekia?igshid=OGQ2MjdiOTE=" class="instagram "><i class="bi bi-instagram"></i></a>
-        <a href="https://www.tiktok.com/@smkbinacendekiacirebon?_r=1&_d=dkgebdh40m7l26&language=id&sec_uid=MS4wLjABAAAAYRFN2ZlU0y_HKAnDd33Qg3ZBMFmqtm7-Py0AkhltELueBlrfbxgyAwwWwajHbl7f&share_author_id=6933598016310592513&source=h5_t&timestamp=1674875179&utm_source=copy&utm_campaign=client_share&utm_medium=android&share_iid=7188303969302906650&share_link_id=648d57dd-9a99-4dda-bcc8-6f59b17706c7&share_app_id=1180&ugbiz_name=Account&ug_btm=b6880%2Cb2878" class="TikTok bg-dark"><i class="bi bi-tiktok"></i></a>
-      </div>
-    </div>
-
-    <div class="col-lg-2 col-6 footer-links">
-      <h4>Useful Links</h4>
-      <ul>
-        <li><a href="">Beranda</a></li>
-        <li><a href="">Tentang Kami</a></li>
-        <li><a href="">Program</a></li>
-        <li><a href="">Ppdb</a></li>
-        <li><a href="">Contact</a></li>
-      </ul>
-    </div>
-
-    <div class="col-lg-2 col-6 footer-links">
-      <h4>The links we visit</h4>
-      <ul>
-        <li><a href="https://getbootstrap.com/">Boootstrap</a></li>
-        <li><a href="https://fontawesome.com/">Font Awesome Fonts</a></li>
-        <li><a href="https://www.niagahoster.co.id/">Niagahoster</a></li>
-        <li><a href="https://www.malasngoding.com/">Malasngoding</a></li>
-        <li><a href="https://www.aos.co.id/">Aos</a></li>
-      </ul>
-    </div>
-
-    </div>
-
-  </div>
-</div>
-
 <div class="container mt-4">
-  <div class="copyright">
-    &copy; Copyright <strong><span>SMK BINA CENDEKIA CIREBON</span></strong>
+  <div class="copyright text-dark">
+    &copy; Website <strong><span>SMK BINA CENDEKIA CIREBON</span></strong>
   </div>
   <div class="credits">
-    Designed by <a href="https://web.facebook.com/profile.php?id=100089766366337" class="text-warning"> Devprogremer</a>
+   <a class="text-dark"> Designed by <a href="https://bootstrapmade.com/" class="text-primary"> Devprogremer</a>
   </div>
 </div>
 

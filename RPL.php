@@ -46,7 +46,7 @@
       <i class="mobile-nav-toggle mobile-nav-hide d-none bi bi-x"></i>
       <nav id="navbar" class="navbar bg-primary">
          <ul>
-          <li class="bg-primary text-light"><a href="index.php" class="active" class="bi bi-">Beranda</a></li>
+          <li class="bg-primary text-light"><a href="index.php">Beranda</a></li>
           <ul>
               <li class="dropdown bg-primary"><a href="#"><span>Tentang Kami</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
                 <ul>
@@ -64,15 +64,15 @@
                 </li>
                 </ul>
                 </li>
-            <li class="dropdown"><a href="#"><span>Program</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
+            <li class="dropdown"><a href="#"><span class="active">Program</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
             <ul>
-            <li class="dropdown"><a href="#"><span>Program Studi</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
+            <li class="dropdown"><a href="#"><span >Program Studi</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
                 <ul>
                   <li><a href="RPL.php">RPL (Rekayasa Perangkat Lunak)</a></li>
-                  <li><a href="STI.php">STI (Samsung Tech Institute)</a></li>
+                  <li><a href="TABUS.php">TABUS(Tata Busana)</a></li>
                   <li><a href="ASKEP.php">ASKEP (Asisten Keperawatan)</a></li>
                   <li><a href="TBO.php">TBO(Teknik Bodi Otomotif)</a></li>
-                  <li><a href="TABUS.php">TABUS(Tata Busana)</a></li>
+                  <li><a href="STI.php">STI (Samsung Tech Institute)</a></li>
                   <li><a href="DKV.php">DKV(Desain Komunikasi Visual)</a></li>
                   </ul>
               </li>
@@ -133,23 +133,19 @@
           <h2>Kegiatan Rekayasa Perangkat Lunak</h2>
         </div>
         <div class="row gy-4">
-          <div class="col-lg-6 col-md-5" data-aos="fade-up" data-aos-delay="100">
+          <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-delay="100">
             <div class="">
               <div class="card-img">
                 <img src="assets/img/rpl1.jpeg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">23 Juli 2021</a></h3>
-              <p align="justify">belajar denangan tenang dengan alat-alat yang sudah di tersediakan</p>
             </div>
           </div><!-- End Card Item -->
 
-          <div class="col-lg-6 col-md-5" data-aos="fade-up" data-aos-delay="200">
+          <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-delay="200">
             <div class="">
               <div class="card-img">
                 <img src="assets/img/rpl2.jpeg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">15 Maret 2022</a></h3>
-              <p align="justify">Uji Kometensi Kejuruan Rekayasa Perangkat Lunak kelas XII</p>
             </div>
           </div><!-- End Card Item -->
 
@@ -158,74 +154,59 @@
               <div class="card-img">
                 <img src="assets/img/rpl3.jpeg" alt="" class="img-fluid">
               </div>
-
-              <h3><a href="service-details.html" class="stretched-link">17 Maret 2022</a></h3>
-              <p align="justify">Uji Kometensi Kejuruan Rekayasa Perangkat Lunak kelas XII</p>
-            </div>
-          </div><!-- End Card Item -->
-
-          <div class="col-lg-6 col-md-8" data-aos="fade-up" data-aos-delay="400">
-            <div class="card">
-              <div class="card-img">
-                <img src="assets/img/rpl4.jpeg" alt="" class="img-fluid">
-              </div>
-
-              <h3><a href="service-details.html" class="stretched-link">09 November 2022</a></h3>
-              <p align="justify">kegiatan belajar di Sekolah SMK Bina Cendekia</p>
-            </div>
-          </div><!-- End Card Item -->
-
-          <div class="col-lg-6 col-md-8" data-aos="fade-up" data-aos-delay="500">
-            <div class="card">
-              <div class="card-img">
-                <img src="assets/img/rpl5.jpeg" alt="" class="img-fluid">
-              </div>
-              
-              <h3><a href="service-details.html" class="stretched-link">20 Oktober 2022</a></h3>
-              <p align="justify">jurusan Rpl di SMK Bina Cendekia. </p>
-            </div>
-          </div><!-- End Card Item -->
-
-          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="600">
-            <div class="card">
-              <div class="card-img">
-                <img src="assets/img/rpl6.jpeg" alt="" class="img-fluid">
-              </div>
-              <h3><a href="service-details.html" class="stretched-link">24 Agustus 2022</a></h3>
-              <p align="justify">kegiatan anak Rpl di laboratium SMK Bina Cendekia Cirebon.</p>
-            </div>
-          </div><!-- End Card Item -->
-
-          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="600">
-            <div class="card">
-              <div class="card-img">
-                <img src="assets/img/rpl7.jpeg" alt="" class="img-fluid">
-              </div>
-              <h3><a href="service-details.html" class="stretched-link">15 Desember 2021</a></h3>
-              <p align="justify">Sekolah SMK Bina Cendekia Cirebon kerja sama dengan PT Selim Elektro. </p>
-            </div>
-          </div><!-- End Card Item -->
-
-          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="600">
-            <div class="card">
-              <div class="card-img">
-                <img src="assets/img/rpl8.jpeg" alt="" class="img-fluid">
-              </div>
-              <h3><a href="service-details.html" class="stretched-link">19 November 2022</a></h3>
-              <p align="justify">Warkosp, penjelasan kurikulum  dan bahan ajar, SMK Bina Cendekia Cirebon.</p>
             </div>
           </div><!-- End Card Item -->
 
           <div class="col-lg-4 col-md-4" data-aos="fade-up" data-aos-delay="400">
             <div class="">
               <div class="card-img">
+                <img src="assets/img/rpl4.jpeg" alt="" class="img-fluid">
+              </div>
+            </div>
+          </div><!-- End Card Item -->
+
+          <div class="col-lg-4 col-md-4" data-aos="fade-up" data-aos-delay="500">
+            <div class="">
+              <div class="card-img">
+                <img src="assets/img/rpl5.jpeg" alt="" class="img-fluid">
+              </div>
+             </div>
+          </div><!-- End Card Item -->
+
+          <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-delay="600">
+            <div class="">
+              <div class="card-img">
+                <img src="assets/img/rpl6.jpeg" alt="" class="img-fluid">
+              </div>
+             </div>
+          </div><!-- End Card Item -->
+
+          <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-delay="700">
+            <div class="">
+              <div class="card-img">
+                <img src="assets/img/rpl7.jpeg" alt="" class="img-fluid">
+              </div>
+              </div>
+          </div><!-- End Card Item -->
+
+          <div class="col-lg-4 col-md-4" data-aos="fade-up" data-aos-delay="800">
+            <div class="">
+              <div class="card-img">
                 <img src="assets/img/rpl8.jpeg" alt="" class="img-fluid">
+              </div>
+              </div>
+          </div><!-- End Card Item -->
+
+          <div class="col-lg-4 col-md-4" data-aos="fade-up" data-aos-delay="900">
+            <div class="">
+              <div class="card-img">
+                <img src="assets/img/" alt="" class="img-fluid">
               </div>
             
               </div>
           </div><!-- End Card Item -->
 
-          <div class="col-lg-4 col-md-4" data-aos="fade-up" data-aos-delay="500">
+          <div class="col-lg-4 col-md-4" data-aos="fade-up" data-aos-delay="1000">
             <div class="">
               <div class="card-img">
                 <img src="assets/img/rpl4.jpeg" alt="" class="img-fluid">
@@ -234,7 +215,7 @@
             </div>
           </div><!-- End Card Item -->
 
-          <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-delay="600">
+          <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-delay="1200">
             <div class="">
               <div class="card-img">
                 <img src="assets/img/rpl5.jpeg" alt="" class="img-fluid">
@@ -243,7 +224,7 @@
             </div>
           </div><!-- End Card Item -->
 
-          <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-delay="700">
+          <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-delay="1300">
             <div class="">
               <div class="card-img">
                 <img src="assets/img/rpl6.jpeg" alt="" class="img-fluid">
@@ -253,63 +234,18 @@
 
       </main><!-- End #main -->
 
+
    <!-- ======= Footer ======= -->
-   <footer id="footer" class="footer bg-primary">
+   <footer id="footer" class="footer bg-light">
 
 <div class="container">
   <div class="row gy-4">
-    <div class="col-lg-5 col-md-12 footer-info">
-      <a href="index.php" class="logo d-flex align-items-center">
-        <span>ALAMAT</span>
-      </a>
-      <p>Jl. KH Wahid HasyimDesa. Mertapada Wetan Kecanatan. Astanajapura Kabupaten. Cirebon Jawa Barat 45181
-     <br> Phone: 0231 8845465<br>Email: smkbinacendekiacirebona@gmail.com
-      </p>
-      <div class="social-links d-flex mt-4">
-        <a href="https://youtube.com/@smkbinacendekiacirebonoffi3039" class="Youtube"><i class="bi bi-play-btn-fill"></i></a>
-        <a href="https://www.facebook.com/profile.php?id=100009648338366" class="facebook"><i class="bi bi-facebook"></i></a>
-        <a href="https://instagram.com/smkbinacendekia?igshid=OGQ2MjdiOTE=" class="instagram"><i class="bi bi-instagram"></i></a>
-        <a href="https://www.tiktok.com/@smkbinacendekiacirebon?_r=1&_d=dkgebdh40m7l26&language=id&sec_uid=MS4wLjABAAAAYRFN2ZlU0y_HKAnDd33Qg3ZBMFmqtm7-Py0AkhltELueBlrfbxgyAwwWwajHbl7f&share_author_id=6933598016310592513&source=h5_t&timestamp=1674875179&utm_source=copy&utm_campaign=client_share&utm_medium=android&share_iid=7188303969302906650&share_link_id=648d57dd-9a99-4dda-bcc8-6f59b17706c7&share_app_id=1180&ugbiz_name=Account&ug_btm=b6880%2Cb2878" class="TikTok"><i class="bi bi-tiktok"></i></a>
-      </div>
-    </div>
-
-    <div class="col-lg-2 col-6 footer-links">
-      <h4>Useful Links</h4>
-      <ul>
-        <li><a href="#">Home</a></li>
-        <li><a href="#">Tentang kami</a></li>
-        <li><a href="#">Program</a></li>
-        <li><a href="#">Ppdb</a></li>
-        <li><a href="#">Contact</a></li>
-      </ul>
-    </div>
-
-    <div class="col-lg-2 col-6 footer-links">
-      <h4>the links we visit</h4>
-      <ul>
-        <li><a href="#">Boootstrap</a></li>
-        <li><a href="#">Font Awesome Fonts</a></li>
-        <li><a href="#">Niagahoster</a></li>
-        <li><a href="#">Malasngoding</a></li>
-        <li><a href="#">Aos</a></li>
-      </ul>
-    </div>
-
-    </div>
-
-  </div>
-</div>
-
 <div class="container mt-4">
-  <div class="copyright">
-    &copy; Copyright <strong><span>SMK BINA CENDEKIA CIREBON</span></strong>
+  <div class="copyright text-dark">
+    &copy; Website <strong><span>SMK BINA CENDEKIA CIREBON</span></strong>
   </div>
   <div class="credits">
-    <!-- All the links in the footer should remain intact. -->
-    <!-- You can delete the links only if you purchased the pro version. -->
-    <!-- Licensing information: https://bootstrapmade.com/license/ -->
-    <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/logis-bootstrap-logistics-website-template/ -->
-    Designed by <a href="https://bootstrapmade.com/"> Devprogremer</a>
+   <a class="text-dark"> Designed by <a href="https://bootstrapmade.com/" class="text-primary"> Devprogremer</a>
   </div>
 </div>
 
