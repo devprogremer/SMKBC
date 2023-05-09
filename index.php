@@ -9,6 +9,10 @@
   <meta content="" name="description">
   <meta content="" name="keywords">
 
+  <style type="text/css">
+      @import url(import.css);
+    </style>
+
   <!-- Favicons -->
   <link href="assets/img/okkkkkk.png" rel="icon">
   <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
@@ -33,7 +37,7 @@
 <body>
 
   <!-- ======= Header ======= -->
-  <header id="header" class="p-0 mb-1 bg-primary text-white fixed-padding">
+  <header id="header" class="p-0 mb-1 bg-info text-white fixed-padding">
     <div class="container-fluid container-xl d-flex align-items-center justify-content-between ">
 
     <a href="" class="navbar-brand">
@@ -46,9 +50,9 @@
       <i class="mobile-nav-toggle mobile-nav-hide d-none bi bi-x"></i>
       <nav id="navbar" class="navbar bg-primary">
          <ul>
-          <li class="bg-primary text-light"><a href="index.php" class="active" class="bi bi-">Beranda</a></li>
+          <li class="bg-info text-light"><a href="index.php" class="active" class="bi bi-">Beranda</a></li>
           <ul>
-              <li class="dropdown bg-primary"><a href="#"><span>Tentang Kami</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
+              <li class="dropdown bg-info"><a href="#"><span>Tentang Kami</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
                 <ul>
                   <li><a href="profil.php">Profil Sekolah</a></li>
                   <li><a href="sambutan.php">Sambutan Kepsek</a></li>
@@ -64,7 +68,7 @@
                 </li>
                 </ul>
                 </li>
-            <li class="dropdown"><a href="#"><span>Program</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
+            <li class="bg-info text-light dropdown"><a href="#"><span>Program</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
             <ul>
             <li class="dropdown"><a href="#"><span>Program Studi</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
                 <ul>
@@ -76,7 +80,7 @@
                   <li><a href="DKV.php">DKV(Desain Komunikasi Visual)</a></li>
                   </ul>
               </li>
-              <li class="dropdown"><a href="#"><span>Kegiatan</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
+              <li class="bg-info text-light dropdown"><a href="#"><span>Kegiatan</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
                 <ul>
                   <li><a href="ekstrakurikuler.php">Ekstrakurikuler</a></li>
                   <li><a href="bahasa.php">Bulan Bahasa</a></li>
@@ -90,12 +94,12 @@
                 </ul>
               </li>
           </li>
-              <li class="dropdown"><a href="#"><span>PPDB</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
+              <li class="bg-info text-light dropdown"><a href="#"><span>PPDB</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
             <ul>
               <li><a href="informasi.php">Informasi Pendaftaran</a></li>
               </ul>
-          <li><a href="contact.php">Contact</a></li>
-          <li><a class="get-a-quote bg-light text-dark" href="cek_login.php">Login</a></li>
+          <li class="bg-info text-light dropdown"> <a href="contact.php">Contact</a></li>
+          <li class="bg-info text-light dropdown"> <a href="cek_login.php">Login</a></li>
         </ul>
       </nav><!-- .navbar -->
 
@@ -265,7 +269,7 @@
             </div>
           </div><!-- End Card Item -->
 
-          <div class="col-lg-3 col-md-3" data-aos="fade-up" data-aos-delay="300">
+          <div class="col-lg-3 col-md-2" data-aos="fade-up" data-aos-delay="200">
             <div class="">
               <div class="card-img">
                 <img src="assets/img/pengajar-service.jpg" alt="" class="img-fluid">
@@ -484,7 +488,7 @@
   </main><!-- End #main -->
 
   <!-- ======= Footer ======= -->
-  <footer id="footer" class="footer bg-primary">
+  <footer id="footer" class="footer bg-info">
 
     <div class="container">
       <div class="row gy-4">

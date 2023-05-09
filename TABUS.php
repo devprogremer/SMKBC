@@ -195,8 +195,8 @@
 
      </main><!-- End #main -->
 
-    <!-- ======= Footer ======= -->
-  <footer id="footer" class="footer bg-primary">
+     <!-- ======= Footer ======= -->
+  <footer id="footer" class="footer bg-info">
 
 <div class="container">
   <div class="row gy-4">

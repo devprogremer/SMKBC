@@ -1,0 +1,20 @@
+h2 {
+  color: rgb(25, 26, 27);
+}
+h3 {
+  background-color: rgb(111, 225, 236);
+  color: rgb(17, 16, 16);
+}
+h4 {
+  color: rgb(66, 172, 230);
+}
+
+form {
+  background: #24cae0;
+  padding: 30px;
+}
+form label {
+  font-weight: 800;
+  cursor: pointer;
+}
+
