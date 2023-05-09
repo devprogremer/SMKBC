@@ -47,9 +47,9 @@
       <i class="mobile-nav-toggle mobile-nav-hide d-none bi bi-x"></i>
       <nav id="navbar" class="navbar bg-primary">
          <ul>
-          <li class="bg-primary text-light"><a href="index.php" class="active" class="bi bi-">Beranda</a></li>
+          <li class="bg-primary text-light"><a href="index.php">Beranda</a></li>
           <ul>
-              <li class="dropdown bg-primary"><a href="#"><span>Tentang Kami</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
+              <li class="dropdown bg-primary"><a href="#"><span class="active" >Tentang Kami</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
                 <ul>
                   <li><a href="profil.php">Profil Sekolah</a></li>
                   <li><a href="sambutan.php">Sambutan Kepsek</a></li>
@@ -152,6 +152,7 @@
     
   </main><!-- End #main -->
 
+<<<<<<< HEAD
     <!-- ======= Footer ======= -->
   <footer id="footer" class="footer bg-info">
 
@@ -199,17 +200,28 @@
   </div>
 </div>
 
+=======
+  <!-- ======= Footer ======= -->
+  <footer id="footer" class="footer bg-light">
+
+<div class="container">
+  <div class="row gy-4">
+>>>>>>> a617f04a6da7c7b1054f2805f2da77cc38e17a3c
 <div class="container mt-4">
-  <div class="copyright">
-    &copy; Copyright <strong><span>SMK BINA CENDEKIA CIREBON</span></strong>
+  <div class="copyright text-dark">
+    &copy; Website <strong><span>SMK BINA CENDEKIA CIREBON</span></strong>
   </div>
   <div class="credits">
+<<<<<<< HEAD
     Designed by <a href="https://web.facebook.com/profile.php?id=100089766366337" class="text-warning"> Devprogremer</a>
+=======
+   <a class="text-dark"> Designed by <a href="https://bootstrapmade.com/" class="text-primary"> Devprogremer</a>
+>>>>>>> a617f04a6da7c7b1054f2805f2da77cc38e17a3c
   </div>
 </div>
 
 </footer><!-- End Footer -->
-<!-- End Footer -->
+
 
 <a href="#" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
 

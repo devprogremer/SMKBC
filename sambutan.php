@@ -32,8 +32,13 @@
 </head>
 <body>
 
+<<<<<<< HEAD
 <!-- ======= Header ======= -->
 <header id="header" class="p-0 mb-1 bg-info text-white fixed-padding">
+=======
+  <!-- ======= Header ======= -->
+  <header id="header" class="p-0 mb-1 bg-primary text-white fixed-padding">
+>>>>>>> a617f04a6da7c7b1054f2805f2da77cc38e17a3c
     <div class="container-fluid container-xl d-flex align-items-center justify-content-between ">
 
     <a href="" class="navbar-brand">
@@ -46,9 +51,15 @@
       <i class="mobile-nav-toggle mobile-nav-hide d-none bi bi-x"></i>
       <nav id="navbar" class="navbar bg-primary">
          <ul>
+<<<<<<< HEAD
           <li class="bg-info text-light"><a href="index.php" class="active" class="bi bi-">Beranda</a></li>
           <ul>
               <li class="dropdown bg-info"><a href="#"><span>Tentang Kami</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
+=======
+          <li class="bg-primary text-light"><a href="index.php"class="bi bi-">Beranda</a></li>
+          <ul>
+              <li class="dropdown bg-primary"><a href="#"><span class="active">Tentang Kami</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
+>>>>>>> a617f04a6da7c7b1054f2805f2da77cc38e17a3c
                 <ul>
                   <li><a href="profil.php">Profil Sekolah</a></li>
                   <li><a href="sambutan.php">Sambutan Kepsek</a></li>
@@ -99,12 +110,13 @@
         </ul>
       </nav><!-- .navbar -->
     </div>
-  </header><!-- End Header --> 
+  </header><!-- End Header -->
 
-<!-- ======= Horizontal Pricing Section ======= -->
-     <section id="feature" class="feature pt-4">
+     <!-- ======= Horizontal Pricing Section ======= -->
+     <section id="feature" class="feature pt-0">
       <div class="container" data-aos="fade-up">
 
+<<<<<<< HEAD
     
  
     <section id="about" class="about">
@@ -188,9 +200,42 @@
 
         </div>
 
+=======
+        <div class="section-header mt-4">
+          <span>SMK BINA CENDEKIA CIREBON</span>
+          <h2>Sambutan Kepala Sekolah</h2>
+        </div>
+        <div class="row gy-4 pricing-item mt-0" data-aos="fade-up" data-aos-delay="300">
+          <div class="col-lg-6 d-flex align-items-center justify-content-center">
+          <center><img src="assets/img/yy.png" class="img-fluid" alt="">
+          </div>
+          <div class="col-lg-6 d-flex align-items-center justify-content-center">
+            <ul>
+            <h6 class="fst-italic">
+            <p align="justify" class="fst-italic" >Assalamualaikum wr WB
+Saya Ade Rahmat Saputra MP,d Saya kepala sekolah SMK Bina Cendekia Cirebon,puji syukur Alhamdulillah 
+ Kami SMK Bina Cendekia Cirebon sepakat salah satu sekolah menerima bantuan gibah dalam bantuan program  pusat keunggulan sektor ekonomi kreatif jurusan rekaya perangkat melalui program melalui program ini kami sangat membantu untuk mewujudkan perubahan yang lebih baru,kami telah melaksanakan penyalaksanaan kurikulum yang sesuai kebutuhan dunia pekerja serta berkembangnya sarana prasana di sekolah kami yang menunjang proses kegiatan kamu siswa sehingga menghasilkan kalobarisi untuk dunia induka
+Untuk penerapan jurusan  yang kompeten dan siap kerja dalam skema permadana di bidang dunia kerja industri SMK Bina Cendekia Cirebon menggandeng perusahaan dan komunitas  nelkom Indonesia memilki program yaitu
+<br>1. Training yaitu berfokus pembekalan trainen untuk setiap menjalankan SMK PK permadana tainen menyampaikan langsung Tenen.
+<br>2. Sepleni yaitu program berfokus untuk membentukan fasilitas digital funamental dari SMKnya sendiri.
+<br>3. viatur  xpcc yaitu berfokus penikasan skil tiga dimensi kreator bagi siswa SMK 
+<br>4. projek manajemen yaitu program pelatihan penerapan projek agar mencapai gol dalam jangka waktu terukur.
+<br>5. Desain sprit yaitu metode mendepankan proses ciptakan sebuah ide produk.
+<br>6. ritul export renovasi yaitu menampilkan hasil karya sekaligus portofolio siswa SMP dengan program-program yang luar biasa ini yang di siapkan dari perusahaan telepon Indonesia dapat menjadikan telenta digital dari lulusan Siswa-Siswi SMK Bina Cendekia.
+Setelah program-program ini tuntas dilakukan dalam menunjang  pelaksanaan teaching factory yang ada di SMK Bina Cendekia Cirebon Rusia jurusan rekayasa perangkat lunak dapat menghasilkan produk smart phone, smart, smart LG culture atau Gren house web aplikasi berbasis android dan metal.</p>
+      
+            </h6> 
+            </ul>
+          </div>
+          
+        </div><!-- End Pricing Item -->
+>>>>>>> a617f04a6da7c7b1054f2805f2da77cc38e17a3c
       </div>
-    </div>
+ 
+      <!-- ======= Footer ======= -->
+   <footer id="footer" class="footer bg-white">
 
+<<<<<<< HEAD
     <div class="container mt-4">
       <div class="copyright">
         &copy; Copyright <strong><span>SMK BINA CENDEKIA CIREBON</span></strong>
@@ -199,24 +244,36 @@
         Designed by <a href="https://web.facebook.com/profile.php?id=100089766366337" class="text-warning"> Devprogremer</a>
       </div>
     </div>
+=======
+<div class="container">
+  <div class="row gy-4">
+<div class="container mt-4">
+  <div class="copyright text-dark">
+    &copy; Website <strong><span>SMK BINA CENDEKIA CIREBON</span></strong>
+  </div>
+  <div class="credits">
+   <a class="text-dark"> Designed by <a href="https://bootstrapmade.com/" class="text-primary"> Devprogremer</a>
+  </div>
+</div>
+>>>>>>> a617f04a6da7c7b1054f2805f2da77cc38e17a3c
 
-  </footer><!-- End Footer -->
-  <!-- End Footer -->
+</footer><!-- End Footer -->
 
-  <a href="#" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
 
-  <div id="preloader"></div>
+<a href="#" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
 
-  <!-- Vendor JS Files -->
-  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-  <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
-  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
-  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
-  <script src="assets/vendor/aos/aos.js"></script>
-  <script src="assets/vendor/php-email-form/validate.js"></script>
+<div id="preloader"></div>
 
-  <!-- Template Main JS File -->
-  <script src="assets/js/main.js"></script>
+<!-- Vendor JS Files -->
+<script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
+<script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+<script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+<script src="assets/vendor/aos/aos.js"></script>
+<script src="assets/vendor/php-email-form/validate.js"></script>
+
+<!-- Template Main JS File -->
+<script src="assets/js/main.js"></script>
 
 </body>
 

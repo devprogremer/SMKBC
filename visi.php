@@ -47,9 +47,15 @@
       <i class="mobile-nav-toggle mobile-nav-hide d-none bi bi-x"></i>
       <nav id="navbar" class="navbar bg-primary">
          <ul>
+<<<<<<< HEAD
           <li class="bg-info text-light"><a href="index.php" class="active" class="bi bi-">Beranda</a></li>
           <ul>
               <li class="dropdown bg-info"><a href="#"><span>Tentang Kami</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
+=======
+          <li class="bg-primary text-light"><a href="index.php">Beranda</a></li>
+          <ul>
+              <li class="dropdown bg-primary"><a href="#"><span class="active">Tentang Kami</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
+>>>>>>> a617f04a6da7c7b1054f2805f2da77cc38e17a3c
                 <ul>
                   <li><a href="profil.php">Profil Sekolah</a></li>
                   <li><a href="sambutan.php">Sambutan Kepsek</a></li>
@@ -132,7 +138,7 @@
             <h3>Visi SMK Bina Cendekia Cirebon</h3>
             <div class="col-md-7">
              <h6 class="fst-italic">
-            <p align="justify"> "Menjadi Sekolah Menengah Kejuruan yang Berkarakter, Berbudaya, Berwawasan Lingkungan, Menghasilkan Insan yang Bertaqwa, Profesional Mampu Berwirausaha dan Berdaya Saing Global"
+            <p align="justify"> "Menjadi Sekolah Menengah Kejuruan yangBerkarakter,Berbudaya, Berwawasan Lingkungan, Menghasilkan Insan yang Bertaqwa, Profesional Mampu Berwirausaha dan Berdaya Saing Global"
             </p>
           </div>
             <ul>
@@ -168,6 +174,7 @@
   </main><!-- End #main -->
 
   <!-- ======= Footer ======= -->
+<<<<<<< HEAD
   <footer id="footer" class="footer bg-info">
 
     <div class="container">
@@ -240,6 +247,37 @@
 
   <!-- Template Main JS File -->
   <script src="assets/js/main.js"></script>
+=======
+  <footer id="footer" class="footer bg-light">
+
+<div class="container">
+  <div class="row gy-4">
+<div class="container mt-4">
+  <div class="copyright text-dark">
+    &copy; Website <strong><span>SMK BINA CENDEKIA CIREBON</span></strong>
+  </div>
+  <div class="credits">
+   <a class="text-dark"> Designed by <a href="https://bootstrapmade.com/" class="text-primary"> Devprogremer</a>
+  </div>
+</div>
+
+</footer><!-- End Footer -->
+
+<a href="#" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+<div id="preloader"></div>
+
+<!-- Vendor JS Files -->
+<script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
+<script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+<script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+<script src="assets/vendor/aos/aos.js"></script>
+<script src="assets/vendor/php-email-form/validate.js"></script>
+
+<!-- Template Main JS File -->
+<script src="assets/js/main.js"></script>
+>>>>>>> a617f04a6da7c7b1054f2805f2da77cc38e17a3c
 
 </body>
 

@@ -125,89 +125,118 @@
 
       </div>
     </section><!-- End About Section -->
-        <!-- ======= Services Section ======= -->
-        <section id="service" class="services pt-0">
+        
+ <!-- ======= Services Section ======= -->
+ <section id="service" class="services pt-0">
       <div class="container" data-aos="fade-up">
 
         <div class="section-header">
-          <h2>Kegiatan Asisten Keperawatan</h2>
+          <h2>Kegiatan Rekayasa Perangkat Lunak</h2>
         </div>
         <div class="row gy-4">
-          <div class="col-lg-6 col-md-5" data-aos="fade-up" data-aos-delay="100">
+          <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-delay="100">
             <div class="">
               <div class="card-img">
-                <img src="assets/img/ASKEP-1.jpeg" alt="" class="img-fluid">
+                <img src="assets/img/rpl1.jpeg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">12 maret 2022</a></h3>
-              <p align="justify">uji kompetensi keahlian (UKK) kelas 12 jurusan di SMK Bina Cendekia langsung di RS PERMATA</p>
-           
             </div>
           </div><!-- End Card Item -->
 
-          <div class="col-lg-6 col-md-5" data-aos="fade-up" data-aos-delay="200">
+          <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-delay="200">
             <div class="">
               <div class="card-img">
-                <img src="assets/img/ASKEP-2.jpeg" alt="" class="img-fluid">
+                <img src="assets/img/rpl2.jpeg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">12 maret 2022</a></h3>
-              <p align="justify">uji kompetensi keahlian (UKK) kelas 12 jurusan di SMK Bina Cendekia langsung di RS PERMATA</p>
             </div>
           </div><!-- End Card Item -->
 
           <div class="col-lg-4 col-md-4" data-aos="fade-up" data-aos-delay="300">
             <div class="">
               <div class="card-img">
-                <img src="assets/img/ASKEP-3.jpeg" alt="" class="img-fluid">
+                <img src="assets/img/rpl3.jpeg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">12 maret 2022</a></h3>
-              <p align="justify">uji kompetensi keahlian (UKK) kelas 12 jurusan di SMK Bina Cendekia langsung di RS PERMATA</p>
             </div>
           </div><!-- End Card Item -->
 
           <div class="col-lg-4 col-md-4" data-aos="fade-up" data-aos-delay="400">
             <div class="">
               <div class="card-img">
-                <img src="assets/img/askep4.jpeg" alt="" class="img-fluid">
+                <img src="assets/img/rpl4.jpeg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">18 januari 2022</a></h3>
-              <p align="justify">alumni SMK Bina Cendeki Cirebon lulus sekolah langsung kerja di rumah sakit permata cirebon</p>
-            </div>      
-</div>
-              </div>
+            </div>
           </div><!-- End Card Item -->
 
           <div class="col-lg-4 col-md-4" data-aos="fade-up" data-aos-delay="500">
             <div class="">
               <div class="card-img">
-                <img src="assets/img/ASKEP-6.jpeg" alt="" class="img-fluid">
+                <img src="assets/img/rpl5.jpeg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">12 maret 2022</a></h3>
-              <p align="justify">praktek Asisten Keperawatan</p>
-            </div>
+             </div>
           </div><!-- End Card Item -->
 
           <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-delay="600">
             <div class="">
               <div class="card-img">
-                <img src="assets/img/askep1.jpeg" alt="" class="img-fluid">
+                <img src="assets/img/rpl6.jpeg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">23 juli 2022</a></h3>
-              <p align="justify">juara 2 lomba kompetensi siswa (LKS) Bidang Health Dan Social Care Tingkat Provinsi Jawa Barat </p>
-            </div>
+             </div>
           </div><!-- End Card Item -->
 
           <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-delay="700">
             <div class="">
               <div class="card-img">
-                <img src="assets/img/askep2.jpeg" alt="" class="img-fluid">
+                <img src="assets/img/rpl7.jpeg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">03 agustus 2022</a></h3>
-              <p align="justify">lomba LKS tingkat provinsi jawa barat.cirebon dalam live dengan mata lomba "Health social and care"</p>
+              </div>
+          </div><!-- End Card Item -->
+
+          <div class="col-lg-4 col-md-4" data-aos="fade-up" data-aos-delay="800">
+            <div class="">
+              <div class="card-img">
+                <img src="assets/img/rpl8.jpeg" alt="" class="img-fluid">
+              </div>
+              </div>
+          </div><!-- End Card Item -->
+
+          <div class="col-lg-4 col-md-4" data-aos="fade-up" data-aos-delay="900">
+            <div class="">
+              <div class="card-img">
+                <img src="assets/img/rpl8.jpeg" alt="" class="img-fluid">
+              </div>
+            
+              </div>
+          </div><!-- End Card Item -->
+
+          <div class="col-lg-4 col-md-4" data-aos="fade-up" data-aos-delay="1000">
+            <div class="">
+              <div class="card-img">
+                <img src="assets/img/rpl4.jpeg" alt="" class="img-fluid">
+              </div>
+             
             </div>
-         </div><!-- End Card Item -->
+          </div><!-- End Card Item -->
+
+          <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-delay="1200">
+            <div class="">
+              <div class="card-img">
+                <img src="assets/img/rpl5.jpeg" alt="" class="img-fluid">
+              </div>
+             
+            </div>
+          </div><!-- End Card Item -->
+
+          <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-delay="1300">
+            <div class="">
+              <div class="card-img">
+                <img src="assets/img/rpl6.jpeg" alt="" class="img-fluid">
+              </div>
+            </div>
+          </div><!-- End Card Item -->
+
 
     </main><!-- End #main -->
 
+<<<<<<< HEAD
   <!-- ======= Footer ======= -->
   <footer id="footer" class="footer bg-info">
 
@@ -266,6 +295,25 @@
 
   </footer><!-- End Footer -->
   <!-- End Footer -->
+=======
+   <!-- ======= Footer ======= -->
+   <footer id="footer" class="footer bg-light">
+
+<div class="container">
+  <div class="row gy-4">
+<div class="container mt-4">
+  <div class="copyright text-dark">
+    &copy; Website <strong><span>SMK BINA CENDEKIA CIREBON</span></strong>
+  </div>
+  <div class="credits">
+   <a class="text-dark"> Designed by <a href="https://bootstrapmade.com/" class="text-primary"> Devprogremer</a>
+  </div>
+</div>
+
+</footer><!-- End Footer -->
+<!-- End Footer -->
+
+>>>>>>> a617f04a6da7c7b1054f2805f2da77cc38e17a3c
 
   <a href="#" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
 
