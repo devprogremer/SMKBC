@@ -114,8 +114,8 @@
           <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right" data-aos-delay="100">
           <div class="section-title">
           <h2 class="fst-italic text-bold">
-          <h2> RPL (Rekayasa Perangkat Lunak)</h2>
-          <p>SMK Bina Cendekia Cirebon </p>
+          <h3> RPL (Rekayasa Perangkat Lunak)</h3>
+          <strong><i><p>SMK Bina Cendekia Cirebon </p>
         </div>
             <ul>
           <br>Membekali peserta didik dengan ketrampilan,pengetahuan sikap agar kompeten menginstalasi software aplikasi,mengoperasikan software,mrawat software aplikasi dan mengelola di bidang pembuatan softaware aplikasi.</br>

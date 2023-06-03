@@ -115,8 +115,8 @@
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right" data-aos-delay="100">
           <div class="section-title">
-          <h2>ASKEP (Asisten Keperawatan)</h2>
-          <p>SMK Bina Cendekia Cirebon </p>
+          <h3>ASKEP (Asisten Keperawatan)</h3>
+          <em><i><p>SMK Bina Cendekia Cirebon </p>
         </div>
             <ul>
           <br>Membekali peserta didik dengan ketrampilan,pengetahuan dan sikap agar kompeten agar di bidang merawat baik individu/ sendiri,keluarga,dll.serat memelihara dan dapat menyembuhkan.</br>
@@ -236,47 +236,50 @@
 
     </main><!-- End #main -->
 
-<<<<<<< HEAD
-  <!-- ======= Footer ======= -->
-  <footer id="footer" class="footer bg-info">
+ <!-- ======= Footer ======= -->
 
+ <strong><i><footer id="footer" class="footer bg-light">
     <div class="container">
       <div class="row gy-4">
-        <div class="col-lg-5 col-md-12 footer-info">
-          <a href="index.php" class="logo d-flex align-items-center">
-            <span>ALAMAT</span>
-          </a>
-          <p>Jl. KH Wahid HasyimDesa. Mertapada Wetan Kecanatan. Astanajapura Kabupaten. Cirebon Jawa Barat 45181
-         <br> Phone: 0231 8845465<br>Email: smkbinacendekiacirebona@gmail.com
-          </p>
-          <div class="social-links d-flex mt-4">
+        <div class="col-lg-4 col-md-6 footer-info" data-aos="fade-up" data-aos-delay="400">
+          <img  data-aos="fade-up" data-aos-delay="400" class="fw-bolder" src="assets/img/ko.png" style="width:180px;" alt="Logo Smk Bina Cendekia">
+          <p align="justify"  data-aos="fade-up" data-aos-delay="400" class="fst-italic text-dark pt-2"> SMK Bina Cendekia Cirebon sekolah industri Berbasis pesantren, sekolah kami sekolah PK dengan fasilitas yang mencukupi. </p>
+               </p>
+          <div class="social-links d-flex mt-2">
+            </div>
+        </div>
+
+        <div class="col-lg-2 col-4 footer-links text-info" data-aos="fade-up" data-aos-delay="400" class="fw-bolder">
+          <h4 class="fw-bold">Menu Utama</h4>
+          <ul>
+            <li><a class="text-black" href=""><i class="bi bi-chevron-right"></i>Beranda</a></li>
+            <li><a class="text-black" href=""><i class="bi bi-chevron-right"></i>Tentang Kami</a></li>
+            <li><a class="text-black" href=""><i class="bi bi-chevron-right"></i>Program</a></li>
+            <li><a class="text-black" href=""><i class="bi bi-chevron-right"></i>Ppdb</a></li>
+            <li><a class="text-black" href=""><i class="bi bi-chevron-right"></i>Contact</a></li>
+          </ul>
+        </div>
+
+        <div class="col-lg-2 col-4 footer-links text-info" data-aos="fade-up" data-aos-delay="400" class="fw-bolder">
+          <h4 class="fw-bold">The Links We Visit</h4>
+          <ul>
+            <li><a class="text-black" href="https://getbootstrap.com/"><i class="bi bi-chevron-right"></i>Boootstrap</a></li>
+            <li><a class="text-black" href="https://fontawesome.com/"><i class="bi bi-chevron-right"></i>Font Awesome Fonts</a></li>
+            <li><a class="text-black" href="https://www.niagahoster.co.id/"><i class="bi bi-chevron-right"></i>Niagahoster</a></li>
+            <li><a class="text-black" href="https://www.malasngoding.com/"><i class="bi bi-chevron-right"></i>Malasngoding</a></li>
+            <li><a class="text-black" href="https://www.aos.co.id/"><i class="bi bi-chevron-right"></i>Aos</a></li>
+          </ul>
+        </div>
+
+        <div class="col-lg-4 col-4 footer-links text-info" data-aos="fade-up" data-aos-delay="400" class="fw-bolder">
+        <h4 class="fw-bold">Sosial Media</h4>
+        <div class="social-links d-flex mt-2">
             <a href="https://youtube.com/@smkbinacendekiacirebonoffi3039" class="Youtube bg-danger"><i class="bi bi-play-btn-fill"></i></a>
             <a href="https://www.facebook.com/profile.php?id=100009648338366" class="facebook bg-primary"><i class="bi bi-facebook"></i></a>
-            <a href="https://instagram.com/smkbinacendekia?igshid=OGQ2MjdiOTE=" class="instagram "><i class="bi bi-instagram"></i></a>
+            <a href="https://instagram.com/smkbinacendekia?igshid=OGQ2MjdiOTE=" class="instagram bg-warning"><i class="bi bi-instagram"></i></a>
             <a href="https://www.tiktok.com/@smkbinacendekiacirebon?_r=1&_d=dkgebdh40m7l26&language=id&sec_uid=MS4wLjABAAAAYRFN2ZlU0y_HKAnDd33Qg3ZBMFmqtm7-Py0AkhltELueBlrfbxgyAwwWwajHbl7f&share_author_id=6933598016310592513&source=h5_t&timestamp=1674875179&utm_source=copy&utm_campaign=client_share&utm_medium=android&share_iid=7188303969302906650&share_link_id=648d57dd-9a99-4dda-bcc8-6f59b17706c7&share_app_id=1180&ugbiz_name=Account&ug_btm=b6880%2Cb2878" class="TikTok bg-dark"><i class="bi bi-tiktok"></i></a>
           </div>
-        </div>
-
-        <div class="col-lg-2 col-6 footer-links">
-          <h4>Useful Links</h4>
-          <ul>
-            <li><a href="">Beranda</a></li>
-            <li><a href="">Tentang Kami</a></li>
-            <li><a href="">Program</a></li>
-            <li><a href="">Ppdb</a></li>
-            <li><a href="">Contact</a></li>
-          </ul>
-        </div>
-
-        <div class="col-lg-2 col-6 footer-links">
-          <h4>The links we visit</h4>
-          <ul>
-            <li><a href="https://getbootstrap.com/">Boootstrap</a></li>
-            <li><a href="https://fontawesome.com/">Font Awesome Fonts</a></li>
-            <li><a href="https://www.niagahoster.co.id/">Niagahoster</a></li>
-            <li><a href="https://www.malasngoding.com/">Malasngoding</a></li>
-            <li><a href="https://www.aos.co.id/">Aos</a></li>
-          </ul>
+          <p align="justify"  data-aos="fade-up" data-aos-delay="400" class="fst-italic text-dark pt-4"> Cari Tahu dan Kenali Lebih Dekat dengan Kami Melalui Sosial Media Kami, Infromasi Lebih Lengkap Ada Disosial Media Kami. </p>
         </div>
 
         </div>
@@ -284,36 +287,17 @@
       </div>
     </div>
 
-    <div class="container mt-4">
-      <div class="copyright">
+        <div class="container mt-4">
+      <div class="copyright text-dark">
         &copy; Copyright <strong><span>SMK BINA CENDEKIA CIREBON</span></strong>
       </div>
       <div class="credits">
-        Designed by <a href="https://web.facebook.com/profile.php?id=100089766366337" class="text-warning"> Devprogremer</a>
+        <a class="text-dark">Designed by <a href="https://web.facebook.com/profile.php?id=100089766366337" class="text-primary"> Devprogremer</a>
       </div>
     </div>
-
+    </div>
   </footer><!-- End Footer -->
   <!-- End Footer -->
-=======
-   <!-- ======= Footer ======= -->
-   <footer id="footer" class="footer bg-light">
-
-<div class="container">
-  <div class="row gy-4">
-<div class="container mt-4">
-  <div class="copyright text-dark">
-    &copy; Website <strong><span>SMK BINA CENDEKIA CIREBON</span></strong>
-  </div>
-  <div class="credits">
-   <a class="text-dark"> Designed by <a href="https://bootstrapmade.com/" class="text-primary"> Devprogremer</a>
-  </div>
-</div>
-
-</footer><!-- End Footer -->
-<!-- End Footer -->
-
->>>>>>> a617f04a6da7c7b1054f2805f2da77cc38e17a3c
 
   <a href="#" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
 

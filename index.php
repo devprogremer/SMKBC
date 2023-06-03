@@ -37,7 +37,7 @@
 <body>
 
   <!-- ======= Header ======= -->
-  <header id="header" class="p-0 mb-1 bg-info text-white fixed-padding">
+  <header id="header" class="p-0 mb-1 bg-primary text-white fixed-padding">
     <div class="container-fluid container-xl d-flex align-items-center justify-content-between ">
 
     <a href="" class="navbar-brand">
@@ -50,9 +50,9 @@
       <i class="mobile-nav-toggle mobile-nav-hide d-none bi bi-x"></i>
       <nav id="navbar" class="navbar bg-primary">
          <ul>
-          <li class="bg-info text-light"><a href="index.php" class="active" class="bi bi-">Beranda</a></li>
+          <li class="bg-primary text-light"><a href="index.php" class="active">Beranda</a></li>
           <ul>
-              <li class="dropdown bg-info"><a href="#"><span>Tentang Kami</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
+              <li class="dropdown bg-primary"><a href="#"><span class="bi bi-">Tentang Kami</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
                 <ul>
                   <li><a href="profil.php">Profil Sekolah</a></li>
                   <li><a href="sambutan.php">Sambutan Kepsek</a></li>
@@ -68,22 +68,22 @@
                 </li>
                 </ul>
                 </li>
-            <li class="bg-info text-light dropdown"><a href="#"><span>Program</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
+            <li class="dropdown"><a href="#"><span>Program</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
             <ul>
             <li class="dropdown"><a href="#"><span>Program Studi</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
                 <ul>
                   <li><a href="RPL.php">RPL (Rekayasa Perangkat Lunak)</a></li>
-                  <li><a href="TABUS.php">TABUS (Tata Busana)</a></li>
+                  <li><a href="STI.php">STI (Samsung Tech Institute)</a></li>
                   <li><a href="ASKEP.php">ASKEP (Asisten Keperawatan)</a></li>
                   <li><a href="TBO.php">TBO(Teknik Bodi Otomotif)</a></li>
-                  <li><a href="STI.php">STI (Samsung Tech Institute)</a></li>
+                  <li><a href="TABUS.php">TABUS(Tata Busana)</a></li>
                   <li><a href="DKV.php">DKV(Desain Komunikasi Visual)</a></li>
                   </ul>
               </li>
-              <li class="bg-info text-light dropdown"><a href="#"><span>Kegiatan</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
+              <li class="dropdown"><a href="#"><span>Kegiatan</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
                 <ul>
                   <li><a href="ekstrakurikuler.php">Ekstrakurikuler</a></li>
-                  <li><a href="bahasa.php"></a></li>
+                  <li><a href="bahasa.php">Bulan Bahasa</a></li>
                   <li><a href="maulid.php">Maulid Nabi Muhammad</a></li>
                   <li><a href="porak.php">Porak</a></li>
                   <li><a href="agustus.php">HUT RI 17 Agustus</a></li>
@@ -94,17 +94,18 @@
                 </ul>
               </li>
           </li>
-              <li class="bg-info text-light dropdown"><a href="#"><span>PPDB</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
+              <li class="dropdown"><a href="#"><span>PPDB</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
             <ul>
               <li><a href="informasi.php">Informasi Pendaftaran</a></li>
               </ul>
-          <li class="bg-info text-light dropdown"> <a href="contact.php">Contact</a></li>
-          <li class="bg-info text-light dropdown"> <a href="cek_login.php">Login</a></li>
+          <li><a href="contact.php">Contact</a></li>
+          <li><a class="get-a-quote bg-light text-dark" href="cek_login.php">Login</a></li>
         </ul>
       </nav><!-- .navbar -->
-
-    </div>
+</div>
   </header><!-- End Header -->
+ 
+  
     
   <main id="main">
 
@@ -489,12 +490,8 @@
   </main><!-- End #main -->
 
   <!-- ======= Footer ======= -->
-<<<<<<< HEAD
-  <footer id="footer" class="footer bg-info">
-=======
-  <footer id="footer" class="footer bg-light">
->>>>>>> a617f04a6da7c7b1054f2805f2da77cc38e17a3c
 
+  <strong><i><footer id="footer" class="footer bg-light">
     <div class="container">
       <div class="row gy-4">
         <div class="col-lg-4 col-md-6 footer-info" data-aos="fade-up" data-aos-delay="400">
@@ -508,22 +505,22 @@
         <div class="col-lg-2 col-4 footer-links text-dark" data-aos="fade-up" data-aos-delay="400" class="fw-bolder">
           <h4 class="fw-bold">Menu Utama</h4>
           <ul>
-            <li><a class="text-primary" href=""><i class="bi bi-chevron-right"></i>Beranda</a></li>
-            <li><a class="text-primary" href=""><i class="bi bi-chevron-right"></i>Tentang Kami</a></li>
-            <li><a class="text-primary" href=""><i class="bi bi-chevron-right"></i>Program</a></li>
-            <li><a class="text-primary" href=""><i class="bi bi-chevron-right"></i>Ppdb</a></li>
-            <li><a class="text-primary" href=""><i class="bi bi-chevron-right"></i>Contact</a></li>
+            <li><a class="text-black" href=""><i class="bi bi-chevron-right"></i>Beranda</a></li>
+            <li><a class="text-black" href=""><i class="bi bi-chevron-right"></i>Tentang Kami</a></li>
+            <li><a class="text-black" href=""><i class="bi bi-chevron-right"></i>Program</a></li>
+            <li><a class="text-black" href=""><i class="bi bi-chevron-right"></i>Ppdb</a></li>
+            <li><a class="text-black" href=""><i class="bi bi-chevron-right"></i>Contact</a></li>
           </ul>
         </div>
 
         <div class="col-lg-2 col-4 footer-links text-dark" data-aos="fade-up" data-aos-delay="400" class="fw-bolder">
           <h4 class="fw-bold">The Links We Visit</h4>
           <ul>
-            <li><a class="text-primary" href="https://getbootstrap.com/"><i class="bi bi-chevron-right"></i>Boootstrap</a></li>
-            <li><a class="text-primary" href="https://fontawesome.com/"><i class="bi bi-chevron-right"></i>Font Awesome Fonts</a></li>
-            <li><a class="text-primary" href="https://www.niagahoster.co.id/"><i class="bi bi-chevron-right"></i>Niagahoster</a></li>
-            <li><a class="text-primary" href="https://www.malasngoding.com/"><i class="bi bi-chevron-right"></i>Malasngoding</a></li>
-            <li><a class="text-primary" href="https://www.aos.co.id/"><i class="bi bi-chevron-right"></i>Aos</a></li>
+            <li><a class="text-black" href="https://getbootstrap.com/"><i class="bi bi-chevron-right"></i>Boootstrap</a></li>
+            <li><a class="text-black" href="https://fontawesome.com/"><i class="bi bi-chevron-right"></i>Font Awesome Fonts</a></li>
+            <li><a class="text-black" href="https://www.niagahoster.co.id/"><i class="bi bi-chevron-right"></i>Niagahoster</a></li>
+            <li><a class="text-black" href="https://www.malasngoding.com/"><i class="bi bi-chevron-right"></i>Malasngoding</a></li>
+            <li><a class="text-black" href="https://www.aos.co.id/"><i class="bi bi-chevron-right"></i>Aos</a></li>
           </ul>
         </div>
 

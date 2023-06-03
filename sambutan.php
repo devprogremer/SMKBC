@@ -31,14 +31,8 @@
 
 </head>
 <body>
-
-<<<<<<< HEAD
-<!-- ======= Header ======= -->
-<header id="header" class="p-0 mb-1 bg-info text-white fixed-padding">
-=======
-  <!-- ======= Header ======= -->
-  <header id="header" class="p-0 mb-1 bg-primary text-white fixed-padding">
->>>>>>> a617f04a6da7c7b1054f2805f2da77cc38e17a3c
+ <!-- ======= Header ======= -->
+ <header id="header" class="p-0 mb-1 bg-primary text-white fixed-padding">
     <div class="container-fluid container-xl d-flex align-items-center justify-content-between ">
 
     <a href="" class="navbar-brand">
@@ -51,15 +45,9 @@
       <i class="mobile-nav-toggle mobile-nav-hide d-none bi bi-x"></i>
       <nav id="navbar" class="navbar bg-primary">
          <ul>
-<<<<<<< HEAD
-          <li class="bg-info text-light"><a href="index.php" class="active" class="bi bi-">Beranda</a></li>
-          <ul>
-              <li class="dropdown bg-info"><a href="#"><span>Tentang Kami</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
-=======
-          <li class="bg-primary text-light"><a href="index.php"class="bi bi-">Beranda</a></li>
+          <li class="bg-primary text-light"><a href="index.php" class="bi bi-">Beranda</a></li>
           <ul>
               <li class="dropdown bg-primary"><a href="#"><span class="active">Tentang Kami</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
->>>>>>> a617f04a6da7c7b1054f2805f2da77cc38e17a3c
                 <ul>
                   <li><a href="profil.php">Profil Sekolah</a></li>
                   <li><a href="sambutan.php">Sambutan Kepsek</a></li>
@@ -75,7 +63,7 @@
                 </li>
                 </ul>
                 </li>
-            <li class="bg-info text-light dropdown"><a href="#"><span>Program</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
+            <li class="dropdown"><a href="#"><span>Program</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
             <ul>
             <li class="dropdown"><a href="#"><span>Program Studi</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
                 <ul>
@@ -87,7 +75,7 @@
                   <li><a href="DKV.php">DKV(Desain Komunikasi Visual)</a></li>
                   </ul>
               </li>
-              <li class="bg-info text-light dropdown"><a href="#"><span>Kegiatan</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
+              <li class="dropdown"><a href="#"><span>Kegiatan</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
                 <ul>
                   <li><a href="ekstrakurikuler.php">Ekstrakurikuler</a></li>
                   <li><a href="bahasa.php">Bulan Bahasa</a></li>
@@ -101,24 +89,22 @@
                 </ul>
               </li>
           </li>
-              <li class="bg-info text-light dropdown"><a href="#"><span>PPDB</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
+              <li class="dropdown"><a href="#"><span>PPDB</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
             <ul>
               <li><a href="informasi.php">Informasi Pendaftaran</a></li>
               </ul>
-          <li class="bg-info text-light dropdown"> <a href="contact.php">Contact</a></li>
-          <li<a class="bg-info text-light dropdown"> <a href="cek_login.php">Login</a></li>
+          <li><a href="contact.php">Contact</a></li>
+          <li><a class="get-a-quote bg-light text-dark" href="cek_login.php">Login</a></li>
         </ul>
       </nav><!-- .navbar -->
-    </div>
+</div>
   </header><!-- End Header -->
+ 
 
      <!-- ======= Horizontal Pricing Section ======= -->
      <section id="feature" class="feature pt-0">
       <div class="container" data-aos="fade-up">
 
-<<<<<<< HEAD
-    
- 
     <section id="about" class="about">
       <div class="container" data-aos="fade-up">
 
@@ -132,7 +118,7 @@
           <h3 class="fst-italic"> Sambutan Kepala Sekolah :</h3>
         </div>
             <ul>
-          <p align="justify" class="fst-italic" >Assalamualaikum wr WB
+         <strong> <p align="justify" class="fst-italic" >Assalamualaikum wr WB
     Saya Ade Rahmat Saputra MP,d Saya kepala sekolah SMK Bina Cendekia Cirebon,puji syukur Alhamdulillah 
     Kami SMK Bina Cendekia Cirebon sepakat salah satu sekolah menerima bantuan gibah dalam bantuan program  pusat keunggulan sektor ekonomi kreatif jurusan rekaya perangkat melalui program melalui program ini kami sangat membantu untuk mewujudkan perubahan yang lebih baru,kami telah melaksanakan penyalaksanaan kurikulum yang sesuai kebutuhan dunia pekerja serta berkembangnya sarana prasana di sekolah kami yang menunjang proses kegiatan kamu siswa sehingga menghasilkan kalobarisi untuk dunia induka
     Untuk penerapan jurusan  yang kompeten dan siap kerja dalam skema permadana di bidang dunia kerja industri SMK Bina Cendekia Cirebon menggandeng perusahaan dan komunitas  nelkom Indonesia memilki program yaitu
@@ -156,124 +142,83 @@
 
 </main><!-- End #main -->
 
-  <!-- ======= Footer ======= -->
-  <footer id="footer" class="footer bg-info">
+ <!-- ======= Footer ======= -->
 
+ <strong><i><footer id="footer" class="footer bg-light">
     <div class="container">
       <div class="row gy-4">
-        <div class="col-lg-5 col-md-12 footer-info">
-          <a href="index.php" class="logo d-flex align-items-center">
-            <span>ALAMAT</span>
-          </a>
-          <p>Jl. KH Wahid HasyimDesa. Mertapada Wetan Kecanatan. Astanajapura Kabupaten. Cirebon Jawa Barat 45181
-         <br> Phone: 0231 8845465<br>Email: smkbinacendekiacirebona@gmail.com
-          </p>
-          <div class="social-links d-flex mt-4">
+        <div class="col-lg-4 col-md-6 footer-info" data-aos="fade-up" data-aos-delay="400">
+          <img  data-aos="fade-up" data-aos-delay="400" class="fw-bolder" src="assets/img/ko.png" style="width:180px;" alt="Logo Smk Bina Cendekia">
+          <p align="justify"  data-aos="fade-up" data-aos-delay="400" class="fst-italic text-dark pt-2"> SMK Bina Cendekia Cirebon sekolah industri Berbasis pesantren, sekolah kami sekolah PK dengan fasilitas yang mencukupi. </p>
+               </p>
+          <div class="social-links d-flex mt-2">
+            </div>
+        </div>
+
+        <div class="col-lg-2 col-4 footer-links text-info" data-aos="fade-up" data-aos-delay="400" class="fw-bolder">
+          <h4 class="fw-bold">Menu Utama</h4>
+          <ul>
+            <li><a class="text-black" href=""><i class="bi bi-chevron-right"></i>Beranda</a></li>
+            <li><a class="text-black" href=""><i class="bi bi-chevron-right"></i>Tentang Kami</a></li>
+            <li><a class="text-black" href=""><i class="bi bi-chevron-right"></i>Program</a></li>
+            <li><a class="text-black" href=""><i class="bi bi-chevron-right"></i>Ppdb</a></li>
+            <li><a class="text-black" href=""><i class="bi bi-chevron-right"></i>Contact</a></li>
+          </ul>
+        </div>
+
+        <div class="col-lg-2 col-4 footer-links text-info" data-aos="fade-up" data-aos-delay="400" class="fw-bolder">
+          <h4 class="fw-bold">The Links We Visit</h4>
+          <ul>
+            <li><a class="text-black" href="https://getbootstrap.com/"><i class="bi bi-chevron-right"></i>Boootstrap</a></li>
+            <li><a class="text-black" href="https://fontawesome.com/"><i class="bi bi-chevron-right"></i>Font Awesome Fonts</a></li>
+            <li><a class="text-black" href="https://www.niagahoster.co.id/"><i class="bi bi-chevron-right"></i>Niagahoster</a></li>
+            <li><a class="text-black" href="https://www.malasngoding.com/"><i class="bi bi-chevron-right"></i>Malasngoding</a></li>
+            <li><a class="text-black" href="https://www.aos.co.id/"><i class="bi bi-chevron-right"></i>Aos</a></li>
+          </ul>
+        </div>
+
+        <div class="col-lg-4 col-4 footer-links text-info" data-aos="fade-up" data-aos-delay="400" class="fw-bolder">
+        <h4 class="fw-bold">Sosial Media</h4>
+        <div class="social-links d-flex mt-2">
             <a href="https://youtube.com/@smkbinacendekiacirebonoffi3039" class="Youtube bg-danger"><i class="bi bi-play-btn-fill"></i></a>
             <a href="https://www.facebook.com/profile.php?id=100009648338366" class="facebook bg-primary"><i class="bi bi-facebook"></i></a>
-            <a href="https://instagram.com/smkbinacendekia?igshid=OGQ2MjdiOTE=" class="instagram "><i class="bi bi-instagram"></i></a>
+            <a href="https://instagram.com/smkbinacendekia?igshid=OGQ2MjdiOTE=" class="instagram bg-warning"><i class="bi bi-instagram"></i></a>
             <a href="https://www.tiktok.com/@smkbinacendekiacirebon?_r=1&_d=dkgebdh40m7l26&language=id&sec_uid=MS4wLjABAAAAYRFN2ZlU0y_HKAnDd33Qg3ZBMFmqtm7-Py0AkhltELueBlrfbxgyAwwWwajHbl7f&share_author_id=6933598016310592513&source=h5_t&timestamp=1674875179&utm_source=copy&utm_campaign=client_share&utm_medium=android&share_iid=7188303969302906650&share_link_id=648d57dd-9a99-4dda-bcc8-6f59b17706c7&share_app_id=1180&ugbiz_name=Account&ug_btm=b6880%2Cb2878" class="TikTok bg-dark"><i class="bi bi-tiktok"></i></a>
           </div>
-        </div>
-
-        <div class="col-lg-2 col-6 footer-links">
-          <h4>Useful Links</h4>
-          <ul>
-            <li><a href="">Beranda</a></li>
-            <li><a href="">Tentang Kami</a></li>
-            <li><a href="">Program</a></li>
-            <li><a href="">Ppdb</a></li>
-            <li><a href="">Contact</a></li>
-          </ul>
-        </div>
-
-        <div class="col-lg-2 col-6 footer-links">
-          <h4>The links we visit</h4>
-          <ul>
-            <li><a href="https://getbootstrap.com/">Boootstrap</a></li>
-            <li><a href="https://fontawesome.com/">Font Awesome Fonts</a></li>
-            <li><a href="https://www.niagahoster.co.id/">Niagahoster</a></li>
-            <li><a href="https://www.malasngoding.com/">Malasngoding</a></li>
-            <li><a href="https://www.aos.co.id/">Aos</a></li>
-          </ul>
+          <p align="justify"  data-aos="fade-up" data-aos-delay="400" class="fst-italic text-dark pt-4"> Cari Tahu dan Kenali Lebih Dekat dengan Kami Melalui Sosial Media Kami, Infromasi Lebih Lengkap Ada Disosial Media Kami. </p>
         </div>
 
         </div>
 
-=======
-        <div class="section-header mt-4">
-          <span>SMK BINA CENDEKIA CIREBON</span>
-          <h2>Sambutan Kepala Sekolah</h2>
-        </div>
-        <div class="row gy-4 pricing-item mt-0" data-aos="fade-up" data-aos-delay="300">
-          <div class="col-lg-6 d-flex align-items-center justify-content-center">
-          <center><img src="assets/img/yy.png" class="img-fluid" alt="">
-          </div>
-          <div class="col-lg-6 d-flex align-items-center justify-content-center">
-            <ul>
-            <h6 class="fst-italic">
-            <p align="justify" class="fst-italic" >Assalamualaikum wr WB
-Saya Ade Rahmat Saputra MP,d Saya kepala sekolah SMK Bina Cendekia Cirebon,puji syukur Alhamdulillah 
- Kami SMK Bina Cendekia Cirebon sepakat salah satu sekolah menerima bantuan gibah dalam bantuan program  pusat keunggulan sektor ekonomi kreatif jurusan rekaya perangkat melalui program melalui program ini kami sangat membantu untuk mewujudkan perubahan yang lebih baru,kami telah melaksanakan penyalaksanaan kurikulum yang sesuai kebutuhan dunia pekerja serta berkembangnya sarana prasana di sekolah kami yang menunjang proses kegiatan kamu siswa sehingga menghasilkan kalobarisi untuk dunia induka
-Untuk penerapan jurusan  yang kompeten dan siap kerja dalam skema permadana di bidang dunia kerja industri SMK Bina Cendekia Cirebon menggandeng perusahaan dan komunitas  nelkom Indonesia memilki program yaitu
-<br>1. Training yaitu berfokus pembekalan trainen untuk setiap menjalankan SMK PK permadana tainen menyampaikan langsung Tenen.
-<br>2. Sepleni yaitu program berfokus untuk membentukan fasilitas digital funamental dari SMKnya sendiri.
-<br>3. viatur  xpcc yaitu berfokus penikasan skil tiga dimensi kreator bagi siswa SMK 
-<br>4. projek manajemen yaitu program pelatihan penerapan projek agar mencapai gol dalam jangka waktu terukur.
-<br>5. Desain sprit yaitu metode mendepankan proses ciptakan sebuah ide produk.
-<br>6. ritul export renovasi yaitu menampilkan hasil karya sekaligus portofolio siswa SMP dengan program-program yang luar biasa ini yang di siapkan dari perusahaan telepon Indonesia dapat menjadikan telenta digital dari lulusan Siswa-Siswi SMK Bina Cendekia.
-Setelah program-program ini tuntas dilakukan dalam menunjang  pelaksanaan teaching factory yang ada di SMK Bina Cendekia Cirebon Rusia jurusan rekayasa perangkat lunak dapat menghasilkan produk smart phone, smart, smart LG culture atau Gren house web aplikasi berbasis android dan metal.</p>
-      
-            </h6> 
-            </ul>
-          </div>
-          
-        </div><!-- End Pricing Item -->
->>>>>>> a617f04a6da7c7b1054f2805f2da77cc38e17a3c
       </div>
- 
-      <!-- ======= Footer ======= -->
-   <footer id="footer" class="footer bg-white">
+    </div>
 
-<<<<<<< HEAD
-    <div class="container mt-4">
-      <div class="copyright">
+        <div class="container mt-4">
+      <div class="copyright text-dark">
         &copy; Copyright <strong><span>SMK BINA CENDEKIA CIREBON</span></strong>
       </div>
       <div class="credits">
-        Designed by <a href="https://web.facebook.com/profile.php?id=100089766366337" class="text-warning"> Devprogremer</a>
+        <a class="text-dark">Designed by <a href="https://web.facebook.com/profile.php?id=100089766366337" class="text-primary"> Devprogremer</a>
       </div>
     </div>
-=======
-<div class="container">
-  <div class="row gy-4">
-<div class="container mt-4">
-  <div class="copyright text-dark">
-    &copy; Website <strong><span>SMK BINA CENDEKIA CIREBON</span></strong>
-  </div>
-  <div class="credits">
-   <a class="text-dark"> Designed by <a href="https://bootstrapmade.com/" class="text-primary"> Devprogremer</a>
-  </div>
-</div>
->>>>>>> a617f04a6da7c7b1054f2805f2da77cc38e17a3c
+    </div>
+  </footer><!-- End Footer -->
+  <!-- End Footer -->
 
-</footer><!-- End Footer -->
+  <a href="#" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
 
+  <div id="preloader"></div>
 
-<a href="#" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
+  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="assets/vendor/aos/aos.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
 
-<div id="preloader"></div>
-
-<!-- Vendor JS Files -->
-<script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-<script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
-<script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
-<script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
-<script src="assets/vendor/aos/aos.js"></script>
-<script src="assets/vendor/php-email-form/validate.js"></script>
-
-<!-- Template Main JS File -->
-<script src="assets/js/main.js"></script>
+  <!-- Template Main JS File -->
+  <script src="assets/js/main.js"></script>
 
 </body>
 

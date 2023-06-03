@@ -114,8 +114,8 @@
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right" data-aos-delay="100">
           <div class="section-title">
-          <h2>DKV (Desain Komunikasi Visual)</h2>
-          <p>SMK Bina Cendekia Cirebon </p>
+          <h3>DKV (Desain Komunikasi Visual)</h3>
+          <em><b><p>SMK Bina Cendekia Cirebon </p>
         </div>
             <ul> 
           <br>DKV adalah cabang ilmu desain. Di jurusan ini, siswa belajar konsep komunikasi dan ungkapan kreatif dengan menggunakan berbagai elemen visual untuk menyampaikan pesan. Dengan gambar visual,siswa belajar menyampaikan pesan secara informatif, efektif, dan komunikatif.</br>

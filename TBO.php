@@ -115,8 +115,8 @@
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right" data-aos-delay="100">
           <div class="section-title">
-          <h2>TBO (Teknik Bodi Otomotif)</h2>
-          <p>SMK Bina Cendekia Cirebon </p>
+          <h3>TBO (Teknik Bodi Otomotif)</h3>
+         <em><strong> <p>SMK Bina Cendekia Cirebon </p>
         </div>
             <ul>
           <br>Membekali peserta didik dengan ketrampilan,pengetahuan dan sikap,agar kompeten bidang teknik bodi otomotif,baik pebaikan panel dan pengecatan bodi maupun pemeliharaan dan perbaikan interior otomotif </br>

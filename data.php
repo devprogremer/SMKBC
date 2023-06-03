@@ -1308,7 +1308,7 @@
 
   </main><!-- End #main -->
 
-<<<<<<< HEAD
+
    <!-- ======= Footer ======= -->
    <footer id="footer" class="footer bg-info">
 
@@ -1367,7 +1367,7 @@
 
 </footer><!-- End Footer -->
 
->>>>>>> a617f04a6da7c7b1054f2805f2da77cc38e17a3c
+
 
     </div>
 
